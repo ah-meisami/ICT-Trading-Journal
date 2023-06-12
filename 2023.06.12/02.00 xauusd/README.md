@@ -1,0 +1,1 @@
+[TradingView link] (https://www.tradingview.com/x/Jr311fvd/)
