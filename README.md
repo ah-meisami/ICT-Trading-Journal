@@ -1,6 +1,6 @@
-# ICT-Trading-Journal
+# ICT-Trading-Journal \
 
-ɪᴄᴛ ᴛᴇʀᴍɪɴᴏʟᴏɢʏ
+ɪᴄᴛ ᴛᴇʀᴍɪɴᴏʟᴏɢʏ\
 ADR: Average Daily Range
 AMD: Accumulation Manipulation Distribution
 ATR: Average True Range
