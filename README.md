@@ -58,6 +58,6 @@ Void: Liquidity Void Gap
 VI: Volume Imbalance  
 WO: Weekly Open  
 
-#Tips
+#Tips  
 What Is a Zero-Sum Game? [https://www.investopedia.com/terms/z/zero-sumgame.asp]  
 Chaos: The Science of the Butterfly Effect [https://www.youtube.com/watch?v=fDek6cYijxI]  
