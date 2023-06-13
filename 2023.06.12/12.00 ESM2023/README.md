@@ -17,6 +17,8 @@ My #AnnotatedChart on #MT4
 3.us30  
   3.1. [https://www.mql5.com/en/charts/17742075/us30-m23-m1-windsor-solutions-ltd]
   3.2. [https://www.mql5.com/en/charts/17742089/us30-m23-m1-windsor-solutions-ltd]
-
+4.forex
+  4.1. dxy [https://www.tradingview.com/x/ndyX5cww/]
+  4.2. eurusd [https://www.tradingview.com/x/Ph8DhgL5/]
 
 Rollover... [https://twitter.com/I_Am_The_ICT/status/1668299770073427984]
