@@ -217,7 +217,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://www.tradingview.com/symbols/NQU2023/]   
 	US30   
 	  [https://www.barchart.com/futures/quotes/YM&ast;0/futures-prices]  
-	  [https://www.tradingview.com/symbols/YM2023/]   
+	  [https://www.tradingview.com/symbols/YMU2023/]   
 
 	--European Indices  
 	GER30   
