@@ -1,169 +1,169 @@
 Instruments & Analysis  [https://bz.myuserhub.com/instruments]  
 
 01. Forex  
-	![](./img/AU--big.svg) AUDCAD ![](./img/CA--big.svg)  
+	![](./img/AU--big.svg) AUDCAD  
 	  [https://www.tradingview.com/symbols/AUDCAD/]  
 
 	![](./img/AU--big.svg) AUDCFD  
 	  [https://www.tradingview.com/symbols/AUDCFD/]  
 
-	![](./img/AU--big.svg) AUDCHF ![](./img/CH--big.svg)  
+	![](./img/AU--big.svg) AUDCHF   
 	  [https://www.tradingview.com/symbols/AUDCHF/]  
 
-	![](./img/AU--big.svg) AUDJPY ![](./img/JP--big.svg)  
+	![](./img/AU--big.svg) AUDJPY  
 	  [https://www.tradingview.com/symbols/AUDJPY/]  
 
-	![](./img/AU--big.svg) AUDNZD ![](./img/NZ--big.svg)  
+	![](./img/AU--big.svg) AUDNZD  
 	  [https://www.tradingview.com/symbols/AUDNZD/]  
 
-	![](./img/AU--big.svg) AUDSGD ![](./img/SG--big.svg)  
+	![](./img/AU--big.svg) AUDSGD  
 	  [https://www.tradingview.com/symbols/AUDSGD/]  
 
-	![](./img/AU--big.svg) AUDUSD ![](./img/US--big.svg)  
+	![](./img/AU--big.svg) AUDUSD 
 	  [https://www.tradingview.com/symbols/AUDUSD/]  
 
-	CADCFD  
+	![](./img/CA--big.svg) CADCFD   
 	  [https://www.tradingview.com/symbols/CADCFD/]  
 
-	CADCHF  
+	![](./img/CA--big.svg) CADCHF   
 	  [https://www.tradingview.com/symbols/CADCHF/]  
 
-	CADJPY  
+	![](./img/CA--big.svg) CADJPY   
 	  [https://www.tradingview.com/symbols/CADJPY/]  
 
-	CHFCFD  
+	![](./img/CH--big.svg) CHFCFD  
 	  [https://www.tradingview.com/symbols/CHFCFD/]  
 
-	CHFJPY  
+	![](./img/CH--big.svg) CHFJPY  
 	  [https://www.tradingview.com/symbols/CHFJPY/]  
 
-	EURAUD  
+	![](./img/EU--big.svg) EURAUD  
 	  [https://www.tradingview.com/symbols/EURAUD/]  
 
-	EURCAD  
+	![](./img/EU--big.svg) EURCAD  
 	  [https://www.tradingview.com/symbols/EURCAD/]  
 
-	EURCFD  
+	![](./img/EU--big.svg) EURCFD  
 	  [https://www.tradingview.com/symbols/EURCFD/]  
 
-	EURCHF  
+	![](./img/EU--big.svg) EURCHF  
 	  [https://www.tradingview.com/symbols/EURCHF/]  
 
-	EURGBP  
+	![](./img/EU--big.svg) EURGBP  
 	  [https://www.tradingview.com/symbols/EURGBP/]  
 
-	EURJPY  
+	![](./img/EU--big.svg) EURJPY  
 	  [https://www.tradingview.com/symbols/EURJPY/]  
 
-	EURNZD  
+	![](./img/EU--big.svg) EURNZD  
 	  [https://www.tradingview.com/symbols/EURNZD/]  
 
-	EURPLN  
+	![](./img/EU--big.svg) EURPLN  
 	  [https://www.tradingview.com/symbols/EURPLN/]  
 
-	EURSEK  
+	![](./img/EU--big.svg) EURSEK  
 	  [https://www.tradingview.com/symbols/EURSEK/]  
 
-	EURSGD  
+	![](./img/EU--big.svg) EURSGD  
 	  [https://www.tradingview.com/symbols/EURSGD/]  
 
-	EURTRY  
+	![](./img/EU--big.svg) EURTRY  
 	  [https://www.tradingview.com/symbols/EURTRY/]  
 
-	EURUSD  
+	![](./img/EU--big.svg) EURUSD  
 	  [https://www.tradingview.com/symbols/EURUSD/]  
 
-	GBPAUD  
+	![](./img/GB--big.svg) GBPAUD  
 	  [https://www.tradingview.com/symbols/GBPAUD/]  
 
-	GBPCAD  
+	![](./img/GB--big.svg) GBPCAD  
 	  [https://www.tradingview.com/symbols/GBPCAD/]  
 
-	GBPCFD  
+	![](./img/GB--big.svg) GBPCFD  
 	  [https://www.tradingview.com/symbols/GBPCFD/]  
 
-	GBPCHF  
+	![](./img/GB--big.svg) GBPCHF  
 	  [https://www.tradingview.com/symbols/GBPCHF/]  
 
-	GBPJPY  
+	![](./img/GB--big.svg) GBPJPY  
 	  [https://www.tradingview.com/symbols/GBPJPY/]  
 
-	GBPNZD  
+	![](./img/GB--big.svg) GBPNZD  
 	  [https://www.tradingview.com/symbols/GBPNZD/]  
 
-	GBPSEK  
+	![](./img/GB--big.svg) GBPSEK  
 	  [https://www.tradingview.com/symbols/GBPSEK/]  
 
-	GBPSGD  
+	![](./img/GB--big.svg) GBPSGD  
 	  [https://www.tradingview.com/symbols/GBPSGD/]  
 
-	GBPUSD  
+	![](./img/GB--big.svg) GBPUSD  
 	  [https://www.tradingview.com/symbols/GBPUSD/]  
 
-	JPYCFD  
+	![](./img/JP--big.svg) JPYCFD  
 	  [https://www.tradingview.com/symbols/JPYCFD/]  
 
-	NZDCAD  
+	![](./img/NZ--big.svg) NZDCAD  
 	  [https://www.tradingview.com/symbols/NZDCAD/]  
 
-	NZDCHF  
+	![](./img/NZ--big.svg) NZDCHF  
 	  [https://www.tradingview.com/symbols/NZDCHF/]  
 
-	NZDJPY  
+	![](./img/NZ--big.svg) NZDJPY  
 	  [https://www.tradingview.com/symbols/NZDJPY/]  
 
-	NZDUSD  
+	![](./img/NZ--big.svg) NZDUSD  
 	  [https://www.tradingview.com/symbols/NZDUSD/]  
 
-	SGDJPY  
+	![](./img/SG--big.svg) SGDJPY  
 	  [https://www.tradingview.com/symbols/SGDJPY/]  
 
-	USDBRL  
+	![](./img/US--big.svg) USDBRL  
 	  [https://www.tradingview.com/symbols/USDBRL/]  
 
-	USDCAD  
+	![](./img/US--big.svg) USDCAD  
 	  [https://www.tradingview.com/symbols/USDCAD/]  
 
-	USDCHF  
+	![](./img/US--big.svg) USDCHF  
 	  [https://www.tradingview.com/symbols/USDCHF/]  
 
-	USDCLP  
+	![](./img/US--big.svg) USDCLP  
 	  [https://www.tradingview.com/symbols/USDCLP/]  
 
-	USDDKK  
+	![](./img/US--big.svg) USDDKK  
 	  [https://www.tradingview.com/symbols/USDDKK/]  
 
-	USDHKD  
+	![](./img/US--big.svg) USDHKD  
 	  [https://www.tradingview.com/symbols/USDHKD/]  
 
-	USDHUF  
+	![](./img/US--big.svg) USDHUF  
 	  [https://www.tradingview.com/symbols/USDHUF/]  
 
-	USDILS  
+	![](./img/US--big.svg) USDILS  
 	  [https://www.tradingview.com/symbols/USDILS/]  
 
-	USDJPY  
+	![](./img/US--big.svg) USDJPY  
 	  [https://www.tradingview.com/symbols/USDJPY/]  
 
-	USDMXN  
+	![](./img/US--big.svg) USDMXN  
 	  [https://www.tradingview.com/symbols/USDMXN/]  
 
-	USDNOK  
+	![](./img/US--big.svg) USDNOK  
 	  [https://www.tradingview.com/symbols/USDNOK/]  
 
-	USDPLN  
+	![](./img/US--big.svg) USDPLN  
 	  [https://www.tradingview.com/symbols/USDPLN/]  
 
-	USDSEK  
+	![](./img/US--big.svg) USDSEK  
 	  [https://www.tradingview.com/symbols/USDSEK/]  
 
-	USDSGD  
+	![](./img/US--big.svg) USDSGD  
 	  [https://www.tradingview.com/symbols/USDSGD/]  
 
-	USDTRY  
+	![](./img/US--big.svg) USDTRY  
 	  [https://www.tradingview.com/symbols/USDTRY/]  
 
-	USDZAR  
+	![](./img/US--big.svg) USDZAR  
 	  [https://www.tradingview.com/symbols/USDZAR/USDZAR]  
 
 02. Metals  
