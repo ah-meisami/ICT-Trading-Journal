@@ -190,22 +190,34 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 
 03. Energies  
 	BRENT  
+
 	GASOLIN  
+	  [https://en.wikipedia.org/wiki/Gasoline]  
+	  
 	HEATOIL  
+
 	NATGAS  
+	  [https://www.barchart.com/futures/quotes/NG&ast;0/futures-prices]
+
 	UKBRENT  
+
 	USCRUDE  
+
 	WTICASH  
 
 04. Indices  
 	USINDX  
 	  [https://www.tradingview.com/symbols/TVC-DXY/]  
+	  [https://www.tradingview.com/symbols/DXY/]   
 	US500  
 	  [https://www.barchart.com/futures/quotes/ES&ast;0/futures-prices]  
+	  [https://www.tradingview.com/symbols/ESU2023/]   
 	US100  
 	  [https://www.barchart.com/futures/quotes/NQ&ast;0/futures-prices]  
+	  [https://www.tradingview.com/symbols/NQU2023/]   
 	US30   
 	  [https://www.barchart.com/futures/quotes/YM&ast;0/futures-prices]  
+	  [https://www.tradingview.com/symbols/YM2023/]   
 
 	--European Indices  
 	GER30   
@@ -252,12 +264,17 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://www.tradingview.com/symbols/CAPITALCOM-UK100/]  
 
 05. Shares  
+
 06. ETFs  
+
 07. Commodities  
-	CORN
-	SOYBEAN
-	SUGAR
-	WHEAT
+	CORN  
+
+	SOYBEAN  
+
+	SUGAR  
+
+	WHEAT  
 
 08. Treasuries  
 	  [https://en.wikipedia.org/wiki/Bond_market]  
@@ -275,7 +292,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	BCHUSD  
       [https://www.investopedia.com/tech/bitcoin-vs-bitcoin-cash-whats-difference/]  
 	  [https://www.tradingview.com/symbols/BCHUSD/?exchange=BITSTAMP]  
-	  
+
 	LTCUSD  
       [https://en.wikipedia.org/wiki/Litecoin]  
 	  [https://www.tradingview.com/symbols/LTCUSD/]  
