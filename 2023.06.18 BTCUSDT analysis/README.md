@@ -1,3 +1,14 @@
+[https://twitter.com/Romeotpt/status/1670107176587624449]
+Those who got the last two posts wrong, look at the pics below (bitcoin inverted). 
+
+I’ve always said:
+
+1- A higher timeframe key level is needed for a high probability analysis.  
+2- Liquidity pools above/below key levels are always a good candidate for a turtle soup.
+
+
+
+
 [https://twitter.com/ah_meisami/status/1670322938497695744]  
 
 1. Orderflow is bullish.  
