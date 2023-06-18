@@ -189,13 +189,13 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://www.tradingview.com/symbols/XPTUSD/]  
 
 03. Energies  
-	BRENT
-	GASOLIN
-	HEATOIL
-	NATGAS
-	UKBRENT
-	USCRUDE
-	WTICASH
+	BRENT  
+	GASOLIN  
+	HEATOIL  
+	NATGAS  
+	UKBRENT  
+	USCRUDE  
+	WTICASH  
 
 04. Indices  
 	USINDX  
@@ -217,14 +217,39 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://en.wikipedia.org/wiki/Swiss_Market_Index]  
 	  [https://www.barchart.com/futures/quotes/SZ&ast;0/futures-prices]    
 
-	AUS200
-	AUST20
-	CHINA50
-	EU50
-	FRA40
-	HK50
-	JP225
-	UK100
+	AUS200  
+	  [https://en.wikipedia.org/wiki/S%26P/ASX_200]    
+	  [https://www.tradingview.com/symbols/PEPPERSTONE-AUS200/]  
+
+	AUST20  
+      [https://en.wikipedia.org/wiki/Austrian_Traded_Index]  
+	  
+	CHINA50  
+	  [https://en.wikipedia.org/wiki/FTSE_China_A50_Index]  
+	  [https://www.tradingview.com/symbols/SKILLING-CHINA50/]  
+
+	EU50  
+	  [https://en.wikipedia.org/wiki/EURO_STOXX_50]  
+	  [https://www.barchart.com/futures/quotes/FX&ast;0/futures-prices]   
+	  [https://www.tradingview.com/symbols/FOREXCOM-EU50/]  
+
+	FRA40  
+	  [https://en.wikipedia.org/wiki/CAC_40]
+	  [https://www.barchart.com/futures/quotes/MX&ast;0/futures-prices]
+	  [https://www.tradingview.com/symbols/OANDA-FR40EUR/]  
+
+	HK50  
+      [https://en.wikipedia.org/wiki/Hang_Seng_China_50_Index]  
+	  [https://www.tradingview.com/symbols/CAPITALCOM-HK50/]  
+
+	JP225  
+	  [https://en.wikipedia.org/wiki/Nikkei_225]  
+	  [https://www.tradingview.com/symbols/TVC-NI225/]  
+
+	UK100  
+	  [https://en.wikipedia.org/wiki/FTSE_100_Index]  
+	  [https://www.barchart.com/futures/quotes/X&ast;0/futures-prices]  
+	  [https://www.tradingview.com/symbols/CAPITALCOM-UK100/]  
 
 05. Shares  
 06. ETFs  

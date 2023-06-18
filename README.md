@@ -1,9 +1,9 @@
 [https://twitter.com/I_Am_The_ICT/]  
 [https://www.youtube.com/@InnerCircleTrader]  
 
-# ICT-Trading-Journal 
+# ICT-Trading-Journal   
 
-ɪᴄᴛ ᴛᴇʀᴍɪɴᴏʟᴏɢʏ
+ɪᴄᴛ ᴛᴇʀᴍɪɴᴏʟᴏɢʏ  
 ADR: Average Daily Range  
 AMD: Accumulation Manipulation Distribution  
 ATR: Average True Range  
