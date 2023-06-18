@@ -4,7 +4,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	![](./img/AU--big.svg) AUDCAD ![](./img/CA--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDCAD/]  
 
-	![](./img/AU--big.svg) AUDCFD
+	![](./img/AU--big.svg) AUDCFD  
 	  [https://www.tradingview.com/symbols/AUDCFD/]  
 
 	![](./img/AU--big.svg) AUDCHF ![](./img/CH--big.svg)  
