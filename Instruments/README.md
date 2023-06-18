@@ -223,7 +223,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 
 	AUST20  
       [https://en.wikipedia.org/wiki/Austrian_Traded_Index]  
-	  
+
 	CHINA50  
 	  [https://en.wikipedia.org/wiki/FTSE_China_A50_Index]  
 	  [https://www.tradingview.com/symbols/SKILLING-CHINA50/]  
@@ -235,7 +235,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 
 	FRA40  
 	  [https://en.wikipedia.org/wiki/CAC_40]
-	  [https://www.barchart.com/futures/quotes/MX&ast;0/futures-prices]
+	  [https://www.barchart.com/futures/quotes/MX&ast;0/futures-prices]  
 	  [https://www.tradingview.com/symbols/OANDA-FR40EUR/]  
 
 	HK50  
@@ -273,7 +273,9 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://www.tradingview.com/symbols/ETHUSD/]  
 
 	BCHUSD  
-
+      [https://www.investopedia.com/tech/bitcoin-vs-bitcoin-cash-whats-difference/]  
+	  [https://www.tradingview.com/symbols/BCHUSD/?exchange=BITSTAMP]  
+	  
 	LTCUSD  
       [https://en.wikipedia.org/wiki/Litecoin]  
 	  [https://www.tradingview.com/symbols/LTCUSD/]  
