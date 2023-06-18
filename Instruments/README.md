@@ -19,7 +19,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	![](./img/AU--big.svg) AUDSGD  
 	  [https://www.tradingview.com/symbols/AUDSGD/]  
 
-	![](./img/AU--big.svg) AUDUSD 
+	![](./img/AU--big.svg) AUDUSD  
 	  [https://www.tradingview.com/symbols/AUDUSD/]  
 
 	![](./img/CA--big.svg) CADCFD   
@@ -167,16 +167,26 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	  [https://www.tradingview.com/symbols/USDZAR/USDZAR]  
 
 02. Metals  
-	XAUUSD - [https://www.tradingview.com/symbols/XAUUSD/] [https://en.wikipedia.org/wiki/Gold]
-	XAUEUR - [https://www.tradingview.com/symbols/XAUEUR/]
-	XAUAUD - [https://www.tradingview.com/symbols/XAUAUD/]
+	XAUUSD  
+	  [https://www.tradingview.com/symbols/XAUUSD/]  
+	  [https://en.wikipedia.org/wiki/Gold]  
+	XAUEUR   
+	  [https://www.tradingview.com/symbols/XAUEUR/]  
+	XAUAUD   
+	  [https://www.tradingview.com/symbols/XAUAUD/]  
 
-	XAGUSD - [https://www.tradingview.com/symbols/XAGUSD/]
-	XAGEUR - [https://www.tradingview.com/symbols/XAGEUR/]
+	XAGUSD   
+	  [https://www.tradingview.com/symbols/XAGUSD/]  
+	XAGEUR   
+	  [https://www.tradingview.com/symbols/XAGEUR/]  
 	
-	XPDUSD - [https://www.tradingview.com/symbols/XPDUSD/] [https://en.wikipedia.org/wiki/Palladium]  
+	XPDUSD   
+	  [https://en.wikipedia.org/wiki/Palladium]    
+	  [https://www.tradingview.com/symbols/XPDUSD/]   
 
-	XPTUSD - [https://www.tradingview.com/symbols/XPTUSD/] [https://en.wikipedia.org/wiki/Platinum]
+	XPTUSD   
+	  [https://en.wikipedia.org/wiki/Platinum]  
+	  [https://www.tradingview.com/symbols/XPTUSD/]  
 
 03. Energies  
 	BRENT
