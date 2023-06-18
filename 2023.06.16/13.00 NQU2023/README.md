@@ -9,3 +9,7 @@ ORG
 [https://www.mql5.com/en/charts/17766767/us100-u23-m1-windsor-solutions-ltd]  
 [https://www.mql5.com/en/charts/17766782/us100-u23-m1-windsor-solutions-ltd]
 [https://www.mql5.com/en/charts/17766819/us100-u23-m15-windsor-solutions-ltd]  
+
+
+CBDR Range: [https://www.tradingview.com/u/adelghaeinian/#published-scripts]  
+Author:     [https://adelghaenian.github.io/]  
