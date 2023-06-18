@@ -201,21 +201,21 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	USINDX  
 	  [https://www.tradingview.com/symbols/TVC-DXY/]  
 	US500  
-	  [https://www.barchart.com/futures/quotes/ES*0/futures-prices]  
+	  ["https://www.barchart.com/futures/quotes/ES*0/futures-prices"]  
 	US100  
-	  [https://www.barchart.com/futures/quotes/NQ*0/futures-prices]  
+	  ["https://www.barchart.com/futures/quotes/NQ*0/futures-prices"]  
 	US30   
-	  [https://www.barchart.com/futures/quotes/YM*0/futures-prices]  
+	  ["https://www.barchart.com/futures/quotes/YM*0/futures-prices"]  
 
-	--European Indices 
-	GER30  
-	  [https://en.wikipedia.org/wiki/DAX]  
-	  [https://www.barchart.com/futures/quotes/DY*0/futures-prices]    
-	  [https://www.tradingview.com/symbols/XETR-DAX/]  
+	--European Indices  
+	GER30   
+	  [https://en.wikipedia.org/wiki/DAX]   
+	  ["https://www.barchart.com/futures/quotes/DY*0/futures-prices"]     
+	  [https://www.tradingview.com/symbols/XETR-DAX/]   
 
 	SWI20  
-	  [https://en.wikipedia.org/wiki/Swiss_Market_Index]
-	  [https://www.barchart.com/futures/quotes/SZ*0/futures-prices]  
+	  [https://en.wikipedia.org/wiki/Swiss_Market_Index]  
+	  ["https://www.barchart.com/futures/quotes/SZ*0/futures-prices"]    
 
 	AUS200
 	AUST20
