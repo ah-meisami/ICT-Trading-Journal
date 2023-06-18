@@ -279,7 +279,7 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 08. Treasuries  
 	  [https://en.wikipedia.org/wiki/Bond_market]  
 	  [https://www.barchart.com/futures/quotes/ZB&ast;0/futures-prices]  
-	  [https://www.tradingview.com/symbols/ZBU23/]  
+	  [https://www.tradingview.com/symbols/ZBU2023/]  
 
 09. Crypto  
 	BTCUSD  
