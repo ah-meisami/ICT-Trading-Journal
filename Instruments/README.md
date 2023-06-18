@@ -1,7 +1,8 @@
 Instruments & Analysis  [https://bz.myuserhub.com/instruments]  
 
 01. Forex  
-	![AUDCAD] (AU--big.svg) AUDCAD  
+	![AUDCAD] (AU--big.svg)
+	![image info](./AU--big.svg) AUDCAD  
 	  [https://www.tradingview.com/symbols/AUDCAD/]  
 
 	!(img/AU--big.svg) AUDCFD  
