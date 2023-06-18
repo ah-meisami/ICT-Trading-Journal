@@ -1,25 +1,25 @@
 Instruments & Analysis  [https://bz.myuserhub.com/instruments]  
 
 01. Forex  
-	![](./img/AU--big.svg) AUDCAD  
+	![](./img/AU--big.svg) AUDCAD ![](./img/CA--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDCAD/]  
 
-	![](./img/AU--big.svg) AUDCFD  
+	![](./img/AU--big.svg) AUDCFD
 	  [https://www.tradingview.com/symbols/AUDCFD/]  
 
-	![](./img/AU--big.svg) AUDCHF  
+	![](./img/AU--big.svg) AUDCHF ![](./img/CH--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDCHF/]  
 
-	![](./img/AU--big.svg) AUDJPY  
+	![](./img/AU--big.svg) AUDJPY ![](./img/JP--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDJPY/]  
 
-	![](./img/AU--big.svg) AUDNZD  
+	![](./img/AU--big.svg) AUDNZD ![](./img/NZ--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDNZD/]  
 
-	![](./img/AU--big.svg) AUDSGD  
+	![](./img/AU--big.svg) AUDSGD ![](./img/SG--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDSGD/]  
 
-	![](./img/AU--big.svg) AUDUSD  
+	![](./img/AU--big.svg) AUDUSD ![](./img/US--big.svg)  
 	  [https://www.tradingview.com/symbols/AUDUSD/]  
 
 	CADCFD  
