@@ -16,5 +16,5 @@ POST Session Analysis [2023.07.12]
 - Look at the PM session during [NY 13:00] to [NY 16:00] and reaction of price to specified levels exactly at specified times.  
 
 - In the "Algorithmic Price Delivery & Time Macros Intro" video, ICT talked about +PB [daily] on NQU2023
-- WHY you was bearish on Indices with a simple post of [[https://t.me/DisciplinedICT/646]    
+- WHY you was bearish on Indices with a simple post of [[https://t.me/DisciplinedICT/645]    
 -----------------------------------------------------------------------------------------------   
