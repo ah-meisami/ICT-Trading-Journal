@@ -1516,7 +1516,7 @@ reprice to an inefficiency
 
 380
 00:14:15,360 --> 00:14:19,680
-some kind of fair value Gap or sibi
+some kind of FVG or sibi
 
 381
 00:14:19,680 --> 00:14:22,880
@@ -2643,40 +2643,13 @@ so my opinion was in the beginning of
 the week
 
 670
-00:25:33,000 --> 00:25:34,919
-I wanted to see us gravitate towards
-
-671
-00:25:34,919 --> 00:25:36,779
-this mitigation block
-
-672
-00:25:36,779 --> 00:25:38,880
-it would be above the relative equal
-
-673
-00:25:38,880 --> 00:25:40,440
-highs here that had already been cleared
-
-674
-00:25:40,440 --> 00:25:43,440
-through here and we Consolidated markets
-
-675
-00:25:43,440 --> 00:25:45,360
-don't talk like that
-
-676
-00:25:45,360 --> 00:25:47,460
-okay and it was more likely that we're
-
-677
-00:25:47,460 --> 00:25:49,260
-going to expand higher it did it reached
-
-678
-00:25:49,260 --> 00:25:51,600
-into the mitigation block
+00:25:33,000 --> 00:25:50,919
+I wanted to see us gravitate towards this MB
+it would be above the REHs here that had already been cleared through here and we Consolidated 
+markets don't talk like that
+okay and it was more likely that we're going to expand higher 
+it did 
+it reached into the MB
 
 679
 00:25:51,600 --> 00:25:54,659
@@ -2887,84 +2860,20 @@ closed candle this is an older Block
 it's bullish this is a propulsion block
 
 731
-00:27:54,600 --> 00:27:57,360
-propulsion blocks are border blocks by
+00:27:54,600 --> 00:28:40,360
+PB are OB by themselves but the way you differentiate what they are and how they're used is
 
-732
-00:27:57,360 --> 00:27:59,700
-themselves but the way you differentiate
+this down-closed-candle digs into a previous down-close-candle
+so an OB that has another OB that digs into it 
 
-733
-00:27:59,700 --> 00:28:01,460
-what they are and how they're used is
+PB you never want to see a closing price below MT
+MT on our OB is the 50 level
+we Wicked down through it but then closed here this one here 
+we Wick down through it and closed right here 
+we Wicked down through it and closed up here 
 
-734
-00:28:01,460 --> 00:28:04,260
-this down closed candle
-
-735
-00:28:04,260 --> 00:28:06,840
-digs into a previous down close candle
-
-736
-00:28:06,840 --> 00:28:08,880
-so an order block that has another order
-
-737
-00:28:08,880 --> 00:28:11,220
-block that digs into it
-
-738
-00:28:11,220 --> 00:28:13,320
-propulsion blocks you never want to see
-
-739
-00:28:13,320 --> 00:28:16,320
-a closing price below mean threshold
-
-740
-00:28:16,320 --> 00:28:19,200
-mean threshold on our order block is the
-
-741
-00:28:19,200 --> 00:28:20,940
-50 level
-
-742
-00:28:20,940 --> 00:28:23,940
-we Wicked down through it but then
-
-743
-00:28:23,940 --> 00:28:26,279
-closed here this one here we Wick down
-
-744
-00:28:26,279 --> 00:28:28,140
-through it and closed right here we
-
-745
-00:28:28,140 --> 00:28:30,299
-Wicked down through it and closed up
-
-746
-00:28:30,299 --> 00:28:34,679
-here so yes we had the movement through
-
-747
-00:28:34,679 --> 00:28:36,900
-the main threshold but we didn't close
-
-748
-00:28:36,900 --> 00:28:39,000
-below it so that still keeps this down
-
-749
-00:28:39,000 --> 00:28:41,760
-closed candle valid as a propulsion
-
-750
-00:28:41,760 --> 00:28:42,659
-block
+so yes we had the movement through the MT but we didn't close below it 
+so that still keeps this down closed candle valid as a PB
 
 751
 00:28:42,659 --> 00:28:46,220
@@ -3052,7 +2961,7 @@ and it's sent price parabolic above the
 
 772
 00:29:37,440 --> 00:29:39,240
-relative equal highs so the draw on
+REHs so the draw on
 
 773
 00:29:39,240 --> 00:29:41,340
@@ -3228,47 +3137,11 @@ Thursday and Friday
 
 816
 00:31:05,940 --> 00:31:09,539
-we expect each daily candle to gravitate
-
-817
-00:31:09,539 --> 00:31:10,620
-towards
-
-818
-00:31:10,620 --> 00:31:12,720
-that level
-
-819
-00:31:12,720 --> 00:31:14,760
-even if you didn't pick that level if
-
-820
-00:31:14,760 --> 00:31:16,320
-you felt that this fair value Gap was a
-
-821
-00:31:16,320 --> 00:31:17,760
-reason to keep going higher that's fine
-
-822
-00:31:17,760 --> 00:31:19,380
-that's nothing there's nothing wrong
-
-823
-00:31:19,380 --> 00:31:22,020
-with that but this mitigation block is
-
-824
-00:31:22,020 --> 00:31:25,080
-below that for Vega
-
-825
-00:31:25,080 --> 00:31:27,600
-and if you are using the relative equal
-
-826
-00:31:27,600 --> 00:31:29,039
-highs as a drawing liquidity there's
+we expect each daily candle to gravitate towards that level even if you didn't pick that level 
+if you felt that this FVG was a reason to keep going higher, that's fine
+that's nothing there's nothing wrong with that 
+but this mitigation block is below that FVG
+and if you are using the REHs as a drawing liquidity there's
 
 827
 00:31:29,039 --> 00:31:30,720
@@ -3352,7 +3225,7 @@ expand higher and aggressively above
 
 847
 00:32:11,820 --> 00:32:13,260
-these relative equal highs on the daily
+these REHs on the daily
 
 848
 00:32:13,260 --> 00:32:15,480
@@ -5112,7 +4985,7 @@ threshold here rallies back above
 
 1287
 00:48:01,560 --> 00:48:03,660
-relative equal highs have been cleared
+REHs have been cleared
 
 1288
 00:48:03,660 --> 00:48:05,760
@@ -9188,7 +9061,7 @@ notice also that we have all of these
 
 2306
 01:25:57,540 --> 01:26:00,360
-fair value gaps right here and all this
+FVGs right here and all this
 
 2307
 01:26:00,360 --> 01:26:01,620
@@ -9312,7 +9185,7 @@ so what how we use this information
 
 2337
 01:27:06,239 --> 01:27:09,239
-their inversion fair value gaps
+their inversion FVGs
 
 2338
 01:27:09,239 --> 01:27:11,760
@@ -9556,7 +9429,7 @@ getting the results you're looking for
 
 2398
 01:29:16,920 --> 01:29:19,679
-so fair value gaps like this if we're
+so FVGs like this if we're
 
 2399
 01:29:19,679 --> 01:29:21,120
@@ -9652,7 +9525,7 @@ we've had a nice move outside of the
 
 2422
 01:30:06,780 --> 01:30:08,820
-range of these relative equal highs and
+range of these REHs and
 
 2423
 01:30:08,820 --> 01:30:12,300
@@ -9700,7 +9573,7 @@ then rallies it rallies to this high and
 
 2434
 01:30:35,699 --> 01:30:37,739
-through this inversion fair value Gap
+through this inversion FVG
 
 2435
 01:30:37,739 --> 01:30:39,600
@@ -11384,7 +11257,7 @@ earlier when we ran up
 
 2855
 01:45:55,920 --> 01:45:57,659
-you can use the fair value gap on the
+you can use the FVG on the
 
 2856
 01:45:57,659 --> 01:45:59,460

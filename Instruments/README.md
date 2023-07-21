@@ -4,9 +4,6 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	![](./img/AU--big.svg) AUDCAD  
 	  [https://www.tradingview.com/symbols/AUDCAD/]  
 
-	![](./img/AU--big.svg) AUDCFD  
-	  [https://www.tradingview.com/symbols/AUDCFD/]  
-
 	![](./img/AU--big.svg) AUDCHF   
 	  [https://www.tradingview.com/symbols/AUDCHF/]  
 
@@ -22,17 +19,11 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	![](./img/AU--big.svg) AUDUSD  
 	  [https://www.tradingview.com/symbols/AUDUSD/]  
 
-	![](./img/CA--big.svg) CADCFD   
-	  [https://www.tradingview.com/symbols/CADCFD/]  
-
 	![](./img/CA--big.svg) CADCHF   
 	  [https://www.tradingview.com/symbols/CADCHF/]  
 
 	![](./img/CA--big.svg) CADJPY   
 	  [https://www.tradingview.com/symbols/CADJPY/]  
-
-	![](./img/CH--big.svg) CHFCFD  
-	  [https://www.tradingview.com/symbols/CHFCFD/]  
 
 	![](./img/CH--big.svg) CHFJPY  
 	  [https://www.tradingview.com/symbols/CHFJPY/]  
@@ -42,9 +33,6 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 
 	![](./img/EU--big.svg) EURCAD  
 	  [https://www.tradingview.com/symbols/EURCAD/]  
-
-	![](./img/EU--big.svg) EURCFD  
-	  [https://www.tradingview.com/symbols/EURCFD/]  
 
 	![](./img/EU--big.svg) EURCHF  
 	  [https://www.tradingview.com/symbols/EURCHF/]  
@@ -79,9 +67,6 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	![](./img/GB--big.svg) GBPCAD  
 	  [https://www.tradingview.com/symbols/GBPCAD/]  
 
-	![](./img/GB--big.svg) GBPCFD  
-	  [https://www.tradingview.com/symbols/GBPCFD/]  
-
 	![](./img/GB--big.svg) GBPCHF  
 	  [https://www.tradingview.com/symbols/GBPCHF/]  
 
@@ -99,9 +84,6 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 
 	![](./img/GB--big.svg) GBPUSD  
 	  [https://www.tradingview.com/symbols/GBPUSD/]  
-
-	![](./img/JP--big.svg) JPYCFD  
-	  [https://www.tradingview.com/symbols/JPYCFD/]  
 
 	![](./img/NZ--big.svg) NZDCAD  
 	  [https://www.tradingview.com/symbols/NZDCAD/]  
