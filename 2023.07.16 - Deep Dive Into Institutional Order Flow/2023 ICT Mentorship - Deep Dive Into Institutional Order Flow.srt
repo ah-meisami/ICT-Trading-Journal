@@ -2319,44 +2319,12 @@ was taken out with a higher run here
 then that would be a bearish breaker
 
 581
-00:22:12,299 --> 00:22:17,220
-bearish Breakers are much more stronger
-
-582
-00:22:17,220 --> 00:22:20,400
-in terms of resistance
-
-583
-00:22:20,400 --> 00:22:23,159
-than a mitigation block a mitigation
-
-584
-00:22:23,159 --> 00:22:24,059
-block
-
-585
-00:22:24,059 --> 00:22:26,100
-can be traded through
-
-586
-00:22:26,100 --> 00:22:29,039
-so in terms of how I use mitigation
-
-587
-00:22:29,039 --> 00:22:30,500
-blocks
-
-588
-00:22:30,500 --> 00:22:33,419
-I typically side with using them as
-
-589
-00:22:33,419 --> 00:22:36,240
-targets more so than entry
-
-590
-00:22:36,240 --> 00:22:37,620
-because they can be traded through
+00:22:12,299 --> 00:22:36,220
+bearish Breakers are much more stronger in terms of resistance than a mitigation block 
+a mitigation block can be traded through
+- so in terms of how I use mitigation blocks, 
+- I typically side with using them as targets more so than entry
+- because they can be traded through
 
 591
 00:22:37,620 --> 00:22:39,960
