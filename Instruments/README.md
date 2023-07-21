@@ -283,3 +283,6 @@ Instruments & Analysis  [https://bz.myuserhub.com/instruments]
 	XRPUSD  
 	  [https://en.wikipedia.org/wiki/Ripple_(payment_protocol)]  
 	  [https://www.tradingview.com/symbols/XRPUSD/]  
+
+<hr/>
+The Most Volatile Currency Pairs and How to Trade Them [https://www.dailyfx.com/education/volatility/most-volatile-currency-pairs.html]  
