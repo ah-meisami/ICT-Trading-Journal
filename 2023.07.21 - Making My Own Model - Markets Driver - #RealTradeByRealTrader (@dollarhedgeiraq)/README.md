@@ -11,13 +11,13 @@ AUDJPY[15m] [https://www.tradingview.com/x/dsRj0gmm]
 NZDJPY[15m] [https://www.tradingview.com/x/XOHMy4Ew]  
 SGDJPY[15m] [https://www.tradingview.com/x/GjvsFuLy]  
 
-
-
-
+---------------------------------------------------------------------------------------------------  
 Despite expected report for JPY[Core CPI y/y] now it is weaker in all currency pairs related to it.
-
 why? 
 someone said this report is the cause: [https://www.reuters.com/markets/asia/boj-leaning-towards-keeping-yield-control-steady-next-week-sources-2023-07-21/]  
 
 but as ICT said before you knows it only using the charts.
+---------------------------------------------------------------------------------------------------  
 
+
+Testimony [https://t.me/DollarHedgeIraq/6952]

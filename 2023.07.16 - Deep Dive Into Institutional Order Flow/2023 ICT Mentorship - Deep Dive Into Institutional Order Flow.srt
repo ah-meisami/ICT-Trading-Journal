@@ -3136,16 +3136,12 @@ and then Tuesday and Wednesday and
 Thursday and Friday
 
 816
-00:31:05,940 --> 00:31:09,539
+00:31:05,940 --> 00:31:28,539
 we expect each daily candle to gravitate towards that level even if you didn't pick that level 
 if you felt that this FVG was a reason to keep going higher, that's fine
 that's nothing there's nothing wrong with that 
 but this mitigation block is below that FVG
-and if you are using the REHs as a drawing liquidity there's
-
-827
-00:31:29,039 --> 00:31:30,720
-nothing wrong with that either
+and if you are using the REHs as a drawing liquidity there's nothing wrong with that either
 
 828
 00:31:30,720 --> 00:31:33,419
@@ -3236,40 +3232,11 @@ chart so there's buy orders resting
 above that
 
 850
-00:32:16,580 --> 00:32:19,320
-markets don't top like this folks they
-
-851
-00:32:19,320 --> 00:32:21,360
-don't do it and since the weekly in a
-
-852
-00:32:21,360 --> 00:32:22,679
-daily chart are showing this pattern
-
-853
-00:32:22,679 --> 00:32:25,500
-it's more likely to go higher especially
-
-854
-00:32:25,500 --> 00:32:27,779
-since we were bearish on dollar not just
-
-855
-00:32:27,779 --> 00:32:28,919
-bearish a little bit but we were
-
-856
-00:32:28,919 --> 00:32:30,779
-exceedingly bearish expecting it to
-
-857
-00:32:30,779 --> 00:32:32,520
-reach for a larger pool sell side
-
-858
-00:32:32,520 --> 00:32:33,779
-liquidity
+00:32:16,580 --> 00:32:30,320
+markets don't top like this folks 
+they don't do it and since the weekly in a daily chart are showing this pattern
+it's more likely to go higher especially since we were bearish on dollar 
+not just bearish a little bit but we were exceedingly bearish expecting it to reach for a larger pool SSL
 
 859
 00:32:33,779 --> 00:32:35,820
@@ -3381,7 +3348,7 @@ propulsion block right here and you
 
 886
 00:33:39,539 --> 00:33:42,299
-divide it in half that's mean threshold
+divide it in half that's MT
 
 887
 00:33:42,299 --> 00:33:44,399
@@ -3416,60 +3383,20 @@ ICT look at this Wick right here or this
 tail and look at this right here
 
 895
-00:33:58,320 --> 00:34:01,440
-look at the bodies the bodies tell you
-
-896
-00:34:01,440 --> 00:34:04,080
-the story that's the narrative the Wicks
-
-897
-00:34:04,080 --> 00:34:05,760
-do all the damage that's the stuff that
-
-898
-00:34:05,760 --> 00:34:07,440
-everybody gets hurt by you get stopped
-
-899
-00:34:07,440 --> 00:34:08,639
-out and you don't want to go back into
-
-900
-00:34:08,639 --> 00:34:10,379
-the marketplace that's their that's
-
-901
-00:34:10,379 --> 00:34:12,000
-their purpose
+00:33:58,320 --> 00:34:11,440
+look at the bodies the bodies tell you the story 
+that's the narrative 
+the Wicks do all the damage 
+that's the stuff that everybody gets hurt by 
+you get stopped out and you don't want to go back into the marketplace 
+that's their purpose
 
 902
 00:34:12,000 --> 00:34:14,879
 reading price action with a time-based
-
-903
-00:34:14,879 --> 00:34:17,099
-chart and focusing on the bodies of the
-
-904
-00:34:17,099 --> 00:34:19,679
-candles if you just saw these right here
-
-905
-00:34:19,679 --> 00:34:21,599
-like this and there was no Wicks or
-
-906
-00:34:21,599 --> 00:34:23,699
-tails on their candlesticks if you took
-
-907
-00:34:23,699 --> 00:34:25,260
-that completely off your chart this
-
-908
-00:34:25,260 --> 00:34:27,540
-would look like Smooth edges
+chart and focusing on the bodies of the candles 
+if you just saw these right here like this and there was no Wicks or tails on their candlesticks 
+if you took that completely off your chart this would look like Smooth edges
 
 909
 00:34:27,540 --> 00:34:29,339
@@ -3477,7 +3404,7 @@ and that's all this was trading down
 
 910
 00:34:29,339 --> 00:34:31,918
-into mean threshold which is the entire
+into MT which is the entire
 
 911
 00:34:31,918 --> 00:34:33,839
@@ -3569,7 +3496,7 @@ and we're down here and we drop down to
 
 933
 00:35:21,720 --> 00:35:24,599
-mean Threshold at that point does the
+MT at that point does the
 
 934
 00:35:24,599 --> 00:35:26,339
@@ -4765,55 +4692,20 @@ without having the weekly chart the draw
 
 1232
 00:46:04,619 --> 00:46:06,780
-on liquidity this blue line here so when
+on liquidity this blue line here 
 
 1233
-00:46:06,780 --> 00:46:08,099
-I'm looking at Price whether I have it
-
-1234
-00:46:08,099 --> 00:46:11,099
-on the chart or if it's on my notepad
-
-1235
-00:46:11,099 --> 00:46:13,260
-because I'm using a notepad unless I
-
-1236
-00:46:13,260 --> 00:46:15,300
-draw it out on the chart for you because
-
-1237
-00:46:15,300 --> 00:46:17,220
-you're going to watch the video later on
-
-1238
-00:46:17,220 --> 00:46:19,440
-there's no there's no annotations on my
-
-1239
-00:46:19,440 --> 00:46:20,400
-chart
-
-1240
-00:46:20,400 --> 00:46:23,460
-because I want my focus on where we are
-
-1241
-00:46:23,460 --> 00:46:25,980
-in that range so on my notepad I have
-
-1242
-00:46:25,980 --> 00:46:28,680
-the high the low and the mean threshold
-
-1243
-00:46:28,680 --> 00:46:30,540
-price point of that Candlestick right
+00:46:06,780 --> 00:46:29,099
+so when I'm looking at Price whether I have it on the chart or if it's on my notepad
+because I'm using a notepad unless I draw it out on the chart for you 
+because you're going to watch the video later on
+there's no there's no annotations on my chart 
+because I want my focus on where we are in that range 
+so on my notepad I have the high the low and the MT price point of that Candlestick 
 
 1244
 00:46:30,540 --> 00:46:32,460
-there on the daily chart and I have on
+right there on the daily chart and I have on
 
 1245
 00:46:32,460 --> 00:46:36,540
@@ -4821,7 +4713,7 @@ my notepad daily propulsion block hi
 
 1246
 00:46:36,540 --> 00:46:40,260
-mean threshold low so I'm watching price
+MT low so I'm watching price
 
 1247
 00:46:40,260 --> 00:46:42,900
@@ -5017,7 +4909,7 @@ what
 
 1295
 00:48:17,280 --> 00:48:19,700
-trading down into mean threshold
+trading down into MT
 
 1296
 00:48:19,700 --> 00:48:22,380
@@ -5221,63 +5113,23 @@ predict this is where I would be in my
 
 1346
 00:49:59,339 --> 00:50:01,200
-live stream this is where I would be in
+live stream this is where I would be 
 
 1347
-00:50:01,200 --> 00:50:02,940
-my recording of my execution I'd be
-
-1348
-00:50:02,940 --> 00:50:07,500
-typing out Big Range candles incoming
-
-1349
-00:50:07,500 --> 00:50:09,900
-when it gets right here right to that
-
-1350
-00:50:09,900 --> 00:50:11,339
-price point low
-
-1351
-00:50:11,339 --> 00:50:13,980
-right there I would be typing out
-
-1352
-00:50:13,980 --> 00:50:16,140
-we're going to anticipate we're going to
-
-1353
-00:50:16,140 --> 00:50:18,540
-expect we're predicting we're not going
-
-1354
-00:50:18,540 --> 00:50:20,099
-to be surprised by
-
-1355
-00:50:20,099 --> 00:50:23,099
-large up close candles why because it's
-
-1356
-00:50:23,099 --> 00:50:25,319
-going to make a quick run for the
-
-1357
-00:50:25,319 --> 00:50:27,180
-liquidity resting about this high
-
-1358
-00:50:27,180 --> 00:50:29,099
-that's what the algorithm does folks
-
-1359
-00:50:29,099 --> 00:50:32,040
-that's what it does you're not going to
+00:50:01,200 --> 00:50:30,940
+in my recording of my execution I'd be typing out "Big Range Candles Incoming"
+when it gets right here right to that price point low
+right there I would be typing out 
+we're going to anticipate 
+we're going to expect 
+we're predicting 
+we're not going to be surprised by large up close candles 
+why? because it's going to make a quick run for the liquidity resting about this high
+that's what the algorithm does folks. that's what it does 
 
 1360
 00:50:32,040 --> 00:50:33,720
-know that from the depth of Market
+you're not going to know that from the depth of Market
 
 1361
 00:50:33,720 --> 00:50:34,980
