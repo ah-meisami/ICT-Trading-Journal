@@ -18,13 +18,12 @@ Everything else (including me), is background noise.
 [https://www.youtube.com/watch?v=Svjt4Si4_Zw]
 
 
-===========================================================================
+=========================================================================== TOC  
 1. Foundation
 2. Market Efficiency Paradigm (MEP) - Smart Money vs Dump Money (from the lens of Highs and Lows)
 3. Market Profiles  (Trend, Range, Chop)
 4. Entry Techniques
-===========================================================================
-1.Foundation
+=========================================================================== 1.Foundation
 1. What are the markets? Money Loosing Machine (95% - 9/10)
 2. Why you stay in the market despite loosing again and again!?
   - Because no one loose every single day. They have some wins (when wins feel happy, when lose feel sadness). entice by the wins they have
@@ -55,8 +54,7 @@ My A+ setup never failed but if it failed then I am wrong and I will never blame
   - I miss read Reversal Time
   - I miss read Reversal Point
   - I miss read Liquidity Pool
-===========================================================================
-2. Market Efficiency Paradigm (MEP) - Smart Money vs Dump Money (from the lens of Highs and Lows)
+=========================================================================== 2. Market Efficiency Paradigm (MEP) - Smart Money vs Dump Money (from the lens of Highs and Lows)  
 Dumb money even hedge funds like FTX: [https://www.investopedia.com/what-went-wrong-with-ftx-6828447]  
 How do you measure High and Low?
 1. IPDA data ranges
