@@ -1,0 +1,1564 @@
+1
+00:00:13,200 --> 00:00:15,759
+welcome back folks this is lesson 7.1
+
+2
+00:00:15,759 --> 00:00:17,520
+stop entry techniques for long term
+
+3
+00:00:17,520 --> 00:00:20,000
+traders
+
+4
+00:00:22,080 --> 00:00:25,600
+okay buying with stop orders
+
+5
+00:00:25,600 --> 00:00:26,640
+preferably you're going to be looking
+
+6
+00:00:26,640 --> 00:00:28,320
+for setups to have the monthly and or
+
+7
+00:00:28,320 --> 00:00:29,760
+weekly
+
+8
+00:00:29,760 --> 00:00:31,519
+suggesting institutional order flow
+
+9
+00:00:31,519 --> 00:00:34,399
+would be seeking a pd array above daily
+
+10
+00:00:34,399 --> 00:00:37,120
+market price
+
+11
+00:00:37,520 --> 00:00:40,480
+the daily should post a bearish candle
+
+12
+00:00:40,480 --> 00:00:42,640
+the daily chart must close the candle
+
+13
+00:00:42,640 --> 00:00:45,600
+with a down close it is not valid while
+
+14
+00:00:45,600 --> 00:00:47,360
+the daily chart candle is trading or
+
+15
+00:00:47,360 --> 00:00:49,600
+forming
+
+16
+00:00:49,600 --> 00:00:51,120
+and you're going to be placing a buy
+
+17
+00:00:51,120 --> 00:00:52,399
+stop
+
+18
+00:00:52,399 --> 00:00:57,160
+at the bearish candles opening
+
+19
+00:00:58,000 --> 00:01:00,399
+okay here's the high the candle
+
+20
+00:01:00,399 --> 00:01:03,199
+the low of the candle
+
+21
+00:01:03,199 --> 00:01:06,479
+this is the opening on the candle
+
+22
+00:01:06,479 --> 00:01:08,560
+and here's the close
+
+23
+00:01:08,560 --> 00:01:10,880
+you're going to be placing a buy stop
+
+24
+00:01:10,880 --> 00:01:13,520
+for an entry on long
+
+25
+00:01:13,520 --> 00:01:15,280
+positions
+
+26
+00:01:15,280 --> 00:01:17,040
+at that price right here this is where
+
+27
+00:01:17,040 --> 00:01:20,560
+you place your buy stop entry
+
+28
+00:01:22,080 --> 00:01:23,840
+the concept is you're going to be using
+
+29
+00:01:23,840 --> 00:01:26,000
+strength to get you long in the
+
+30
+00:01:26,000 --> 00:01:27,920
+marketplace now you're not going to be
+
+31
+00:01:27,920 --> 00:01:30,000
+just buying any old down candle you're
+
+32
+00:01:30,000 --> 00:01:31,920
+going to be looking at the pd arrays
+
+33
+00:01:31,920 --> 00:01:35,040
+that would be in a discount market
+
+34
+00:01:35,040 --> 00:01:36,079
+or
+
+35
+00:01:36,079 --> 00:01:38,960
+while you're in a long-term uptrend
+
+36
+00:01:38,960 --> 00:01:40,880
+every down candle
+
+37
+00:01:40,880 --> 00:01:42,799
+promotes new buying opportunity for
+
+38
+00:01:42,799 --> 00:01:44,240
+smart money
+
+39
+00:01:44,240 --> 00:01:46,399
+so you'll be using this entry technique
+
+40
+00:01:46,399 --> 00:01:48,320
+here to get in sync with those long-term
+
+41
+00:01:48,320 --> 00:01:50,000
+trends
+
+42
+00:01:50,000 --> 00:01:52,399
+again you have to have a monthly and or
+
+43
+00:01:52,399 --> 00:01:53,600
+weekly
+
+44
+00:01:53,600 --> 00:01:55,680
+institutional order flow
+
+45
+00:01:55,680 --> 00:01:57,520
+reference point in the form of a pd
+
+46
+00:01:57,520 --> 00:01:59,920
+array that means that has to be a weekly
+
+47
+00:01:59,920 --> 00:02:02,960
+order block that's bearish above daily
+
+48
+00:02:02,960 --> 00:02:05,280
+price it has to be a fair value gap
+
+49
+00:02:05,280 --> 00:02:06,159
+above
+
+50
+00:02:06,159 --> 00:02:07,439
+daily price
+
+51
+00:02:07,439 --> 00:02:10,080
+in the form of a weekly or monthly chart
+
+52
+00:02:10,080 --> 00:02:11,599
+something on the monthly and weekly
+
+53
+00:02:11,599 --> 00:02:12,879
+preferably both
+
+54
+00:02:12,879 --> 00:02:14,800
+is leading you to believe that price
+
+55
+00:02:14,800 --> 00:02:16,800
+will be drawn up there on that time
+
+56
+00:02:16,800 --> 00:02:17,840
+frame
+
+57
+00:02:17,840 --> 00:02:19,200
+the daily
+
+58
+00:02:19,200 --> 00:02:20,800
+you're gonna be actually waiting for the
+
+59
+00:02:20,800 --> 00:02:23,440
+move to go against that intended
+
+60
+00:02:23,440 --> 00:02:25,440
+direction that's why we're buying
+
+61
+00:02:25,440 --> 00:02:27,520
+off of a down candle
+
+62
+00:02:27,520 --> 00:02:29,599
+we're using the opening price on the
+
+63
+00:02:29,599 --> 00:02:31,040
+down candle now think about this for a
+
+64
+00:02:31,040 --> 00:02:32,160
+second
+
+65
+00:02:32,160 --> 00:02:34,160
+order block theory
+
+66
+00:02:34,160 --> 00:02:36,800
+this would be a bullish order block
+
+67
+00:02:36,800 --> 00:02:38,879
+a down candle is a bullish order block
+
+68
+00:02:38,879 --> 00:02:40,959
+if price trades away from a down candle
+
+69
+00:02:40,959 --> 00:02:43,440
+and we trade back down into that opening
+
+70
+00:02:43,440 --> 00:02:46,560
+of the down candle that's also what
+
+71
+00:02:46,560 --> 00:02:49,200
+a future entry long position so see what
+
+72
+00:02:49,200 --> 00:02:52,319
+we're doing here we're using this
+
+73
+00:02:52,319 --> 00:02:56,080
+buying of strength idea
+
+74
+00:02:56,400 --> 00:02:58,879
+the mechanics behind it is is that
+
+75
+00:02:58,879 --> 00:03:00,400
+it should price trade back up to that
+
+76
+00:03:00,400 --> 00:03:02,800
+opening price and through it
+
+77
+00:03:02,800 --> 00:03:04,239
+we should be turning the corner and
+
+78
+00:03:04,239 --> 00:03:05,760
+should be training higher
+
+79
+00:03:05,760 --> 00:03:07,360
+but
+
+80
+00:03:07,360 --> 00:03:08,720
+if it doesn't trade back above the
+
+81
+00:03:08,720 --> 00:03:10,720
+opening price you don't get a fill
+
+82
+00:03:10,720 --> 00:03:12,560
+you just got to wait for another new
+
+83
+00:03:12,560 --> 00:03:15,280
+down candle and you keep moving forward
+
+84
+00:03:15,280 --> 00:03:17,360
+every time you get a new successive down
+
+85
+00:03:17,360 --> 00:03:21,120
+candle you keep adding that new entry
+
+86
+00:03:21,120 --> 00:03:22,800
+at the opening price
+
+87
+00:03:22,800 --> 00:03:25,040
+so you you would be consistently moving
+
+88
+00:03:25,040 --> 00:03:27,200
+forward one new trading day every time a
+
+89
+00:03:27,200 --> 00:03:29,519
+new candle paints and if you don't get a
+
+90
+00:03:29,519 --> 00:03:30,319
+fill
+
+91
+00:03:30,319 --> 00:03:32,720
+on the daily these go to the next daily
+
+92
+00:03:32,720 --> 00:03:34,319
+candle once as long as there's another
+
+93
+00:03:34,319 --> 00:03:36,799
+down candle you keep doing it
+
+94
+00:03:36,799 --> 00:03:38,720
+you may miss moves you may not get a
+
+95
+00:03:38,720 --> 00:03:41,280
+fill you may get filled and eventually
+
+96
+00:03:41,280 --> 00:03:42,959
+get stopped out
+
+97
+00:03:42,959 --> 00:03:44,319
+we'll talk about stops when we talk
+
+98
+00:03:44,319 --> 00:03:46,480
+about trade management but for now we're
+
+99
+00:03:46,480 --> 00:03:47,840
+just focusing on the entry pattern an
+
+100
+00:03:47,840 --> 00:03:50,239
+entry concept using a daily time frame
+
+101
+00:03:50,239 --> 00:03:51,519
+and now think about this we're actually
+
+102
+00:03:51,519 --> 00:03:53,280
+dovetailing really nicely with order
+
+103
+00:03:53,280 --> 00:03:54,640
+block theory so
+
+104
+00:03:54,640 --> 00:03:56,239
+if we're buying at the opening price on
+
+105
+00:03:56,239 --> 00:03:58,480
+a down candle long term
+
+106
+00:03:58,480 --> 00:04:00,480
+expecting monthly and or weekly
+
+107
+00:04:00,480 --> 00:04:02,879
+pd arrays to be the draw on price in
+
+108
+00:04:02,879 --> 00:04:04,159
+other words something on the higher time
+
+109
+00:04:04,159 --> 00:04:05,519
+frame charts are going to bring price
+
+110
+00:04:05,519 --> 00:04:07,680
+higher the daily charts going to submit
+
+111
+00:04:07,680 --> 00:04:09,040
+to those higher time frame weekly
+
+112
+00:04:09,040 --> 00:04:11,040
+monthly ideas and they're going to trade
+
+113
+00:04:11,040 --> 00:04:13,439
+up into those levels okay but they won't
+
+114
+00:04:13,439 --> 00:04:15,439
+just go straight up they'll go up then
+
+115
+00:04:15,439 --> 00:04:17,199
+come back down to that same opening
+
+116
+00:04:17,199 --> 00:04:18,959
+price many times giving another
+
+117
+00:04:18,959 --> 00:04:21,600
+opportunity to buy so what you can do is
+
+118
+00:04:21,600 --> 00:04:23,919
+when price moves away from the opening
+
+119
+00:04:23,919 --> 00:04:26,240
+price and comes right back down
+
+120
+00:04:26,240 --> 00:04:27,840
+you are looking for confirmation you're
+
+121
+00:04:27,840 --> 00:04:30,080
+going to see new buying
+
+122
+00:04:30,080 --> 00:04:31,600
+and that may be another opportunity for
+
+123
+00:04:31,600 --> 00:04:33,440
+you to add new positions
+
+124
+00:04:33,440 --> 00:04:35,360
+but that's only in
+
+125
+00:04:35,360 --> 00:04:37,360
+instances where if you've taken profits
+
+126
+00:04:37,360 --> 00:04:39,680
+off in other words once this
+
+127
+00:04:39,680 --> 00:04:40,960
+by entry
+
+128
+00:04:40,960 --> 00:04:43,440
+has been executed in your long if you
+
+129
+00:04:43,440 --> 00:04:45,360
+get several hundred pips in your favor
+
+130
+00:04:45,360 --> 00:04:47,280
+you can take some of that position off
+
+131
+00:04:47,280 --> 00:04:48,720
+with the expectation that you may end up
+
+132
+00:04:48,720 --> 00:04:50,400
+seeing a retracement back to that same
+
+133
+00:04:50,400 --> 00:04:52,400
+opening price if it does you can put
+
+134
+00:04:52,400 --> 00:04:54,479
+that same position that you took off in
+
+135
+00:04:54,479 --> 00:04:56,880
+partial profits right back on at that
+
+136
+00:04:56,880 --> 00:04:59,040
+same opening price
+
+137
+00:04:59,040 --> 00:05:00,560
+and it gives you an opportunity to get
+
+138
+00:05:00,560 --> 00:05:03,360
+basically the average then same cost for
+
+139
+00:05:03,360 --> 00:05:05,600
+that long price
+
+140
+00:05:05,600 --> 00:05:06,880
+then you hold it for the remaining
+
+141
+00:05:06,880 --> 00:05:08,080
+portion of your trade and you can do
+
+142
+00:05:08,080 --> 00:05:09,600
+this every single time there's a new
+
+143
+00:05:09,600 --> 00:05:11,600
+down candle that you enter on a buy stop
+
+144
+00:05:11,600 --> 00:05:13,520
+at the opening price it's the same
+
+145
+00:05:13,520 --> 00:05:15,199
+concept as going forward every single
+
+146
+00:05:15,199 --> 00:05:17,360
+time until you reach that monthly end or
+
+147
+00:05:17,360 --> 00:05:20,720
+weekly pd array in the form of a premium
+
+148
+00:05:20,720 --> 00:05:22,639
+market so once it gets overbought if you
+
+149
+00:05:22,639 --> 00:05:24,320
+will when there's a monthly and weekly
+
+150
+00:05:24,320 --> 00:05:26,639
+charts then as long as that's not there
+
+151
+00:05:26,639 --> 00:05:28,720
+we continuously follow along with the
+
+152
+00:05:28,720 --> 00:05:30,560
+marketplace on a daily chart every down
+
+153
+00:05:30,560 --> 00:05:32,400
+candle promotes new buying opportunities
+
+154
+00:05:32,400 --> 00:05:35,440
+for smart money the higher we get on the
+
+155
+00:05:35,440 --> 00:05:37,520
+monthly and weekly range and get closer
+
+156
+00:05:37,520 --> 00:05:40,160
+to those premium ranges the less likely
+
+157
+00:05:40,160 --> 00:05:42,000
+these candles are going to promote
+
+158
+00:05:42,000 --> 00:05:43,360
+strong buying
+
+159
+00:05:43,360 --> 00:05:44,800
+so just be careful about that you will
+
+160
+00:05:44,800 --> 00:05:46,880
+be buying preferably at equilibrium or
+
+161
+00:05:46,880 --> 00:05:48,240
+less than the range that you would
+
+162
+00:05:48,240 --> 00:05:50,240
+identify on the monthly and weekly
+
+163
+00:05:50,240 --> 00:05:52,400
+charts
+
+164
+00:05:52,400 --> 00:05:55,199
+okay selling with stop orders
+
+165
+00:05:55,199 --> 00:05:56,800
+okay the monthly indoor weekly should
+
+166
+00:05:56,800 --> 00:05:58,880
+suggest institutional order flow will be
+
+167
+00:05:58,880 --> 00:06:01,120
+seeking a pd array below
+
+168
+00:06:01,120 --> 00:06:03,199
+daily market price
+
+169
+00:06:03,199 --> 00:06:05,360
+the daily should post a bullish candle
+
+170
+00:06:05,360 --> 00:06:07,120
+the daily chart must close the candle
+
+171
+00:06:07,120 --> 00:06:09,680
+with a up close and it is not valid
+
+172
+00:06:09,680 --> 00:06:11,199
+while the daily chart candle is trading
+
+173
+00:06:11,199 --> 00:06:13,440
+indoor forming
+
+174
+00:06:13,440 --> 00:06:15,759
+the cell stop is placed at the bullish
+
+175
+00:06:15,759 --> 00:06:18,639
+candles open here's your high
+
+176
+00:06:18,639 --> 00:06:20,960
+here's the high the candle
+
+177
+00:06:20,960 --> 00:06:23,919
+the low of the candle
+
+178
+00:06:24,160 --> 00:06:27,360
+the close of the candle
+
+179
+00:06:27,360 --> 00:06:29,919
+the open of the candle
+
+180
+00:06:29,919 --> 00:06:31,120
+and right here is we're going to place
+
+181
+00:06:31,120 --> 00:06:31,919
+your
+
+182
+00:06:31,919 --> 00:06:34,400
+cell stop for a short entry and the
+
+183
+00:06:34,400 --> 00:06:36,240
+premise behind this is we're gonna be
+
+184
+00:06:36,240 --> 00:06:38,080
+expecting weakness to take us into the
+
+185
+00:06:38,080 --> 00:06:39,199
+marketplace
+
+186
+00:06:39,199 --> 00:06:40,639
+now again think about what we just
+
+187
+00:06:40,639 --> 00:06:42,160
+showed you in terms of
+
+188
+00:06:42,160 --> 00:06:44,160
+the buy stop on a down candle at the
+
+189
+00:06:44,160 --> 00:06:45,360
+opening price
+
+190
+00:06:45,360 --> 00:06:47,759
+it's just like a return to a bullish
+
+191
+00:06:47,759 --> 00:06:49,759
+order block because we buy at that
+
+192
+00:06:49,759 --> 00:06:51,600
+opening price
+
+193
+00:06:51,600 --> 00:06:54,240
+this same premise here is the entry
+
+194
+00:06:54,240 --> 00:06:56,400
+price technique that we use to go short
+
+195
+00:06:56,400 --> 00:06:58,000
+at a bearish
+
+196
+00:06:58,000 --> 00:07:00,080
+order block which is the last up candle
+
+197
+00:07:00,080 --> 00:07:02,560
+rate for the down price move we're going
+
+198
+00:07:02,560 --> 00:07:04,400
+to sell on a stop right at that opening
+
+199
+00:07:04,400 --> 00:07:05,599
+price
+
+200
+00:07:05,599 --> 00:07:08,960
+and if we get profitability in our trade
+
+201
+00:07:08,960 --> 00:07:10,960
+and we looks like we can see a
+
+202
+00:07:10,960 --> 00:07:12,400
+retracement back to that same order
+
+203
+00:07:12,400 --> 00:07:13,360
+block
+
+204
+00:07:13,360 --> 00:07:16,560
+or same up candle in this case we could
+
+205
+00:07:16,560 --> 00:07:19,360
+get short again with the partial profit
+
+206
+00:07:19,360 --> 00:07:21,520
+we've taken off so for instance they say
+
+207
+00:07:21,520 --> 00:07:22,400
+we
+
+208
+00:07:22,400 --> 00:07:24,800
+go short on daily chart and we get short
+
+209
+00:07:24,800 --> 00:07:27,120
+on the stop at the opening price of this
+
+210
+00:07:27,120 --> 00:07:29,039
+this bullish candle
+
+211
+00:07:29,039 --> 00:07:30,639
+we could look for
+
+212
+00:07:30,639 --> 00:07:32,720
+several hundred pips in our favor in
+
+213
+00:07:32,720 --> 00:07:34,960
+terms of profitability take a portion of
+
+214
+00:07:34,960 --> 00:07:37,440
+it off bank some profits
+
+215
+00:07:37,440 --> 00:07:39,680
+then if we do get a retracement back to
+
+216
+00:07:39,680 --> 00:07:41,440
+that same opening price we can sell
+
+217
+00:07:41,440 --> 00:07:42,960
+short again with that same portion we
+
+218
+00:07:42,960 --> 00:07:44,560
+just took partial profits and
+
+219
+00:07:44,560 --> 00:07:46,720
+re-established that same initial
+
+220
+00:07:46,720 --> 00:07:48,960
+position back on again at that same
+
+221
+00:07:48,960 --> 00:07:51,199
+average price again the premises we're
+
+222
+00:07:51,199 --> 00:07:53,840
+expecting the market to be drawn
+
+223
+00:07:53,840 --> 00:07:55,360
+lower from a monthly and weekly
+
+224
+00:07:55,360 --> 00:07:57,199
+standpoint so there's a pda rate that's
+
+225
+00:07:57,199 --> 00:07:58,800
+going to be drawing that weekly and
+
+226
+00:07:58,800 --> 00:08:00,800
+monthly chart lower
+
+227
+00:08:00,800 --> 00:08:02,960
+okay so we're trading on the higher time
+
+228
+00:08:02,960 --> 00:08:04,160
+frame monthly and weekly but we're
+
+229
+00:08:04,160 --> 00:08:06,240
+executing on the daily so while the
+
+230
+00:08:06,240 --> 00:08:08,000
+monthly and weekly are poised to go
+
+231
+00:08:08,000 --> 00:08:09,039
+lower
+
+232
+00:08:09,039 --> 00:08:10,800
+institutionally speaking
+
+233
+00:08:10,800 --> 00:08:12,879
+we're waiting for a move that's
+
+234
+00:08:12,879 --> 00:08:14,720
+opposite the direction by having an up
+
+235
+00:08:14,720 --> 00:08:16,800
+candle or a bullish candle we're seeing
+
+236
+00:08:16,800 --> 00:08:18,639
+the market have a short-term retracement
+
+237
+00:08:18,639 --> 00:08:20,160
+or creating a short-term overbought
+
+238
+00:08:20,160 --> 00:08:22,720
+scenario when we see the opening price
+
+239
+00:08:22,720 --> 00:08:24,479
+on that up candle
+
+240
+00:08:24,479 --> 00:08:26,240
+traded to many times you're going to see
+
+241
+00:08:26,240 --> 00:08:28,160
+that it never turns back from that that
+
+242
+00:08:28,160 --> 00:08:28,960
+low
+
+243
+00:08:28,960 --> 00:08:31,360
+it just keeps on going and that opening
+
+244
+00:08:31,360 --> 00:08:33,679
+price becomes a very good trigger for
+
+245
+00:08:33,679 --> 00:08:35,440
+short selling or
+
+246
+00:08:35,440 --> 00:08:38,919
+a sell program
+
+247
+00:08:40,559 --> 00:08:42,159
+okay let's take a look at this
+
+248
+00:08:42,159 --> 00:08:45,040
+few examples here we have a
+
+249
+00:08:45,040 --> 00:08:46,480
+nice move up here we have a small little
+
+250
+00:08:46,480 --> 00:08:48,399
+down candle
+
+251
+00:08:48,399 --> 00:08:50,399
+and you'd be placing a buy stop at the
+
+252
+00:08:50,399 --> 00:08:52,959
+opening price
+
+253
+00:08:52,959 --> 00:08:56,000
+so buy stop at that opening price on
+
+254
+00:08:56,000 --> 00:08:58,240
+that daily candle
+
+255
+00:08:58,240 --> 00:08:59,360
+and we're going to say that we didn't
+
+256
+00:08:59,360 --> 00:09:00,640
+get a fill here so it'd be a missed
+
+257
+00:09:00,640 --> 00:09:02,720
+opportunity
+
+258
+00:09:02,720 --> 00:09:05,600
+we have a new down candle
+
+259
+00:09:05,600 --> 00:09:07,360
+place a buy stop
+
+260
+00:09:07,360 --> 00:09:11,600
+on the opening price of the down candle
+
+261
+00:09:11,600 --> 00:09:13,839
+you see the next candle we open lower
+
+262
+00:09:13,839 --> 00:09:14,959
+than that
+
+263
+00:09:14,959 --> 00:09:16,320
+down candles
+
+264
+00:09:16,320 --> 00:09:17,680
+open
+
+265
+00:09:17,680 --> 00:09:19,440
+so in other words the very next green
+
+266
+00:09:19,440 --> 00:09:22,560
+candle or bullish candle it opened lower
+
+267
+00:09:22,560 --> 00:09:24,640
+than our down candle or bearish candles
+
+268
+00:09:24,640 --> 00:09:26,560
+opening price so our buy stop would have
+
+269
+00:09:26,560 --> 00:09:28,560
+been triggered as that
+
+270
+00:09:28,560 --> 00:09:30,959
+bullish candle trades up so we would be
+
+271
+00:09:30,959 --> 00:09:34,000
+triggered long in that position
+
+272
+00:09:34,000 --> 00:09:36,480
+but now we have another down candle so
+
+273
+00:09:36,480 --> 00:09:38,000
+we could take a look at that opening
+
+274
+00:09:38,000 --> 00:09:38,959
+price
+
+275
+00:09:38,959 --> 00:09:41,440
+and should we see price trade back up to
+
+276
+00:09:41,440 --> 00:09:43,040
+that level we could be entered long
+
+277
+00:09:43,040 --> 00:09:43,920
+again
+
+278
+00:09:43,920 --> 00:09:46,640
+on a buy stop
+
+279
+00:09:46,640 --> 00:09:48,320
+same thing happens here
+
+280
+00:09:48,320 --> 00:09:50,000
+market trades up through it and gives us
+
+281
+00:09:50,000 --> 00:09:51,360
+a nice little pop
+
+282
+00:09:51,360 --> 00:09:52,880
+and here we have
+
+283
+00:09:52,880 --> 00:09:54,959
+that successive
+
+284
+00:09:54,959 --> 00:09:58,160
+one two three candles lower all being
+
+285
+00:09:58,160 --> 00:10:01,440
+down candles each time
+
+286
+00:10:01,440 --> 00:10:04,480
+we have the opportunity to be net long
+
+287
+00:10:04,480 --> 00:10:07,279
+the one in the middle
+
+288
+00:10:07,279 --> 00:10:08,000
+the
+
+289
+00:10:08,000 --> 00:10:10,240
+other three down candles
+
+290
+00:10:10,240 --> 00:10:12,959
+you may have been tripped in long on
+
+291
+00:10:12,959 --> 00:10:13,839
+that
+
+292
+00:10:13,839 --> 00:10:16,079
+particular entry point
+
+293
+00:10:16,079 --> 00:10:17,920
+but your stop-loss as you'll learn will
+
+294
+00:10:17,920 --> 00:10:20,720
+be below the swing low that's most
+
+295
+00:10:20,720 --> 00:10:22,399
+recently been created on the daily chart
+
+296
+00:10:22,399 --> 00:10:24,480
+and below a specific reference point
+
+297
+00:10:24,480 --> 00:10:25,920
+which will outline
+
+298
+00:10:25,920 --> 00:10:28,160
+in lesson eight
+
+299
+00:10:28,160 --> 00:10:30,880
+but you could be long here
+
+300
+00:10:30,880 --> 00:10:33,040
+and you can also then use
+
+301
+00:10:33,040 --> 00:10:36,800
+this opening price as well to add to it
+
+302
+00:10:36,800 --> 00:10:38,880
+so you have a buy stop on the opening
+
+303
+00:10:38,880 --> 00:10:41,200
+price of this down candle
+
+304
+00:10:41,200 --> 00:10:43,600
+you see price does fill that and you
+
+305
+00:10:43,600 --> 00:10:46,560
+would be net long from that price and we
+
+306
+00:10:46,560 --> 00:10:48,800
+have another down candle
+
+307
+00:10:48,800 --> 00:10:51,200
+we could watch this buy stop and trigger
+
+308
+00:10:51,200 --> 00:10:55,839
+in a long entry at this opening price
+
+309
+00:10:55,920 --> 00:10:57,839
+price does eventually make a lower
+
+310
+00:10:57,839 --> 00:11:00,240
+candle and then that lower candles
+
+311
+00:11:00,240 --> 00:11:01,680
+opening price does get tripped two
+
+312
+00:11:01,680 --> 00:11:04,320
+candles to the right of it
+
+313
+00:11:04,320 --> 00:11:06,560
+and eventually sees another little move
+
+314
+00:11:06,560 --> 00:11:08,880
+higher
+
+315
+00:11:10,480 --> 00:11:12,320
+and we're going to take a look at now
+
+316
+00:11:12,320 --> 00:11:15,279
+using this idea for selling on a
+
+317
+00:11:15,279 --> 00:11:16,880
+stop
+
+318
+00:11:16,880 --> 00:11:18,880
+and here's the section of
+
+319
+00:11:18,880 --> 00:11:20,800
+the japanese yen looking at old high
+
+320
+00:11:20,800 --> 00:11:23,839
+from 2007 you can see how price made a
+
+321
+00:11:23,839 --> 00:11:27,279
+piercing of that 123.50 level
+
+322
+00:11:27,279 --> 00:11:30,399
+and price rejected had a break in market
+
+323
+00:11:30,399 --> 00:11:32,320
+structure and had a sell-off we're going
+
+324
+00:11:32,320 --> 00:11:33,839
+to break that whole area down in the
+
+325
+00:11:33,839 --> 00:11:35,839
+shaded area
+
+326
+00:11:35,839 --> 00:11:37,519
+you see there's a market structure break
+
+327
+00:11:37,519 --> 00:11:38,320
+here
+
+328
+00:11:38,320 --> 00:11:40,000
+that's the initial one but there's a
+
+329
+00:11:40,000 --> 00:11:42,640
+secondary one but we're going to
+
+330
+00:11:42,640 --> 00:11:45,279
+focus on this one primarily
+
+331
+00:11:45,279 --> 00:11:46,640
+we're going to assume that you can see
+
+332
+00:11:46,640 --> 00:11:48,240
+that this market on a daily time frame
+
+333
+00:11:48,240 --> 00:11:50,160
+was getting in sync with the lower
+
+334
+00:11:50,160 --> 00:11:51,839
+objectives for
+
+335
+00:11:51,839 --> 00:11:53,440
+the monthly and weekly
+
+336
+00:11:53,440 --> 00:11:55,680
+dollar yen
+
+337
+00:11:55,680 --> 00:11:58,320
+and in pd arrays they would be looking
+
+338
+00:11:58,320 --> 00:12:00,000
+for lower prices
+
+339
+00:12:00,000 --> 00:12:01,680
+would draw price on the daily chart
+
+340
+00:12:01,680 --> 00:12:04,079
+lower and i mapped out every one of the
+
+341
+00:12:04,079 --> 00:12:06,320
+up candles that went back to the premium
+
+342
+00:12:06,320 --> 00:12:08,480
+of the ranges that price was trading in
+
+343
+00:12:08,480 --> 00:12:11,040
+for the daily chart and every opening
+
+344
+00:12:11,040 --> 00:12:13,200
+price once it's triggered
+
+345
+00:12:13,200 --> 00:12:15,440
+you would be net short
+
+346
+00:12:15,440 --> 00:12:17,519
+so there's one two three four five
+
+347
+00:12:17,519 --> 00:12:19,200
+examples in here where each one of the
+
+348
+00:12:19,200 --> 00:12:21,440
+up candles just a short time after its
+
+349
+00:12:21,440 --> 00:12:23,360
+formation of the up candle
+
+350
+00:12:23,360 --> 00:12:24,720
+it trips you
+
+351
+00:12:24,720 --> 00:12:25,760
+short
+
+352
+00:12:25,760 --> 00:12:28,240
+for the japanese yen
+
+353
+00:12:28,240 --> 00:12:29,920
+and you can see another example here
+
+354
+00:12:29,920 --> 00:12:31,360
+where the price trades back up to a
+
+355
+00:12:31,360 --> 00:12:33,519
+mitigation block
+
+356
+00:12:33,519 --> 00:12:35,839
+and the up candle you would look to sell
+
+357
+00:12:35,839 --> 00:12:38,560
+short at the opening price
+
+358
+00:12:38,560 --> 00:12:41,360
+and you see that down arrow indicating
+
+359
+00:12:41,360 --> 00:12:43,120
+that was the candle that you'd be using
+
+360
+00:12:43,120 --> 00:12:46,639
+the very next candle you would be short
+
+361
+00:12:46,639 --> 00:12:48,480
+and that's that same level right there
+
+362
+00:12:48,480 --> 00:12:50,720
+just shown in a more higher time frame
+
+363
+00:12:50,720 --> 00:12:53,600
+view of it several hundred pips again
+
+364
+00:12:53,600 --> 00:12:55,279
+and this last one here over a thousand
+
+365
+00:12:55,279 --> 00:12:58,000
+pips available in terms of downside
+
+366
+00:12:58,000 --> 00:13:00,160
+potential and again this is using
+
+367
+00:13:00,160 --> 00:13:02,480
+the monthly weekly pd arrays as your
+
+368
+00:13:02,480 --> 00:13:05,600
+directional bias and then using the
+
+369
+00:13:05,600 --> 00:13:08,480
+up candles and down candles
+
+370
+00:13:08,480 --> 00:13:11,040
+in relationship to using the stop entry
+
+371
+00:13:11,040 --> 00:13:13,120
+in this case we're using uh the selling
+
+372
+00:13:13,120 --> 00:13:14,240
+on the stop
+
+373
+00:13:14,240 --> 00:13:16,639
+at the opening of a up candle
+
+374
+00:13:16,639 --> 00:13:18,399
+and the opportunity is and many times if
+
+375
+00:13:18,399 --> 00:13:19,760
+you look at these candles here you can
+
+376
+00:13:19,760 --> 00:13:21,440
+see how they return back to the same
+
+377
+00:13:21,440 --> 00:13:23,920
+candles you shorted from on a stop
+
+378
+00:13:23,920 --> 00:13:25,600
+they become bearish order blocks at a
+
+379
+00:13:25,600 --> 00:13:27,920
+later time too so you can actually
+
+380
+00:13:27,920 --> 00:13:29,920
+put more position in
+
+381
+00:13:29,920 --> 00:13:31,839
+and you can build in larger positions if
+
+382
+00:13:31,839 --> 00:13:33,680
+you start with a small amount allocated
+
+383
+00:13:33,680 --> 00:13:35,760
+to the initial position you can build in
+
+384
+00:13:35,760 --> 00:13:37,200
+another position in other words if you
+
+385
+00:13:37,200 --> 00:13:39,760
+go with a half position or half
+
+386
+00:13:39,760 --> 00:13:42,000
+of your traditional size you can go and
+
+387
+00:13:42,000 --> 00:13:44,320
+add more back in but have already
+
+388
+00:13:44,320 --> 00:13:47,040
+profited on portions that otherwise may
+
+389
+00:13:47,040 --> 00:13:49,440
+not have been viewed as an opportunity
+
+390
+00:13:49,440 --> 00:13:51,120
+so until we talk next time i wish you
+
+391
+00:13:51,120 --> 00:13:54,959
+good luck and good trading
+

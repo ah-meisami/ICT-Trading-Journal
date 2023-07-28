@@ -1,0 +1,1984 @@
+1
+00:00:13,400 --> 00:00:16,199
+welcome back folks this is lesson 4.1
+
+2
+00:00:16,199 --> 00:00:18,660
+implementing macro analysis
+
+3
+00:00:18,660 --> 00:00:20,340
+we're going to be teaching applying
+
+4
+00:00:20,340 --> 00:00:21,960
+seasonal Tendencies to hire time frame
+
+5
+00:00:21,960 --> 00:00:24,439
+analysis
+
+6
+00:00:26,100 --> 00:00:27,599
+this module is going to be teaching
+
+7
+00:00:27,599 --> 00:00:30,180
+bullish seasonals in higher time frame
+
+8
+00:00:30,180 --> 00:00:32,640
+analysis
+
+9
+00:00:32,640 --> 00:00:34,140
+okay you've probably seen this chart
+
+10
+00:00:34,140 --> 00:00:37,620
+before I've made uh available a few of
+
+11
+00:00:37,620 --> 00:00:40,559
+these templates over the years but we're
+
+12
+00:00:40,559 --> 00:00:42,660
+gonna be teaching specifically only on
+
+13
+00:00:42,660 --> 00:00:44,940
+the buy side for seasonal tendencies in
+
+14
+00:00:44,940 --> 00:00:46,920
+this teaching
+
+15
+00:00:46,920 --> 00:00:48,600
+and we'll be using the Canadian dollar
+
+16
+00:00:48,600 --> 00:00:50,039
+to begin with
+
+17
+00:00:50,039 --> 00:00:52,559
+and what this is is it's a 40-year
+
+18
+00:00:52,559 --> 00:00:55,739
+seasonal tendency where the price on
+
+19
+00:00:55,739 --> 00:00:57,539
+polish years and bearish years
+
+20
+00:00:57,539 --> 00:01:01,079
+have been compiled and compressed into a
+
+21
+00:01:01,079 --> 00:01:04,440
+file where the output gives us a
+
+22
+00:01:04,440 --> 00:01:07,080
+tendency for what price usually does for
+
+23
+00:01:07,080 --> 00:01:09,540
+each contract delivery month
+
+24
+00:01:09,540 --> 00:01:10,920
+I'm going to get into that in a minute
+
+25
+00:01:10,920 --> 00:01:13,439
+before we get into it deeper let's bring
+
+26
+00:01:13,439 --> 00:01:15,360
+up some points here seasonal Tendencies
+
+27
+00:01:15,360 --> 00:01:17,460
+are merely a proverbial roadmap of past
+
+28
+00:01:17,460 --> 00:01:18,960
+performance
+
+29
+00:01:18,960 --> 00:01:20,520
+and they are not to be viewed as a
+
+30
+00:01:20,520 --> 00:01:23,220
+Panacea or be all end-all concept
+
+31
+00:01:23,220 --> 00:01:25,020
+despite what you may see in this
+
+32
+00:01:25,020 --> 00:01:27,240
+teaching and the subsequent teaching in
+
+33
+00:01:27,240 --> 00:01:28,439
+4.2
+
+34
+00:01:28,439 --> 00:01:30,360
+please let me remind you that simply
+
+35
+00:01:30,360 --> 00:01:31,979
+because it's done something in the past
+
+36
+00:01:31,979 --> 00:01:34,619
+doesn't that in any way guarantee it's
+
+37
+00:01:34,619 --> 00:01:36,000
+going to do the same thing in the future
+
+38
+00:01:36,000 --> 00:01:39,119
+this is just one more tool to add a
+
+39
+00:01:39,119 --> 00:01:41,340
+Confluence of things that would already
+
+40
+00:01:41,340 --> 00:01:43,079
+lead you to an expectation that the
+
+41
+00:01:43,079 --> 00:01:46,220
+market should go higher or lower
+
+42
+00:01:49,680 --> 00:01:52,619
+okay folks this is the Canadian dollar
+
+43
+00:01:52,619 --> 00:01:54,479
+40-year seasonal tendency this is the
+
+44
+00:01:54,479 --> 00:01:56,159
+expanded view of the same chart you just
+
+45
+00:01:56,159 --> 00:01:57,119
+saw
+
+46
+00:01:57,119 --> 00:01:58,680
+and I want you to take a look at
+
+47
+00:01:58,680 --> 00:02:00,479
+something real quick
+
+48
+00:02:00,479 --> 00:02:02,399
+up here we have it says March
+
+49
+00:02:02,399 --> 00:02:04,939
+abbreviation June abbreviation
+
+50
+00:02:04,939 --> 00:02:07,680
+September's abbreviation December and
+
+51
+00:02:07,680 --> 00:02:09,239
+then back to March again
+
+52
+00:02:09,239 --> 00:02:12,120
+what this is delineating is the contract
+
+53
+00:02:12,120 --> 00:02:14,040
+delivery months for the Canadian dollar
+
+54
+00:02:14,040 --> 00:02:16,800
+now currencies they deliver on March
+
+55
+00:02:16,800 --> 00:02:19,319
+June September and December every single
+
+56
+00:02:19,319 --> 00:02:22,680
+year these months expire
+
+57
+00:02:22,680 --> 00:02:25,560
+these charts that I'm sharing with you
+
+58
+00:02:25,560 --> 00:02:30,840
+are a compilation of data over all the
+
+59
+00:02:30,840 --> 00:02:33,480
+delivery months price action for the
+
+60
+00:02:33,480 --> 00:02:35,099
+last 40 plus years
+
+61
+00:02:35,099 --> 00:02:38,580
+beginning in 1976 now this data is only
+
+62
+00:02:38,580 --> 00:02:42,239
+compiled up to 2015 but I can tell you
+
+63
+00:02:42,239 --> 00:02:45,180
+that the output is hardly changed at all
+
+64
+00:02:45,180 --> 00:02:47,580
+if you're concerned about it being 2017
+
+65
+00:02:47,580 --> 00:02:49,379
+is there any there is there any
+
+66
+00:02:49,379 --> 00:02:51,660
+deviation no there's not any deviation
+
+67
+00:02:51,660 --> 00:02:54,720
+at all so how do we look at these things
+
+68
+00:02:54,720 --> 00:02:56,580
+and what benefit does it give us well
+
+69
+00:02:56,580 --> 00:02:58,920
+let me ask you a question
+
+70
+00:02:58,920 --> 00:03:01,980
+if you were to if you were to ask the
+
+71
+00:03:01,980 --> 00:03:04,800
+average Trader that just now getting
+
+72
+00:03:04,800 --> 00:03:06,959
+into trading maybe it's not Forex maybe
+
+73
+00:03:06,959 --> 00:03:10,620
+it's stocks or or Commodities and you
+
+74
+00:03:10,620 --> 00:03:12,060
+ask them hey look
+
+75
+00:03:12,060 --> 00:03:14,760
+if I were to ask you today is the
+
+76
+00:03:14,760 --> 00:03:17,000
+markets manipulated to a degree where
+
+77
+00:03:17,000 --> 00:03:21,239
+well before Price ever starts to trade a
+
+78
+00:03:21,239 --> 00:03:22,920
+specific time of year would it be
+
+79
+00:03:22,920 --> 00:03:25,680
+inclined to go higher or lower based on
+
+80
+00:03:25,680 --> 00:03:27,540
+some underlying influence that repeats
+
+81
+00:03:27,540 --> 00:03:30,659
+itself and as a new Trader I could tell
+
+82
+00:03:30,659 --> 00:03:31,800
+you I would have never answered that
+
+83
+00:03:31,800 --> 00:03:33,060
+question with yeah I could probably
+
+84
+00:03:33,060 --> 00:03:34,500
+agree to that
+
+85
+00:03:34,500 --> 00:03:36,360
+um I it felt like a random thing to me
+
+86
+00:03:36,360 --> 00:03:39,180
+and one of the things that I like about
+
+87
+00:03:39,180 --> 00:03:42,120
+seasonal Tendencies is it gave a
+
+88
+00:03:42,120 --> 00:03:44,459
+characteristic to price that proved to
+
+89
+00:03:44,459 --> 00:03:46,440
+me that there is a rhyming reason behind
+
+90
+00:03:46,440 --> 00:03:48,720
+everything that goes on
+
+91
+00:03:48,720 --> 00:03:50,879
+if there's something that's measured and
+
+92
+00:03:50,879 --> 00:03:52,980
+again this is 40 years worth of data
+
+93
+00:03:52,980 --> 00:03:55,680
+okay 40 years worth of data
+
+94
+00:03:55,680 --> 00:03:58,500
+in the blue line the red line is a
+
+95
+00:03:58,500 --> 00:04:01,200
+15-year average so you can see between
+
+96
+00:04:01,200 --> 00:04:03,540
+looking at 40 years worth of data and 15
+
+97
+00:04:03,540 --> 00:04:05,459
+years worth of data there's very little
+
+98
+00:04:05,459 --> 00:04:07,560
+discrepancy in terms of what the overall
+
+99
+00:04:07,560 --> 00:04:10,080
+strong seasonal Tendencies are for this
+
+100
+00:04:10,080 --> 00:04:11,519
+particular currency
+
+101
+00:04:11,519 --> 00:04:13,319
+now since we're primarily dealing with
+
+102
+00:04:13,319 --> 00:04:15,420
+bullish seasonal tendencies in higher
+
+103
+00:04:15,420 --> 00:04:17,399
+time frame analysis for this module
+
+104
+00:04:17,399 --> 00:04:20,760
+we're going to not focus on bearish
+
+105
+00:04:20,760 --> 00:04:22,019
+patterns but we're going to be looking
+
+106
+00:04:22,019 --> 00:04:25,259
+for tendencies that lend well to being a
+
+107
+00:04:25,259 --> 00:04:26,340
+buyer
+
+108
+00:04:26,340 --> 00:04:27,900
+and if we're going to be doing higher
+
+109
+00:04:27,900 --> 00:04:29,460
+time frame analysis and we want to be
+
+110
+00:04:29,460 --> 00:04:31,620
+buying on these higher time frame charts
+
+111
+00:04:31,620 --> 00:04:33,479
+and using it for ideas for being
+
+112
+00:04:33,479 --> 00:04:35,100
+position Trader
+
+113
+00:04:35,100 --> 00:04:37,380
+looking at this seasonal tendency I'm
+
+114
+00:04:37,380 --> 00:04:39,540
+going to ask you what
+
+115
+00:04:39,540 --> 00:04:41,820
+time of year now time of year is going
+
+116
+00:04:41,820 --> 00:04:43,500
+to be delineate at the bottom of the
+
+117
+00:04:43,500 --> 00:04:44,820
+chart down here you can see it's all
+
+118
+00:04:44,820 --> 00:04:46,979
+dated here's December November October
+
+119
+00:04:46,979 --> 00:04:50,580
+this is all calendar month based this is
+
+120
+00:04:50,580 --> 00:04:53,040
+contract delivery months okay you can
+
+121
+00:04:53,040 --> 00:04:54,600
+see the vertical lines delineating when
+
+122
+00:04:54,600 --> 00:04:55,800
+that contract
+
+123
+00:04:55,800 --> 00:04:58,860
+March would end trading here that would
+
+124
+00:04:58,860 --> 00:05:00,419
+be the beginning of June's trading
+
+125
+00:05:00,419 --> 00:05:02,340
+contract and then June would end here
+
+126
+00:05:02,340 --> 00:05:04,380
+and it would pick up at September's
+
+127
+00:05:04,380 --> 00:05:06,300
+contract and so on going through the
+
+128
+00:05:06,300 --> 00:05:08,340
+season sanity chart
+
+129
+00:05:08,340 --> 00:05:10,919
+if I were to ask you what would be your
+
+130
+00:05:10,919 --> 00:05:13,259
+first choice in deciding when would be a
+
+131
+00:05:13,259 --> 00:05:15,979
+good time to buy
+
+132
+00:05:17,400 --> 00:05:19,560
+well if you were
+
+133
+00:05:19,560 --> 00:05:22,139
+paying attention you can see that this
+
+134
+00:05:22,139 --> 00:05:23,580
+is probably a really good time to be
+
+135
+00:05:23,580 --> 00:05:26,940
+buying around mid-march
+
+136
+00:05:26,940 --> 00:05:30,539
+all the way up into the May June time
+
+137
+00:05:30,539 --> 00:05:31,800
+period
+
+138
+00:05:31,800 --> 00:05:35,340
+so between March and June there
+
+139
+00:05:35,340 --> 00:05:38,699
+typically is a strong tendency for the
+
+140
+00:05:38,699 --> 00:05:41,639
+Canadian dollar to Rally
+
+141
+00:05:41,639 --> 00:05:44,039
+now some of you may think to yourself
+
+142
+00:05:44,039 --> 00:05:45,600
+well that's great you know if this is
+
+143
+00:05:45,600 --> 00:05:48,919
+the contract month for Canadian dollar
+
+144
+00:05:48,919 --> 00:05:51,060
+what does that mean to me if I'm not
+
+145
+00:05:51,060 --> 00:05:52,620
+really a Futures Trader
+
+146
+00:05:52,620 --> 00:05:54,180
+well the main thing is is this is the
+
+147
+00:05:54,180 --> 00:05:56,280
+seasonal tendency that you would expect
+
+148
+00:05:56,280 --> 00:05:58,740
+Canadian dollar Futures to Rally now it
+
+149
+00:05:58,740 --> 00:06:00,000
+does not mean that it's going to Rally
+
+150
+00:06:00,000 --> 00:06:02,580
+every single year march to June doesn't
+
+151
+00:06:02,580 --> 00:06:04,259
+mean that it just means that there's a
+
+152
+00:06:04,259 --> 00:06:06,360
+strong probability that historically
+
+153
+00:06:06,360 --> 00:06:08,340
+looking back over 40 years worth of data
+
+154
+00:06:08,340 --> 00:06:10,680
+and comparing it against 15 years worth
+
+155
+00:06:10,680 --> 00:06:14,039
+of data there is a strong underlying
+
+156
+00:06:14,039 --> 00:06:17,039
+well there I say it element of Truth to
+
+157
+00:06:17,039 --> 00:06:18,960
+the fact that there is a tendency for
+
+158
+00:06:18,960 --> 00:06:20,699
+this to Rally problem is
+
+159
+00:06:20,699 --> 00:06:23,039
+if you're not a Futures Contract Trader
+
+160
+00:06:23,039 --> 00:06:25,259
+this doesn't do anything for you
+
+161
+00:06:25,259 --> 00:06:28,259
+or does it if we are trading foreign
+
+162
+00:06:28,259 --> 00:06:30,900
+exchange we have to remember that the
+
+163
+00:06:30,900 --> 00:06:32,340
+Canadian dollar is paired with the
+
+164
+00:06:32,340 --> 00:06:33,660
+dollar Index
+
+165
+00:06:33,660 --> 00:06:36,000
+now the dollar Index is the first in in
+
+166
+00:06:36,000 --> 00:06:37,979
+the pair's name so that means if we're
+
+167
+00:06:37,979 --> 00:06:41,639
+bearish one Canadian dollar the U.S CAD
+
+168
+00:06:41,639 --> 00:06:43,080
+is going to go
+
+169
+00:06:43,080 --> 00:06:45,780
+up if we're bullish on Canadian dollar
+
+170
+00:06:45,780 --> 00:06:48,479
+that means the U.S CAD pair is going to
+
+171
+00:06:48,479 --> 00:06:49,800
+go down
+
+172
+00:06:49,800 --> 00:06:52,259
+that means Canadian Dollars are bullish
+
+173
+00:06:52,259 --> 00:06:54,120
+while that would suppress the U.S dollar
+
+174
+00:06:54,120 --> 00:06:55,139
+Index
+
+175
+00:06:55,139 --> 00:06:57,300
+so since the pair's name begins with U.S
+
+176
+00:06:57,300 --> 00:06:58,199
+dollar
+
+177
+00:06:58,199 --> 00:07:00,479
+opposite would be seen in what we expect
+
+178
+00:07:00,479 --> 00:07:04,199
+to see in the Futures Contract so
+
+179
+00:07:04,199 --> 00:07:06,300
+what we have to do is focus in on a
+
+180
+00:07:06,300 --> 00:07:07,500
+seasonal tendency on the Futures
+
+181
+00:07:07,500 --> 00:07:10,680
+Contract that shows us a bearish tone in
+
+182
+00:07:10,680 --> 00:07:11,699
+the marketplace
+
+183
+00:07:11,699 --> 00:07:12,660
+so you can see we're here between
+
+184
+00:07:12,660 --> 00:07:14,699
+September and around Christmas time in
+
+185
+00:07:14,699 --> 00:07:16,440
+December there typically is a strong
+
+186
+00:07:16,440 --> 00:07:17,639
+tendency
+
+187
+00:07:17,639 --> 00:07:21,599
+for the Canadian dollar to decline on
+
+188
+00:07:21,599 --> 00:07:25,380
+in the underlying Futures Contract so we
+
+189
+00:07:25,380 --> 00:07:26,580
+have to take this into account when
+
+190
+00:07:26,580 --> 00:07:27,840
+we're looking at foreign exchange
+
+191
+00:07:27,840 --> 00:07:30,000
+because the U.S CAD pair is an inversion
+
+192
+00:07:30,000 --> 00:07:32,340
+of what the Futures Contract shows for
+
+193
+00:07:32,340 --> 00:07:34,319
+Canadian dollar Futures price
+
+194
+00:07:34,319 --> 00:07:36,419
+so if there's a strong tenancy for
+
+195
+00:07:36,419 --> 00:07:38,639
+September October November and December
+
+196
+00:07:38,639 --> 00:07:42,539
+to have a decline in the Canadian dollar
+
+197
+00:07:42,539 --> 00:07:45,660
+that should be a bullish scenario for
+
+198
+00:07:45,660 --> 00:07:47,099
+U.S CAD
+
+199
+00:07:47,099 --> 00:07:49,860
+let's take this over to the charts and
+
+200
+00:07:49,860 --> 00:07:52,199
+see if this in fact has any validity to
+
+201
+00:07:52,199 --> 00:07:54,319
+it
+
+202
+00:07:56,940 --> 00:07:58,620
+okay we're focusing on the bullish
+
+203
+00:07:58,620 --> 00:08:00,720
+seasonal Tendencies we have our U.S CAD
+
+204
+00:08:00,720 --> 00:08:03,060
+chart this is a weekly chart and I went
+
+205
+00:08:03,060 --> 00:08:06,240
+back to 2008
+
+206
+00:08:06,240 --> 00:08:08,099
+just to give you a nice sample size of
+
+207
+00:08:08,099 --> 00:08:12,539
+data and I started the line at the
+
+208
+00:08:12,539 --> 00:08:15,060
+beginning of September and I carried it
+
+209
+00:08:15,060 --> 00:08:18,599
+out in time to about midpoint of
+
+210
+00:08:18,599 --> 00:08:20,580
+December
+
+211
+00:08:20,580 --> 00:08:23,099
+you can see that shaded area all the way
+
+212
+00:08:23,099 --> 00:08:24,740
+to the left here
+
+213
+00:08:24,740 --> 00:08:27,660
+this is when we'd expect to see the
+
+214
+00:08:27,660 --> 00:08:29,520
+Canadian dollar
+
+215
+00:08:29,520 --> 00:08:31,440
+to be bearish
+
+216
+00:08:31,440 --> 00:08:33,419
+on the Futures underlying contract price
+
+217
+00:08:33,419 --> 00:08:35,520
+but because we're foreign exchange
+
+218
+00:08:35,520 --> 00:08:38,039
+Traders we have to be looking at it to
+
+219
+00:08:38,039 --> 00:08:40,020
+be reversed or inverted so that means it
+
+220
+00:08:40,020 --> 00:08:41,940
+would be bullish for the U.S CAD pair
+
+221
+00:08:41,940 --> 00:08:43,020
+because this is how we're trading the
+
+222
+00:08:43,020 --> 00:08:45,959
+major U.S against the cad
+
+223
+00:08:45,959 --> 00:08:47,580
+so this is the buying opportunity that
+
+224
+00:08:47,580 --> 00:08:49,140
+would be presented and look at the look
+
+225
+00:08:49,140 --> 00:08:52,019
+at the performance here on us CAD
+
+226
+00:08:52,019 --> 00:08:54,300
+as a relationship to the seasonal
+
+227
+00:08:54,300 --> 00:08:55,920
+tendency look how strong that buy was
+
+228
+00:08:55,920 --> 00:08:58,620
+look how many Pips it moved notice also
+
+229
+00:08:58,620 --> 00:08:59,640
+in here
+
+230
+00:08:59,640 --> 00:09:01,740
+this is the next time period very next
+
+231
+00:09:01,740 --> 00:09:02,459
+year
+
+232
+00:09:02,459 --> 00:09:04,920
+in 2009
+
+233
+00:09:04,920 --> 00:09:06,899
+this is a time when the season 10 should
+
+234
+00:09:06,899 --> 00:09:09,540
+should take place and that means the
+
+235
+00:09:09,540 --> 00:09:10,920
+Canadian dollar should be bearish on the
+
+236
+00:09:10,920 --> 00:09:12,480
+underlying Futures Contract but that
+
+237
+00:09:12,480 --> 00:09:15,060
+would be an inversion on U.S CAD pairs
+
+238
+00:09:15,060 --> 00:09:16,380
+that means we would expect bullishness
+
+239
+00:09:16,380 --> 00:09:18,240
+in here now while we didn't press up to
+
+240
+00:09:18,240 --> 00:09:19,620
+make new higher highs there was a nice
+
+241
+00:09:19,620 --> 00:09:21,600
+little pop nice little rally in here but
+
+242
+00:09:21,600 --> 00:09:23,279
+overall the direction was down so you
+
+243
+00:09:23,279 --> 00:09:24,899
+can see how the season tendency really
+
+244
+00:09:24,899 --> 00:09:27,480
+wasn't much help in terms of seeing much
+
+245
+00:09:27,480 --> 00:09:28,800
+like this
+
+246
+00:09:28,800 --> 00:09:30,240
+higher prices
+
+247
+00:09:30,240 --> 00:09:34,260
+very next year same thing very weak it
+
+248
+00:09:34,260 --> 00:09:36,600
+was lower now I'm going to ask you a
+
+249
+00:09:36,600 --> 00:09:38,940
+question look at these last two years
+
+250
+00:09:38,940 --> 00:09:40,380
+what was the underlying price Direction
+
+251
+00:09:40,380 --> 00:09:42,899
+on the weekly chart was it bullish or
+
+252
+00:09:42,899 --> 00:09:45,120
+bearish
+
+253
+00:09:45,120 --> 00:09:47,220
+bearish has been going lower
+
+254
+00:09:47,220 --> 00:09:50,160
+so would you be focusing on buying that
+
+255
+00:09:50,160 --> 00:09:51,240
+time of year
+
+256
+00:09:51,240 --> 00:09:53,279
+versus looking for opportunity to be a
+
+257
+00:09:53,279 --> 00:09:54,540
+seller
+
+258
+00:09:54,540 --> 00:09:56,700
+there's a hint for the next tutorial
+
+259
+00:09:56,700 --> 00:09:59,160
+4.2
+
+260
+00:09:59,160 --> 00:10:01,860
+going to 2011 we can see that the
+
+261
+00:10:01,860 --> 00:10:03,000
+seasonal tendency had a really nice
+
+262
+00:10:03,000 --> 00:10:05,700
+effect here after we made a nice low and
+
+263
+00:10:05,700 --> 00:10:07,320
+Market structures shifted to the bullish
+
+264
+00:10:07,320 --> 00:10:08,339
+side
+
+265
+00:10:08,339 --> 00:10:10,860
+and station overflow is now bullish and
+
+266
+00:10:10,860 --> 00:10:12,300
+during a time of year when the
+
+267
+00:10:12,300 --> 00:10:14,160
+underlying Futures Contract for Canadian
+
+268
+00:10:14,160 --> 00:10:16,980
+prices should be going lower
+
+269
+00:10:16,980 --> 00:10:19,500
+that's bullish for U.S CAD so for a
+
+270
+00:10:19,500 --> 00:10:21,360
+foreign exchange Trader we're looking
+
+271
+00:10:21,360 --> 00:10:23,160
+for buys we had to look for weakness in
+
+272
+00:10:23,160 --> 00:10:24,600
+the online Futures Contract of the
+
+273
+00:10:24,600 --> 00:10:26,700
+Canadian dollar that would Propel price
+
+274
+00:10:26,700 --> 00:10:28,980
+higher at a time of the year when we
+
+275
+00:10:28,980 --> 00:10:31,200
+would expect prices to come in
+
+276
+00:10:31,200 --> 00:10:33,360
+same thing here the very next year 2012
+
+277
+00:10:33,360 --> 00:10:36,360
+we can see price again rallied up during
+
+278
+00:10:36,360 --> 00:10:38,160
+this time of the year
+
+279
+00:10:38,160 --> 00:10:40,380
+and now we're still bullish now look at
+
+280
+00:10:40,380 --> 00:10:42,000
+the effects of the seasonal tenancy
+
+281
+00:10:42,000 --> 00:10:43,920
+again we have a low and it starts
+
+282
+00:10:43,920 --> 00:10:45,779
+rallying up again
+
+283
+00:10:45,779 --> 00:10:48,899
+again same time of year September to
+
+284
+00:10:48,899 --> 00:10:51,000
+almost Christmas seasonal tendency
+
+285
+00:10:51,000 --> 00:10:52,620
+rallies again
+
+286
+00:10:52,620 --> 00:10:56,220
+same time period here rallies again and
+
+287
+00:10:56,220 --> 00:10:59,399
+again 2016 just passed we have a nice
+
+288
+00:10:59,399 --> 00:11:00,959
+rally up here as well seasonal tendency
+
+289
+00:11:00,959 --> 00:11:04,079
+come again once again strong now looking
+
+290
+00:11:04,079 --> 00:11:05,579
+at this again let me remind you what
+
+291
+00:11:05,579 --> 00:11:07,920
+we're looking at is underlying weakness
+
+292
+00:11:07,920 --> 00:11:10,500
+in the Futures Contract so if it's
+
+293
+00:11:10,500 --> 00:11:11,940
+underlying weakness in the Futures
+
+294
+00:11:11,940 --> 00:11:13,800
+Contract for a Canadian dollar the
+
+295
+00:11:13,800 --> 00:11:16,140
+inversion puts it to a bullish stance
+
+296
+00:11:16,140 --> 00:11:17,700
+for U.S CAD
+
+297
+00:11:17,700 --> 00:11:19,380
+so it's very important that's why I
+
+298
+00:11:19,380 --> 00:11:21,660
+taught this one specifically because I'm
+
+299
+00:11:21,660 --> 00:11:23,220
+showing you how we have to take the
+
+300
+00:11:23,220 --> 00:11:24,300
+seasonal tendency from the Futures
+
+301
+00:11:24,300 --> 00:11:25,680
+Contract for some of the majors that are
+
+302
+00:11:25,680 --> 00:11:26,820
+appeared with a dollar
+
+303
+00:11:26,820 --> 00:11:28,920
+their currencies start with U.S CAD so
+
+304
+00:11:28,920 --> 00:11:30,120
+it's going to be an inversion so what
+
+305
+00:11:30,120 --> 00:11:31,320
+you would expect to see in the Futures
+
+306
+00:11:31,320 --> 00:11:33,959
+Contract has to be reversed in some of
+
+307
+00:11:33,959 --> 00:11:35,459
+the currencies that are paired out with
+
+308
+00:11:35,459 --> 00:11:37,680
+the dollar
+
+309
+00:11:37,680 --> 00:11:39,180
+so now
+
+310
+00:11:39,180 --> 00:11:42,120
+by itself it doesn't mean anything but a
+
+311
+00:11:42,120 --> 00:11:44,519
+coupled with other things
+
+312
+00:11:44,519 --> 00:11:46,920
+like quarterly shifts
+
+313
+00:11:46,920 --> 00:11:48,480
+remember that
+
+314
+00:11:48,480 --> 00:11:50,160
+every three or four months there's going
+
+315
+00:11:50,160 --> 00:11:52,800
+to be a move on a hard time frame
+
+316
+00:11:52,800 --> 00:11:54,839
+now we're adding another dimension to
+
+317
+00:11:54,839 --> 00:11:55,620
+that
+
+318
+00:11:55,620 --> 00:11:57,540
+it's one thing they expect to move every
+
+319
+00:11:57,540 --> 00:12:00,180
+three to four months but where is that
+
+320
+00:12:00,180 --> 00:12:01,800
+move going what what should we be
+
+321
+00:12:01,800 --> 00:12:03,660
+focusing on should we be buying or
+
+322
+00:12:03,660 --> 00:12:06,060
+should we be selling
+
+323
+00:12:06,060 --> 00:12:08,399
+seasonal Tendencies give us a road map
+
+324
+00:12:08,399 --> 00:12:11,700
+to help build the idea that okay there's
+
+325
+00:12:11,700 --> 00:12:13,920
+certain quarters of the year that we
+
+326
+00:12:13,920 --> 00:12:15,540
+want to be a buyer and there's certain
+
+327
+00:12:15,540 --> 00:12:17,339
+quarters of the year that we want to be
+
+328
+00:12:17,339 --> 00:12:18,420
+a seller
+
+329
+00:12:18,420 --> 00:12:21,180
+and we anticipate this year in and year
+
+330
+00:12:21,180 --> 00:12:23,459
+out the only difference is is we're
+
+331
+00:12:23,459 --> 00:12:24,779
+going to be looking for markets that
+
+332
+00:12:24,779 --> 00:12:27,000
+already predisposed to go higher and
+
+333
+00:12:27,000 --> 00:12:29,399
+then coupling that with the bullishness
+
+334
+00:12:29,399 --> 00:12:32,100
+of seasonal tendencies
+
+335
+00:12:32,100 --> 00:12:33,899
+if we're looking at the Canadian dollar
+
+336
+00:12:33,899 --> 00:12:36,600
+we'd have to reverse it look for
+
+337
+00:12:36,600 --> 00:12:38,399
+weakness in the seasonal Tendencies on
+
+338
+00:12:38,399 --> 00:12:40,620
+the underlying creatures contract and
+
+339
+00:12:40,620 --> 00:12:42,360
+then apply it to the U.S cat as
+
+340
+00:12:42,360 --> 00:12:44,160
+bullishness because it's an inversion of
+
+341
+00:12:44,160 --> 00:12:45,839
+Futures Contract prices for Canadian
+
+342
+00:12:45,839 --> 00:12:47,700
+dollar
+
+343
+00:12:47,700 --> 00:12:49,620
+if we see times when the Canadian dollar
+
+344
+00:12:49,620 --> 00:12:53,639
+is bullish underlying U.S CAD payer and
+
+345
+00:12:53,639 --> 00:12:55,620
+this seasonal tenancy September to
+
+346
+00:12:55,620 --> 00:12:57,360
+almost Christmas every single year
+
+347
+00:12:57,360 --> 00:13:00,180
+there's a strong tendency for it to be
+
+348
+00:13:00,180 --> 00:13:02,579
+bullish between that time period that
+
+349
+00:13:02,579 --> 00:13:04,740
+means there's many weeks where you can
+
+350
+00:13:04,740 --> 00:13:06,060
+be a bullish
+
+351
+00:13:06,060 --> 00:13:10,200
+U.S CAD Trader if the underlying pair of
+
+352
+00:13:10,200 --> 00:13:12,899
+us cat is bullish this is going back
+
+353
+00:13:12,899 --> 00:13:14,700
+several years and I only gave you this
+
+354
+00:13:14,700 --> 00:13:16,680
+sample size because if I'll give you any
+
+355
+00:13:16,680 --> 00:13:18,959
+more data it'll ruin all the discoveries
+
+356
+00:13:18,959 --> 00:13:20,519
+if you go back and study for yourself
+
+357
+00:13:20,519 --> 00:13:23,760
+but you can see here clearly many
+
+358
+00:13:23,760 --> 00:13:25,680
+instances when the underlying Market
+
+359
+00:13:25,680 --> 00:13:29,100
+moves are in line with the macro trend
+
+360
+00:13:29,100 --> 00:13:31,500
+seasonal Tendencies are absolutely a
+
+361
+00:13:31,500 --> 00:13:34,139
+barn burner for delivering what you
+
+362
+00:13:34,139 --> 00:13:35,579
+should be doing for each quarter of the
+
+363
+00:13:35,579 --> 00:13:37,920
+year in this case you have a loaded deal
+
+364
+00:13:37,920 --> 00:13:40,260
+if you're looking for a buying
+
+365
+00:13:40,260 --> 00:13:42,480
+opportunity for us CAD it's between
+
+366
+00:13:42,480 --> 00:13:44,760
+September and getting close to Christmas
+
+367
+00:13:44,760 --> 00:13:46,440
+every single year when the Market's
+
+368
+00:13:46,440 --> 00:13:48,360
+predisposed to go higher
+
+369
+00:13:48,360 --> 00:13:49,860
+what quarterly shift are you gonna be
+
+370
+00:13:49,860 --> 00:13:51,420
+looking for now
+
+371
+00:13:51,420 --> 00:13:54,500
+looking for longs
+
+372
+00:13:57,480 --> 00:13:59,399
+okay so now we're going to look at a
+
+373
+00:13:59,399 --> 00:14:00,779
+market that's closely related to
+
+374
+00:14:00,779 --> 00:14:02,399
+Canadian dollar
+
+375
+00:14:02,399 --> 00:14:04,860
+its number one export is crude oil
+
+376
+00:14:04,860 --> 00:14:07,200
+and here we have another example
+
+377
+00:14:07,200 --> 00:14:10,440
+just as a supporting idea
+
+378
+00:14:10,440 --> 00:14:12,240
+if he looked at this Market over here
+
+379
+00:14:12,240 --> 00:14:14,519
+you would expect to see bullish prices
+
+380
+00:14:14,519 --> 00:14:17,339
+for a rally in the crude oil market and
+
+381
+00:14:17,339 --> 00:14:20,040
+that rally comes in around coming in
+
+382
+00:14:20,040 --> 00:14:22,860
+about mid February going into March and
+
+383
+00:14:22,860 --> 00:14:25,620
+carrying into May June time period
+
+384
+00:14:25,620 --> 00:14:28,680
+so we're expecting bullishness in the
+
+385
+00:14:28,680 --> 00:14:30,839
+crude oil market and since
+
+386
+00:14:30,839 --> 00:14:32,940
+Canadian dollar generally moves almost
+
+387
+00:14:32,940 --> 00:14:36,060
+in tandem with a little the strong
+
+388
+00:14:36,060 --> 00:14:39,120
+tendency for the Canadian dollar the
+
+389
+00:14:39,120 --> 00:14:40,019
+rally
+
+390
+00:14:40,019 --> 00:14:42,660
+and the crude oil Market to rally at
+
+391
+00:14:42,660 --> 00:14:45,380
+this time of year that means we have a
+
+392
+00:14:45,380 --> 00:14:49,320
+march to June basically a
+
+393
+00:14:49,320 --> 00:14:52,500
+bullish effect for Canadian dollar and
+
+394
+00:14:52,500 --> 00:14:54,600
+crude oil coupled together so that's a
+
+395
+00:14:54,600 --> 00:14:55,740
+strong tendency
+
+396
+00:14:55,740 --> 00:14:58,380
+but again because we're looking at
+
+397
+00:14:58,380 --> 00:15:00,779
+Canadian dollar in the Foreign Exchange
+
+398
+00:15:00,779 --> 00:15:03,959
+Market this would have to be reversed
+
+399
+00:15:03,959 --> 00:15:07,560
+so we'll save that study for you in
+
+400
+00:15:07,560 --> 00:15:08,519
+addition to what's already been
+
+401
+00:15:08,519 --> 00:15:09,720
+presented here but I want to show you
+
+402
+00:15:09,720 --> 00:15:12,959
+the Futures Contract price for crude oil
+
+403
+00:15:12,959 --> 00:15:18,860
+between around March to June time period
+
+404
+00:15:21,000 --> 00:15:23,279
+okay here's the crude oil markets the
+
+405
+00:15:23,279 --> 00:15:25,199
+weekly chart and I just went back to
+
+406
+00:15:25,199 --> 00:15:29,579
+January uh 14 2014.
+
+407
+00:15:29,579 --> 00:15:31,139
+and obviously you can see here's this is
+
+408
+00:15:31,139 --> 00:15:33,120
+a bearish market here it's been in a
+
+409
+00:15:33,120 --> 00:15:34,680
+long-term downtrend when the collapse of
+
+410
+00:15:34,680 --> 00:15:37,440
+the oil Market from around the 105 level
+
+411
+00:15:37,440 --> 00:15:38,880
+but let's take a look at the bullishness
+
+412
+00:15:38,880 --> 00:15:40,680
+of that seasonal tendency again looking
+
+413
+00:15:40,680 --> 00:15:44,100
+for that march to June time period
+
+414
+00:15:44,100 --> 00:15:46,440
+okay so here's March all the way through
+
+415
+00:15:46,440 --> 00:15:49,560
+to June you can see the rally in the
+
+416
+00:15:49,560 --> 00:15:51,240
+crude oil Market
+
+417
+00:15:51,240 --> 00:15:53,519
+rate when it made its high and
+
+418
+00:15:53,519 --> 00:15:56,160
+the 2014 time period
+
+419
+00:15:56,160 --> 00:15:58,620
+and the next year we'd be looking for
+
+420
+00:15:58,620 --> 00:16:00,899
+the same seasonal tendency between March
+
+421
+00:16:00,899 --> 00:16:02,579
+and June all the way up into the first
+
+422
+00:16:02,579 --> 00:16:03,779
+of July
+
+423
+00:16:03,779 --> 00:16:05,880
+we can see it again here rallies once
+
+424
+00:16:05,880 --> 00:16:07,980
+more even in a bear Market it's still
+
+425
+00:16:07,980 --> 00:16:09,240
+there
+
+426
+00:16:09,240 --> 00:16:11,160
+we don't force the trades but I'm just
+
+427
+00:16:11,160 --> 00:16:12,660
+showing you the seasonal tendency that's
+
+428
+00:16:12,660 --> 00:16:14,940
+existing in the marketplace that should
+
+429
+00:16:14,940 --> 00:16:16,920
+convince you that there is an absolute
+
+430
+00:16:16,920 --> 00:16:18,720
+program to everything that goes on
+
+431
+00:16:18,720 --> 00:16:22,680
+despite fly-in domain factors there are
+
+432
+00:16:22,680 --> 00:16:25,199
+very routine things that take place and
+
+433
+00:16:25,199 --> 00:16:26,820
+they repeat themselves over and over
+
+434
+00:16:26,820 --> 00:16:28,199
+again
+
+435
+00:16:28,199 --> 00:16:31,260
+and again in 2016 we have March 2 the
+
+436
+00:16:31,260 --> 00:16:33,120
+1st of July encompassing the whole month
+
+437
+00:16:33,120 --> 00:16:35,459
+of June you can see that rally again
+
+438
+00:16:35,459 --> 00:16:37,920
+comes in for crude oil now my question
+
+439
+00:16:37,920 --> 00:16:40,139
+to you is this if you can see these
+
+440
+00:16:40,139 --> 00:16:41,699
+opportunities
+
+441
+00:16:41,699 --> 00:16:44,339
+repeating themselves based on the data
+
+442
+00:16:44,339 --> 00:16:45,959
+that I'm sharing with these reports and
+
+443
+00:16:45,959 --> 00:16:48,720
+seasonal tendency charts
+
+444
+00:16:48,720 --> 00:16:50,880
+is it hard not to feel like they're
+
+445
+00:16:50,880 --> 00:16:52,860
+treasure maps because that's exactly
+
+446
+00:16:52,860 --> 00:16:54,180
+what it felt like for me as a young man
+
+447
+00:16:54,180 --> 00:16:55,980
+when I was in my 20s and I saw these
+
+448
+00:16:55,980 --> 00:16:58,459
+seasonal tendency charts and I
+
+449
+00:16:58,459 --> 00:17:01,380
+admittedly pushed them aside for a first
+
+450
+00:17:01,380 --> 00:17:03,300
+couple months and then finally I got
+
+451
+00:17:03,300 --> 00:17:04,859
+into the study of seasonal Tendencies
+
+452
+00:17:04,859 --> 00:17:07,679
+and I realized that quickly right away
+
+453
+00:17:07,679 --> 00:17:10,020
+that there is something to them now
+
+454
+00:17:10,020 --> 00:17:11,640
+admittedly I've lost money traded them
+
+455
+00:17:11,640 --> 00:17:13,439
+in the beginning I had no idea what I
+
+456
+00:17:13,439 --> 00:17:14,760
+was doing I just thought every time it
+
+457
+00:17:14,760 --> 00:17:16,319
+would work so therefore I loaded up the
+
+458
+00:17:16,319 --> 00:17:18,299
+boat and traded way too many things and
+
+459
+00:17:18,299 --> 00:17:20,880
+too many times got burned doing it
+
+460
+00:17:20,880 --> 00:17:22,679
+so put on the back burner until I
+
+461
+00:17:22,679 --> 00:17:24,359
+realize there's this quarterly shift
+
+462
+00:17:24,359 --> 00:17:25,980
+that takes place in the marketplace and
+
+463
+00:17:25,980 --> 00:17:28,980
+I'm matured now and I can look back and
+
+464
+00:17:28,980 --> 00:17:32,040
+I can pick out where the highest
+
+465
+00:17:32,040 --> 00:17:34,440
+probability seasonal Tendencies are for
+
+466
+00:17:34,440 --> 00:17:36,360
+certain times of the year certain
+
+467
+00:17:36,360 --> 00:17:39,059
+markets have really strong seasonal
+
+468
+00:17:39,059 --> 00:17:42,059
+Tendencies to move a specific three to
+
+469
+00:17:42,059 --> 00:17:44,940
+four month cycle every single year when
+
+470
+00:17:44,940 --> 00:17:47,940
+it's bullish and when it's bearish
+
+471
+00:17:47,940 --> 00:17:50,220
+if we can focus in on those Quarters on
+
+472
+00:17:50,220 --> 00:17:52,020
+those particular currency pairs or those
+
+473
+00:17:52,020 --> 00:17:56,160
+asset classes we have a loaded deal in
+
+474
+00:17:56,160 --> 00:17:57,780
+the form of odds it doesn't mean it's
+
+475
+00:17:57,780 --> 00:17:59,340
+going to be profitable every time it
+
+476
+00:17:59,340 --> 00:18:00,360
+doesn't mean it's a guaranteed it's
+
+477
+00:18:00,360 --> 00:18:02,760
+going to be accurate it just means that
+
+478
+00:18:02,760 --> 00:18:05,100
+we have a high odds probability that our
+
+479
+00:18:05,100 --> 00:18:08,520
+prognostication will lead us to a
+
+480
+00:18:08,520 --> 00:18:11,520
+successful outcome this is just one
+
+481
+00:18:11,520 --> 00:18:14,460
+example of how correlated pairs between
+
+482
+00:18:14,460 --> 00:18:18,480
+Canadian dollar and cruel both can lean
+
+483
+00:18:18,480 --> 00:18:20,220
+well with one another in terms of
+
+484
+00:18:20,220 --> 00:18:22,740
+seasonal Tendencies and even in the
+
+485
+00:18:22,740 --> 00:18:24,240
+bearish market the crude oil Market's
+
+486
+00:18:24,240 --> 00:18:26,640
+been in you can see that the nice big
+
+487
+00:18:26,640 --> 00:18:28,919
+rallies that's occurred happened to
+
+488
+00:18:28,919 --> 00:18:29,820
+script
+
+489
+00:18:29,820 --> 00:18:32,220
+with a seasonal tendency we're going to
+
+490
+00:18:32,220 --> 00:18:34,919
+teach more about this in module 4.2 and
+
+491
+00:18:34,919 --> 00:18:36,059
+I'm going to talk about the bearishness
+
+492
+00:18:36,059 --> 00:18:38,160
+as well and in that module I'm actually
+
+493
+00:18:38,160 --> 00:18:39,480
+going to share all of the seasonal
+
+494
+00:18:39,480 --> 00:18:41,640
+Tendencies I have for all the currencies
+
+495
+00:18:41,640 --> 00:18:43,320
+and until next time wish you good luck
+
+496
+00:18:43,320 --> 00:18:46,280
+and good Trading
+

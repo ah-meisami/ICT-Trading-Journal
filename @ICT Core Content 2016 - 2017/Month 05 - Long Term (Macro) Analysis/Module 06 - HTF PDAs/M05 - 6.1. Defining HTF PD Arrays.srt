@@ -1,0 +1,3756 @@
+1
+00:00:17,039 --> 00:00:19,600
+welcome back folks this is lesson 6.1
+
+2
+00:00:19,600 --> 00:00:22,240
+of the january 2017 ict mentorship
+
+3
+00:00:22,240 --> 00:00:26,920
+defining high time frame pd arrays
+
+4
+00:00:30,160 --> 00:00:32,960
+okay when we look at a chart
+
+5
+00:00:32,960 --> 00:00:34,079
+regardless of what time frame we're
+
+6
+00:00:34,079 --> 00:00:36,160
+looking at it uh there's two elements
+
+7
+00:00:36,160 --> 00:00:38,079
+that come to mind as a trader obviously
+
+8
+00:00:38,079 --> 00:00:39,440
+we think in terms of support or
+
+9
+00:00:39,440 --> 00:00:41,440
+resistance or we think in terms of audit
+
+10
+00:00:41,440 --> 00:00:43,600
+we're sold we think in terms of price
+
+11
+00:00:43,600 --> 00:00:46,239
+patterns uh secondary but
+
+12
+00:00:46,239 --> 00:00:47,920
+generally we think of
+
+13
+00:00:47,920 --> 00:00:50,559
+a price being valued too low or too
+
+14
+00:00:50,559 --> 00:00:53,440
+cheap or expensive or too high
+
+15
+00:00:53,440 --> 00:00:54,480
+and
+
+16
+00:00:54,480 --> 00:00:55,840
+the algorithm
+
+17
+00:00:55,840 --> 00:00:58,559
+has similar thought processes built into
+
+18
+00:00:58,559 --> 00:00:59,359
+it
+
+19
+00:00:59,359 --> 00:01:01,760
+and we look at it in the form of a
+
+20
+00:01:01,760 --> 00:01:04,000
+premium and a discount market for the
+
+21
+00:01:04,000 --> 00:01:05,040
+sake of
+
+22
+00:01:05,040 --> 00:01:07,520
+discussion just think of this red line
+
+23
+00:01:07,520 --> 00:01:10,640
+at the top as a resistance and a blue
+
+24
+00:01:10,640 --> 00:01:14,080
+level in the bottom being support
+
+25
+00:01:14,080 --> 00:01:15,680
+as price starts to move away from a
+
+26
+00:01:15,680 --> 00:01:17,840
+level that would be viewed as too cheap
+
+27
+00:01:17,840 --> 00:01:19,439
+or support
+
+28
+00:01:19,439 --> 00:01:21,439
+naturally our expectations as traders we
+
+29
+00:01:21,439 --> 00:01:23,520
+expect to see price move higher
+
+30
+00:01:23,520 --> 00:01:26,479
+when it does this we're confirmed to see
+
+31
+00:01:26,479 --> 00:01:27,520
+a
+
+32
+00:01:27,520 --> 00:01:30,400
+response moving up to a resistance point
+
+33
+00:01:30,400 --> 00:01:32,400
+of some kind now the problem is with
+
+34
+00:01:32,400 --> 00:01:33,920
+retail trading and with technical
+
+35
+00:01:33,920 --> 00:01:35,759
+analysis as a whole
+
+36
+00:01:35,759 --> 00:01:38,400
+by itself it doesn't help you because
+
+37
+00:01:38,400 --> 00:01:39,680
+every one of us could come to the
+
+38
+00:01:39,680 --> 00:01:42,320
+conclusion that a specific level above
+
+39
+00:01:42,320 --> 00:01:44,400
+current price action would be a
+
+40
+00:01:44,400 --> 00:01:46,399
+resistance level
+
+41
+00:01:46,399 --> 00:01:48,880
+some of us will see it as a an old load
+
+42
+00:01:48,880 --> 00:01:50,159
+they would be trading to some of us
+
+43
+00:01:50,159 --> 00:01:51,840
+would see an old high some of us would
+
+44
+00:01:51,840 --> 00:01:54,000
+see something else that would equate to
+
+45
+00:01:54,000 --> 00:01:55,600
+a resistance level
+
+46
+00:01:55,600 --> 00:01:56,880
+now
+
+47
+00:01:56,880 --> 00:01:58,960
+to remove all the ambiguity
+
+48
+00:01:58,960 --> 00:02:01,920
+you have to have a mindset going into it
+
+49
+00:02:01,920 --> 00:02:03,040
+and
+
+50
+00:02:03,040 --> 00:02:05,280
+this teaching is to teach you the
+
+51
+00:02:05,280 --> 00:02:08,000
+hierarchy on the tools that i use for
+
+52
+00:02:08,000 --> 00:02:09,598
+framing the trades
+
+53
+00:02:09,598 --> 00:02:11,920
+now these same arrays are the same
+
+54
+00:02:11,920 --> 00:02:13,440
+things that we've talked about since the
+
+55
+00:02:13,440 --> 00:02:15,200
+beginning of the mentorship but we're
+
+56
+00:02:15,200 --> 00:02:18,080
+going to prevent you from having them
+
+57
+00:02:18,080 --> 00:02:20,400
+in a disorganized fashion in other words
+
+58
+00:02:20,400 --> 00:02:22,720
+there's an iraqi in how they are used
+
+59
+00:02:22,720 --> 00:02:25,920
+and how you look for them in price
+
+60
+00:02:25,920 --> 00:02:28,640
+as price makes a retracement lower from
+
+61
+00:02:28,640 --> 00:02:30,400
+a support level
+
+62
+00:02:30,400 --> 00:02:32,720
+how far does it usually retrace back
+
+63
+00:02:32,720 --> 00:02:34,720
+all of us again based on different walks
+
+64
+00:02:34,720 --> 00:02:36,640
+of technical analysis and different
+
+65
+00:02:36,640 --> 00:02:38,480
+disciplines we'll all have a different
+
+66
+00:02:38,480 --> 00:02:39,760
+conclusion some of us would use a
+
+67
+00:02:39,760 --> 00:02:42,319
+fibonacci some of us would use some
+
+68
+00:02:42,319 --> 00:02:44,879
+fashion of support and resistance some
+
+69
+00:02:44,879 --> 00:02:46,959
+of us would use elliott weave and
+
+70
+00:02:46,959 --> 00:02:49,280
+ratios and harmonic patterns all kinds
+
+71
+00:02:49,280 --> 00:02:51,360
+of things would come
+
+72
+00:02:51,360 --> 00:02:54,000
+by way of discussion if we were in a
+
+73
+00:02:54,000 --> 00:02:56,000
+round table meeting we're all sitting in
+
+74
+00:02:56,000 --> 00:02:58,080
+the same room together we all have
+
+75
+00:02:58,080 --> 00:02:59,360
+different opinions about how far it
+
+76
+00:02:59,360 --> 00:03:01,280
+would retrace some of us wouldn't have
+
+77
+00:03:01,280 --> 00:03:03,360
+even expected a retracement
+
+78
+00:03:03,360 --> 00:03:05,360
+okay some of us would not see this as a
+
+79
+00:03:05,360 --> 00:03:06,879
+retracement but a
+
+80
+00:03:06,879 --> 00:03:08,800
+beginning of an all-out reversal to
+
+81
+00:03:08,800 --> 00:03:10,879
+trade below the old low
+
+82
+00:03:10,879 --> 00:03:12,720
+that's the problem every trader is
+
+83
+00:03:12,720 --> 00:03:14,080
+plagued with when they come into this
+
+84
+00:03:14,080 --> 00:03:15,040
+business
+
+85
+00:03:15,040 --> 00:03:16,480
+who's right
+
+86
+00:03:16,480 --> 00:03:19,440
+who has the the means of knowing with
+
+87
+00:03:19,440 --> 00:03:21,920
+great deal of prognostication what is a
+
+88
+00:03:21,920 --> 00:03:23,280
+support level and what is the resistance
+
+89
+00:03:23,280 --> 00:03:25,680
+level and therefore what will propel
+
+90
+00:03:25,680 --> 00:03:26,640
+price
+
+91
+00:03:26,640 --> 00:03:28,239
+away from the current market action
+
+92
+00:03:28,239 --> 00:03:31,120
+higher or lower because the common adage
+
+93
+00:03:31,120 --> 00:03:33,440
+is if i knew where price was going next
+
+94
+00:03:33,440 --> 00:03:34,720
+i wouldn't need to know anything else i
+
+95
+00:03:34,720 --> 00:03:37,200
+would make money that's not true because
+
+96
+00:03:37,200 --> 00:03:38,640
+you would find some other way to lose
+
+97
+00:03:38,640 --> 00:03:41,040
+money over leveraging or or
+
+98
+00:03:41,040 --> 00:03:42,159
+you
+
+99
+00:03:42,159 --> 00:03:43,519
+doing something different you shouldn't
+
+100
+00:03:43,519 --> 00:03:45,280
+be doing and you'll break a rule and
+
+101
+00:03:45,280 --> 00:03:47,360
+you'll get the emotional psychological
+
+102
+00:03:47,360 --> 00:03:49,040
+impact because of that and you'll end up
+
+103
+00:03:49,040 --> 00:03:51,120
+blowing the account
+
+104
+00:03:51,120 --> 00:03:52,400
+so
+
+105
+00:03:52,400 --> 00:03:53,840
+when we look at
+
+106
+00:03:53,840 --> 00:03:56,400
+charts we want to be viewing price in
+
+107
+00:03:56,400 --> 00:03:58,000
+the terms of are we in a premium or are
+
+108
+00:03:58,000 --> 00:04:01,200
+we in a discount market earlier in the
+
+109
+00:04:01,200 --> 00:04:02,879
+mentorship i taught how you could do
+
+110
+00:04:02,879 --> 00:04:04,080
+that but we're going to talk a little
+
+111
+00:04:04,080 --> 00:04:05,120
+bit more
+
+112
+00:04:05,120 --> 00:04:07,280
+in terms of how to frame that on higher
+
+113
+00:04:07,280 --> 00:04:08,959
+time frame charts
+
+114
+00:04:08,959 --> 00:04:11,599
+in the form of an hierarchy with the
+
+115
+00:04:11,599 --> 00:04:13,360
+arrays
+
+116
+00:04:13,360 --> 00:04:15,680
+as price starts to retrace and then
+
+117
+00:04:15,680 --> 00:04:18,000
+moves higher it hits a level of
+
+118
+00:04:18,000 --> 00:04:20,000
+resistance now for the sake of
+
+119
+00:04:20,000 --> 00:04:21,680
+discussion we're going to say we
+
+120
+00:04:21,680 --> 00:04:24,400
+collectively understand what would deem
+
+121
+00:04:24,400 --> 00:04:25,360
+a
+
+122
+00:04:25,360 --> 00:04:28,479
+resistance level to remove all the uh
+
+123
+00:04:28,479 --> 00:04:30,400
+secondary discussions that we could have
+
+124
+00:04:30,400 --> 00:04:31,600
+if we were
+
+125
+00:04:31,600 --> 00:04:33,680
+a front in front of one another in the
+
+126
+00:04:33,680 --> 00:04:35,680
+same setting in a you know live setting
+
+127
+00:04:35,680 --> 00:04:36,960
+where we could literally shake hands and
+
+128
+00:04:36,960 --> 00:04:38,800
+talk all of us would have an opinion
+
+129
+00:04:38,800 --> 00:04:41,360
+about what would constitute a resistance
+
+130
+00:04:41,360 --> 00:04:44,000
+level but we're going to say that this
+
+131
+00:04:44,000 --> 00:04:46,560
+level that's noted as red that is the
+
+132
+00:04:46,560 --> 00:04:50,400
+commonly agreed upon resistance level
+
+133
+00:04:50,400 --> 00:04:51,919
+the reasonable expectation would be to
+
+134
+00:04:51,919 --> 00:04:55,440
+see price move away when price does that
+
+135
+00:04:55,440 --> 00:04:57,360
+some of us would expect one more try to
+
+136
+00:04:57,360 --> 00:04:58,960
+get to that level maybe to go through it
+
+137
+00:04:58,960 --> 00:05:00,080
+or to fail
+
+138
+00:05:00,080 --> 00:05:01,840
+that's how i trade that's how i expect
+
+139
+00:05:01,840 --> 00:05:03,680
+to see price react
+
+140
+00:05:03,680 --> 00:05:05,040
+some of us would not even expect that
+
+141
+00:05:05,040 --> 00:05:07,039
+they would expect this one time punch up
+
+142
+00:05:07,039 --> 00:05:08,840
+there and then all together all you know
+
+143
+00:05:08,840 --> 00:05:10,639
+reversal
+
+144
+00:05:10,639 --> 00:05:12,400
+this is the type of setup i like to see
+
+145
+00:05:12,400 --> 00:05:15,360
+here another pass towards that old high
+
+146
+00:05:15,360 --> 00:05:16,800
+either it's going to give me a run
+
+147
+00:05:16,800 --> 00:05:17,759
+through
+
+148
+00:05:17,759 --> 00:05:20,080
+or a false break or it's going to give
+
+149
+00:05:20,080 --> 00:05:21,759
+me a failure swing
+
+150
+00:05:21,759 --> 00:05:23,600
+we talked about classifying
+
+151
+00:05:23,600 --> 00:05:25,840
+institutional price swings that's what
+
+152
+00:05:25,840 --> 00:05:26,800
+we've done
+
+153
+00:05:26,800 --> 00:05:28,560
+for that teaching
+
+154
+00:05:28,560 --> 00:05:30,000
+here i want you to start thinking in
+
+155
+00:05:30,000 --> 00:05:32,560
+terms of premium and discount on higher
+
+156
+00:05:32,560 --> 00:05:35,120
+time frame charts because the hierarchy
+
+157
+00:05:35,120 --> 00:05:37,039
+on how you view this
+
+158
+00:05:37,039 --> 00:05:38,880
+is going to help you whether you're a
+
+159
+00:05:38,880 --> 00:05:41,120
+day trader scalper position trader
+
+160
+00:05:41,120 --> 00:05:43,199
+short-term trader which expectation of
+
+161
+00:05:43,199 --> 00:05:45,120
+lower prices how far would we expect to
+
+162
+00:05:45,120 --> 00:05:46,560
+see price go down
+
+163
+00:05:46,560 --> 00:05:49,520
+well the first impulse leg
+
+164
+00:05:49,520 --> 00:05:51,680
+and then retracement then as a second
+
+165
+00:05:51,680 --> 00:05:55,120
+leg higher hitting that resistance level
+
+166
+00:05:55,120 --> 00:05:57,360
+that secondary impulse leg that's
+
+167
+00:05:57,360 --> 00:05:59,600
+probably going to be a good reasonable
+
+168
+00:05:59,600 --> 00:06:02,160
+expectation for support level
+
+169
+00:06:02,160 --> 00:06:04,080
+now it could be a bullish order block it
+
+170
+00:06:04,080 --> 00:06:07,360
+could be a an old short-term high in
+
+171
+00:06:07,360 --> 00:06:09,039
+there on a lower time frame if this was
+
+172
+00:06:09,039 --> 00:06:10,800
+a monthly chart
+
+173
+00:06:10,800 --> 00:06:12,960
+at that low there may be a
+
+174
+00:06:12,960 --> 00:06:14,960
+daily short-term high that would create
+
+175
+00:06:14,960 --> 00:06:15,680
+a
+
+176
+00:06:15,680 --> 00:06:17,600
+a support level that can't be seen on a
+
+177
+00:06:17,600 --> 00:06:18,880
+monthly chart
+
+178
+00:06:18,880 --> 00:06:19,600
+so
+
+179
+00:06:19,600 --> 00:06:21,280
+when we're looking at these higher time
+
+180
+00:06:21,280 --> 00:06:22,560
+frame charts just understand that
+
+181
+00:06:22,560 --> 00:06:24,560
+there's going to be levels that exist
+
+182
+00:06:24,560 --> 00:06:27,199
+inside of larger price swings
+
+183
+00:06:27,199 --> 00:06:28,160
+that
+
+184
+00:06:28,160 --> 00:06:30,160
+you may not see unless you go down to
+
+185
+00:06:30,160 --> 00:06:31,520
+the lower time frame now when i say
+
+186
+00:06:31,520 --> 00:06:33,120
+lower time frame i'm only referring to
+
+187
+00:06:33,120 --> 00:06:34,479
+the daily
+
+188
+00:06:34,479 --> 00:06:35,680
+because the higher time frame analysis
+
+189
+00:06:35,680 --> 00:06:37,120
+is all we're focusing on here nothing
+
+190
+00:06:37,120 --> 00:06:39,759
+below a daily chart
+
+191
+00:06:39,759 --> 00:06:41,039
+so if we're assuming that this is a
+
+192
+00:06:41,039 --> 00:06:43,120
+monthly chart and we're looking at price
+
+193
+00:06:43,120 --> 00:06:46,000
+the expectation is okay well at that low
+
+194
+00:06:46,000 --> 00:06:48,240
+we would expect to see some lower time
+
+195
+00:06:48,240 --> 00:06:49,440
+frame
+
+196
+00:06:49,440 --> 00:06:51,440
+support level again it could be the
+
+197
+00:06:51,440 --> 00:06:53,600
+monthly bullish order block it could be
+
+198
+00:06:53,600 --> 00:06:56,560
+a weekly bullish order block or it could
+
+199
+00:06:56,560 --> 00:06:57,680
+be a
+
+200
+00:06:57,680 --> 00:06:59,759
+daily short term high
+
+201
+00:06:59,759 --> 00:07:01,440
+you may not be able to see it inside
+
+202
+00:07:01,440 --> 00:07:03,680
+that that little low there
+
+203
+00:07:03,680 --> 00:07:05,599
+but nonetheless when we look at price
+
+204
+00:07:05,599 --> 00:07:08,400
+swings back and forth on a chart whether
+
+205
+00:07:08,400 --> 00:07:10,240
+it be monthly we clear daily and even
+
+206
+00:07:10,240 --> 00:07:12,080
+lower time frames
+
+207
+00:07:12,080 --> 00:07:13,039
+you have to understand that there's
+
+208
+00:07:13,039 --> 00:07:15,440
+swings that exist and support levels and
+
+209
+00:07:15,440 --> 00:07:17,280
+resistance levels that exist in the
+
+210
+00:07:17,280 --> 00:07:19,840
+lower time frames that may not be so
+
+211
+00:07:19,840 --> 00:07:21,599
+apparent using these higher time frame
+
+212
+00:07:21,599 --> 00:07:23,599
+charts
+
+213
+00:07:23,599 --> 00:07:25,440
+that is not
+
+214
+00:07:25,440 --> 00:07:27,360
+what you base the majority of your
+
+215
+00:07:27,360 --> 00:07:29,120
+trades on what you're going to be doing
+
+216
+00:07:29,120 --> 00:07:30,400
+is you're gonna be using the monthly
+
+217
+00:07:30,400 --> 00:07:31,840
+chart
+
+218
+00:07:31,840 --> 00:07:33,759
+and the weekly chart
+
+219
+00:07:33,759 --> 00:07:35,919
+to frame the context of what that market
+
+220
+00:07:35,919 --> 00:07:37,280
+should be doing
+
+221
+00:07:37,280 --> 00:07:39,520
+using these pda arrays
+
+222
+00:07:39,520 --> 00:07:40,800
+so
+
+223
+00:07:40,800 --> 00:07:42,960
+if we watch price and it continues to
+
+224
+00:07:42,960 --> 00:07:44,560
+trade higher here
+
+225
+00:07:44,560 --> 00:07:46,000
+where would you reasonably expect to see
+
+226
+00:07:46,000 --> 00:07:47,919
+price trade to that short term little
+
+227
+00:07:47,919 --> 00:07:50,400
+swing low at the failure swing
+
+228
+00:07:50,400 --> 00:07:52,080
+that's going to be what
+
+229
+00:07:52,080 --> 00:07:54,560
+a potential mitigation block
+
+230
+00:07:54,560 --> 00:07:56,800
+that means any orders that were used to
+
+231
+00:07:56,800 --> 00:07:58,800
+go long but failed to make another pass
+
+232
+00:07:58,800 --> 00:08:01,360
+at that old high
+
+233
+00:08:01,360 --> 00:08:02,720
+they're underwater now so they're going
+
+234
+00:08:02,720 --> 00:08:05,360
+to look to mitigate those losses
+
+235
+00:08:05,360 --> 00:08:07,360
+and
+
+236
+00:08:07,360 --> 00:08:08,400
+cover
+
+237
+00:08:08,400 --> 00:08:10,639
+their long positions and go short
+
+238
+00:08:10,639 --> 00:08:13,440
+potentially or just get out of the trade
+
+239
+00:08:13,440 --> 00:08:15,199
+but smart money just doesn't cut losses
+
+240
+00:08:15,199 --> 00:08:16,879
+they know what they're doing they scale
+
+241
+00:08:16,879 --> 00:08:18,479
+in scaling out and they hedge so this
+
+242
+00:08:18,479 --> 00:08:20,800
+would be another selling opportunity
+
+243
+00:08:20,800 --> 00:08:23,199
+the market seeks liquidity below the low
+
+244
+00:08:23,199 --> 00:08:24,960
+and below
+
+245
+00:08:24,960 --> 00:08:27,120
+the second impulse swing
+
+246
+00:08:27,120 --> 00:08:29,520
+prior to the run into resistance
+
+247
+00:08:29,520 --> 00:08:30,879
+so it seeks liquidity below the
+
+248
+00:08:30,879 --> 00:08:33,120
+marketplace once it takes that liquidity
+
+249
+00:08:33,120 --> 00:08:35,360
+out it can drive all the way down to
+
+250
+00:08:35,360 --> 00:08:37,360
+that old support level
+
+251
+00:08:37,360 --> 00:08:39,120
+but generally it doesn't
+
+252
+00:08:39,120 --> 00:08:40,958
+it will retrace again and pick up more
+
+253
+00:08:40,958 --> 00:08:44,479
+orders back at an old low
+
+254
+00:08:45,760 --> 00:08:47,440
+where we'd see another opportunity to
+
+255
+00:08:47,440 --> 00:08:50,160
+sell off and take out the liquidity
+
+256
+00:08:50,160 --> 00:08:51,519
+below a short term load that was just
+
+257
+00:08:51,519 --> 00:08:53,360
+created and back down to a logical area
+
+258
+00:08:53,360 --> 00:08:55,360
+of support
+
+259
+00:08:55,360 --> 00:08:56,959
+the expectation would be what the sea
+
+260
+00:08:56,959 --> 00:08:59,360
+price bounce price does this
+
+261
+00:08:59,360 --> 00:09:01,360
+when price starts to retrace again some
+
+262
+00:09:01,360 --> 00:09:02,720
+of us if we were all in the same room we
+
+263
+00:09:02,720 --> 00:09:04,880
+would expect to see that price low to be
+
+264
+00:09:04,880 --> 00:09:07,360
+violated and a new low created sometimes
+
+265
+00:09:07,360 --> 00:09:10,080
+that will happen sometimes it won't
+
+266
+00:09:10,080 --> 00:09:12,240
+this failure swing in here could be used
+
+267
+00:09:12,240 --> 00:09:14,880
+to set up another long opportunity
+
+268
+00:09:14,880 --> 00:09:16,560
+where price rallies and here's the
+
+269
+00:09:16,560 --> 00:09:18,640
+million dollar question
+
+270
+00:09:18,640 --> 00:09:20,240
+the understanding is how price moves
+
+271
+00:09:20,240 --> 00:09:22,480
+from one level to the next but
+
+272
+00:09:22,480 --> 00:09:24,720
+predominantly it's moving from a level
+
+273
+00:09:24,720 --> 00:09:27,440
+of discount to a level of premium from a
+
+274
+00:09:27,440 --> 00:09:30,640
+level of premium to a level discount
+
+275
+00:09:30,640 --> 00:09:34,240
+between the red line and the blue line
+
+276
+00:09:34,240 --> 00:09:37,920
+they are extremes in the middle
+
+277
+00:09:37,920 --> 00:09:40,800
+that's classified as equilibrium
+
+278
+00:09:40,800 --> 00:09:42,880
+or balance
+
+279
+00:09:42,880 --> 00:09:44,480
+buying imbalance
+
+280
+00:09:44,480 --> 00:09:46,720
+is seen when price gets above
+
+281
+00:09:46,720 --> 00:09:48,959
+equilibrium or up into that red level
+
+282
+00:09:48,959 --> 00:09:50,560
+which would be resistance selling
+
+283
+00:09:50,560 --> 00:09:52,399
+imbalance would be when price gets below
+
+284
+00:09:52,399 --> 00:09:54,560
+equilibrium and down into the blue line
+
+285
+00:09:54,560 --> 00:09:56,880
+or what would be just derived as
+
+286
+00:09:56,880 --> 00:09:59,360
+discount
+
+287
+00:10:00,080 --> 00:10:01,920
+so where would you expect to see price
+
+288
+00:10:01,920 --> 00:10:03,120
+go next
+
+289
+00:10:03,120 --> 00:10:05,120
+that's what you're always faced with
+
+290
+00:10:05,120 --> 00:10:07,760
+when you sit down in front of the charts
+
+291
+00:10:07,760 --> 00:10:10,320
+this discussion we're going to use
+
+292
+00:10:10,320 --> 00:10:12,959
+the common ict
+
+293
+00:10:12,959 --> 00:10:14,399
+tools as far as
+
+294
+00:10:14,399 --> 00:10:16,079
+setup parameters
+
+295
+00:10:16,079 --> 00:10:18,800
+in the form of the way they form on
+
+296
+00:10:18,800 --> 00:10:20,720
+charts in other words the order in which
+
+297
+00:10:20,720 --> 00:10:23,360
+they form and how to use them based on
+
+298
+00:10:23,360 --> 00:10:24,800
+wherever you're at in terms of the
+
+299
+00:10:24,800 --> 00:10:27,360
+marketplace
+
+300
+00:10:31,600 --> 00:10:34,240
+we're using this teaching
+
+301
+00:10:34,240 --> 00:10:36,480
+as a foundation that's going to lead us
+
+302
+00:10:36,480 --> 00:10:38,160
+into a better understanding of this
+
+303
+00:10:38,160 --> 00:10:39,760
+example we've shown we're discussing
+
+304
+00:10:39,760 --> 00:10:42,560
+money management for the january content
+
+305
+00:10:42,560 --> 00:10:46,079
+so lesson five that example for the
+
+306
+00:10:46,079 --> 00:10:47,519
+dollar yen pair
+
+307
+00:10:47,519 --> 00:10:50,079
+for a long term position trade
+
+308
+00:10:50,079 --> 00:10:53,040
+this idea will be used as an example on
+
+309
+00:10:53,040 --> 00:10:55,519
+framing pd arrays on higher time frame
+
+310
+00:10:55,519 --> 00:10:56,800
+charts but
+
+311
+00:10:56,800 --> 00:11:00,399
+before we get into that teaching for 6.2
+
+312
+00:11:00,399 --> 00:11:02,079
+we have to do the foundation to
+
+313
+00:11:02,079 --> 00:11:04,240
+understand what we look for and why we
+
+314
+00:11:04,240 --> 00:11:06,399
+expect it to unfold
+
+315
+00:11:06,399 --> 00:11:08,959
+like we would
+
+316
+00:11:11,600 --> 00:11:15,279
+okay again using our thought process of
+
+317
+00:11:15,279 --> 00:11:18,079
+premium which would be the red line and
+
+318
+00:11:18,079 --> 00:11:20,480
+discount which would be the blue line
+
+319
+00:11:20,480 --> 00:11:22,399
+when you look at charts you want to see
+
+320
+00:11:22,399 --> 00:11:24,079
+where price has moved away from an old
+
+321
+00:11:24,079 --> 00:11:25,040
+high
+
+322
+00:11:25,040 --> 00:11:26,880
+and it's dropping down from an area of
+
+323
+00:11:26,880 --> 00:11:28,880
+premium in other words it's two it's too
+
+324
+00:11:28,880 --> 00:11:30,959
+high so the valuation is going to be
+
+325
+00:11:30,959 --> 00:11:33,200
+reduced and dropped lower so repricing
+
+326
+00:11:33,200 --> 00:11:35,920
+takes place and the market goes down and
+
+327
+00:11:35,920 --> 00:11:38,399
+the price goes lower as a result of it
+
+328
+00:11:38,399 --> 00:11:39,760
+until it gets to a point where it's too
+
+329
+00:11:39,760 --> 00:11:41,680
+much of a discount then there has to be
+
+330
+00:11:41,680 --> 00:11:43,600
+a premium built into it
+
+331
+00:11:43,600 --> 00:11:45,519
+the algorithm will do this moving price
+
+332
+00:11:45,519 --> 00:11:47,200
+back and forth back and forth back and
+
+333
+00:11:47,200 --> 00:11:49,600
+forth until again something of
+
+334
+00:11:49,600 --> 00:11:51,279
+significant impact comes in the
+
+335
+00:11:51,279 --> 00:11:53,040
+marketplace and drives the market
+
+336
+00:11:53,040 --> 00:11:54,959
+one-sided and it creates a strong
+
+337
+00:11:54,959 --> 00:11:56,800
+imbalance otherwise the market's just
+
+338
+00:11:56,800 --> 00:11:58,480
+going to generate back and forth looking
+
+339
+00:11:58,480 --> 00:12:01,120
+for liquidity based on premium and
+
+340
+00:12:01,120 --> 00:12:02,240
+discount
+
+341
+00:12:02,240 --> 00:12:04,800
+conditions
+
+342
+00:12:05,519 --> 00:12:06,880
+we'll assume for a moment right now the
+
+343
+00:12:06,880 --> 00:12:08,480
+market price is here
+
+344
+00:12:08,480 --> 00:12:10,000
+okay and we can clearly see that the
+
+345
+00:12:10,000 --> 00:12:12,320
+market in recent times had a clear
+
+346
+00:12:12,320 --> 00:12:15,120
+discernible level of resistance and a
+
+347
+00:12:15,120 --> 00:12:17,440
+clear discernible level of support
+
+348
+00:12:17,440 --> 00:12:18,959
+now that can come in the form of bullish
+
+349
+00:12:18,959 --> 00:12:20,880
+and bearish order blocks or it could be
+
+350
+00:12:20,880 --> 00:12:22,399
+just old highs and old lows and we'll
+
+351
+00:12:22,399 --> 00:12:23,760
+just use old highs and lows as an
+
+352
+00:12:23,760 --> 00:12:26,959
+example for this discussion
+
+353
+00:12:27,600 --> 00:12:29,680
+your expectation is is right now price
+
+354
+00:12:29,680 --> 00:12:32,079
+is at a level where it should
+
+355
+00:12:32,079 --> 00:12:34,240
+by all standards move lower because it's
+
+356
+00:12:34,240 --> 00:12:38,000
+at a classic viewed resistance level we
+
+357
+00:12:38,000 --> 00:12:39,600
+don't know how long that time is going
+
+358
+00:12:39,600 --> 00:12:41,680
+to be required
+
+359
+00:12:41,680 --> 00:12:43,839
+before the market does in fact submit to
+
+360
+00:12:43,839 --> 00:12:45,360
+our expectation
+
+361
+00:12:45,360 --> 00:12:46,560
+and see
+
+362
+00:12:46,560 --> 00:12:48,079
+a lower price
+
+363
+00:12:48,079 --> 00:12:49,360
+so that
+
+364
+00:12:49,360 --> 00:12:51,120
+time frame okay
+
+365
+00:12:51,120 --> 00:12:52,320
+that part is what you're always gonna
+
+366
+00:12:52,320 --> 00:12:54,560
+have to submit to time is a murderer
+
+367
+00:12:54,560 --> 00:12:56,560
+it's a killer for for traders unless you
+
+368
+00:12:56,560 --> 00:12:57,519
+know
+
+369
+00:12:57,519 --> 00:12:59,040
+that some of these ideas are gonna pan
+
+370
+00:12:59,040 --> 00:13:01,519
+out for a long long time you're gonna do
+
+371
+00:13:01,519 --> 00:13:02,880
+a lot of things psychologically and
+
+372
+00:13:02,880 --> 00:13:04,240
+emotionally that you wish you wouldn't
+
+373
+00:13:04,240 --> 00:13:06,399
+have done because you haven't submitted
+
+374
+00:13:06,399 --> 00:13:08,639
+the time aspect of trading there's two
+
+375
+00:13:08,639 --> 00:13:09,839
+two elements in trading you have to
+
+376
+00:13:09,839 --> 00:13:12,399
+submit to time and price when they both
+
+377
+00:13:12,399 --> 00:13:14,320
+agree with one another and you have
+
+378
+00:13:14,320 --> 00:13:16,079
+waited for that agreement to come to
+
+379
+00:13:16,079 --> 00:13:17,279
+fruition
+
+380
+00:13:17,279 --> 00:13:18,399
+that's where profitability and
+
+381
+00:13:18,399 --> 00:13:20,480
+opportunities are
+
+382
+00:13:20,480 --> 00:13:22,480
+so we're looking at price and we have no
+
+383
+00:13:22,480 --> 00:13:24,240
+idea how long time is going to be
+
+384
+00:13:24,240 --> 00:13:27,519
+required of us to wait before the
+
+385
+00:13:27,519 --> 00:13:30,000
+displacement takes place
+
+386
+00:13:30,000 --> 00:13:32,160
+but eventually our expectation is we'll
+
+387
+00:13:32,160 --> 00:13:34,000
+see lower prices down to a level of
+
+388
+00:13:34,000 --> 00:13:35,920
+discount
+
+389
+00:13:35,920 --> 00:13:37,120
+and that's what we're expecting or
+
+390
+00:13:37,120 --> 00:13:39,200
+forecasting as a future price
+
+391
+00:13:39,200 --> 00:13:41,279
+in between these two pre reference
+
+392
+00:13:41,279 --> 00:13:42,639
+points again
+
+393
+00:13:42,639 --> 00:13:44,639
+time and price is what's
+
+394
+00:13:44,639 --> 00:13:46,320
+essential you have to submit to the
+
+395
+00:13:46,320 --> 00:13:48,800
+level of time which no one knows how
+
+396
+00:13:48,800 --> 00:13:51,200
+much time is going to be required before
+
+397
+00:13:51,200 --> 00:13:53,360
+your setup pans out or goes to
+
+398
+00:13:53,360 --> 00:13:54,959
+profitability
+
+399
+00:13:54,959 --> 00:13:57,360
+price is what you're studying you're
+
+400
+00:13:57,360 --> 00:13:58,880
+submitting to time throughout the
+
+401
+00:13:58,880 --> 00:14:01,360
+process but while you are in the trade
+
+402
+00:14:01,360 --> 00:14:04,399
+or expecting this to unfold studying it
+
+403
+00:14:04,399 --> 00:14:06,800
+you're submitting to the price you know
+
+404
+00:14:06,800 --> 00:14:08,079
+what you're not trying to force your
+
+405
+00:14:08,079 --> 00:14:10,639
+will in price you're analyzing price to
+
+406
+00:14:10,639 --> 00:14:12,399
+see what it is that's telling you in
+
+407
+00:14:12,399 --> 00:14:14,560
+terms of institutional order flow is it
+
+408
+00:14:14,560 --> 00:14:16,720
+justifying your expectation that it
+
+409
+00:14:16,720 --> 00:14:18,399
+wants to go down to that discount level
+
+410
+00:14:18,399 --> 00:14:20,320
+or some bullish order block
+
+411
+00:14:20,320 --> 00:14:22,880
+to buy back off of and cover a short
+
+412
+00:14:22,880 --> 00:14:25,199
+position or could be a old low that it
+
+413
+00:14:25,199 --> 00:14:26,639
+wants to run below
+
+414
+00:14:26,639 --> 00:14:28,720
+that future price could be a number of
+
+415
+00:14:28,720 --> 00:14:30,399
+things but for now we're just going to
+
+416
+00:14:30,399 --> 00:14:32,560
+aim for an old low between the market
+
+417
+00:14:32,560 --> 00:14:34,639
+price today and the future price which
+
+418
+00:14:34,639 --> 00:14:36,800
+you anticipate or forecast lower in the
+
+419
+00:14:36,800 --> 00:14:37,839
+future
+
+420
+00:14:37,839 --> 00:14:39,279
+there's going to be
+
+421
+00:14:39,279 --> 00:14:41,040
+zero opportunity for it to be a straight
+
+422
+00:14:41,040 --> 00:14:42,160
+line in other words you're not seeing
+
+423
+00:14:42,160 --> 00:14:44,320
+that diagonal line in the way the market
+
+424
+00:14:44,320 --> 00:14:46,240
+trades it just doesn't do that there's
+
+425
+00:14:46,240 --> 00:14:47,600
+always some give and take that takes
+
+426
+00:14:47,600 --> 00:14:49,920
+place so
+
+427
+00:14:49,920 --> 00:14:54,000
+understanding where certain arrays occur
+
+428
+00:14:54,000 --> 00:14:56,800
+in that process will help you number one
+
+429
+00:14:56,800 --> 00:14:58,399
+stay with the trade idea
+
+430
+00:14:58,399 --> 00:15:00,160
+not be shaken out of it and have the
+
+431
+00:15:00,160 --> 00:15:02,079
+confidence to hold until the objective
+
+432
+00:15:02,079 --> 00:15:03,279
+is met or
+
+433
+00:15:03,279 --> 00:15:05,360
+your stop gets taken and it's simply
+
+434
+00:15:05,360 --> 00:15:07,360
+moving to a next opportunity the
+
+435
+00:15:07,360 --> 00:15:09,360
+opposite scene
+
+436
+00:15:09,360 --> 00:15:10,880
+when you're looking for a bullish
+
+437
+00:15:10,880 --> 00:15:13,279
+scenario
+
+438
+00:15:13,279 --> 00:15:15,760
+everything's just reversed
+
+439
+00:15:15,760 --> 00:15:17,680
+you expect market price to be in the
+
+440
+00:15:17,680 --> 00:15:19,360
+future at a premium in other words it's
+
+441
+00:15:19,360 --> 00:15:21,279
+going to be higher than it is today
+
+442
+00:15:21,279 --> 00:15:23,360
+again you have no idea how long time is
+
+443
+00:15:23,360 --> 00:15:25,760
+going to be required
+
+444
+00:15:25,760 --> 00:15:27,920
+to get to your future price or
+
+445
+00:15:27,920 --> 00:15:30,000
+forecasted price and you have to submit
+
+446
+00:15:30,000 --> 00:15:31,839
+to that a measure of time that is
+
+447
+00:15:31,839 --> 00:15:34,480
+unknown you can't know for certainty how
+
+448
+00:15:34,480 --> 00:15:36,399
+many days or how many hours or or how
+
+449
+00:15:36,399 --> 00:15:37,920
+many months it will be before that price
+
+450
+00:15:37,920 --> 00:15:41,199
+is actually arrived at or if at all
+
+451
+00:15:41,199 --> 00:15:42,800
+but you also have to be studying price
+
+452
+00:15:42,800 --> 00:15:45,360
+and again monitoring and studying the
+
+453
+00:15:45,360 --> 00:15:48,000
+the pd arrays that occur in price action
+
+454
+00:15:48,000 --> 00:15:50,320
+that leads to supporting your
+
+455
+00:15:50,320 --> 00:15:52,160
+expectation on institutional order flow
+
+456
+00:15:52,160 --> 00:15:54,160
+that would drive price up into that
+
+457
+00:15:54,160 --> 00:15:56,000
+premium level
+
+458
+00:15:56,000 --> 00:15:58,160
+the understanding is that price will
+
+459
+00:15:58,160 --> 00:16:01,120
+move from a discount to a premium
+
+460
+00:16:01,120 --> 00:16:03,519
+because the discount can't stay discount
+
+461
+00:16:03,519 --> 00:16:05,360
+very long price is going to be
+
+462
+00:16:05,360 --> 00:16:07,440
+established by whoever is selling it who
+
+463
+00:16:07,440 --> 00:16:10,160
+who stands to make a profit off of it
+
+464
+00:16:10,160 --> 00:16:12,399
+well the central bank is going to be in
+
+465
+00:16:12,399 --> 00:16:14,639
+in the business of adjusting price so if
+
+466
+00:16:14,639 --> 00:16:16,639
+we know that they are in control of
+
+467
+00:16:16,639 --> 00:16:18,000
+price ultimately
+
+468
+00:16:18,000 --> 00:16:20,720
+by way of steering sentiment in
+
+469
+00:16:20,720 --> 00:16:23,279
+economies through the delivery of an
+
+470
+00:16:23,279 --> 00:16:26,800
+interest rate long term to stimulate or
+
+471
+00:16:26,800 --> 00:16:29,040
+to suppress an economy for our country
+
+472
+00:16:29,040 --> 00:16:31,120
+we have to view the market in terms of
+
+473
+00:16:31,120 --> 00:16:33,120
+technicals to align ourselves with these
+
+474
+00:16:33,120 --> 00:16:34,320
+ideas so
+
+475
+00:16:34,320 --> 00:16:37,759
+if we see a level of support
+
+476
+00:16:37,759 --> 00:16:39,759
+our expectation is okay where is the
+
+477
+00:16:39,759 --> 00:16:41,759
+evidence that this thing will go to a
+
+478
+00:16:41,759 --> 00:16:43,279
+premium market
+
+479
+00:16:43,279 --> 00:16:44,560
+where is the premium market where's the
+
+480
+00:16:44,560 --> 00:16:46,240
+resistance at where's the higher level
+
+481
+00:16:46,240 --> 00:16:48,560
+that i would want to see it trade to
+
+482
+00:16:48,560 --> 00:16:50,240
+between the market price you're at right
+
+483
+00:16:50,240 --> 00:16:52,720
+now in that future price again it never
+
+484
+00:16:52,720 --> 00:16:54,720
+happens in a straight line there's time
+
+485
+00:16:54,720 --> 00:16:56,160
+that you have no understanding of
+
+486
+00:16:56,160 --> 00:16:58,079
+exactly how long it's going to be
+
+487
+00:16:58,079 --> 00:16:59,920
+but there's also an element of price
+
+488
+00:16:59,920 --> 00:17:01,680
+that you have to study in other words
+
+489
+00:17:01,680 --> 00:17:03,279
+just because you think it's going there
+
+490
+00:17:03,279 --> 00:17:04,799
+doesn't mean it's going there it could
+
+491
+00:17:04,799 --> 00:17:07,520
+go halfway there and fail and go lower
+
+492
+00:17:07,520 --> 00:17:09,039
+nonetheless
+
+493
+00:17:09,039 --> 00:17:10,240
+what we're going to do is we're going to
+
+494
+00:17:10,240 --> 00:17:13,199
+outline now the arrays and keep them in
+
+495
+00:17:13,199 --> 00:17:14,640
+a specific order so that way you know
+
+496
+00:17:14,640 --> 00:17:16,079
+wherever you're at in terms of market
+
+497
+00:17:16,079 --> 00:17:18,160
+price what you would expect to see or
+
+498
+00:17:18,160 --> 00:17:19,760
+what you're looking for
+
+499
+00:17:19,760 --> 00:17:21,839
+okay you know you know what should i be
+
+500
+00:17:21,839 --> 00:17:23,119
+looking for an order block or should i
+
+501
+00:17:23,119 --> 00:17:24,720
+be looking for
+
+502
+00:17:24,720 --> 00:17:26,559
+a gap you know what should i look for
+
+503
+00:17:26,559 --> 00:17:28,240
+right now that's what this teaching's
+
+504
+00:17:28,240 --> 00:17:30,559
+going to do
+
+505
+00:17:31,120 --> 00:17:33,520
+okay for a monthly chart okay what
+
+506
+00:17:33,520 --> 00:17:34,400
+you're going to do is you're going to
+
+507
+00:17:34,400 --> 00:17:35,600
+look at
+
+508
+00:17:35,600 --> 00:17:37,840
+the current trading range that it's in
+
+509
+00:17:37,840 --> 00:17:39,120
+okay and
+
+510
+00:17:39,120 --> 00:17:40,960
+so we're going to assume that you uh
+
+511
+00:17:40,960 --> 00:17:42,799
+outline the marketplace in terms of old
+
+512
+00:17:42,799 --> 00:17:44,960
+highs and all lows on the monthly and
+
+513
+00:17:44,960 --> 00:17:46,720
+that's the easiest way of doing it
+
+514
+00:17:46,720 --> 00:17:48,080
+there's other ways you can do it but for
+
+515
+00:17:48,080 --> 00:17:49,679
+now we're just going to outline in the
+
+516
+00:17:49,679 --> 00:17:52,400
+context that the most recent trading
+
+517
+00:17:52,400 --> 00:17:54,320
+range that the market has moved from an
+
+518
+00:17:54,320 --> 00:17:55,360
+old high
+
+519
+00:17:55,360 --> 00:17:58,080
+to an old low that would be our
+
+520
+00:17:58,080 --> 00:18:00,799
+premium and discount
+
+521
+00:18:00,799 --> 00:18:02,960
+definition
+
+522
+00:18:02,960 --> 00:18:04,880
+in between these two reference points
+
+523
+00:18:04,880 --> 00:18:06,480
+the halfway point this is always going
+
+524
+00:18:06,480 --> 00:18:08,960
+to be referred to as equilibrium
+
+525
+00:18:08,960 --> 00:18:11,679
+now equilibrium between where you think
+
+526
+00:18:11,679 --> 00:18:13,280
+price will go because it's been there
+
+527
+00:18:13,280 --> 00:18:15,039
+before
+
+528
+00:18:15,039 --> 00:18:16,960
+and where it's at right now
+
+529
+00:18:16,960 --> 00:18:19,120
+relative to an old high and old low
+
+530
+00:18:19,120 --> 00:18:20,720
+that's the current trading range and
+
+531
+00:18:20,720 --> 00:18:22,080
+i'll give you an example what that looks
+
+532
+00:18:22,080 --> 00:18:24,720
+like when we go into lesson 6.2 but for
+
+533
+00:18:24,720 --> 00:18:26,640
+now i want to lay the foundations for
+
+534
+00:18:26,640 --> 00:18:29,360
+what it is you look for
+
+535
+00:18:29,360 --> 00:18:31,760
+the first thing above equilibrium in the
+
+536
+00:18:31,760 --> 00:18:35,200
+form of an array is an old high and old
+
+537
+00:18:35,200 --> 00:18:36,160
+low
+
+538
+00:18:36,160 --> 00:18:38,000
+you want to be looking for that above
+
+539
+00:18:38,000 --> 00:18:40,720
+equilibrium
+
+540
+00:18:41,200 --> 00:18:42,559
+the next
+
+541
+00:18:42,559 --> 00:18:43,760
+thing that you'll be looking for and
+
+542
+00:18:43,760 --> 00:18:47,280
+this is in the order of importance okay
+
+543
+00:18:47,280 --> 00:18:48,960
+hold high or low then the next thing
+
+544
+00:18:48,960 --> 00:18:50,160
+you'll be looking for is a rejection
+
+545
+00:18:50,160 --> 00:18:51,679
+block a rejection block will be just
+
+546
+00:18:51,679 --> 00:18:54,000
+above the candle's body
+
+547
+00:18:54,000 --> 00:18:55,280
+not the wicks
+
+548
+00:18:55,280 --> 00:18:58,080
+so the actual high and low is the wick
+
+549
+00:18:58,080 --> 00:19:01,360
+but then the next area of importance is
+
+550
+00:19:01,360 --> 00:19:03,360
+the rejection block that would be just
+
+551
+00:19:03,360 --> 00:19:07,120
+above the candle's body
+
+552
+00:19:07,679 --> 00:19:11,280
+then the bearish order block
+
+553
+00:19:11,280 --> 00:19:14,320
+a fair value gap
+
+554
+00:19:14,480 --> 00:19:17,360
+liquidity void
+
+555
+00:19:18,000 --> 00:19:20,559
+bearish breaker
+
+556
+00:19:20,559 --> 00:19:23,120
+and the mitigation block
+
+557
+00:19:23,120 --> 00:19:25,039
+put another way
+
+558
+00:19:25,039 --> 00:19:26,880
+if we were at equilibrium and we were
+
+559
+00:19:26,880 --> 00:19:28,720
+moving away from
+
+560
+00:19:28,720 --> 00:19:30,320
+a premium level or resistance in other
+
+561
+00:19:30,320 --> 00:19:32,640
+words prices already dropped down
+
+562
+00:19:32,640 --> 00:19:34,640
+and we anticipate price going lower down
+
+563
+00:19:34,640 --> 00:19:36,840
+to a level of support or monthly
+
+564
+00:19:36,840 --> 00:19:40,160
+discount we would be looking for above
+
+565
+00:19:40,160 --> 00:19:41,679
+current market action again assuming
+
+566
+00:19:41,679 --> 00:19:43,679
+that we're at equilibrium right now we
+
+567
+00:19:43,679 --> 00:19:45,440
+would start looking above current market
+
+568
+00:19:45,440 --> 00:19:46,880
+action in the past on the left side of
+
+569
+00:19:46,880 --> 00:19:47,840
+our chart
+
+570
+00:19:47,840 --> 00:19:49,520
+where is the nearest mitigation block
+
+571
+00:19:49,520 --> 00:19:51,120
+there may not be one
+
+572
+00:19:51,120 --> 00:19:52,960
+okay check that off
+
+573
+00:19:52,960 --> 00:19:55,120
+where's the nearest bearish breaker
+
+574
+00:19:55,120 --> 00:19:56,960
+there may not be one of those either
+
+575
+00:19:56,960 --> 00:19:59,600
+okay check that off but if there is one
+
+576
+00:19:59,600 --> 00:20:00,960
+then you would reasonably expect to see
+
+577
+00:20:00,960 --> 00:20:02,880
+price trade up to that price point to
+
+578
+00:20:02,880 --> 00:20:04,080
+breaker
+
+579
+00:20:04,080 --> 00:20:06,320
+then expect some selling to go lower and
+
+580
+00:20:06,320 --> 00:20:07,919
+once it moves below equilibrium then you
+
+581
+00:20:07,919 --> 00:20:10,000
+would be all set to go to the monthly
+
+582
+00:20:10,000 --> 00:20:12,000
+discount or support but let's assume for
+
+583
+00:20:12,000 --> 00:20:13,520
+a moment the mitigation block isn't
+
+584
+00:20:13,520 --> 00:20:16,160
+there and the breaker isn't there what
+
+585
+00:20:16,160 --> 00:20:18,080
+would you look for next okay well the
+
+586
+00:20:18,080 --> 00:20:20,720
+next order of hierarchy is liquidity
+
+587
+00:20:20,720 --> 00:20:21,600
+void
+
+588
+00:20:21,600 --> 00:20:23,120
+is there a range that needs to be closed
+
+589
+00:20:23,120 --> 00:20:24,080
+in
+
+590
+00:20:24,080 --> 00:20:27,360
+again that may not be so clear
+
+591
+00:20:27,360 --> 00:20:28,960
+check that off no problem the next thing
+
+592
+00:20:28,960 --> 00:20:31,280
+is their fair value gap
+
+593
+00:20:31,280 --> 00:20:34,159
+again that might not exist either go to
+
+594
+00:20:34,159 --> 00:20:36,400
+the next thing bearish order block
+
+595
+00:20:36,400 --> 00:20:38,240
+that's probably going to be there
+
+596
+00:20:38,240 --> 00:20:39,440
+chances are it's very strong that's
+
+597
+00:20:39,440 --> 00:20:41,679
+going to be there so what did this give
+
+598
+00:20:41,679 --> 00:20:43,360
+you i gave you the air archie and which
+
+599
+00:20:43,360 --> 00:20:44,640
+you look for
+
+600
+00:20:44,640 --> 00:20:46,400
+a mitigation block
+
+601
+00:20:46,400 --> 00:20:48,240
+is going to be first considered before
+
+602
+00:20:48,240 --> 00:20:50,480
+you get to the bearish order block
+
+603
+00:20:50,480 --> 00:20:51,600
+because the various order blocks will be
+
+604
+00:20:51,600 --> 00:20:53,520
+really high up in the premium
+
+605
+00:20:53,520 --> 00:20:54,799
+mitigation block is going to be the
+
+606
+00:20:54,799 --> 00:20:55,760
+lowest
+
+607
+00:20:55,760 --> 00:20:57,679
+mitigation and breakers are basically
+
+608
+00:20:57,679 --> 00:20:59,280
+mitigation blocks but
+
+609
+00:20:59,280 --> 00:21:01,840
+generally mitigation blocks can occur
+
+610
+00:21:01,840 --> 00:21:04,799
+lower than breakers
+
+611
+00:21:04,799 --> 00:21:06,400
+small little bounces and bear markets
+
+612
+00:21:06,400 --> 00:21:08,640
+would be a mitigation block basically a
+
+613
+00:21:08,640 --> 00:21:11,440
+bearish breaker will keep your ability
+
+614
+00:21:11,440 --> 00:21:13,520
+to get to a bearish order block which
+
+615
+00:21:13,520 --> 00:21:15,760
+will be resting higher up in the premium
+
+616
+00:21:15,760 --> 00:21:17,919
+when an old high is taken out
+
+617
+00:21:17,919 --> 00:21:19,679
+that down candle right before the second
+
+618
+00:21:19,679 --> 00:21:22,880
+high is made taking an old high
+
+619
+00:21:22,880 --> 00:21:24,559
+or turtle soup in other words
+
+620
+00:21:24,559 --> 00:21:26,400
+that down candle
+
+621
+00:21:26,400 --> 00:21:27,360
+if it's
+
+622
+00:21:27,360 --> 00:21:28,799
+retreated too that's going to be a
+
+623
+00:21:28,799 --> 00:21:31,360
+bearish breaker that's going to keep you
+
+624
+00:21:31,360 --> 00:21:34,400
+from seeing most likely high probability
+
+625
+00:21:34,400 --> 00:21:35,840
+that it won't allow you to get to a
+
+626
+00:21:35,840 --> 00:21:38,159
+bearish order block so whenever you see
+
+627
+00:21:38,159 --> 00:21:39,440
+bearish breakers
+
+628
+00:21:39,440 --> 00:21:40,400
+just
+
+629
+00:21:40,400 --> 00:21:42,000
+don't expect the bearish order block to
+
+630
+00:21:42,000 --> 00:21:43,679
+be hit okay because it's going to most
+
+631
+00:21:43,679 --> 00:21:45,039
+likely keep
+
+632
+00:21:45,039 --> 00:21:46,559
+price lower because that's going to be
+
+633
+00:21:46,559 --> 00:21:49,200
+the most dominant
+
+634
+00:21:49,200 --> 00:21:51,280
+array of all these in here
+
+635
+00:21:51,280 --> 00:21:54,320
+there is a liquidity void that would be
+
+636
+00:21:54,320 --> 00:21:56,080
+viewed
+
+637
+00:21:56,080 --> 00:21:58,000
+if there's no breaker you can close in
+
+638
+00:21:58,000 --> 00:21:59,520
+that range and that may take you often
+
+639
+00:21:59,520 --> 00:22:01,520
+to a fair value gap or a bearish order
+
+640
+00:22:01,520 --> 00:22:02,559
+block
+
+641
+00:22:02,559 --> 00:22:04,720
+but breakers by themselves even though
+
+642
+00:22:04,720 --> 00:22:07,120
+they're low end on this list
+
+643
+00:22:07,120 --> 00:22:08,240
+it's the first thing you're going to
+
+644
+00:22:08,240 --> 00:22:09,440
+encounter because if you're at
+
+645
+00:22:09,440 --> 00:22:10,880
+equilibrium and price has already been
+
+646
+00:22:10,880 --> 00:22:13,200
+moving away from the resistance level
+
+647
+00:22:13,200 --> 00:22:15,360
+you're looking up now for any potential
+
+648
+00:22:15,360 --> 00:22:17,440
+areas to resell at
+
+649
+00:22:17,440 --> 00:22:18,799
+first when you look at is the mitigation
+
+650
+00:22:18,799 --> 00:22:19,679
+block
+
+651
+00:22:19,679 --> 00:22:21,600
+or bearish breaker and if there's
+
+652
+00:22:21,600 --> 00:22:23,360
+neither of those you look for liquidity
+
+653
+00:22:23,360 --> 00:22:24,799
+void to trade up into the close in that
+
+654
+00:22:24,799 --> 00:22:28,320
+range warfare value gap to close in it
+
+655
+00:22:28,320 --> 00:22:29,760
+may not be any of that then you would
+
+656
+00:22:29,760 --> 00:22:31,039
+expect to see the bear shorter block to
+
+657
+00:22:31,039 --> 00:22:33,039
+be traded to then that would be your
+
+658
+00:22:33,039 --> 00:22:34,559
+selling opportunity because you're at a
+
+659
+00:22:34,559 --> 00:22:36,000
+premium and you go to a logical area
+
+660
+00:22:36,000 --> 00:22:37,440
+where institutional overflow would kick
+
+661
+00:22:37,440 --> 00:22:39,520
+in new orders would capitalize and then
+
+662
+00:22:39,520 --> 00:22:40,559
+selling would
+
+663
+00:22:40,559 --> 00:22:42,640
+ensue
+
+664
+00:22:42,640 --> 00:22:44,640
+if there isn't an obvious bearish order
+
+665
+00:22:44,640 --> 00:22:47,440
+block okay um and there's very little
+
+666
+00:22:47,440 --> 00:22:48,960
+times that's like that
+
+667
+00:22:48,960 --> 00:22:50,720
+but we will talk about that when we get
+
+668
+00:22:50,720 --> 00:22:54,320
+into entry techniques and concepts but
+
+669
+00:22:54,320 --> 00:22:56,799
+if there is a lack of bearish order
+
+670
+00:22:56,799 --> 00:22:58,159
+block
+
+671
+00:22:58,159 --> 00:22:59,600
+understanding and what you're looking at
+
+672
+00:22:59,600 --> 00:23:00,640
+currently in the market action because
+
+673
+00:23:00,640 --> 00:23:02,080
+there may be a lot of wicks something
+
+674
+00:23:02,080 --> 00:23:03,760
+like that may occur
+
+675
+00:23:03,760 --> 00:23:05,600
+again you would look for a rejection
+
+676
+00:23:05,600 --> 00:23:07,600
+block which would be just above the body
+
+677
+00:23:07,600 --> 00:23:09,600
+of the candles you would expect that to
+
+678
+00:23:09,600 --> 00:23:11,600
+be ran out and then you'd be really high
+
+679
+00:23:11,600 --> 00:23:13,760
+on the premium there and ultimately a
+
+680
+00:23:13,760 --> 00:23:16,799
+whole whole entire run on the old high
+
+681
+00:23:16,799 --> 00:23:19,760
+that would be uh an expectation now i
+
+682
+00:23:19,760 --> 00:23:22,080
+have here old high and old low
+
+683
+00:23:22,080 --> 00:23:23,360
+why would the low be there well if
+
+684
+00:23:23,360 --> 00:23:24,799
+you're on a
+
+685
+00:23:24,799 --> 00:23:27,440
+very low end of a downtrend on a higher
+
+686
+00:23:27,440 --> 00:23:29,520
+time frame monthly chart you may be
+
+687
+00:23:29,520 --> 00:23:32,880
+rallying up to a old low if it gets to
+
+688
+00:23:32,880 --> 00:23:35,039
+that old low even though
+
+689
+00:23:35,039 --> 00:23:38,159
+it's an old low in in terms of price
+
+690
+00:23:38,159 --> 00:23:40,080
+it's really high up in the premium if
+
+691
+00:23:40,080 --> 00:23:41,600
+it's been rallying a considerable amount
+
+692
+00:23:41,600 --> 00:23:43,840
+of time and price to get to that level
+
+693
+00:23:43,840 --> 00:23:46,320
+so retreating to an old low
+
+694
+00:23:46,320 --> 00:23:48,960
+that's resistance classic understanding
+
+695
+00:23:48,960 --> 00:23:51,520
+but it may need to run out of old high
+
+696
+00:23:51,520 --> 00:23:53,360
+as well so basically all you're doing is
+
+697
+00:23:53,360 --> 00:23:56,000
+you're you're scaling the grade of how
+
+698
+00:23:56,000 --> 00:23:57,280
+much importance you're going to have on
+
+699
+00:23:57,280 --> 00:23:59,200
+each one of these
+
+700
+00:23:59,200 --> 00:24:00,320
+so again in summary i want you to
+
+701
+00:24:00,320 --> 00:24:02,159
+understand what i'm talking about here
+
+702
+00:24:02,159 --> 00:24:03,600
+we're not just listing the things we've
+
+703
+00:24:03,600 --> 00:24:05,919
+talked about in in previous teachings
+
+704
+00:24:05,919 --> 00:24:07,600
+okay i'm putting them in an order of
+
+705
+00:24:07,600 --> 00:24:11,279
+significance when you're at equilibrium
+
+706
+00:24:11,279 --> 00:24:12,480
+or
+
+707
+00:24:12,480 --> 00:24:14,720
+if you're moving up from discount
+
+708
+00:24:14,720 --> 00:24:15,840
+okay
+
+709
+00:24:15,840 --> 00:24:16,880
+your
+
+710
+00:24:16,880 --> 00:24:19,600
+expectations are to look for very first
+
+711
+00:24:19,600 --> 00:24:21,360
+thing you look for in the list as price
+
+712
+00:24:21,360 --> 00:24:23,039
+is going up the first thing you're
+
+713
+00:24:23,039 --> 00:24:25,200
+looking to see to encounter is there any
+
+714
+00:24:25,200 --> 00:24:27,360
+mitigation block that i got to consider
+
+715
+00:24:27,360 --> 00:24:29,679
+because that's the first objective
+
+716
+00:24:29,679 --> 00:24:31,760
+it could be a selling point
+
+717
+00:24:31,760 --> 00:24:33,360
+then it's a bearish breaker
+
+718
+00:24:33,360 --> 00:24:35,360
+that could set the tone for another leg
+
+719
+00:24:35,360 --> 00:24:38,400
+lower or stop any rallies on a bullish
+
+720
+00:24:38,400 --> 00:24:39,840
+idea
+
+721
+00:24:39,840 --> 00:24:41,760
+then the next idea if you're bullish
+
+722
+00:24:41,760 --> 00:24:43,279
+from a discount or if you're expecting a
+
+723
+00:24:43,279 --> 00:24:44,720
+new selling opportunity say you're at
+
+724
+00:24:44,720 --> 00:24:46,080
+the equilibrium price point anything
+
+725
+00:24:46,080 --> 00:24:47,600
+below
+
+726
+00:24:47,600 --> 00:24:50,159
+the premium
+
+727
+00:24:50,320 --> 00:24:51,679
+the expectation is when you're looking
+
+728
+00:24:51,679 --> 00:24:54,000
+up in price for areas where price may go
+
+729
+00:24:54,000 --> 00:24:55,039
+up to
+
+730
+00:24:55,039 --> 00:24:57,760
+it's in this order from the lowest up
+
+731
+00:24:57,760 --> 00:24:59,760
+in other words from mitigation block all
+
+732
+00:24:59,760 --> 00:25:02,480
+the way up to old high or low
+
+733
+00:25:02,480 --> 00:25:03,919
+that's the order you would expect to see
+
+734
+00:25:03,919 --> 00:25:05,520
+them now
+
+735
+00:25:05,520 --> 00:25:07,919
+the order of importance
+
+736
+00:25:07,919 --> 00:25:09,840
+you know it's the highest of the premium
+
+737
+00:25:09,840 --> 00:25:13,760
+array is the old high and old low
+
+738
+00:25:13,760 --> 00:25:16,080
+that's that's as high as you can get
+
+739
+00:25:16,080 --> 00:25:18,640
+then you have rejection block
+
+740
+00:25:18,640 --> 00:25:20,640
+then you have bearish order block fair
+
+741
+00:25:20,640 --> 00:25:22,559
+fair value gap and liquidity void
+
+742
+00:25:22,559 --> 00:25:24,240
+bearish breaker and mitigation block
+
+743
+00:25:24,240 --> 00:25:26,000
+you're going to be looking up and the
+
+744
+00:25:26,000 --> 00:25:27,440
+first thing you're going to encounter is
+
+745
+00:25:27,440 --> 00:25:28,720
+the first thing on the bottom of this
+
+746
+00:25:28,720 --> 00:25:30,240
+list and then you start working your way
+
+747
+00:25:30,240 --> 00:25:32,559
+up that list the farther you go up in
+
+748
+00:25:32,559 --> 00:25:35,039
+this list the more deeper you go into a
+
+749
+00:25:35,039 --> 00:25:36,320
+premium market
+
+750
+00:25:36,320 --> 00:25:39,200
+certain arrays in here will keep you
+
+751
+00:25:39,200 --> 00:25:41,760
+from seeing the next higher array in
+
+752
+00:25:41,760 --> 00:25:44,720
+other words the next
+
+753
+00:25:45,279 --> 00:25:46,960
+institutional order reference point
+
+754
+00:25:46,960 --> 00:25:48,880
+that's listed in here if you get to a
+
+755
+00:25:48,880 --> 00:25:50,159
+breaker chances are you're probably not
+
+756
+00:25:50,159 --> 00:25:52,080
+going to go higher than that you won't
+
+757
+00:25:52,080 --> 00:25:53,679
+generally get up in to close that void
+
+758
+00:25:53,679 --> 00:25:55,120
+if there's a breaker below a liquidity
+
+759
+00:25:55,120 --> 00:25:57,279
+void the liquidity void may stay open
+
+760
+00:25:57,279 --> 00:25:59,760
+basically that range may stay open so
+
+761
+00:25:59,760 --> 00:26:01,600
+they kind of like it's in the order of
+
+762
+00:26:01,600 --> 00:26:04,720
+importance as a trader when you're below
+
+763
+00:26:04,720 --> 00:26:06,799
+premium and looking higher up for prices
+
+764
+00:26:06,799 --> 00:26:08,880
+or expecting prices to move higher
+
+765
+00:26:08,880 --> 00:26:10,480
+that mitigation block you know that's
+
+766
+00:26:10,480 --> 00:26:13,279
+the lowest or the most
+
+767
+00:26:13,279 --> 00:26:14,640
+likely one you're going to expect to run
+
+768
+00:26:14,640 --> 00:26:16,480
+into first it doesn't mean that there's
+
+769
+00:26:16,480 --> 00:26:18,640
+one in price action but you start from
+
+770
+00:26:18,640 --> 00:26:20,559
+that expectation first and you look for
+
+771
+00:26:20,559 --> 00:26:22,080
+it it's not there okay what's the next
+
+772
+00:26:22,080 --> 00:26:23,200
+thing you've been looking for the
+
+773
+00:26:23,200 --> 00:26:25,279
+bearish breaker if it's not there okay
+
+774
+00:26:25,279 --> 00:26:27,440
+then i'm okay to expect that void to
+
+775
+00:26:27,440 --> 00:26:28,880
+close in there but there may not be a
+
+776
+00:26:28,880 --> 00:26:30,400
+void it may have been a really
+
+777
+00:26:30,400 --> 00:26:32,640
+systematic and efficient way that it
+
+778
+00:26:32,640 --> 00:26:33,919
+traded lower
+
+779
+00:26:33,919 --> 00:26:36,799
+and that won't be any void there so
+
+780
+00:26:36,799 --> 00:26:38,559
+next thing is is there a gap that would
+
+781
+00:26:38,559 --> 00:26:40,559
+draw price up into it if there's no gap
+
+782
+00:26:40,559 --> 00:26:42,559
+then you go right to the order block
+
+783
+00:26:42,559 --> 00:26:44,720
+okay but the main thing is if there's a
+
+784
+00:26:44,720 --> 00:26:46,960
+breaker forget about closing in the void
+
+785
+00:26:46,960 --> 00:26:48,320
+and forget about getting up to that gap
+
+786
+00:26:48,320 --> 00:26:49,440
+because the breaker is going to take
+
+787
+00:26:49,440 --> 00:26:51,840
+precedence over everything on this list
+
+788
+00:26:51,840 --> 00:26:53,520
+when you're below it in terms of market
+
+789
+00:26:53,520 --> 00:26:56,240
+price if we were anticipating move lower
+
+790
+00:26:56,240 --> 00:26:57,600
+into price
+
+791
+00:26:57,600 --> 00:27:00,640
+into a discount or into a support level
+
+792
+00:27:00,640 --> 00:27:03,120
+we would expect the very next
+
+793
+00:27:03,120 --> 00:27:05,679
+pd array to be a
+
+794
+00:27:05,679 --> 00:27:07,360
+mitigation block
+
+795
+00:27:07,360 --> 00:27:09,440
+now again that may not appear in price
+
+796
+00:27:09,440 --> 00:27:11,200
+if there is no mitigation block you
+
+797
+00:27:11,200 --> 00:27:14,400
+would expect to see the next pd array in
+
+798
+00:27:14,400 --> 00:27:15,679
+the form of
+
+799
+00:27:15,679 --> 00:27:17,760
+a bullish breaker
+
+800
+00:27:17,760 --> 00:27:20,159
+again this may not occur or be seen in
+
+801
+00:27:20,159 --> 00:27:21,679
+price action but this is the order in
+
+802
+00:27:21,679 --> 00:27:23,360
+which you would expect to see as prices
+
+803
+00:27:23,360 --> 00:27:25,520
+going lower looking in the past to the
+
+804
+00:27:25,520 --> 00:27:27,039
+left side of your chart you'll be
+
+805
+00:27:27,039 --> 00:27:29,039
+focusing on whether or not these arrays
+
+806
+00:27:29,039 --> 00:27:30,960
+appear in price action
+
+807
+00:27:30,960 --> 00:27:34,720
+their importance is again is listed from
+
+808
+00:27:34,720 --> 00:27:36,400
+equilibrium
+
+809
+00:27:36,400 --> 00:27:38,159
+the expected order of how they're going
+
+810
+00:27:38,159 --> 00:27:38,960
+to
+
+811
+00:27:38,960 --> 00:27:40,960
+be in the price action
+
+812
+00:27:40,960 --> 00:27:43,200
+in the form of a discount the first one
+
+813
+00:27:43,200 --> 00:27:44,320
+you would anticipate seeing is a
+
+814
+00:27:44,320 --> 00:27:46,159
+mitigation block bullishly then a
+
+815
+00:27:46,159 --> 00:27:48,480
+bullish breaker
+
+816
+00:27:48,480 --> 00:27:51,039
+then a liquidity void now
+
+817
+00:27:51,039 --> 00:27:53,279
+if there is a bullish breaker now again
+
+818
+00:27:53,279 --> 00:27:55,360
+a bullish breaker is a
+
+819
+00:27:55,360 --> 00:27:59,279
+up candle between two swing lows and the
+
+820
+00:27:59,279 --> 00:28:02,000
+most recent swing low
+
+821
+00:28:02,000 --> 00:28:03,840
+would be lower normally you're seeing a
+
+822
+00:28:03,840 --> 00:28:05,760
+stop run in the past
+
+823
+00:28:05,760 --> 00:28:06,720
+and
+
+824
+00:28:06,720 --> 00:28:08,640
+the high the swing height it forms
+
+825
+00:28:08,640 --> 00:28:10,480
+between the two lows
+
+826
+00:28:10,480 --> 00:28:11,840
+that up candle is going to be your
+
+827
+00:28:11,840 --> 00:28:13,279
+bullish breaker so when price comes down
+
+828
+00:28:13,279 --> 00:28:15,600
+to that bullish of candle it'll find
+
+829
+00:28:15,600 --> 00:28:16,960
+some support
+
+830
+00:28:16,960 --> 00:28:18,960
+if you see that in price action
+
+831
+00:28:18,960 --> 00:28:20,320
+chances are that if there's a liquidity
+
+832
+00:28:20,320 --> 00:28:22,399
+void in price it won't go down to fill
+
+833
+00:28:22,399 --> 00:28:25,039
+that in it can if it overtakes the
+
+834
+00:28:25,039 --> 00:28:27,279
+breaker but if it has a breaker
+
+835
+00:28:27,279 --> 00:28:29,600
+anticipate price not going below the
+
+836
+00:28:29,600 --> 00:28:33,440
+breaker and leaving the void intact
+
+837
+00:28:35,520 --> 00:28:38,159
+again assuming there is no breaker
+
+838
+00:28:38,159 --> 00:28:40,159
+and there is no void but there is a gap
+
+839
+00:28:40,159 --> 00:28:41,919
+and it may be a liquidity void any gap
+
+840
+00:28:41,919 --> 00:28:43,679
+sometimes that can occur too but you
+
+841
+00:28:43,679 --> 00:28:45,120
+would anticipate price reaching down
+
+842
+00:28:45,120 --> 00:28:47,360
+into a fair value gap which is just a
+
+843
+00:28:47,360 --> 00:28:48,640
+common little gap where price has only
+
+844
+00:28:48,640 --> 00:28:49,600
+been delivered on one side of the
+
+845
+00:28:49,600 --> 00:28:52,000
+marketplace
+
+846
+00:28:52,000 --> 00:28:53,440
+and then the next
+
+847
+00:28:53,440 --> 00:28:56,880
+array would be the bullish order block
+
+848
+00:28:56,880 --> 00:28:58,720
+and again without the breaker
+
+849
+00:28:58,720 --> 00:29:00,880
+you would expect the void to be filled a
+
+850
+00:29:00,880 --> 00:29:02,480
+gap to be filled straight down into the
+
+851
+00:29:02,480 --> 00:29:04,720
+bullish order block then below the order
+
+852
+00:29:04,720 --> 00:29:06,399
+block would be a rejection block which
+
+853
+00:29:06,399 --> 00:29:10,000
+is just below the most lowest candle and
+
+854
+00:29:10,000 --> 00:29:11,760
+its body in other words if it has wicks
+
+855
+00:29:11,760 --> 00:29:13,360
+long wicks below it
+
+856
+00:29:13,360 --> 00:29:14,559
+uh we're only gonna be looking for a
+
+857
+00:29:14,559 --> 00:29:16,320
+move just below the bodies of the candle
+
+858
+00:29:16,320 --> 00:29:19,679
+and that would be rejection block
+
+859
+00:29:19,679 --> 00:29:21,600
+and then ultimately the deepest form of
+
+860
+00:29:21,600 --> 00:29:23,440
+discount would be in the form of an old
+
+861
+00:29:23,440 --> 00:29:25,760
+low or trading down to in the historic
+
+862
+00:29:25,760 --> 00:29:28,080
+high and like we said when we were
+
+863
+00:29:28,080 --> 00:29:29,840
+talking about the premium market
+
+864
+00:29:29,840 --> 00:29:32,080
+when prices trade up to an old high it
+
+865
+00:29:32,080 --> 00:29:34,240
+can also trade up to a very old
+
+866
+00:29:34,240 --> 00:29:36,399
+long-term low and that would both be in
+
+867
+00:29:36,399 --> 00:29:39,840
+the form of a resistance level
+
+868
+00:29:39,840 --> 00:29:41,840
+when we look at markets like this
+
+869
+00:29:41,840 --> 00:29:45,360
+what it does is it gives us a framework
+
+870
+00:29:49,039 --> 00:29:51,039
+you see here
+
+871
+00:29:51,039 --> 00:29:53,039
+the monthly premium
+
+872
+00:29:53,039 --> 00:29:55,200
+arrays these are going to be focused for
+
+873
+00:29:55,200 --> 00:29:57,760
+primarily bearish premium array trading
+
+874
+00:29:57,760 --> 00:29:58,720
+in other words you're going to be using
+
+875
+00:29:58,720 --> 00:30:01,279
+these areas at which to frame a trade or
+
+876
+00:30:01,279 --> 00:30:05,360
+look for bullish targets at these levels
+
+877
+00:30:05,360 --> 00:30:08,919
+for monthly discount
+
+878
+00:30:08,960 --> 00:30:12,240
+your bullish discount arrays
+
+879
+00:30:12,880 --> 00:30:15,039
+these are your bullish discount arrays
+
+880
+00:30:15,039 --> 00:30:16,960
+and you would be looking for these
+
+881
+00:30:16,960 --> 00:30:17,760
+for
+
+882
+00:30:17,760 --> 00:30:20,559
+bearish targets or looking to get long
+
+883
+00:30:20,559 --> 00:30:22,399
+at any one of these based on the current
+
+884
+00:30:22,399 --> 00:30:24,240
+conditions in the market now the same
+
+885
+00:30:24,240 --> 00:30:26,640
+thing is seen also for the weekly chart
+
+886
+00:30:26,640 --> 00:30:27,919
+the weekly chart you're going to be
+
+887
+00:30:27,919 --> 00:30:29,919
+looking at the same thing from
+
+888
+00:30:29,919 --> 00:30:32,159
+equilibrium up
+
+889
+00:30:32,159 --> 00:30:33,360
+the first thing you would expect to see
+
+890
+00:30:33,360 --> 00:30:34,799
+when you're expecting higher prices are
+
+891
+00:30:34,799 --> 00:30:36,880
+we going to run into a mitigation block
+
+892
+00:30:36,880 --> 00:30:38,640
+bearish breaker if there's a bearish
+
+893
+00:30:38,640 --> 00:30:39,760
+breaker you're probably not going to go
+
+894
+00:30:39,760 --> 00:30:41,039
+higher than that
+
+895
+00:30:41,039 --> 00:30:42,640
+but if there is no breaker you look for
+
+896
+00:30:42,640 --> 00:30:44,640
+a void to close in
+
+897
+00:30:44,640 --> 00:30:46,880
+or if your value gap
+
+898
+00:30:46,880 --> 00:30:50,559
+if there is no fair value gap or avoid
+
+899
+00:30:50,559 --> 00:30:51,919
+price could just simply trade right up
+
+900
+00:30:51,919 --> 00:30:53,840
+into the bearish order block
+
+901
+00:30:53,840 --> 00:30:55,600
+and if there is
+
+902
+00:30:55,600 --> 00:30:57,360
+an idea that suggests that there's
+
+903
+00:30:57,360 --> 00:30:59,200
+possibly not a strong bearish order
+
+904
+00:30:59,200 --> 00:31:00,720
+block there we would look for a
+
+905
+00:31:00,720 --> 00:31:02,240
+rejection block which is a movement
+
+906
+00:31:02,240 --> 00:31:04,080
+above the candles bodies if there's long
+
+907
+00:31:04,080 --> 00:31:06,080
+wicks that top that market
+
+908
+00:31:06,080 --> 00:31:07,919
+and then ultimately a run above the old
+
+909
+00:31:07,919 --> 00:31:09,919
+high or return to a historical low the
+
+910
+00:31:09,919 --> 00:31:11,440
+same things we just outlined for the
+
+911
+00:31:11,440 --> 00:31:13,679
+monthly is seen for the weekly both
+
+912
+00:31:13,679 --> 00:31:16,000
+premium and discount the same hierarchy
+
+913
+00:31:16,000 --> 00:31:17,520
+and how you would expect to see these
+
+914
+00:31:17,520 --> 00:31:19,600
+arrays occur in price action
+
+915
+00:31:19,600 --> 00:31:21,360
+this is the way they are seen
+
+916
+00:31:21,360 --> 00:31:23,679
+and obviously the same thing is said for
+
+917
+00:31:23,679 --> 00:31:26,080
+a daily chart nothing's changed the same
+
+918
+00:31:26,080 --> 00:31:28,399
+hierarchy exists
+
+919
+00:31:28,399 --> 00:31:30,480
+if we're at equilibrium
+
+920
+00:31:30,480 --> 00:31:32,080
+and that's the current market action
+
+921
+00:31:32,080 --> 00:31:34,640
+price and we're expecting lower prices
+
+922
+00:31:34,640 --> 00:31:36,000
+the first thing we want to look for in
+
+923
+00:31:36,000 --> 00:31:37,200
+the left side of our chart is there any
+
+924
+00:31:37,200 --> 00:31:40,640
+mitigation blocks or a bullish breaker
+
+925
+00:31:40,640 --> 00:31:42,880
+if there is anything less than that
+
+926
+00:31:42,880 --> 00:31:45,039
+breaker probably won't be considered or
+
+927
+00:31:45,039 --> 00:31:46,399
+retreated to
+
+928
+00:31:46,399 --> 00:31:48,000
+the breaker has precedence over
+
+929
+00:31:48,000 --> 00:31:49,600
+everything both bullish breaker and
+
+930
+00:31:49,600 --> 00:31:51,760
+bearish breakers
+
+931
+00:31:51,760 --> 00:31:53,360
+so we're going to take a look at an
+
+932
+00:31:53,360 --> 00:31:55,600
+example of all this information with our
+
+933
+00:31:55,600 --> 00:31:57,760
+dollar yen example that we mentioned
+
+934
+00:31:57,760 --> 00:31:59,679
+briefly in lesson number five money
+
+935
+00:31:59,679 --> 00:32:02,640
+management was higher time from analysis
+
+936
+00:32:02,640 --> 00:32:04,480
+using these ideas
+
+937
+00:32:04,480 --> 00:32:05,919
+in 6.2
+
+938
+00:32:05,919 --> 00:32:07,679
+that lesson will actually give a real
+
+939
+00:32:07,679 --> 00:32:11,080
+practical example
+

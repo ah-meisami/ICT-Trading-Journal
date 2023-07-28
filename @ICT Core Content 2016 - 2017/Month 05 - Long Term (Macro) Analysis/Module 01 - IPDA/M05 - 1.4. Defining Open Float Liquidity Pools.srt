@@ -1,0 +1,2708 @@
+1
+00:00:05,400 --> 00:00:07,379
+foreign
+
+2
+00:00:07,379 --> 00:00:10,920
+welcome back this is lesson 1.4 defining
+
+3
+00:00:10,920 --> 00:00:14,540
+open float liquidity pools
+
+4
+00:00:16,440 --> 00:00:17,640
+okay we're gonna be looking at the
+
+5
+00:00:17,640 --> 00:00:20,960
+Canadian dollar for this teaching
+
+6
+00:00:21,720 --> 00:00:23,460
+okay we should look at here's a chart of
+
+7
+00:00:23,460 --> 00:00:27,140
+the Canadian dollar Futures chart
+
+8
+00:00:27,420 --> 00:00:29,400
+this is the March delivery contract for
+
+9
+00:00:29,400 --> 00:00:31,800
+Canadian dollar
+
+10
+00:00:31,800 --> 00:00:34,340
+foreign
+
+11
+00:00:34,700 --> 00:00:38,760
+CAD pair daily chart
+
+12
+00:00:38,760 --> 00:00:40,860
+when we're looking at price
+
+13
+00:00:40,860 --> 00:00:43,320
+what we like to do is identify on a
+
+14
+00:00:43,320 --> 00:00:45,540
+higher time frame where are the
+
+15
+00:00:45,540 --> 00:00:47,940
+liquidity pools for the large funds
+
+16
+00:00:47,940 --> 00:00:49,860
+because the liquidity pools for the
+
+17
+00:00:49,860 --> 00:00:52,500
+large funds is largely where markets
+
+18
+00:00:52,500 --> 00:00:54,420
+will want to reach for apart from
+
+19
+00:00:54,420 --> 00:00:57,660
+long-term fundamentals on a intermediate
+
+20
+00:00:57,660 --> 00:00:59,579
+term basis that means about three or
+
+21
+00:00:59,579 --> 00:01:03,719
+four months the large funds open float
+
+22
+00:01:03,719 --> 00:01:06,360
+the liquidity that's above old highs or
+
+23
+00:01:06,360 --> 00:01:08,880
+below old lows that will be generally
+
+24
+00:01:08,880 --> 00:01:11,939
+targeted every quarter
+
+25
+00:01:11,939 --> 00:01:13,740
+how do we go about identifying which
+
+26
+00:01:13,740 --> 00:01:15,540
+ones that we should be focusing on right
+
+27
+00:01:15,540 --> 00:01:18,299
+now we have to incorporate a technique
+
+28
+00:01:18,299 --> 00:01:21,560
+called open float
+
+29
+00:01:22,680 --> 00:01:25,020
+now open float is simply just taking the
+
+30
+00:01:25,020 --> 00:01:26,939
+last three months
+
+31
+00:01:26,939 --> 00:01:30,600
+or taking the last month and a half to
+
+32
+00:01:30,600 --> 00:01:33,439
+the next month and a half in the future
+
+33
+00:01:33,439 --> 00:01:35,520
+encapsulating that time
+
+34
+00:01:35,520 --> 00:01:39,439
+and basically you're looking at
+
+35
+00:01:39,540 --> 00:01:42,299
+three months of data
+
+36
+00:01:42,299 --> 00:01:44,159
+and by doing that what I'll do is give
+
+37
+00:01:44,159 --> 00:01:46,200
+you a range to look for the highest high
+
+38
+00:01:46,200 --> 00:01:48,360
+and the lowest low on the daily chart
+
+39
+00:01:48,360 --> 00:01:51,659
+which will lead you to where the large
+
+40
+00:01:51,659 --> 00:01:53,759
+funds liquidity pools are above and
+
+41
+00:01:53,759 --> 00:01:56,399
+below the market price
+
+42
+00:01:56,399 --> 00:01:57,840
+for example let's assume for a moment
+
+43
+00:01:57,840 --> 00:01:59,460
+it's August 1st
+
+44
+00:01:59,460 --> 00:02:03,420
+and we can look back and see where the
+
+45
+00:02:03,420 --> 00:02:05,340
+highest high was in the last 60 days
+
+46
+00:02:05,340 --> 00:02:08,160
+over the last 40 days and over the last
+
+47
+00:02:08,160 --> 00:02:12,480
+20 days prior to August 1st
+
+48
+00:02:12,480 --> 00:02:15,420
+we can identify also the
+
+49
+00:02:15,420 --> 00:02:19,080
+lowest low and the highest high
+
+50
+00:02:19,080 --> 00:02:21,900
+in the first 20 trading days to the
+
+51
+00:02:21,900 --> 00:02:23,879
+right of August 1st
+
+52
+00:02:23,879 --> 00:02:26,099
+then 40 days out what's the high and low
+
+53
+00:02:26,099 --> 00:02:27,780
+of that range
+
+54
+00:02:27,780 --> 00:02:29,819
+and what's the high and low the range 60
+
+55
+00:02:29,819 --> 00:02:32,700
+days out from August 1st
+
+56
+00:02:32,700 --> 00:02:35,640
+when you have that range 60 days look
+
+57
+00:02:35,640 --> 00:02:40,140
+back in 60 days cast forward that is
+
+58
+00:02:40,140 --> 00:02:42,720
+open float you want to find the highest
+
+59
+00:02:42,720 --> 00:02:45,180
+high and the lowest low in between those
+
+60
+00:02:45,180 --> 00:02:48,500
+two reference points and time
+
+61
+00:02:49,379 --> 00:02:52,319
+on a near-term basis you can look back
+
+62
+00:02:52,319 --> 00:02:56,580
+and see what the last 60 days trading
+
+63
+00:02:56,580 --> 00:02:59,640
+days range was high and low in this case
+
+64
+00:02:59,640 --> 00:03:02,879
+we can see the lowest here
+
+65
+00:03:02,879 --> 00:03:05,220
+and the high is here
+
+66
+00:03:05,220 --> 00:03:07,140
+going forward because we're looking at
+
+67
+00:03:07,140 --> 00:03:10,140
+the look back period here casting
+
+68
+00:03:10,140 --> 00:03:12,780
+forward those levels we can see that
+
+69
+00:03:12,780 --> 00:03:16,980
+eventually during the month of September
+
+70
+00:03:16,980 --> 00:03:19,739
+those highs that were formed in the
+
+71
+00:03:19,739 --> 00:03:23,099
+latter portion of July 2016 they were in
+
+72
+00:03:23,099 --> 00:03:25,620
+fact rated
+
+73
+00:03:25,620 --> 00:03:28,560
+so the market was drawn to the buy stops
+
+74
+00:03:28,560 --> 00:03:34,040
+on the fund level at those July highs
+
+75
+00:03:34,680 --> 00:03:38,099
+extending it out so that we have 60 days
+
+76
+00:03:38,099 --> 00:03:41,159
+look back and then 60 days cast forward
+
+77
+00:03:41,159 --> 00:03:45,500
+we can see what the total open float is
+
+78
+00:03:45,659 --> 00:03:50,000
+with the low end seen here
+
+79
+00:03:50,159 --> 00:03:53,900
+in the high end seen here
+
+80
+00:03:54,180 --> 00:03:55,739
+you can see the market did in fact
+
+81
+00:03:55,739 --> 00:03:58,319
+eventually still dry forward reaching
+
+82
+00:03:58,319 --> 00:04:01,440
+for the buy stops above
+
+83
+00:04:01,440 --> 00:04:05,900
+the October highs in 2016.
+
+84
+00:04:07,560 --> 00:04:09,360
+so if we're looking at the market like
+
+85
+00:04:09,360 --> 00:04:13,200
+this we can also identify where
+
+86
+00:04:13,200 --> 00:04:16,500
+significant short term and intermediate
+
+87
+00:04:16,500 --> 00:04:18,298
+term highs and lows are
+
+88
+00:04:18,298 --> 00:04:20,760
+if we look at the last range of 20 days
+
+89
+00:04:20,760 --> 00:04:23,280
+behind us and 20 days casting forward
+
+90
+00:04:23,280 --> 00:04:25,620
+expecting a new high or a new low to
+
+91
+00:04:25,620 --> 00:04:26,699
+form
+
+92
+00:04:26,699 --> 00:04:28,860
+because no one can accurately depict the
+
+93
+00:04:28,860 --> 00:04:31,440
+future and forecast the future we have
+
+94
+00:04:31,440 --> 00:04:33,479
+ideal times to look for in terms of
+
+95
+00:04:33,479 --> 00:04:35,940
+intervals 20 40 and 60 days intervals
+
+96
+00:04:35,940 --> 00:04:39,060
+looking back for the most obvious buy
+
+97
+00:04:39,060 --> 00:04:41,639
+stops and sell stops
+
+98
+00:04:41,639 --> 00:04:43,800
+don't just look for the highest high in
+
+99
+00:04:43,800 --> 00:04:45,360
+the last 60 days and the lowest low in
+
+100
+00:04:45,360 --> 00:04:48,180
+the last 60 days behind us or in the
+
+101
+00:04:48,180 --> 00:04:50,340
+look back phase what we're doing is
+
+102
+00:04:50,340 --> 00:04:52,919
+we're looking for where's the near-term
+
+103
+00:04:52,919 --> 00:04:55,500
+high and low in the last 20 days
+
+104
+00:04:55,500 --> 00:04:57,300
+whereas the short-term high and low in
+
+105
+00:04:57,300 --> 00:04:59,160
+the last 40 days
+
+106
+00:04:59,160 --> 00:05:00,900
+and where's the intermediate term high
+
+107
+00:05:00,900 --> 00:05:03,780
+and low in the last 60 days
+
+108
+00:05:03,780 --> 00:05:06,180
+that same thing can be done casting
+
+109
+00:05:06,180 --> 00:05:07,560
+forward
+
+110
+00:05:07,560 --> 00:05:11,639
+for looking at August 1st 2016
+
+111
+00:05:11,639 --> 00:05:14,880
+we can cast forward 20 trading days and
+
+112
+00:05:14,880 --> 00:05:17,600
+expect a range of high and low to form
+
+113
+00:05:17,600 --> 00:05:21,000
+noting what that high and low is on that
+
+114
+00:05:21,000 --> 00:05:23,280
+particular range will give us the
+
+115
+00:05:23,280 --> 00:05:25,680
+liquidity pulls that are on a near-term
+
+116
+00:05:25,680 --> 00:05:28,259
+basis the easiest ones from the market
+
+117
+00:05:28,259 --> 00:05:30,979
+to reach for
+
+118
+00:05:32,880 --> 00:05:34,979
+when we're looking at short-term trades
+
+119
+00:05:34,979 --> 00:05:37,320
+and day trades that range is going to be
+
+120
+00:05:37,320 --> 00:05:40,560
+easy and helpful for you for intraday
+
+121
+00:05:40,560 --> 00:05:44,160
+scalps and day trading
+
+122
+00:05:44,160 --> 00:05:47,580
+when we look out 40 days
+
+123
+00:05:47,580 --> 00:05:50,580
+it gives us a little bit more of a
+
+124
+00:05:50,580 --> 00:05:53,460
+short-term basis for defining the
+
+125
+00:05:53,460 --> 00:05:55,440
+liquidity pools on the daily chart
+
+126
+00:05:55,440 --> 00:05:58,320
+looking for the last High and the last
+
+127
+00:05:58,320 --> 00:06:01,199
+low in the last 40 days that made the
+
+128
+00:06:01,199 --> 00:06:03,120
+highest high and lowest low buy stocks
+
+129
+00:06:03,120 --> 00:06:04,860
+would be above that high
+
+130
+00:06:04,860 --> 00:06:09,199
+and sales tax would be below that low
+
+131
+00:06:10,080 --> 00:06:12,840
+in LTC 60 days cast forward from the
+
+132
+00:06:12,840 --> 00:06:15,539
+first of August would give us the
+
+133
+00:06:15,539 --> 00:06:17,639
+boundary point at which open float ends
+
+134
+00:06:17,639 --> 00:06:21,240
+in terms of time not in terms of price
+
+135
+00:06:21,240 --> 00:06:23,100
+but in terms of time so we are
+
+136
+00:06:23,100 --> 00:06:25,560
+bracketing the market if you will 60
+
+137
+00:06:25,560 --> 00:06:28,139
+days forward in time
+
+138
+00:06:28,139 --> 00:06:31,139
+and we're looking at back in the past 60
+
+139
+00:06:31,139 --> 00:06:34,319
+days so we have 120 trading days
+
+140
+00:06:34,319 --> 00:06:37,979
+of what would be called open float
+
+141
+00:06:37,979 --> 00:06:39,419
+we're looking for the highest high and
+
+142
+00:06:39,419 --> 00:06:41,460
+the lowest low in that range but every
+
+143
+00:06:41,460 --> 00:06:43,080
+20 days
+
+144
+00:06:43,080 --> 00:06:45,419
+there's a high and a low form now you're
+
+145
+00:06:45,419 --> 00:06:47,280
+about to experience a growth spurt one
+
+146
+00:06:47,280 --> 00:06:48,840
+of the most powerful patterns I like to
+
+147
+00:06:48,840 --> 00:06:51,539
+trade is the turtle soup which is a
+
+148
+00:06:51,539 --> 00:06:54,000
+false break above old high and a false
+
+149
+00:06:54,000 --> 00:06:55,500
+break below an old well
+
+150
+00:06:55,500 --> 00:06:58,020
+the pattern that I learned about that
+
+151
+00:06:58,020 --> 00:07:01,139
+was taught in Street smarts book while
+
+152
+00:07:01,139 --> 00:07:03,000
+I'm not teaching that pattern here out
+
+153
+00:07:03,000 --> 00:07:05,160
+of respect for the the authors of that
+
+154
+00:07:05,160 --> 00:07:08,100
+book the idea of a false break above or
+
+155
+00:07:08,100 --> 00:07:09,199
+below
+
+156
+00:07:09,199 --> 00:07:11,340
+based on
+
+157
+00:07:11,340 --> 00:07:14,100
+the turtles trading pattern which is a
+
+158
+00:07:14,100 --> 00:07:16,440
+long-term trading pattern or system if
+
+159
+00:07:16,440 --> 00:07:17,280
+you will
+
+160
+00:07:17,280 --> 00:07:19,440
+that allow long-term trends to pay out
+
+161
+00:07:19,440 --> 00:07:22,919
+the turtle Traders and turtle Traders if
+
+162
+00:07:22,919 --> 00:07:24,599
+you know what they are Richard Dennis
+
+163
+00:07:24,599 --> 00:07:27,000
+put together a hodgepodge of different
+
+164
+00:07:27,000 --> 00:07:29,639
+walks of life people all from different
+
+165
+00:07:29,639 --> 00:07:31,979
+walks of life for the purpose of
+
+166
+00:07:31,979 --> 00:07:33,419
+teaching them
+
+167
+00:07:33,419 --> 00:07:35,819
+the concept of trading and he used a
+
+168
+00:07:35,819 --> 00:07:37,319
+long-term trading model
+
+169
+00:07:37,319 --> 00:07:40,199
+and he taught that buying a breakout
+
+170
+00:07:40,199 --> 00:07:42,300
+above a 20-day High holding for
+
+171
+00:07:42,300 --> 00:07:44,880
+long-term trends or selling short a
+
+172
+00:07:44,880 --> 00:07:47,539
+20-day low holding for long-term trends
+
+173
+00:07:47,539 --> 00:07:49,860
+while they had a lot of losing trades
+
+174
+00:07:49,860 --> 00:07:51,840
+their winners were monstrous it's a
+
+175
+00:07:51,840 --> 00:07:54,539
+trend following system which is what I
+
+176
+00:07:54,539 --> 00:07:57,060
+teach that the large funds are in the
+
+177
+00:07:57,060 --> 00:07:58,560
+Foreign Exchange Market they're
+
+178
+00:07:58,560 --> 00:08:00,660
+long-term Trend following because these
+
+179
+00:08:00,660 --> 00:08:03,120
+markets are highly linked to
+
+180
+00:08:03,120 --> 00:08:05,220
+interest rate markets which are under
+
+181
+00:08:05,220 --> 00:08:07,380
+underlying fundamental drivers for the
+
+182
+00:08:07,380 --> 00:08:08,520
+marketplace
+
+183
+00:08:08,520 --> 00:08:10,259
+long-term trends are in fact
+
+184
+00:08:10,259 --> 00:08:13,020
+fundamentally driven in currencies but
+
+185
+00:08:13,020 --> 00:08:14,099
+because
+
+186
+00:08:14,099 --> 00:08:17,400
+the system was based on buying on a
+
+187
+00:08:17,400 --> 00:08:20,460
+breakout of the 20 period or selling
+
+188
+00:08:20,460 --> 00:08:22,860
+below 20 period low
+
+189
+00:08:22,860 --> 00:08:25,919
+that breakout many times was false and
+
+190
+00:08:25,919 --> 00:08:28,860
+in itself it gives us an edge so if we
+
+191
+00:08:28,860 --> 00:08:30,720
+look at every interval of 20 trading
+
+192
+00:08:30,720 --> 00:08:31,500
+days
+
+193
+00:08:31,500 --> 00:08:35,039
+which is what we have here 20 40 60. you
+
+194
+00:08:35,039 --> 00:08:37,440
+can encapsulate where the next high and
+
+195
+00:08:37,440 --> 00:08:40,140
+the next low is on price
+
+196
+00:08:40,140 --> 00:08:42,419
+and where the highest and lowest low on
+
+197
+00:08:42,419 --> 00:08:44,760
+each 20-day interval going forward and
+
+198
+00:08:44,760 --> 00:08:47,160
+looking back you'll know where device
+
+199
+00:08:47,160 --> 00:08:49,200
+thoughts and sell stops are so that we
+
+200
+00:08:49,200 --> 00:08:51,420
+can take respective trades based on that
+
+201
+00:08:51,420 --> 00:08:53,940
+also if you notice that the buy stops
+
+202
+00:08:53,940 --> 00:08:57,000
+keep getting hit and rarely do the sell
+
+203
+00:08:57,000 --> 00:08:59,459
+stops keep getting hit by default it
+
+204
+00:08:59,459 --> 00:09:01,080
+teaches you to institutional order flow
+
+205
+00:09:01,080 --> 00:09:01,980
+is what
+
+206
+00:09:01,980 --> 00:09:04,380
+bullish it's looking for higher prices
+
+207
+00:09:04,380 --> 00:09:07,500
+it keeps drawing on the buy stops above
+
+208
+00:09:07,500 --> 00:09:09,600
+the marketplace
+
+209
+00:09:09,600 --> 00:09:11,760
+and conversely if we notice that the
+
+210
+00:09:11,760 --> 00:09:13,680
+cell stops keep getting ran out and very
+
+211
+00:09:13,680 --> 00:09:16,320
+rarely do the buy stops keep getting hit
+
+212
+00:09:16,320 --> 00:09:18,000
+that tells us what for institution order
+
+213
+00:09:18,000 --> 00:09:19,920
+flow it tells us that the institutional
+
+214
+00:09:19,920 --> 00:09:22,440
+overflow is bearish so therefore the
+
+215
+00:09:22,440 --> 00:09:23,820
+banks are making a move on the large
+
+216
+00:09:23,820 --> 00:09:26,160
+funds liquidity below the lows or
+
+217
+00:09:26,160 --> 00:09:28,080
+running their sell stops
+
+218
+00:09:28,080 --> 00:09:30,240
+okay moving forward one month this is
+
+219
+00:09:30,240 --> 00:09:32,880
+September 2016.
+
+220
+00:09:32,880 --> 00:09:35,279
+the same thing is done here we've
+
+221
+00:09:35,279 --> 00:09:38,220
+identified where the ranges in terms of
+
+222
+00:09:38,220 --> 00:09:40,080
+the look back 60 trading days from the
+
+223
+00:09:40,080 --> 00:09:42,240
+beginning of September and we have 60
+
+224
+00:09:42,240 --> 00:09:44,459
+trading Days cast forward we're going to
+
+225
+00:09:44,459 --> 00:09:47,100
+look for the lowest low in the last 60
+
+226
+00:09:47,100 --> 00:09:48,360
+trading days
+
+227
+00:09:48,360 --> 00:09:51,360
+prior to September 1st
+
+228
+00:09:51,360 --> 00:09:53,940
+and that's this one here
+
+229
+00:09:53,940 --> 00:09:55,560
+and the highest high
+
+230
+00:09:55,560 --> 00:09:58,380
+in the last 60 days is here
+
+231
+00:09:58,380 --> 00:10:01,620
+and again we can keep noticing that the
+
+232
+00:10:01,620 --> 00:10:03,959
+buy stops above old highs keep getting
+
+233
+00:10:03,959 --> 00:10:05,880
+taken out you can see that high is
+
+234
+00:10:05,880 --> 00:10:10,160
+violated also in the month of September
+
+235
+00:10:13,200 --> 00:10:15,360
+moving forward we have
+
+236
+00:10:15,360 --> 00:10:17,880
+October 2016.
+
+237
+00:10:17,880 --> 00:10:19,860
+look back period of 60 days and cast
+
+238
+00:10:19,860 --> 00:10:22,260
+forward of 60 days we have identified
+
+239
+00:10:22,260 --> 00:10:25,580
+our range or open float
+
+240
+00:10:25,620 --> 00:10:28,260
+the highest high in the last 60 trading
+
+241
+00:10:28,260 --> 00:10:31,200
+days prior to October 1st 2016 is this
+
+242
+00:10:31,200 --> 00:10:34,260
+High here and the lowest low in our look
+
+243
+00:10:34,260 --> 00:10:36,360
+back period of 60 days is here so open
+
+244
+00:10:36,360 --> 00:10:38,700
+float on a large fund level are
+
+245
+00:10:38,700 --> 00:10:40,500
+referenced by these two price points the
+
+246
+00:10:40,500 --> 00:10:42,660
+higher it's where the buy stops are and
+
+247
+00:10:42,660 --> 00:10:44,640
+the lowers where the sell stops are
+
+248
+00:10:44,640 --> 00:10:48,060
+so they're looking for the buy stops
+
+249
+00:10:48,060 --> 00:10:49,380
+above the marketplace and they keep
+
+250
+00:10:49,380 --> 00:10:52,079
+taking those buy stops out notice also
+
+251
+00:10:52,079 --> 00:10:53,880
+in the first 20 trading days to the
+
+252
+00:10:53,880 --> 00:10:57,440
+right or the future from October
+
+253
+00:10:57,440 --> 00:11:01,260
+2012 there's a low that forms in the
+
+254
+00:11:01,260 --> 00:11:02,880
+Canadian dollar
+
+255
+00:11:02,880 --> 00:11:06,420
+it takes the lows out in the form of the
+
+256
+00:11:06,420 --> 00:11:08,100
+bodies of the candles made in the last
+
+257
+00:11:08,100 --> 00:11:10,560
+portion of September then there's a
+
+258
+00:11:10,560 --> 00:11:11,940
+rejection that trades higher so we had
+
+259
+00:11:11,940 --> 00:11:13,920
+one attempt here to clear out the sell
+
+260
+00:11:13,920 --> 00:11:16,700
+side liquidity
+
+261
+00:11:17,220 --> 00:11:21,180
+moving forward delineating our
+
+262
+00:11:21,180 --> 00:11:25,500
+open float range for November 2016. you
+
+263
+00:11:25,500 --> 00:11:27,720
+can see the look back period
+
+264
+00:11:27,720 --> 00:11:30,779
+60 trading days maximum 40 trading days
+
+265
+00:11:30,779 --> 00:11:32,880
+and 20 trading days the highest high and
+
+266
+00:11:32,880 --> 00:11:35,459
+the lowest low formed in the last 20 and
+
+267
+00:11:35,459 --> 00:11:38,540
+40 and 60 trading days
+
+268
+00:11:38,579 --> 00:11:42,180
+the lowest lowest seen here
+
+269
+00:11:42,180 --> 00:11:44,220
+highest high seen here and again going
+
+270
+00:11:44,220 --> 00:11:46,500
+forward into November we can see that
+
+271
+00:11:46,500 --> 00:11:48,480
+that high was in fact taken out on the
+
+272
+00:11:48,480 --> 00:11:50,760
+upside so they keep taking the buy stops
+
+273
+00:11:50,760 --> 00:11:52,560
+out and institutional order flow is
+
+274
+00:11:52,560 --> 00:11:55,700
+indicated as bullish
+
+275
+00:11:55,860 --> 00:11:58,700
+casting forward one more time into
+
+276
+00:11:58,700 --> 00:12:01,620
+December 2016.
+
+277
+00:12:01,620 --> 00:12:05,100
+looking back last 60 trading days prior
+
+278
+00:12:05,100 --> 00:12:07,860
+to December 1st the lowest low is seen
+
+279
+00:12:07,860 --> 00:12:09,899
+here sales tax will be resting below
+
+280
+00:12:09,899 --> 00:12:12,060
+that in a large fund level
+
+281
+00:12:12,060 --> 00:12:14,220
+and buy stocks will be resting just
+
+282
+00:12:14,220 --> 00:12:15,480
+above
+
+283
+00:12:15,480 --> 00:12:17,820
+the high scene here notice also in the
+
+284
+00:12:17,820 --> 00:12:20,640
+first 20 trading days after December 1st
+
+285
+00:12:20,640 --> 00:12:23,640
+2016 We Made It Low
+
+286
+00:12:23,640 --> 00:12:25,980
+and then price ran eventually up into
+
+287
+00:12:25,980 --> 00:12:27,959
+creating another higher high but blowing
+
+288
+00:12:27,959 --> 00:12:30,600
+out the buy stops above the November
+
+289
+00:12:30,600 --> 00:12:31,980
+High
+
+290
+00:12:31,980 --> 00:12:34,260
+and then ultimately making a run down
+
+291
+00:12:34,260 --> 00:12:36,540
+into
+
+292
+00:12:36,540 --> 00:12:38,100
+a lower low
+
+293
+00:12:38,100 --> 00:12:39,899
+for January
+
+294
+00:12:39,899 --> 00:12:42,720
+and it forms in the first 40 trading
+
+295
+00:12:42,720 --> 00:12:47,600
+days after December 1st 2016.
+
+296
+00:12:49,860 --> 00:12:51,899
+and going forward in time
+
+297
+00:12:51,899 --> 00:12:54,779
+at the time of this recording
+
+298
+00:12:54,779 --> 00:12:57,600
+look back period last 60 trading days
+
+299
+00:12:57,600 --> 00:13:00,540
+you see as low as low as seen here
+
+300
+00:13:00,540 --> 00:13:03,300
+highest highs seen here we have already
+
+301
+00:13:03,300 --> 00:13:06,180
+violated the lowest low so we've taken
+
+302
+00:13:06,180 --> 00:13:08,820
+out the cell stops on a large funds
+
+303
+00:13:08,820 --> 00:13:11,160
+level and
+
+304
+00:13:11,160 --> 00:13:14,459
+we can look forward in time for a new
+
+305
+00:13:14,459 --> 00:13:16,800
+price like that retrace higher and then
+
+306
+00:13:16,800 --> 00:13:18,180
+see if they want to take it lower
+
+307
+00:13:18,180 --> 00:13:20,399
+because it's all indicating that they
+
+308
+00:13:20,399 --> 00:13:22,500
+want to take out the sell side liquidity
+
+309
+00:13:22,500 --> 00:13:24,540
+now
+
+310
+00:13:24,540 --> 00:13:26,820
+okay let's take a look at the dollar CAD
+
+311
+00:13:26,820 --> 00:13:29,399
+pair this is the daily chart and let's
+
+312
+00:13:29,399 --> 00:13:32,040
+apply some of these ideas on the daily
+
+313
+00:13:32,040 --> 00:13:34,339
+chart
+
+314
+00:13:35,399 --> 00:13:36,720
+okay you can see the bodies of the
+
+315
+00:13:36,720 --> 00:13:38,220
+candles over here
+
+316
+00:13:38,220 --> 00:13:40,279
+we did Wick down below
+
+317
+00:13:40,279 --> 00:13:43,680
+130 50 level and retrace a little bit
+
+318
+00:13:43,680 --> 00:13:45,240
+that's where the cell stops will be
+
+319
+00:13:45,240 --> 00:13:47,700
+resting oh no
+
+320
+00:13:47,700 --> 00:13:49,320
+intermediate term basis because we're
+
+321
+00:13:49,320 --> 00:13:52,079
+looking at a daily time frame
+
+322
+00:13:52,079 --> 00:13:53,880
+price advancing does trade down there
+
+323
+00:13:53,880 --> 00:13:55,800
+and takes those sell stops out of the
+
+324
+00:13:55,800 --> 00:13:58,440
+marketplace and quickly runs away
+
+325
+00:13:58,440 --> 00:14:00,120
+next area up here the bodies of the
+
+326
+00:14:00,120 --> 00:14:01,920
+candles you can see that Wicks through
+
+327
+00:14:01,920 --> 00:14:02,880
+it
+
+328
+00:14:02,880 --> 00:14:04,320
+five stops will be resting just above
+
+329
+00:14:04,320 --> 00:14:05,459
+that
+
+330
+00:14:05,459 --> 00:14:07,320
+large funds
+
+331
+00:14:07,320 --> 00:14:09,600
+have their buy stops taken out here and
+
+332
+00:14:09,600 --> 00:14:12,620
+then quickly rejected
+
+333
+00:14:13,740 --> 00:14:15,180
+and we have a low down here with the
+
+334
+00:14:15,180 --> 00:14:17,339
+bodies of the candles
+
+335
+00:14:17,339 --> 00:14:19,079
+sales thoughts will be rested just below
+
+336
+00:14:19,079 --> 00:14:21,839
+that and we can see the market does in
+
+337
+00:14:21,839 --> 00:14:23,820
+fact sweep down there and take the sell
+
+338
+00:14:23,820 --> 00:14:26,279
+side liquidity out
+
+339
+00:14:26,279 --> 00:14:29,399
+so what makes these false breaks and and
+
+340
+00:14:29,399 --> 00:14:32,040
+false breaks higher and lower so
+
+341
+00:14:32,040 --> 00:14:33,839
+lucrative is the fact that we understand
+
+342
+00:14:33,839 --> 00:14:36,480
+that large traders in the form of a fund
+
+343
+00:14:36,480 --> 00:14:38,579
+Trader they have their buy stops above
+
+344
+00:14:38,579 --> 00:14:40,440
+these levels and they have their sell
+
+345
+00:14:40,440 --> 00:14:42,240
+stops below these levels
+
+346
+00:14:42,240 --> 00:14:45,600
+every 20 trading days there's going to
+
+347
+00:14:45,600 --> 00:14:47,880
+be a new liquidity pool formed
+
+348
+00:14:47,880 --> 00:14:50,040
+it's going to be on the buy side and on
+
+349
+00:14:50,040 --> 00:14:52,139
+the sell side you just have to identify
+
+350
+00:14:52,139 --> 00:14:55,260
+where those ranges are in respective
+
+351
+00:14:55,260 --> 00:14:57,360
+terms to where the most obvious swing
+
+352
+00:14:57,360 --> 00:14:59,459
+high and swing low is formed and then
+
+353
+00:14:59,459 --> 00:15:01,199
+frame that going forward whereas the
+
+354
+00:15:01,199 --> 00:15:03,120
+next 20 days high and low whereas the
+
+355
+00:15:03,120 --> 00:15:05,519
+next 20 days high and low keep going out
+
+356
+00:15:05,519 --> 00:15:08,040
+but looking back in the last 60 days and
+
+357
+00:15:08,040 --> 00:15:10,920
+looking forward into the future 60 days
+
+358
+00:15:10,920 --> 00:15:13,680
+gives us the range for open float the
+
+359
+00:15:13,680 --> 00:15:15,360
+highest high and the lowest low in that
+
+360
+00:15:15,360 --> 00:15:19,260
+range of 120 days that's what the large
+
+361
+00:15:19,260 --> 00:15:22,279
+fund macro is in other words we're there
+
+362
+00:15:22,279 --> 00:15:25,320
+aiming for the large fund buy stops or
+
+363
+00:15:25,320 --> 00:15:27,660
+sell stops they're going to be derived
+
+364
+00:15:27,660 --> 00:15:29,399
+at looking at where the range high and
+
+365
+00:15:29,399 --> 00:15:32,940
+low is on the last 120 days 60 days
+
+366
+00:15:32,940 --> 00:15:34,139
+backwards
+
+367
+00:15:34,139 --> 00:15:36,360
+in time and with the next high and low
+
+368
+00:15:36,360 --> 00:15:38,399
+if it makes a higher high in the next
+
+369
+00:15:38,399 --> 00:15:40,800
+new 60 trading days
+
+370
+00:15:40,800 --> 00:15:42,600
+we don't know where that high is going
+
+371
+00:15:42,600 --> 00:15:44,459
+to be in in the future we don't know if
+
+372
+00:15:44,459 --> 00:15:46,079
+it's going to create a higher high or if
+
+373
+00:15:46,079 --> 00:15:47,699
+it's going to make a lower low
+
+374
+00:15:47,699 --> 00:15:50,160
+we just monitor as price creates new
+
+375
+00:15:50,160 --> 00:15:52,500
+price swings on highs and lows
+
+376
+00:15:52,500 --> 00:15:54,959
+where are we in relative terms to the
+
+377
+00:15:54,959 --> 00:15:57,540
+last 60 trading days are we making a
+
+378
+00:15:57,540 --> 00:15:58,620
+higher high
+
+379
+00:15:58,620 --> 00:16:01,440
+then the the highest high or are we
+
+380
+00:16:01,440 --> 00:16:03,420
+making a lower low in the lowest low in
+
+381
+00:16:03,420 --> 00:16:04,920
+the last 60 days
+
+382
+00:16:04,920 --> 00:16:08,519
+and we look forward 60 trading days into
+
+383
+00:16:08,519 --> 00:16:11,339
+the future and we keep moving that basis
+
+384
+00:16:11,339 --> 00:16:14,100
+forward each new month we're looking for
+
+385
+00:16:14,100 --> 00:16:16,620
+and we're we'll eventually arrive at the
+
+386
+00:16:16,620 --> 00:16:18,300
+institution order Flow by default you
+
+387
+00:16:18,300 --> 00:16:19,440
+can see where they're running the market
+
+388
+00:16:19,440 --> 00:16:21,240
+they're taking out buy stops
+
+389
+00:16:21,240 --> 00:16:23,279
+continuously rarely if ever taking out
+
+390
+00:16:23,279 --> 00:16:25,500
+cell stops what's telling you do they
+
+391
+00:16:25,500 --> 00:16:27,300
+want to press the market higher they
+
+392
+00:16:27,300 --> 00:16:29,399
+keep grinding against those large funds
+
+393
+00:16:29,399 --> 00:16:30,660
+so
+
+394
+00:16:30,660 --> 00:16:33,959
+if it's seen as an opposite where we
+
+395
+00:16:33,959 --> 00:16:35,760
+keep seeing the sell stops keep getting
+
+396
+00:16:35,760 --> 00:16:37,680
+ran out and very real the buy stocks get
+
+397
+00:16:37,680 --> 00:16:40,740
+taken out institutional order flow is
+
+398
+00:16:40,740 --> 00:16:43,259
+bearish so therefore as long as we
+
+399
+00:16:43,259 --> 00:16:45,720
+continuously see the market making new
+
+400
+00:16:45,720 --> 00:16:47,100
+lows
+
+401
+00:16:47,100 --> 00:16:49,259
+we keep watching that range of the last
+
+402
+00:16:49,259 --> 00:16:51,120
+60 days and where are we in relationship
+
+403
+00:16:51,120 --> 00:16:53,399
+to that are we above it or below it if
+
+404
+00:16:53,399 --> 00:16:55,380
+we're above it we have to continuously
+
+405
+00:16:55,380 --> 00:16:57,779
+keep seeing buy stops get taken out if
+
+406
+00:16:57,779 --> 00:16:59,399
+you start seeing cell stops get taken
+
+407
+00:16:59,399 --> 00:17:01,139
+out we're probably making a quarterly
+
+408
+00:17:01,139 --> 00:17:04,079
+shift and the reverse is said if we're
+
+409
+00:17:04,079 --> 00:17:08,339
+below the last 60 days low
+
+410
+00:17:08,339 --> 00:17:11,040
+and if we're below that last 60 days low
+
+411
+00:17:11,040 --> 00:17:13,020
+we're really oversold we're in a deep
+
+412
+00:17:13,020 --> 00:17:15,540
+discount market and if we start seeing
+
+413
+00:17:15,540 --> 00:17:17,400
+buy stops getting hit and very rarely
+
+414
+00:17:17,400 --> 00:17:19,380
+new we now see cell stops getting hit
+
+415
+00:17:19,380 --> 00:17:21,660
+we're probably performing a market
+
+416
+00:17:21,660 --> 00:17:24,720
+structure shift or quarterly shift for
+
+417
+00:17:24,720 --> 00:17:27,059
+a new Direction in the marketplace
+
+418
+00:17:27,059 --> 00:17:29,580
+and you can see that in fact is what
+
+419
+00:17:29,580 --> 00:17:33,360
+happens here with the Canadian dollar
+
+420
+00:17:33,360 --> 00:17:35,280
+so let's take this information and go
+
+421
+00:17:35,280 --> 00:17:39,620
+back to the Futures Market
+
+422
+00:17:39,660 --> 00:17:41,820
+and take a look at some things
+
+423
+00:17:41,820 --> 00:17:43,320
+now obviously this is going to be the
+
+424
+00:17:43,320 --> 00:17:45,299
+price action of the Futures Contract
+
+425
+00:17:45,299 --> 00:17:47,520
+which is going to be inverted from what
+
+426
+00:17:47,520 --> 00:17:48,960
+we see when we're studying the dollar
+
+427
+00:17:48,960 --> 00:17:51,120
+Index versus the Canadian dollar because
+
+428
+00:17:51,120 --> 00:17:52,620
+that pair starts with the US dollar
+
+429
+00:17:52,620 --> 00:17:55,440
+first that means when that market is
+
+430
+00:17:55,440 --> 00:17:58,200
+going higher as a pair that means the
+
+431
+00:17:58,200 --> 00:17:59,820
+dollar strong in Canadian dollars weak
+
+432
+00:17:59,820 --> 00:18:03,299
+if the dollar cad's going
+
+433
+00:18:03,299 --> 00:18:05,280
+lower that means the dollar Index is
+
+434
+00:18:05,280 --> 00:18:06,840
+weak and the Canadian dollar is
+
+435
+00:18:06,840 --> 00:18:08,280
+strengthening
+
+436
+00:18:08,280 --> 00:18:10,320
+well in this case
+
+437
+00:18:10,320 --> 00:18:13,080
+we are looking at the Futures Contract
+
+438
+00:18:13,080 --> 00:18:15,240
+of Canadian dollar and I want you to
+
+439
+00:18:15,240 --> 00:18:16,799
+look at the same reference points we
+
+440
+00:18:16,799 --> 00:18:18,720
+just showed in the previous slide
+
+441
+00:18:18,720 --> 00:18:20,400
+we're just going to do the opposite in
+
+442
+00:18:20,400 --> 00:18:22,440
+the Futures Market
+
+443
+00:18:22,440 --> 00:18:24,840
+you see the bodies of the candles being
+
+444
+00:18:24,840 --> 00:18:28,020
+ran out here in December
+
+445
+00:18:28,020 --> 00:18:31,260
+and then quickly rejected
+
+446
+00:18:31,260 --> 00:18:33,960
+we can see the bodies of the candle
+
+447
+00:18:33,960 --> 00:18:38,280
+made in November gets rated in December
+
+448
+00:18:38,280 --> 00:18:42,299
+and quickly Rejects and it runs for what
+
+449
+00:18:42,299 --> 00:18:44,280
+the bodies of the candles here we're
+
+450
+00:18:44,280 --> 00:18:45,480
+running the old high out where buy
+
+451
+00:18:45,480 --> 00:18:47,220
+stocks will be resting
+
+452
+00:18:47,220 --> 00:18:49,380
+and that's where we're at presently but
+
+453
+00:18:49,380 --> 00:18:51,900
+prior to that big run up
+
+454
+00:18:51,900 --> 00:18:55,200
+off of that 73
+
+455
+00:18:55,200 --> 00:18:59,360
+50 73 65 level
+
+456
+00:19:00,780 --> 00:19:04,100
+take a look at this right here
+
+457
+00:19:04,380 --> 00:19:07,020
+I gave you a teaching with the
+
+458
+00:19:07,020 --> 00:19:09,780
+Australian dollar and I showed you how
+
+459
+00:19:09,780 --> 00:19:12,120
+we can use these quarterly shifts to
+
+460
+00:19:12,120 --> 00:19:14,220
+take place
+
+461
+00:19:14,220 --> 00:19:16,140
+and open interest
+
+462
+00:19:16,140 --> 00:19:18,179
+off of support resistance ideas on a
+
+463
+00:19:18,179 --> 00:19:20,580
+higher time frame basis
+
+464
+00:19:20,580 --> 00:19:22,140
+when we're looking at higher time frame
+
+465
+00:19:22,140 --> 00:19:25,740
+charts we are identifying Clues and
+
+466
+00:19:25,740 --> 00:19:26,880
+seeking
+
+467
+00:19:26,880 --> 00:19:29,460
+evidences that we can see that they are
+
+468
+00:19:29,460 --> 00:19:31,140
+about to make a move on one side of the
+
+469
+00:19:31,140 --> 00:19:33,000
+marketplace we understand what's making
+
+470
+00:19:33,000 --> 00:19:34,860
+that short-term fluctuation could be
+
+471
+00:19:34,860 --> 00:19:36,600
+largely attributed to just running the
+
+472
+00:19:36,600 --> 00:19:38,820
+stops on funds
+
+473
+00:19:38,820 --> 00:19:40,860
+large fund traders buy stops and sell
+
+474
+00:19:40,860 --> 00:19:43,980
+stops but it's not always that the
+
+475
+00:19:43,980 --> 00:19:46,500
+markets are moving based on very very
+
+476
+00:19:46,500 --> 00:19:48,600
+long-term fundamentals and as it relates
+
+477
+00:19:48,600 --> 00:19:50,820
+to higher time frame charts but every
+
+478
+00:19:50,820 --> 00:19:52,559
+three months there can be a manipulative
+
+479
+00:19:52,559 --> 00:19:55,320
+phase in the marketplace that still can
+
+480
+00:19:55,320 --> 00:19:57,059
+be a catalyst for us to be a Trader
+
+481
+00:19:57,059 --> 00:19:59,520
+taking high probability entries
+
+482
+00:19:59,520 --> 00:20:01,500
+and looking for high probability exit
+
+483
+00:20:01,500 --> 00:20:03,720
+points and by looking at where the
+
+484
+00:20:03,720 --> 00:20:06,539
+logical fund level traders buy stocks
+
+485
+00:20:06,539 --> 00:20:09,240
+and sell stocks would be and looking for
+
+486
+00:20:09,240 --> 00:20:11,160
+evidence is that the market is showing
+
+487
+00:20:11,160 --> 00:20:14,039
+participation by smart money
+
+488
+00:20:14,039 --> 00:20:16,919
+I.E the banks if the Market's trading
+
+489
+00:20:16,919 --> 00:20:20,220
+down to a support level at 73.80 to 7360
+
+490
+00:20:20,220 --> 00:20:22,080
+in that range
+
+491
+00:20:22,080 --> 00:20:25,200
+we have a clue here that once the market
+
+492
+00:20:25,200 --> 00:20:28,880
+start trading lower from the 7 500 to
+
+493
+00:20:28,880 --> 00:20:34,860
+74.60 74 40 level to 7400 and then once
+
+494
+00:20:34,860 --> 00:20:38,280
+we got below 73.80 level by that point
+
+495
+00:20:38,280 --> 00:20:40,980
+open interest had already tanked you can
+
+496
+00:20:40,980 --> 00:20:43,919
+see clearly here that's a huge drop it's
+
+497
+00:20:43,919 --> 00:20:45,360
+a massive drop
+
+498
+00:20:45,360 --> 00:20:48,240
+you only need a 15 the decrease to have
+
+499
+00:20:48,240 --> 00:20:52,200
+a massive uh indication that there's big
+
+500
+00:20:52,200 --> 00:20:53,220
+huge
+
+501
+00:20:53,220 --> 00:20:54,780
+institutional sponsorship behind the
+
+502
+00:20:54,780 --> 00:20:56,340
+move that you're expecting if open
+
+503
+00:20:56,340 --> 00:20:58,020
+interest is declining what they're
+
+504
+00:20:58,020 --> 00:21:00,539
+saying to us is they are not willing to
+
+505
+00:21:00,539 --> 00:21:01,440
+be
+
+506
+00:21:01,440 --> 00:21:04,919
+offering sell side liquidity to buyers
+
+507
+00:21:04,919 --> 00:21:07,020
+they don't want that so they're scaring
+
+508
+00:21:07,020 --> 00:21:08,760
+those individuals by dropping the market
+
+509
+00:21:08,760 --> 00:21:10,559
+really quickly and open interest
+
+510
+00:21:10,559 --> 00:21:13,679
+declines rapidly open interest only
+
+511
+00:21:13,679 --> 00:21:15,539
+declines as an Evidence
+
+512
+00:21:15,539 --> 00:21:19,799
+that the smart money are not wanting to
+
+513
+00:21:19,799 --> 00:21:23,039
+be heavily short high open interest is a
+
+514
+00:21:23,039 --> 00:21:25,559
+indication that there's a big massive
+
+515
+00:21:25,559 --> 00:21:28,200
+liquidity uh program that's been offered
+
+516
+00:21:28,200 --> 00:21:31,740
+for buyers the bank is offering that as
+
+517
+00:21:31,740 --> 00:21:34,559
+risk they're holding the risk on that
+
+518
+00:21:34,559 --> 00:21:37,260
+but if open interest declines while the
+
+519
+00:21:37,260 --> 00:21:38,880
+market drops off precipitously and it
+
+520
+00:21:38,880 --> 00:21:40,380
+goes into a support level because look
+
+521
+00:21:40,380 --> 00:21:43,679
+at what's happening in November 2016.
+
+522
+00:21:43,679 --> 00:21:46,080
+the Canadian dollars Futures Contract it
+
+523
+00:21:46,080 --> 00:21:49,500
+rallied from around 73.80 up to 76.40
+
+524
+00:21:49,500 --> 00:21:51,840
+which is a very respectable range
+
+525
+00:21:51,840 --> 00:21:54,120
+price comes back down runs the bodies of
+
+526
+00:21:54,120 --> 00:21:55,980
+the candles that was formed as a low in
+
+527
+00:21:55,980 --> 00:21:57,900
+November 2016.
+
+528
+00:21:57,900 --> 00:22:00,539
+price comes down again looking for
+
+529
+00:22:00,539 --> 00:22:02,820
+another shift in the marketplace
+
+530
+00:22:02,820 --> 00:22:05,400
+it runs out the sell stops below the
+
+531
+00:22:05,400 --> 00:22:09,179
+7380 level with an old low remember we
+
+532
+00:22:09,179 --> 00:22:10,679
+look back in
+
+533
+00:22:10,679 --> 00:22:13,500
+higher time frame institution order flow
+
+534
+00:22:13,500 --> 00:22:15,299
+reference points
+
+535
+00:22:15,299 --> 00:22:18,780
+liquidity pools water blocks fair value
+
+536
+00:22:18,780 --> 00:22:21,059
+gaps equilibrium
+
+537
+00:22:21,059 --> 00:22:23,280
+all those price points we used and
+
+538
+00:22:23,280 --> 00:22:25,679
+learned in September we look for those
+
+539
+00:22:25,679 --> 00:22:27,900
+in our higher time frame charts
+
+540
+00:22:27,900 --> 00:22:29,700
+we're seeing a liquidity pool in the
+
+541
+00:22:29,700 --> 00:22:31,200
+form of a cell stop
+
+542
+00:22:31,200 --> 00:22:34,380
+resting around 73.80 they make that run
+
+543
+00:22:34,380 --> 00:22:37,140
+and on low open interest at a support
+
+544
+00:22:37,140 --> 00:22:38,640
+level they are indicating that it's
+
+545
+00:22:38,640 --> 00:22:40,860
+going to go up higher if the Futures
+
+546
+00:22:40,860 --> 00:22:43,080
+Contract for the Canadian dollar marks
+
+547
+00:22:43,080 --> 00:22:45,419
+contract delivery is indicating that
+
+548
+00:22:45,419 --> 00:22:47,640
+there is very low open interest at a
+
+549
+00:22:47,640 --> 00:22:49,440
+support level at a time when the stops
+
+550
+00:22:49,440 --> 00:22:50,400
+have been running out below the
+
+551
+00:22:50,400 --> 00:22:52,100
+marketplace
+
+552
+00:22:52,100 --> 00:22:55,080
+that's indicating what potential
+
+553
+00:22:55,080 --> 00:22:58,140
+strength and you can see the price
+
+554
+00:22:58,140 --> 00:23:00,419
+action that transpired after that rather
+
+555
+00:23:00,419 --> 00:23:02,280
+explosive price move
+
+556
+00:23:02,280 --> 00:23:06,299
+looking for a move from 73.80 all the
+
+557
+00:23:06,299 --> 00:23:08,700
+way up to 76.80
+
+558
+00:23:08,700 --> 00:23:11,640
+so 300 Pips move up
+
+559
+00:23:11,640 --> 00:23:13,679
+from one specific level that could be
+
+560
+00:23:13,679 --> 00:23:15,480
+easily derived by looking at the
+
+561
+00:23:15,480 --> 00:23:17,100
+evidences that we've shown here in this
+
+562
+00:23:17,100 --> 00:23:19,020
+teaching
+
+563
+00:23:19,020 --> 00:23:21,780
+using open float
+
+564
+00:23:21,780 --> 00:23:24,840
+casting forward 60 days casting forward
+
+565
+00:23:24,840 --> 00:23:27,900
+40 days casting forward 20 days notice
+
+566
+00:23:27,900 --> 00:23:30,720
+also every 20 trading days
+
+567
+00:23:30,720 --> 00:23:33,179
+the high and the low becomes very
+
+568
+00:23:33,179 --> 00:23:35,159
+obvious you can start circling these as
+
+569
+00:23:35,159 --> 00:23:37,559
+you create new highs every time there's
+
+570
+00:23:37,559 --> 00:23:38,880
+a new higher high
+
+571
+00:23:38,880 --> 00:23:42,179
+note that and then wait for the price to
+
+572
+00:23:42,179 --> 00:23:45,600
+come back down to an old 20-day low
+
+573
+00:23:45,600 --> 00:23:48,000
+study that every 20-day High every
+
+574
+00:23:48,000 --> 00:23:50,760
+20-day low is going to have buy stocks
+
+575
+00:23:50,760 --> 00:23:52,679
+and sell sauce resting above the highs
+
+576
+00:23:52,679 --> 00:23:55,440
+and below the lows if you do this as an
+
+577
+00:23:55,440 --> 00:23:57,659
+exercise going forward you'll see
+
+578
+00:23:57,659 --> 00:23:59,159
+clearly what side of the marketplace
+
+579
+00:23:59,159 --> 00:24:01,740
+it's seeking if it keeps taking out the
+
+580
+00:24:01,740 --> 00:24:04,799
+buy stops or the highs the market is
+
+581
+00:24:04,799 --> 00:24:06,900
+doing what it's moving higher it means
+
+582
+00:24:06,900 --> 00:24:08,280
+institutional overflow is on the buy
+
+583
+00:24:08,280 --> 00:24:09,900
+side you don't want to be selling short
+
+584
+00:24:09,900 --> 00:24:11,640
+in those conditions
+
+585
+00:24:11,640 --> 00:24:13,620
+if the market is taking out the sell
+
+586
+00:24:13,620 --> 00:24:15,419
+side liquidity continuously and rarely
+
+587
+00:24:15,419 --> 00:24:18,240
+ever taking out the highs of the uh
+
+588
+00:24:18,240 --> 00:24:20,100
+price action that means that
+
+589
+00:24:20,100 --> 00:24:21,360
+institutional overflow is indicated
+
+590
+00:24:21,360 --> 00:24:24,000
+lower and you want to focus primarily on
+
+591
+00:24:24,000 --> 00:24:25,500
+being short
+
+592
+00:24:25,500 --> 00:24:27,600
+until we get an obvious change in
+
+593
+00:24:27,600 --> 00:24:29,580
+Direction how would that happen well if
+
+594
+00:24:29,580 --> 00:24:31,200
+you go and you start trading to the
+
+595
+00:24:31,200 --> 00:24:33,900
+lowest low in the last 60 days
+
+596
+00:24:33,900 --> 00:24:35,400
+well we're probably going to be very
+
+597
+00:24:35,400 --> 00:24:38,100
+very deeply uh oversold and we're going
+
+598
+00:24:38,100 --> 00:24:39,780
+to be in deep discount even if the price
+
+599
+00:24:39,780 --> 00:24:42,419
+only bounces a little bit on a higher
+
+600
+00:24:42,419 --> 00:24:44,159
+time frame like this it can bounce
+
+601
+00:24:44,159 --> 00:24:45,659
+you know a great deal it could be over
+
+602
+00:24:45,659 --> 00:24:47,880
+150 200 Pips sometimes and then
+
+603
+00:24:47,880 --> 00:24:50,520
+eventually roll over and continuous uh
+
+604
+00:24:50,520 --> 00:24:52,620
+fashion keep going lower you don't want
+
+605
+00:24:52,620 --> 00:24:54,360
+to be caught on the wrong side of the
+
+606
+00:24:54,360 --> 00:24:55,980
+marketplace trading on a hard time frame
+
+607
+00:24:55,980 --> 00:24:58,860
+chart and not see the evidences that
+
+608
+00:24:58,860 --> 00:25:01,440
+it's given you and trade accordingly you
+
+609
+00:25:01,440 --> 00:25:02,940
+have to have all these things in mind
+
+610
+00:25:02,940 --> 00:25:06,059
+looking for where the liquidity is and
+
+611
+00:25:06,059 --> 00:25:07,980
+the easiest way to do it
+
+612
+00:25:07,980 --> 00:25:09,659
+and to make all this very simple because
+
+613
+00:25:09,659 --> 00:25:11,700
+it could be very easily complicated and
+
+614
+00:25:11,700 --> 00:25:13,980
+I'm sure probably complicated in many of
+
+615
+00:25:13,980 --> 00:25:15,059
+your minds
+
+616
+00:25:15,059 --> 00:25:18,120
+what you're looking for is a revolving
+
+617
+00:25:18,120 --> 00:25:23,159
+continuous range of 120 days
+
+618
+00:25:23,159 --> 00:25:25,860
+and you whatever day you're looking at
+
+619
+00:25:25,860 --> 00:25:28,320
+you look back 60 and you look forward
+
+620
+00:25:28,320 --> 00:25:31,440
+60. so there's 120 days there and you're
+
+621
+00:25:31,440 --> 00:25:33,120
+constantly monitoring where's the
+
+622
+00:25:33,120 --> 00:25:34,860
+highest high and the lowest low in those
+
+623
+00:25:34,860 --> 00:25:36,840
+in that range
+
+624
+00:25:36,840 --> 00:25:39,000
+and that's where the buy stops and the
+
+625
+00:25:39,000 --> 00:25:40,500
+sell stocks are going to be on a large
+
+626
+00:25:40,500 --> 00:25:41,760
+fund level
+
+627
+00:25:41,760 --> 00:25:43,559
+the
+
+628
+00:25:43,559 --> 00:25:47,159
+look back phase is where the hard stops
+
+629
+00:25:47,159 --> 00:25:48,179
+are going to be
+
+630
+00:25:48,179 --> 00:25:50,400
+that means where the actual buys and
+
+631
+00:25:50,400 --> 00:25:52,620
+sell stops are going to be aboggan oil
+
+632
+00:25:52,620 --> 00:25:54,360
+high and Below an old low
+
+633
+00:25:54,360 --> 00:25:57,240
+but if we are looking forward studying
+
+634
+00:25:57,240 --> 00:26:00,059
+new price action as it occurs
+
+635
+00:26:00,059 --> 00:26:01,620
+you need to be mindful of where you are
+
+636
+00:26:01,620 --> 00:26:05,039
+in the last 60 days range are we near a
+
+637
+00:26:05,039 --> 00:26:07,200
+high or are we near a low
+
+638
+00:26:07,200 --> 00:26:08,820
+and that's also going to be indicative
+
+639
+00:26:08,820 --> 00:26:11,820
+of where we see the next quarterly shift
+
+640
+00:26:11,820 --> 00:26:14,159
+if it's going to be continuously moving
+
+641
+00:26:14,159 --> 00:26:15,480
+higher and higher and higher it keeps
+
+642
+00:26:15,480 --> 00:26:18,240
+taking out buy stops eventually
+
+643
+00:26:18,240 --> 00:26:20,340
+unless you're in a one-sided parabolic
+
+644
+00:26:20,340 --> 00:26:22,380
+price move which we'll teach about
+
+645
+00:26:22,380 --> 00:26:23,940
+uh generally you don't see too many of
+
+646
+00:26:23,940 --> 00:26:26,100
+those uh the market generally moves from
+
+647
+00:26:26,100 --> 00:26:29,400
+range to range and using this concept it
+
+648
+00:26:29,400 --> 00:26:30,659
+will be very beneficial to you because
+
+649
+00:26:30,659 --> 00:26:33,179
+you can see where the near turn that
+
+650
+00:26:33,179 --> 00:26:36,240
+means to 20 period high and low in terms
+
+651
+00:26:36,240 --> 00:26:38,279
+of trading days and I'll say that again
+
+652
+00:26:38,279 --> 00:26:41,100
+the next near-term move is going to run
+
+653
+00:26:41,100 --> 00:26:44,100
+on the near-term buy stops or sell stops
+
+654
+00:26:44,100 --> 00:26:46,679
+that means the last 20 days range what's
+
+655
+00:26:46,679 --> 00:26:47,880
+the highest high and the lowest low
+
+656
+00:26:47,880 --> 00:26:51,659
+that's the near term open float
+
+657
+00:26:51,659 --> 00:26:53,820
+the short-term open float is what's the
+
+658
+00:26:53,820 --> 00:26:55,080
+highest high and the lowest loan will
+
+659
+00:26:55,080 --> 00:26:56,760
+last 40 trading days
+
+660
+00:26:56,760 --> 00:26:59,100
+and the intermediate term open float is
+
+661
+00:26:59,100 --> 00:27:00,480
+going to be the highest high and lowest
+
+662
+00:27:00,480 --> 00:27:03,000
+low in the last 60 days
+
+663
+00:27:03,000 --> 00:27:04,919
+knowing where you are in that range and
+
+664
+00:27:04,919 --> 00:27:06,179
+what side of the marketplace keeps
+
+665
+00:27:06,179 --> 00:27:08,220
+getting taken out will give you Clues as
+
+666
+00:27:08,220 --> 00:27:10,980
+to what the next shift in price is going
+
+667
+00:27:10,980 --> 00:27:12,960
+to be once it starts to break down you
+
+668
+00:27:12,960 --> 00:27:14,100
+know you're going to have a significant
+
+669
+00:27:14,100 --> 00:27:15,419
+price move and you can trade that
+
+670
+00:27:15,419 --> 00:27:17,580
+accordingly even on a daily time frame
+
+671
+00:27:17,580 --> 00:27:18,659
+where you don't have to go down to a
+
+672
+00:27:18,659 --> 00:27:20,279
+lower time frame for entry you can
+
+673
+00:27:20,279 --> 00:27:23,159
+execute purely off of the daily chart
+
+674
+00:27:23,159 --> 00:27:24,419
+so we're going to build on these ideas
+
+675
+00:27:24,419 --> 00:27:26,520
+as we go through the rest of January
+
+676
+00:27:26,520 --> 00:27:28,620
+until next time this concludes this
+
+677
+00:27:28,620 --> 00:27:32,299
+teaching wish good luck in good Trading
+

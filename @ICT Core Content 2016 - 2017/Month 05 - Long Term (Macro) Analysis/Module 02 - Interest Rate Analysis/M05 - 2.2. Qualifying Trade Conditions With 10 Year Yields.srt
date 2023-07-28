@@ -1,0 +1,864 @@
+1
+00:00:12,059 --> 00:00:14,580
+welcome back folks this is lesson 2.2 of
+
+2
+00:00:14,580 --> 00:00:18,300
+the January 2017 ICT mentorship
+
+3
+00:00:18,300 --> 00:00:19,859
+we're gonna be looking at qualifying
+
+4
+00:00:19,859 --> 00:00:23,900
+trade conditions with the 10-year yields
+
+5
+00:00:24,359 --> 00:00:27,480
+okay the previous teaching 2.1 we had
+
+6
+00:00:27,480 --> 00:00:30,359
+looked at the 10-year node seasonal
+
+7
+00:00:30,359 --> 00:00:32,759
+tenancy where it has a strong tendency
+
+8
+00:00:32,759 --> 00:00:34,680
+to Rally in June and we're looking at
+
+9
+00:00:34,680 --> 00:00:37,200
+the 10-year note for September 2015 here
+
+10
+00:00:37,200 --> 00:00:39,780
+you can see how during the month of June
+
+11
+00:00:39,780 --> 00:00:41,579
+of 2015
+
+12
+00:00:41,579 --> 00:00:44,760
+10-year note did in fact make a low in
+
+13
+00:00:44,760 --> 00:00:46,079
+June
+
+14
+00:00:46,079 --> 00:00:49,140
+and while the seasonal tendency
+
+15
+00:00:49,140 --> 00:00:51,059
+is in force
+
+16
+00:00:51,059 --> 00:00:52,980
+how do you know the seasonal tendency is
+
+17
+00:00:52,980 --> 00:00:54,899
+most likely going to occur
+
+18
+00:00:54,899 --> 00:00:56,820
+well the first step is you want to start
+
+19
+00:00:56,820 --> 00:00:59,280
+looking to qualify the swings
+
+20
+00:00:59,280 --> 00:01:01,860
+in relationship to the dollar Index
+
+21
+00:01:01,860 --> 00:01:03,719
+and that's seen by looking at these
+
+22
+00:01:03,719 --> 00:01:05,040
+lower lows here
+
+23
+00:01:05,040 --> 00:01:06,720
+so our delineation begins at the
+
+24
+00:01:06,720 --> 00:01:09,600
+beginning of June 2015 and subsequent
+
+25
+00:01:09,600 --> 00:01:10,920
+lower lows
+
+26
+00:01:10,920 --> 00:01:15,360
+it transpired after June 2015 began
+
+27
+00:01:15,360 --> 00:01:17,580
+we start seeing a slide in price
+
+28
+00:01:17,580 --> 00:01:20,400
+and took out the low from May but
+
+29
+00:01:20,400 --> 00:01:23,939
+individually there was
+
+30
+00:01:23,939 --> 00:01:26,580
+five to six different candles
+
+31
+00:01:26,580 --> 00:01:28,380
+deck progressively kept making lower
+
+32
+00:01:28,380 --> 00:01:30,840
+lows in the first half of June that's
+
+33
+00:01:30,840 --> 00:01:33,360
+being delineated here but this short
+
+34
+00:01:33,360 --> 00:01:34,680
+little trend line
+
+35
+00:01:34,680 --> 00:01:36,780
+now in the dollar Index this is going to
+
+36
+00:01:36,780 --> 00:01:38,939
+be ideally seen
+
+37
+00:01:38,939 --> 00:01:42,060
+with a series of higher highs that's how
+
+38
+00:01:42,060 --> 00:01:44,340
+Market symmetry should
+
+39
+00:01:44,340 --> 00:01:46,860
+be posted and delivered in price
+
+40
+00:01:46,860 --> 00:01:48,479
+but let's take a look at what actually
+
+41
+00:01:48,479 --> 00:01:51,799
+happens in the dollar Index
+
+42
+00:01:52,140 --> 00:01:54,479
+at that same moment
+
+43
+00:01:54,479 --> 00:01:56,820
+we can see that the dollar Index
+
+44
+00:01:56,820 --> 00:02:00,000
+for June 2015
+
+45
+00:02:00,000 --> 00:02:02,820
+immediately to the right or after June
+
+46
+00:02:02,820 --> 00:02:05,280
+1st trading day
+
+47
+00:02:05,280 --> 00:02:08,280
+we were making lower highs
+
+48
+00:02:08,280 --> 00:02:10,860
+so this is a crack and correlation
+
+49
+00:02:10,860 --> 00:02:13,739
+and we have confirmation now there is a
+
+50
+00:02:13,739 --> 00:02:17,220
+trade idea unfolding in
+
+51
+00:02:17,220 --> 00:02:19,620
+to 10-year treasury note against the
+
+52
+00:02:19,620 --> 00:02:22,280
+dollar Index
+
+53
+00:02:24,420 --> 00:02:27,920
+it's further confirmed by
+
+54
+00:02:29,340 --> 00:02:30,620
+seeing the interest rate Market
+
+55
+00:02:30,620 --> 00:02:34,379
+declining at that time as the yield
+
+56
+00:02:34,379 --> 00:02:37,800
+declines the Futures price on a 10-year
+
+57
+00:02:37,800 --> 00:02:40,879
+note was actually rallying
+
+58
+00:02:43,440 --> 00:02:44,879
+note also
+
+59
+00:02:44,879 --> 00:02:46,560
+did the consolidation that the yield
+
+60
+00:02:46,560 --> 00:02:47,879
+stayed in
+
+61
+00:02:47,879 --> 00:02:51,060
+which also led to a consolidation in
+
+62
+00:02:51,060 --> 00:02:54,900
+dollar Index 10-year Treasury and
+
+63
+00:02:54,900 --> 00:02:57,060
+foreign currencies at the same time in
+
+64
+00:02:57,060 --> 00:02:59,900
+2015.
+
+65
+00:03:02,700 --> 00:03:05,700
+okay we're looking at the
+
+66
+00:03:05,700 --> 00:03:08,099
+June
+
+67
+00:03:08,099 --> 00:03:11,760
+of 2016.
+
+68
+00:03:11,879 --> 00:03:13,379
+again we're looking at that seasonal
+
+69
+00:03:13,379 --> 00:03:14,640
+tenancy
+
+70
+00:03:14,640 --> 00:03:17,040
+as seen here the market was making equal
+
+71
+00:03:17,040 --> 00:03:20,280
+lows so they should be seen in respect
+
+72
+00:03:20,280 --> 00:03:24,800
+to the dollar Index with equal highs
+
+73
+00:03:26,340 --> 00:03:28,200
+here's the dollar Index
+
+74
+00:03:28,200 --> 00:03:32,519
+going into June 2016.
+
+75
+00:03:33,480 --> 00:03:35,700
+did you see here the market made higher
+
+76
+00:03:35,700 --> 00:03:38,220
+highs this is a cracking correlation
+
+77
+00:03:38,220 --> 00:03:41,220
+the Market's shown a willingness to go
+
+78
+00:03:41,220 --> 00:03:43,260
+higher in the dollar Index but it was
+
+79
+00:03:43,260 --> 00:03:46,019
+not seen in the form of going lower
+
+80
+00:03:46,019 --> 00:03:47,760
+on the 10-year notes
+
+81
+00:03:47,760 --> 00:03:49,379
+that's a correct correlation there
+
+82
+00:03:49,379 --> 00:03:51,980
+therefore it is a qualifying condition
+
+83
+00:03:51,980 --> 00:03:56,900
+there is an underlying trade underway
+
+84
+00:03:58,200 --> 00:04:00,840
+this is further confirmed by visually
+
+85
+00:04:00,840 --> 00:04:03,239
+seeing the the interest rate Market
+
+86
+00:04:03,239 --> 00:04:07,400
+seeing it decline in the 10-year yields
+
+87
+00:04:08,879 --> 00:04:12,120
+again notice the consolidation
+
+88
+00:04:12,120 --> 00:04:13,620
+while it looks like if you zoomed in
+
+89
+00:04:13,620 --> 00:04:15,480
+really tight it would look like an
+
+90
+00:04:15,480 --> 00:04:16,738
+uptrend but we're still in a rather
+
+91
+00:04:16,738 --> 00:04:18,418
+large consolidation
+
+92
+00:04:18,418 --> 00:04:21,839
+and that is attributing factors to why
+
+93
+00:04:21,839 --> 00:04:25,139
+the currency markets had a consolidation
+
+94
+00:04:25,139 --> 00:04:28,460
+this period of time
+
+95
+00:04:34,139 --> 00:04:36,060
+lastly we have
+
+96
+00:04:36,060 --> 00:04:38,580
+the 10-year treasury note March contract
+
+97
+00:04:38,580 --> 00:04:41,580
+2017.
+
+98
+00:04:42,660 --> 00:04:44,580
+we have a lower high now I know you're
+
+99
+00:04:44,580 --> 00:04:46,380
+looking at that big wick on the
+
+100
+00:04:46,380 --> 00:04:49,139
+elections but just dispel that for a
+
+101
+00:04:49,139 --> 00:04:49,919
+moment
+
+102
+00:04:49,919 --> 00:04:51,720
+focus on the market structure alone
+
+103
+00:04:51,720 --> 00:04:54,259
+without that Wick we have lower high
+
+104
+00:04:54,259 --> 00:04:56,820
+formed in the first couple days of
+
+105
+00:04:56,820 --> 00:04:59,759
+November relative to the mid
+
+106
+00:04:59,759 --> 00:05:02,520
+October highs
+
+107
+00:05:02,520 --> 00:05:05,720
+so that should be seen
+
+108
+00:05:05,780 --> 00:05:09,720
+supported in the dollar Index as well
+
+109
+00:05:09,720 --> 00:05:12,680
+just contrary
+
+110
+00:05:14,820 --> 00:05:19,280
+in fact we see a lower low
+
+111
+00:05:19,979 --> 00:05:22,080
+so for the dollar Index to have a lower
+
+112
+00:05:22,080 --> 00:05:23,220
+low here
+
+113
+00:05:23,220 --> 00:05:26,300
+we should have seen
+
+114
+00:05:26,460 --> 00:05:29,039
+a higher high form in the 10-year note
+
+115
+00:05:29,039 --> 00:05:32,360
+that didn't happen
+
+116
+00:05:32,520 --> 00:05:35,940
+we see the opposite with a lower low
+
+117
+00:05:35,940 --> 00:05:39,780
+in dollar Index
+
+118
+00:05:39,780 --> 00:05:42,060
+we don't see the higher high in 10-year
+
+119
+00:05:42,060 --> 00:05:43,800
+treasury nodes as you would expect to
+
+120
+00:05:43,800 --> 00:05:46,560
+see with the lower low in dollar Index
+
+121
+00:05:46,560 --> 00:05:48,300
+again it's going to be a mirror image of
+
+122
+00:05:48,300 --> 00:05:49,860
+everything you see for perfect symmetry
+
+123
+00:05:49,860 --> 00:05:52,800
+when that symmetry is broken
+
+124
+00:05:52,800 --> 00:05:55,800
+it indicates there is a underlying Trend
+
+125
+00:05:55,800 --> 00:05:56,699
+or
+
+126
+00:05:56,699 --> 00:05:58,740
+manipulation otherwise
+
+127
+00:05:58,740 --> 00:06:00,060
+you can also see the open interest
+
+128
+00:06:00,060 --> 00:06:02,340
+decline in November supporting the idea
+
+129
+00:06:02,340 --> 00:06:04,199
+that there was short covering
+
+130
+00:06:04,199 --> 00:06:07,320
+by the smart money and the dollar Index
+
+131
+00:06:07,320 --> 00:06:10,520
+moved up as a result
+
+132
+00:06:11,100 --> 00:06:13,800
+again because
+
+133
+00:06:13,800 --> 00:06:16,139
+the 10-year note was in a move that was
+
+134
+00:06:16,139 --> 00:06:18,960
+trending it had more range to go lower
+
+135
+00:06:18,960 --> 00:06:21,240
+that supports the trending move on a
+
+136
+00:06:21,240 --> 00:06:23,220
+dollar Index where I was allowed to
+
+137
+00:06:23,220 --> 00:06:26,039
+trade for two complete months and you
+
+138
+00:06:26,039 --> 00:06:28,080
+can see it's supported with
+
+139
+00:06:28,080 --> 00:06:30,060
+the increase in the interest rate yield
+
+140
+00:06:30,060 --> 00:06:32,400
+on the 10-year note
+
+141
+00:06:32,400 --> 00:06:34,560
+during that time when the dollar rallied
+
+142
+00:06:34,560 --> 00:06:37,560
+markets seek yield and if the interest
+
+143
+00:06:37,560 --> 00:06:40,080
+rate's increasing therefore the dollar
+
+144
+00:06:40,080 --> 00:06:42,479
+has a strong tendency to own a rally as
+
+145
+00:06:42,479 --> 00:06:45,300
+well now as a side note
+
+146
+00:06:45,300 --> 00:06:47,220
+when we see these things occurring in
+
+147
+00:06:47,220 --> 00:06:48,660
+the price
+
+148
+00:06:48,660 --> 00:06:50,819
+you want to be blending these ideas with
+
+149
+00:06:50,819 --> 00:06:52,979
+the quarterly shift Concepts that's been
+
+150
+00:06:52,979 --> 00:06:55,620
+taught in this month's content
+
+151
+00:06:55,620 --> 00:06:58,620
+so if we're looking for the next three
+
+152
+00:06:58,620 --> 00:07:01,440
+to four months potential next swing not
+
+153
+00:07:01,440 --> 00:07:02,940
+that we're holding for that period of
+
+154
+00:07:02,940 --> 00:07:06,120
+time or our time Horizon is
+
+155
+00:07:06,120 --> 00:07:07,800
+three months out
+
+156
+00:07:07,800 --> 00:07:09,780
+generally it's going to be half that
+
+157
+00:07:09,780 --> 00:07:12,419
+time frame for the trade setups to come
+
+158
+00:07:12,419 --> 00:07:13,759
+to fruition
+
+159
+00:07:13,759 --> 00:07:16,380
+and complete
+
+160
+00:07:16,380 --> 00:07:18,539
+sometimes the trades will last longer
+
+161
+00:07:18,539 --> 00:07:20,220
+and go a full duration of three months
+
+162
+00:07:20,220 --> 00:07:22,259
+and sometimes a little bit longer but as
+
+163
+00:07:22,259 --> 00:07:24,720
+I mentioned in this mentorship my time
+
+164
+00:07:24,720 --> 00:07:28,500
+Horizon is about three months it's I I
+
+165
+00:07:28,500 --> 00:07:31,020
+think it's pretty much it's realistic as
+
+166
+00:07:31,020 --> 00:07:32,580
+you're gonna get because long-term
+
+167
+00:07:32,580 --> 00:07:35,759
+trends while they all generally stay in
+
+168
+00:07:35,759 --> 00:07:38,699
+the long-term trending environment
+
+169
+00:07:38,699 --> 00:07:41,580
+they can reverse and if it's in a
+
+170
+00:07:41,580 --> 00:07:42,960
+long-term uptrend you don't want to be
+
+171
+00:07:42,960 --> 00:07:45,479
+trying to pick the top so it's important
+
+172
+00:07:45,479 --> 00:07:46,380
+that
+
+173
+00:07:46,380 --> 00:07:48,360
+I remind you every time we talk about
+
+174
+00:07:48,360 --> 00:07:51,060
+this that my focus primarily is looking
+
+175
+00:07:51,060 --> 00:07:53,220
+at a time Horizon of three months with
+
+176
+00:07:53,220 --> 00:07:55,020
+the expectation I'm going to trade with
+
+177
+00:07:55,020 --> 00:07:57,720
+a position that may go up to three
+
+178
+00:07:57,720 --> 00:08:00,419
+months but rarely admittedly I don't
+
+179
+00:08:00,419 --> 00:08:03,060
+hold that long uh usually half that time
+
+180
+00:08:03,060 --> 00:08:04,800
+frame
+
+181
+00:08:04,800 --> 00:08:06,660
+but you can go in and look at these
+
+182
+00:08:06,660 --> 00:08:09,479
+times when the season will align
+
+183
+00:08:09,479 --> 00:08:13,500
+and there are qualifying smt divergences
+
+184
+00:08:13,500 --> 00:08:15,020
+between
+
+185
+00:08:15,020 --> 00:08:19,800
+the dollar Index and the 10-year note
+
+186
+00:08:19,800 --> 00:08:22,500
+when they have that pattern there you
+
+187
+00:08:22,500 --> 00:08:24,479
+can also qualify it with an interest
+
+188
+00:08:24,479 --> 00:08:26,940
+rate Triad
+
+189
+00:08:26,940 --> 00:08:30,419
+or you can go into a Forex currency pair
+
+190
+00:08:30,419 --> 00:08:33,839
+and look for the smt Divergence against
+
+191
+00:08:33,839 --> 00:08:37,159
+the dollar index that way those ideas
+
+192
+00:08:37,159 --> 00:08:39,719
+Blended together not that you need both
+
+193
+00:08:39,719 --> 00:08:42,599
+of them but one of them will give you a
+
+194
+00:08:42,599 --> 00:08:44,640
+qualification for a trade idea that may
+
+195
+00:08:44,640 --> 00:08:49,320
+be unfolding for a quarterly shift
+
+196
+00:08:49,320 --> 00:08:51,000
+by getting in sync with the marketplace
+
+197
+00:08:51,000 --> 00:08:52,860
+like this and viewing a higher time
+
+198
+00:08:52,860 --> 00:08:54,480
+frame charts with these tools in
+
+199
+00:08:54,480 --> 00:08:56,760
+alignment it gives your trades a high
+
+200
+00:08:56,760 --> 00:08:57,839
+probability
+
+201
+00:08:57,839 --> 00:08:59,640
+and it filters out a lot of the noise
+
+202
+00:08:59,640 --> 00:09:02,339
+and even if you don't trade in a
+
+203
+00:09:02,339 --> 00:09:04,200
+long-term position
+
+204
+00:09:04,200 --> 00:09:06,839
+capacity you can use these ideas to get
+
+205
+00:09:06,839 --> 00:09:08,160
+in sync with
+
+206
+00:09:08,160 --> 00:09:10,500
+higher time frame Trend or higher time
+
+207
+00:09:10,500 --> 00:09:12,839
+frame order flow and by doing that it
+
+208
+00:09:12,839 --> 00:09:15,480
+puts all your swing trade short-term
+
+209
+00:09:15,480 --> 00:09:17,880
+trade day trade and Scouts in line with
+
+210
+00:09:17,880 --> 00:09:19,740
+institutional workflow and with that
+
+211
+00:09:19,740 --> 00:09:21,959
+it's very hard to go wrong not perfect
+
+212
+00:09:21,959 --> 00:09:24,000
+it doesn't negate the opportunity for
+
+213
+00:09:24,000 --> 00:09:25,860
+you to lose money but it certainly does
+
+214
+00:09:25,860 --> 00:09:27,660
+put the odds in your favor
+
+215
+00:09:27,660 --> 00:09:29,399
+until next time wish you good luck and
+
+216
+00:09:29,399 --> 00:09:32,000
+good Trading
+

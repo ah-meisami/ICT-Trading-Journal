@@ -1,0 +1,2412 @@
+1
+00:00:18,800 --> 00:00:21,279
+okay folks we are looking at
+
+2
+00:00:21,279 --> 00:00:25,359
+lesson 1.2 of the long-term analysis
+
+3
+00:00:25,359 --> 00:00:27,519
+implementing macro analysis quarterly
+
+4
+00:00:27,519 --> 00:00:31,560
+shifts and open float
+
+5
+00:00:37,280 --> 00:00:39,040
+okay we're going to be talking about
+
+6
+00:00:39,040 --> 00:00:43,079
+open float on this teaching
+
+7
+00:00:45,920 --> 00:00:48,920
+okay
+
+8
+00:01:00,640 --> 00:01:02,239
+the quarterly shift
+
+9
+00:01:02,239 --> 00:01:05,280
+with open float
+
+10
+00:01:05,760 --> 00:01:07,920
+and let's first start by defining what
+
+11
+00:01:07,920 --> 00:01:09,760
+is
+
+12
+00:01:09,760 --> 00:01:10,840
+open
+
+13
+00:01:10,840 --> 00:01:13,760
+float the open float is the current open
+
+14
+00:01:13,760 --> 00:01:16,560
+interest above and below current market
+
+15
+00:01:16,560 --> 00:01:18,479
+price
+
+16
+00:01:18,479 --> 00:01:21,119
+now this is going to be in the form of
+
+17
+00:01:21,119 --> 00:01:23,200
+pending buy orders in other words buy
+
+18
+00:01:23,200 --> 00:01:26,080
+stops that are resting above old highs
+
+19
+00:01:26,080 --> 00:01:27,759
+or it could be just resting above market
+
+20
+00:01:27,759 --> 00:01:30,000
+price doesn't have to be old highs
+
+21
+00:01:30,000 --> 00:01:31,200
+and
+
+22
+00:01:31,200 --> 00:01:32,400
+sell orders
+
+23
+00:01:32,400 --> 00:01:33,600
+it could be
+
+24
+00:01:33,600 --> 00:01:35,520
+below the market price by very little
+
+25
+00:01:35,520 --> 00:01:38,079
+bit in terms of pips or could be below
+
+26
+00:01:38,079 --> 00:01:40,960
+significant lows
+
+27
+00:01:40,960 --> 00:01:42,479
+there are
+
+28
+00:01:42,479 --> 00:01:44,240
+open interest in the form of
+
+29
+00:01:44,240 --> 00:01:47,439
+sell stops for entry orders
+
+30
+00:01:47,439 --> 00:01:49,920
+and sell stops for collapsing long
+
+31
+00:01:49,920 --> 00:01:51,280
+positions
+
+32
+00:01:51,280 --> 00:01:54,320
+and there are buy stops to get along and
+
+33
+00:01:54,320 --> 00:01:55,840
+then buy stops to protect short
+
+34
+00:01:55,840 --> 00:01:57,280
+positions
+
+35
+00:01:57,280 --> 00:01:58,719
+all of those
+
+36
+00:01:58,719 --> 00:02:00,640
+are equating to
+
+37
+00:02:00,640 --> 00:02:02,880
+open float
+
+38
+00:02:02,880 --> 00:02:04,799
+it's the total open interest of the
+
+39
+00:02:04,799 --> 00:02:06,560
+players that are in
+
+40
+00:02:06,560 --> 00:02:09,440
+the market now or hope to be
+
+41
+00:02:09,440 --> 00:02:11,599
+depending on where price goes relative
+
+42
+00:02:11,599 --> 00:02:15,120
+to those standing orders
+
+43
+00:02:17,680 --> 00:02:20,800
+okay when open float is used
+
+44
+00:02:20,800 --> 00:02:24,480
+to determine buy side liquidity
+
+45
+00:02:24,480 --> 00:02:27,200
+shorts use protective buy stops above
+
+46
+00:02:27,200 --> 00:02:31,040
+the last bearish shift
+
+47
+00:02:31,840 --> 00:02:33,599
+buy stops above short-term highs that
+
+48
+00:02:33,599 --> 00:02:36,480
+could be in the form of
+
+49
+00:02:36,480 --> 00:02:40,319
+a weekly high or a monthly high
+
+50
+00:02:41,599 --> 00:02:43,200
+five stops above the highest high in the
+
+51
+00:02:43,200 --> 00:02:45,920
+last three months
+
+52
+00:02:47,040 --> 00:02:49,040
+buy stops above the current six-month
+
+53
+00:02:49,040 --> 00:02:51,760
+high
+
+54
+00:02:51,760 --> 00:02:53,920
+and buy stops above the current 12-month
+
+55
+00:02:53,920 --> 00:02:54,720
+high
+
+56
+00:02:54,720 --> 00:02:56,879
+now don't be discouraged by hearing
+
+57
+00:02:56,879 --> 00:02:58,720
+these numbers because
+
+58
+00:02:58,720 --> 00:03:00,239
+you can be
+
+59
+00:03:00,239 --> 00:03:02,000
+really close to
+
+60
+00:03:02,000 --> 00:03:04,560
+the 12-month high for a long period of
+
+61
+00:03:04,560 --> 00:03:06,640
+time and never really get to it
+
+62
+00:03:06,640 --> 00:03:08,800
+um
+
+63
+00:03:08,800 --> 00:03:11,280
+when i first remember reading about this
+
+64
+00:03:11,280 --> 00:03:13,760
+type of idea the range for the 12-month
+
+65
+00:03:13,760 --> 00:03:15,200
+high and low
+
+66
+00:03:15,200 --> 00:03:17,360
+i thought to myself you know it takes 12
+
+67
+00:03:17,360 --> 00:03:19,680
+months to get back to that level and
+
+68
+00:03:19,680 --> 00:03:21,920
+that just shows how myopic my viewpoint
+
+69
+00:03:21,920 --> 00:03:23,920
+was when i first started trading
+
+70
+00:03:23,920 --> 00:03:25,920
+the 12 month high and low you can be
+
+71
+00:03:25,920 --> 00:03:28,800
+inside that range for a long time near
+
+72
+00:03:28,800 --> 00:03:30,879
+the high or the low it doesn't take that
+
+73
+00:03:30,879 --> 00:03:33,280
+long to get to it so some of the new
+
+74
+00:03:33,280 --> 00:03:35,040
+traders that usually
+
+75
+00:03:35,040 --> 00:03:38,400
+send me emails they ask me how often
+
+76
+00:03:38,400 --> 00:03:40,879
+do i trade 12-month highs and lows well
+
+77
+00:03:40,879 --> 00:03:44,720
+you could see a 12-month high or low
+
+78
+00:03:44,720 --> 00:03:47,040
+pretty quickly yeah it depends on what
+
+79
+00:03:47,040 --> 00:03:49,040
+the range is in your market
+
+80
+00:03:49,040 --> 00:03:50,560
+the same thing is said for a six-month
+
+81
+00:03:50,560 --> 00:03:52,239
+high
+
+82
+00:03:52,239 --> 00:03:54,239
+the one we're going to focus on here
+
+83
+00:03:54,239 --> 00:03:56,879
+primarily is the buy stops above the
+
+84
+00:03:56,879 --> 00:03:59,200
+highest high in the last three months
+
+85
+00:03:59,200 --> 00:04:00,480
+because we're looking at the quarterly
+
+86
+00:04:00,480 --> 00:04:01,680
+shift
+
+87
+00:04:01,680 --> 00:04:05,360
+that's going to be a very
+
+88
+00:04:05,840 --> 00:04:08,000
+significant price level
+
+89
+00:04:08,000 --> 00:04:10,000
+where buy stops will be resting
+
+90
+00:04:10,000 --> 00:04:11,200
+so every three months you want to be
+
+91
+00:04:11,200 --> 00:04:13,120
+noting where that high is
+
+92
+00:04:13,120 --> 00:04:14,799
+and there's going to be buy stops
+
+93
+00:04:14,799 --> 00:04:17,440
+definitely most likely getting targeted
+
+94
+00:04:17,440 --> 00:04:19,839
+if we have a market structure shift
+
+95
+00:04:19,839 --> 00:04:21,600
+bush and they're going to be aiming for
+
+96
+00:04:21,600 --> 00:04:23,120
+those buy stops above the three-month
+
+97
+00:04:23,120 --> 00:04:25,040
+highs any run buy stops above a
+
+98
+00:04:25,040 --> 00:04:27,199
+short-term high which is a monthly high
+
+99
+00:04:27,199 --> 00:04:29,840
+or a weekly high
+
+100
+00:04:29,919 --> 00:04:31,680
+that's going to give us a strong
+
+101
+00:04:31,680 --> 00:04:33,440
+prognostication for short-term
+
+102
+00:04:33,440 --> 00:04:36,400
+volatility as well
+
+103
+00:04:38,560 --> 00:04:39,919
+when we're looking at the sell side of
+
+104
+00:04:39,919 --> 00:04:42,479
+the liquidity
+
+105
+00:04:42,479 --> 00:04:44,560
+long to use protective cell stops under
+
+106
+00:04:44,560 --> 00:04:48,560
+the last bullish shift
+
+107
+00:04:48,880 --> 00:04:52,080
+cell stops below short-term lows
+
+108
+00:04:52,080 --> 00:04:54,000
+that can be in the form of a
+
+109
+00:04:54,000 --> 00:04:57,840
+weekly low or a monthly low
+
+110
+00:04:58,160 --> 00:05:00,000
+sell slots below the lowest low in the
+
+111
+00:05:00,000 --> 00:05:03,040
+last three months
+
+112
+00:05:04,560 --> 00:05:06,560
+sell slots below the current six-month
+
+113
+00:05:06,560 --> 00:05:09,560
+low
+
+114
+00:05:10,560 --> 00:05:12,960
+and finally sell stops below the current
+
+115
+00:05:12,960 --> 00:05:15,840
+12-month low
+
+116
+00:05:17,120 --> 00:05:20,320
+now one of the questions i get a lot and
+
+117
+00:05:20,320 --> 00:05:23,039
+i get it actually sent to me by
+
+118
+00:05:23,039 --> 00:05:25,919
+email even in the free
+
+119
+00:05:25,919 --> 00:05:28,080
+members area from my website and on
+
+120
+00:05:28,080 --> 00:05:29,840
+youtube
+
+121
+00:05:29,840 --> 00:05:32,479
+when i talk about running stops or if i
+
+122
+00:05:32,479 --> 00:05:34,400
+talk about turtle soup
+
+123
+00:05:34,400 --> 00:05:36,240
+false breaks above old highs or false
+
+124
+00:05:36,240 --> 00:05:38,560
+breaks below no low
+
+125
+00:05:38,560 --> 00:05:41,520
+the question always comes up is how do i
+
+126
+00:05:41,520 --> 00:05:42,479
+know
+
+127
+00:05:42,479 --> 00:05:43,280
+if
+
+128
+00:05:43,280 --> 00:05:44,960
+the market's going to
+
+129
+00:05:44,960 --> 00:05:47,120
+stop just right above old high or below
+
+130
+00:05:47,120 --> 00:05:50,400
+and low and then reverse or
+
+131
+00:05:50,400 --> 00:05:52,479
+keep on going
+
+132
+00:05:52,479 --> 00:05:54,479
+and i'm going to teach you
+
+133
+00:05:54,479 --> 00:05:56,880
+the ideas that i use to get to that
+
+134
+00:05:56,880 --> 00:05:59,840
+conclusion uh what what gives me the
+
+135
+00:05:59,840 --> 00:06:03,120
+conviction that builds the confidence
+
+136
+00:06:03,120 --> 00:06:04,800
+on believing that it's just going to
+
+137
+00:06:04,800 --> 00:06:07,280
+punch above an old high and probably not
+
+138
+00:06:07,280 --> 00:06:09,360
+continue going higher not by much in
+
+139
+00:06:09,360 --> 00:06:10,319
+other words
+
+140
+00:06:10,319 --> 00:06:12,319
+and then retrace and probably offer a
+
+141
+00:06:12,319 --> 00:06:13,440
+shorting opportunity the same thing is
+
+142
+00:06:13,440 --> 00:06:15,280
+re reverse for
+
+143
+00:06:15,280 --> 00:06:17,199
+buying an old low once it's been
+
+144
+00:06:17,199 --> 00:06:20,199
+violated
+
+145
+00:06:25,120 --> 00:06:26,880
+okay
+
+146
+00:06:26,880 --> 00:06:29,680
+this chart is basically outlining the
+
+147
+00:06:29,680 --> 00:06:30,560
+same
+
+148
+00:06:30,560 --> 00:06:32,960
+levels that we had for the quarterly
+
+149
+00:06:32,960 --> 00:06:36,000
+shifts and every three months the
+
+150
+00:06:36,000 --> 00:06:37,919
+intervals are shown here
+
+151
+00:06:37,919 --> 00:06:40,720
+i kept the majority of the vertical
+
+152
+00:06:40,720 --> 00:06:42,960
+lines off i just use those segments to
+
+153
+00:06:42,960 --> 00:06:44,639
+delineate what those
+
+154
+00:06:44,639 --> 00:06:46,560
+reference points would still be relative
+
+155
+00:06:46,560 --> 00:06:48,560
+to date
+
+156
+00:06:48,560 --> 00:06:50,080
+and i want you to take a look at this
+
+157
+00:06:50,080 --> 00:06:52,560
+chart for a minute focus and study on it
+
+158
+00:06:52,560 --> 00:06:54,560
+and if you can pause the video for a
+
+159
+00:06:54,560 --> 00:06:55,759
+couple minutes
+
+160
+00:06:55,759 --> 00:06:58,160
+and note significant price highs and
+
+161
+00:06:58,160 --> 00:07:01,160
+lows
+
+162
+00:07:11,199 --> 00:07:12,720
+obviously you can see the one that's
+
+163
+00:07:12,720 --> 00:07:15,720
+here
+
+164
+00:07:17,440 --> 00:07:20,880
+and the low down here
+
+165
+00:07:23,280 --> 00:07:25,120
+so we have two
+
+166
+00:07:25,120 --> 00:07:26,960
+pretty significant runs above an old
+
+167
+00:07:26,960 --> 00:07:27,919
+high
+
+168
+00:07:27,919 --> 00:07:31,800
+and below an old low
+
+169
+00:07:33,919 --> 00:07:35,440
+i want you to draw your attention to
+
+170
+00:07:35,440 --> 00:07:36,240
+this
+
+171
+00:07:36,240 --> 00:07:38,000
+short-term low here
+
+172
+00:07:38,000 --> 00:07:42,400
+when price traded below that low
+
+173
+00:07:42,400 --> 00:07:44,720
+that was a break in market structure
+
+174
+00:07:44,720 --> 00:07:46,479
+okay so we had a
+
+175
+00:07:46,479 --> 00:07:48,160
+market shift
+
+176
+00:07:48,160 --> 00:07:49,840
+below that low
+
+177
+00:07:49,840 --> 00:07:51,360
+and the market continued trading all the
+
+178
+00:07:51,360 --> 00:07:54,160
+way down until it got to the 105
+
+179
+00:07:54,160 --> 00:07:58,240
+30 level whenever we see the bearish
+
+180
+00:07:58,240 --> 00:08:00,319
+shift lower
+
+181
+00:08:00,319 --> 00:08:01,759
+in price
+
+182
+00:08:01,759 --> 00:08:04,319
+your eyes need to go right to
+
+183
+00:08:04,319 --> 00:08:07,199
+the high it just came from
+
+184
+00:08:07,199 --> 00:08:09,039
+because on a daily chart
+
+185
+00:08:09,039 --> 00:08:10,960
+that's going to have a lot of liquidity
+
+186
+00:08:10,960 --> 00:08:12,879
+above it
+
+187
+00:08:12,879 --> 00:08:15,360
+that liquidity is in the form of
+
+188
+00:08:15,360 --> 00:08:17,360
+a liquidity pool
+
+189
+00:08:17,360 --> 00:08:19,599
+for buy stops
+
+190
+00:08:19,599 --> 00:08:21,120
+the folks that were fortunate enough to
+
+191
+00:08:21,120 --> 00:08:22,319
+be short
+
+192
+00:08:22,319 --> 00:08:25,840
+from that old high trading down into 105
+
+193
+00:08:25,840 --> 00:08:28,319
+34
+
+194
+00:08:28,560 --> 00:08:31,599
+their position would have
+
+195
+00:08:31,599 --> 00:08:34,799
+a run on the buy stops that's residing
+
+196
+00:08:34,799 --> 00:08:36,399
+holding on to a long term position now
+
+197
+00:08:36,399 --> 00:08:38,000
+you're probably asking yourself
+
+198
+00:08:38,000 --> 00:08:40,240
+what retail trader in their right mind
+
+199
+00:08:40,240 --> 00:08:43,200
+would have a buy stop on a short held on
+
+200
+00:08:43,200 --> 00:08:44,560
+that long
+
+201
+00:08:44,560 --> 00:08:46,080
+just to see it kamali back up there and
+
+202
+00:08:46,080 --> 00:08:48,160
+get knocked out
+
+203
+00:08:48,160 --> 00:08:49,120
+well
+
+204
+00:08:49,120 --> 00:08:51,600
+again the market's not trading against
+
+205
+00:08:51,600 --> 00:08:53,600
+the retail traders it's trading against
+
+206
+00:08:53,600 --> 00:08:54,399
+the large
+
+207
+00:08:54,399 --> 00:08:57,440
+liquidity offered by the big funds
+
+208
+00:08:57,440 --> 00:08:59,600
+because funds are traditionally
+
+209
+00:08:59,600 --> 00:09:02,000
+long-term trend following traders
+
+210
+00:09:02,000 --> 00:09:03,680
+these reference points on the daily time
+
+211
+00:09:03,680 --> 00:09:07,200
+frame are going to be salient to
+
+212
+00:09:07,279 --> 00:09:10,160
+understanding how open float has a big
+
+213
+00:09:10,160 --> 00:09:11,200
+impact
+
+214
+00:09:11,200 --> 00:09:13,120
+on where future price movements are
+
+215
+00:09:13,120 --> 00:09:15,680
+going to take you
+
+216
+00:09:18,240 --> 00:09:19,920
+as you can see here after creating a low
+
+217
+00:09:19,920 --> 00:09:22,320
+of 1.0534
+
+218
+00:09:22,320 --> 00:09:24,399
+market does in fact have one more market
+
+219
+00:09:24,399 --> 00:09:26,240
+structure shift
+
+220
+00:09:26,240 --> 00:09:28,399
+and sends price higher pay attention to
+
+221
+00:09:28,399 --> 00:09:29,200
+the
+
+222
+00:09:29,200 --> 00:09:30,880
+quarterly shift markers that we have
+
+223
+00:09:30,880 --> 00:09:32,000
+here
+
+224
+00:09:32,000 --> 00:09:33,600
+every three months
+
+225
+00:09:33,600 --> 00:09:38,000
+there is a significant run on liquidity
+
+226
+00:09:38,000 --> 00:09:41,920
+the move off of the 105 34 level has a
+
+227
+00:09:41,920 --> 00:09:44,000
+break in market structure
+
+228
+00:09:44,000 --> 00:09:45,519
+then you can see the
+
+229
+00:09:45,519 --> 00:09:47,440
+subsequent retracement back to the short
+
+230
+00:09:47,440 --> 00:09:50,160
+term high
+
+231
+00:09:50,160 --> 00:09:52,720
+and then price rallies away
+
+232
+00:09:52,720 --> 00:09:55,040
+fills in the liquidity void
+
+233
+00:09:55,040 --> 00:09:57,680
+from october
+
+234
+00:09:57,680 --> 00:09:59,760
+retraces back down
+
+235
+00:09:59,760 --> 00:10:03,040
+into the 108 60 level
+
+236
+00:10:03,040 --> 00:10:04,800
+then rallies again
+
+237
+00:10:04,800 --> 00:10:06,640
+then ultimately making a run
+
+238
+00:10:06,640 --> 00:10:09,279
+up for the buy stops above the 1
+
+239
+00:10:09,279 --> 00:10:10,320
+15
+
+240
+00:10:10,320 --> 00:10:12,959
+big figure
+
+241
+00:10:15,519 --> 00:10:18,000
+that market structure break there
+
+242
+00:10:18,000 --> 00:10:19,839
+bullishly
+
+243
+00:10:19,839 --> 00:10:21,519
+is the catalyst that sends the market
+
+244
+00:10:21,519 --> 00:10:23,920
+higher to make the stops
+
+245
+00:10:23,920 --> 00:10:27,120
+above 115 big figure
+
+246
+00:10:27,120 --> 00:10:30,120
+targeted
+
+247
+00:10:32,480 --> 00:10:34,959
+below that low
+
+248
+00:10:34,959 --> 00:10:36,560
+there's going to be a large liquidity
+
+249
+00:10:36,560 --> 00:10:39,279
+pool on the daily time frame again it's
+
+250
+00:10:39,279 --> 00:10:41,680
+not for retail traders it's going to be
+
+251
+00:10:41,680 --> 00:10:43,279
+for the large funds
+
+252
+00:10:43,279 --> 00:10:44,839
+because there was a significant
+
+253
+00:10:44,839 --> 00:10:48,399
+displacement among many months
+
+254
+00:10:48,399 --> 00:10:50,320
+about six months or so
+
+255
+00:10:50,320 --> 00:10:52,240
+the market rallied from
+
+256
+00:10:52,240 --> 00:10:54,399
+105 34
+
+257
+00:10:54,399 --> 00:10:58,880
+to 1 115 70s or thereabout
+
+258
+00:10:58,880 --> 00:11:00,720
+so it's a pretty significant move for
+
+259
+00:11:00,720 --> 00:11:03,040
+the euro dollar
+
+260
+00:11:03,040 --> 00:11:05,040
+there's going to be sell side liquidity
+
+261
+00:11:05,040 --> 00:11:05,760
+or
+
+262
+00:11:05,760 --> 00:11:07,760
+sell stops in the form of a liquidity
+
+263
+00:11:07,760 --> 00:11:08,560
+pool
+
+264
+00:11:08,560 --> 00:11:10,800
+below that low
+
+265
+00:11:10,800 --> 00:11:12,480
+you see price did in fact sweep down
+
+266
+00:11:12,480 --> 00:11:15,839
+there and grab that liquidity
+
+267
+00:11:17,120 --> 00:11:20,800
+neutralizing all the cell stops
+
+268
+00:11:24,720 --> 00:11:27,200
+so let's take a look at what takes place
+
+269
+00:11:27,200 --> 00:11:29,279
+and how we can use open float
+
+270
+00:11:29,279 --> 00:11:31,040
+and help answer some of the confusion
+
+271
+00:11:31,040 --> 00:11:32,959
+you have about why
+
+272
+00:11:32,959 --> 00:11:34,880
+the market should be expected to go a
+
+273
+00:11:34,880 --> 00:11:36,959
+certain level and then retrace or
+
+274
+00:11:36,959 --> 00:11:38,079
+reverse
+
+275
+00:11:38,079 --> 00:11:40,399
+and how we can look forward to one side
+
+276
+00:11:40,399 --> 00:11:42,800
+of the market being predominantly
+
+277
+00:11:42,800 --> 00:11:46,560
+controlled and staving off any
+
+278
+00:11:46,560 --> 00:11:49,040
+continuation after the move blows
+
+279
+00:11:49,040 --> 00:11:52,640
+through an old high or below an old well
+
+280
+00:11:52,640 --> 00:11:54,640
+as you see here we have a short-term
+
+281
+00:11:54,640 --> 00:11:57,200
+high here rate before
+
+282
+00:11:57,200 --> 00:11:59,279
+the market runs through that that
+
+283
+00:11:59,279 --> 00:12:02,000
+retracement back down into
+
+284
+00:12:02,000 --> 00:12:05,680
+the 107 50s
+
+285
+00:12:05,680 --> 00:12:06,959
+the buy stops that would be resting
+
+286
+00:12:06,959 --> 00:12:09,120
+above that high they're targeted and the
+
+287
+00:12:09,120 --> 00:12:11,360
+market runs right through that and also
+
+288
+00:12:11,360 --> 00:12:13,120
+fills in a liquidity void to the left
+
+289
+00:12:13,120 --> 00:12:15,440
+from october
+
+290
+00:12:15,440 --> 00:12:17,279
+then the market retraces
+
+291
+00:12:17,279 --> 00:12:19,120
+deeper and then we have a short-term
+
+292
+00:12:19,120 --> 00:12:20,399
+height that was created by that rally
+
+293
+00:12:20,399 --> 00:12:22,839
+above taking the buy stops
+
+294
+00:12:22,839 --> 00:12:26,560
+out that short-term high eventually gets
+
+295
+00:12:26,560 --> 00:12:28,160
+ran out as well
+
+296
+00:12:28,160 --> 00:12:29,920
+making a run on the buy stops that will
+
+297
+00:12:29,920 --> 00:12:32,000
+be resting above that now what buy
+
+298
+00:12:32,000 --> 00:12:33,680
+stocks will be wrestling about that
+
+299
+00:12:33,680 --> 00:12:35,920
+people that want to sell short
+
+300
+00:12:35,920 --> 00:12:38,560
+every time price makes a
+
+301
+00:12:38,560 --> 00:12:40,880
+impulse price swing
+
+302
+00:12:40,880 --> 00:12:42,959
+there's always invariably going to be
+
+303
+00:12:42,959 --> 00:12:44,959
+orders that want to be selling there and
+
+304
+00:12:44,959 --> 00:12:46,639
+they're going to be sometimes short
+
+305
+00:12:46,639 --> 00:12:48,720
+positions
+
+306
+00:12:48,720 --> 00:12:50,720
+funds will go in and start working their
+
+307
+00:12:50,720 --> 00:12:53,360
+positions in early
+
+308
+00:12:53,360 --> 00:12:55,440
+and sometimes they get knocked out and
+
+309
+00:12:55,440 --> 00:12:57,040
+that's what's happening here many times
+
+310
+00:12:57,040 --> 00:12:58,639
+you're seeing that same
+
+311
+00:12:58,639 --> 00:13:00,800
+phenomenon you end up going through it's
+
+312
+00:13:00,800 --> 00:13:02,079
+just going through
+
+313
+00:13:02,079 --> 00:13:04,639
+a larger scope in terms of
+
+314
+00:13:04,639 --> 00:13:07,839
+order size
+
+315
+00:13:07,839 --> 00:13:10,480
+and finally making a run on that 115 big
+
+316
+00:13:10,480 --> 00:13:11,680
+figure
+
+317
+00:13:11,680 --> 00:13:13,680
+clearing out the buy stops above the
+
+318
+00:13:13,680 --> 00:13:17,040
+previous october high
+
+319
+00:13:18,639 --> 00:13:21,360
+now i'm going to draw your attention to
+
+320
+00:13:21,360 --> 00:13:23,519
+how do you know when the market's going
+
+321
+00:13:23,519 --> 00:13:25,360
+to reach for one side of the liquidity
+
+322
+00:13:25,360 --> 00:13:28,000
+or the other
+
+323
+00:13:28,880 --> 00:13:31,200
+notice while the market was trading from
+
+324
+00:13:31,200 --> 00:13:32,240
+the low
+
+325
+00:13:32,240 --> 00:13:32,839
+at
+
+326
+00:13:32,839 --> 00:13:34,399
+105.34
+
+327
+00:13:34,399 --> 00:13:37,360
+all the way up to 115 big figure
+
+328
+00:13:37,360 --> 00:13:39,839
+there wasn't any significant move on
+
+329
+00:13:39,839 --> 00:13:41,839
+sell stops at all
+
+330
+00:13:41,839 --> 00:13:44,560
+they were driving price up to take the
+
+331
+00:13:44,560 --> 00:13:47,360
+liquidity out at 115.
+
+332
+00:13:47,360 --> 00:13:49,440
+once that liquidity was taken out in the
+
+333
+00:13:49,440 --> 00:13:51,839
+form of the buy stop raid at 115 big
+
+334
+00:13:51,839 --> 00:13:53,040
+figure
+
+335
+00:13:53,040 --> 00:13:55,920
+the market broke down and created a
+
+336
+00:13:55,920 --> 00:13:57,760
+violation of a short-term low that
+
+337
+00:13:57,760 --> 00:13:59,920
+short-term low had trailing cell stops
+
+338
+00:13:59,920 --> 00:14:01,839
+resting below it
+
+339
+00:14:01,839 --> 00:14:03,600
+those cell stops would now would be
+
+340
+00:14:03,600 --> 00:14:04,800
+violated
+
+341
+00:14:04,800 --> 00:14:07,519
+and canceled so any longs would be
+
+342
+00:14:07,519 --> 00:14:10,160
+knocked out at this point
+
+343
+00:14:10,160 --> 00:14:11,440
+now you need to be paying close
+
+344
+00:14:11,440 --> 00:14:13,279
+attention because this is where the
+
+345
+00:14:13,279 --> 00:14:17,000
+rubber meets the road
+
+346
+00:14:17,600 --> 00:14:18,399
+this
+
+347
+00:14:18,399 --> 00:14:20,480
+short-term low
+
+348
+00:14:20,480 --> 00:14:23,279
+and that run on the cell stops
+
+349
+00:14:23,279 --> 00:14:25,440
+right below that low here you want to
+
+350
+00:14:25,440 --> 00:14:28,959
+draw special attention to that right now
+
+351
+00:14:28,959 --> 00:14:31,040
+because this is your first clue
+
+352
+00:14:31,040 --> 00:14:33,440
+that we are probably going to work
+
+353
+00:14:33,440 --> 00:14:36,079
+the sell side of the liquidity
+
+354
+00:14:36,079 --> 00:14:37,680
+we don't know it at the time when it
+
+355
+00:14:37,680 --> 00:14:39,600
+first forms we have to start watching
+
+356
+00:14:39,600 --> 00:14:41,519
+what price does we already know we have
+
+357
+00:14:41,519 --> 00:14:43,519
+a strong rejection above the 115 big
+
+358
+00:14:43,519 --> 00:14:46,720
+figure and we've came a long way from
+
+359
+00:14:46,720 --> 00:14:49,199
+105 34
+
+360
+00:14:49,199 --> 00:14:50,880
+with none of the cell stocks taken
+
+361
+00:14:50,880 --> 00:14:53,839
+except for this one here
+
+362
+00:14:53,839 --> 00:14:55,199
+now we have a short term height that's
+
+363
+00:14:55,199 --> 00:14:59,160
+violated just briefly
+
+364
+00:14:59,600 --> 00:15:01,519
+but my question is is that short-term
+
+365
+00:15:01,519 --> 00:15:03,839
+little violation above an old high
+
+366
+00:15:03,839 --> 00:15:07,519
+is that making new ground for new highs
+
+367
+00:15:07,519 --> 00:15:11,199
+no it didn't even challenge the old high
+
+368
+00:15:11,199 --> 00:15:13,440
+but look at the strong rejection right
+
+369
+00:15:13,440 --> 00:15:15,360
+above that high
+
+370
+00:15:15,360 --> 00:15:17,440
+it creates another
+
+371
+00:15:17,440 --> 00:15:19,440
+lower low
+
+372
+00:15:19,440 --> 00:15:21,519
+so this short term low
+
+373
+00:15:21,519 --> 00:15:22,800
+right here
+
+374
+00:15:22,800 --> 00:15:23,839
+also
+
+375
+00:15:23,839 --> 00:15:25,600
+sees its liquidity in the form of the
+
+376
+00:15:25,600 --> 00:15:26,800
+cell stops
+
+377
+00:15:26,800 --> 00:15:29,600
+ran out as well
+
+378
+00:15:30,320 --> 00:15:32,320
+my question to you is this at this
+
+379
+00:15:32,320 --> 00:15:33,279
+moment
+
+380
+00:15:33,279 --> 00:15:34,399
+right now
+
+381
+00:15:34,399 --> 00:15:36,560
+it's at the midway point or equilibrium
+
+382
+00:15:36,560 --> 00:15:39,680
+between the 105 34 and the 115 big
+
+383
+00:15:39,680 --> 00:15:41,839
+figure
+
+384
+00:15:42,800 --> 00:15:45,120
+the chances of this creating a higher
+
+385
+00:15:45,120 --> 00:15:46,399
+high
+
+386
+00:15:46,399 --> 00:15:48,079
+where we're at right now relative to the
+
+387
+00:15:48,079 --> 00:15:49,920
+115 big figure
+
+388
+00:15:49,920 --> 00:15:52,320
+is not likely not because it's hindsight
+
+389
+00:15:52,320 --> 00:15:53,600
+and it's right in front of me but
+
+390
+00:15:53,600 --> 00:15:56,079
+because it's showing indications that it
+
+391
+00:15:56,079 --> 00:15:58,639
+can't create new ground once the buy
+
+392
+00:15:58,639 --> 00:16:00,800
+stop side of the liquidity is taken
+
+393
+00:16:00,800 --> 00:16:03,600
+but it's creating new lower ground every
+
+394
+00:16:03,600 --> 00:16:06,560
+single time a short-term low is violated
+
+395
+00:16:06,560 --> 00:16:09,600
+it gathers up more momentum and gathers
+
+396
+00:16:09,600 --> 00:16:10,399
+more
+
+397
+00:16:10,399 --> 00:16:12,880
+distance between the range of 115 big
+
+398
+00:16:12,880 --> 00:16:15,759
+figure and 105 34. so every time it
+
+399
+00:16:15,759 --> 00:16:17,759
+drops it drops a little bit more but
+
+400
+00:16:17,759 --> 00:16:19,680
+every time it rallies it fails to make a
+
+401
+00:16:19,680 --> 00:16:22,000
+new high even if it takes a short-term
+
+402
+00:16:22,000 --> 00:16:23,199
+high out
+
+403
+00:16:23,199 --> 00:16:25,440
+it's not gaining any more ground on the
+
+404
+00:16:25,440 --> 00:16:26,560
+upside
+
+405
+00:16:26,560 --> 00:16:30,320
+every rally is being distributed
+
+406
+00:16:30,320 --> 00:16:33,120
+we have a short-term high here as well
+
+407
+00:16:33,120 --> 00:16:35,839
+and those buy stops are ran out as well
+
+408
+00:16:35,839 --> 00:16:38,880
+same question does this rally above a
+
+409
+00:16:38,880 --> 00:16:41,839
+short-term high create a new high
+
+410
+00:16:41,839 --> 00:16:42,720
+no
+
+411
+00:16:42,720 --> 00:16:45,279
+it can't even get above the previous
+
+412
+00:16:45,279 --> 00:16:46,880
+failed attempt to make another higher
+
+413
+00:16:46,880 --> 00:16:47,759
+high
+
+414
+00:16:47,759 --> 00:16:51,839
+at the 114 big figure
+
+415
+00:16:54,720 --> 00:16:59,519
+then once again we have a rally through
+
+416
+00:17:00,560 --> 00:17:02,000
+an old high
+
+417
+00:17:02,000 --> 00:17:04,160
+does it gain new ground no but it's
+
+418
+00:17:04,160 --> 00:17:06,400
+quickly rejected and trades lower and
+
+419
+00:17:06,400 --> 00:17:08,640
+then
+
+420
+00:17:09,119 --> 00:17:10,559
+violates
+
+421
+00:17:10,559 --> 00:17:11,839
+two times
+
+422
+00:17:11,839 --> 00:17:14,079
+it goes below
+
+423
+00:17:14,079 --> 00:17:16,559
+the 109 10 level
+
+424
+00:17:16,559 --> 00:17:18,400
+once briefly before running up and
+
+425
+00:17:18,400 --> 00:17:20,880
+taking that run on 112
+
+426
+00:17:20,880 --> 00:17:22,079
+95
+
+427
+00:17:22,079 --> 00:17:23,760
+and then rejecting that level after
+
+428
+00:17:23,760 --> 00:17:25,679
+taking the buy stops out
+
+429
+00:17:25,679 --> 00:17:28,079
+and making a run for another pass
+
+430
+00:17:28,079 --> 00:17:32,520
+through the 108 50s
+
+431
+00:17:34,160 --> 00:17:35,200
+this
+
+432
+00:17:35,200 --> 00:17:36,080
+short
+
+433
+00:17:36,080 --> 00:17:39,600
+from this high at 1 12 95
+
+434
+00:17:39,600 --> 00:17:42,559
+was on the heels of the u s elections we
+
+435
+00:17:42,559 --> 00:17:44,640
+saw a strong dollar and the market
+
+436
+00:17:44,640 --> 00:17:47,120
+quickly rejected all of the rallies in
+
+437
+00:17:47,120 --> 00:17:49,919
+foreign currencies
+
+438
+00:17:51,039 --> 00:17:52,880
+the movement below
+
+439
+00:17:52,880 --> 00:17:56,080
+every short-term low
+
+440
+00:17:56,080 --> 00:17:58,559
+and gaining more ground
+
+441
+00:17:58,559 --> 00:18:00,880
+on the downside
+
+442
+00:18:00,880 --> 00:18:02,320
+that's the indication you look for
+
+443
+00:18:02,320 --> 00:18:03,760
+regardless of whatever time frame you're
+
+444
+00:18:03,760 --> 00:18:06,320
+trading but on the daily chart
+
+445
+00:18:06,320 --> 00:18:08,000
+you're looking for clues that it wants
+
+446
+00:18:08,000 --> 00:18:10,000
+to gain more momentum
+
+447
+00:18:10,000 --> 00:18:12,320
+on one side of the market or the other
+
+448
+00:18:12,320 --> 00:18:15,039
+you're going to reference where the buy
+
+449
+00:18:15,039 --> 00:18:17,200
+stops are available highs and where the
+
+450
+00:18:17,200 --> 00:18:19,679
+sell stops are below old lows but what
+
+451
+00:18:19,679 --> 00:18:22,240
+you're watching for is the tug of war
+
+452
+00:18:22,240 --> 00:18:24,799
+that takes place between each new run on
+
+453
+00:18:24,799 --> 00:18:26,400
+stops below the market
+
+454
+00:18:26,400 --> 00:18:29,520
+and above the market
+
+455
+00:18:29,520 --> 00:18:31,440
+if you notice where the intermediate
+
+456
+00:18:31,440 --> 00:18:33,280
+term highs are
+
+457
+00:18:33,280 --> 00:18:35,919
+if intermediate term highs keep creating
+
+458
+00:18:35,919 --> 00:18:38,000
+lower intermediate term highs
+
+459
+00:18:38,000 --> 00:18:40,000
+and enemy term lows and short-term lows
+
+460
+00:18:40,000 --> 00:18:42,799
+keep going lower each time
+
+461
+00:18:42,799 --> 00:18:45,280
+it's telling you that it wants the open
+
+462
+00:18:45,280 --> 00:18:47,280
+float below the marketplace in other
+
+463
+00:18:47,280 --> 00:18:49,200
+words it wants to seek to sell side
+
+464
+00:18:49,200 --> 00:18:50,480
+liquidity
+
+465
+00:18:50,480 --> 00:18:52,720
+it's going to draw lower so now think
+
+466
+00:18:52,720 --> 00:18:54,480
+about what this has done for you
+
+467
+00:18:54,480 --> 00:18:57,600
+it gives you a directional bias on the
+
+468
+00:18:57,600 --> 00:18:59,039
+daily chart
+
+469
+00:18:59,039 --> 00:19:01,200
+and it takes a long time for these moves
+
+470
+00:19:01,200 --> 00:19:02,640
+to take place
+
+471
+00:19:02,640 --> 00:19:03,520
+but
+
+472
+00:19:03,520 --> 00:19:05,440
+once you're studying price and you look
+
+473
+00:19:05,440 --> 00:19:07,679
+for these clues across many pairs and
+
+474
+00:19:07,679 --> 00:19:09,360
+many asset classes
+
+475
+00:19:09,360 --> 00:19:12,080
+you'll see that this is in fact what
+
+476
+00:19:12,080 --> 00:19:13,200
+leads you
+
+477
+00:19:13,200 --> 00:19:14,160
+to
+
+478
+00:19:14,160 --> 00:19:15,600
+daily chart
+
+479
+00:19:15,600 --> 00:19:18,720
+directional bias which also will
+
+480
+00:19:18,720 --> 00:19:20,640
+serve you very well in other disciplines
+
+481
+00:19:20,640 --> 00:19:22,240
+of trading whether it be day trading
+
+482
+00:19:22,240 --> 00:19:26,400
+scalping short-term trading or swing
+
+483
+00:19:26,400 --> 00:19:28,160
+this will give you
+
+484
+00:19:28,160 --> 00:19:30,480
+what you're looking for in terms of how
+
+485
+00:19:30,480 --> 00:19:31,679
+do i know what side of the market it's
+
+486
+00:19:31,679 --> 00:19:33,280
+going to make the run on is it going to
+
+487
+00:19:33,280 --> 00:19:34,480
+run the buy stops or it's going to run
+
+488
+00:19:34,480 --> 00:19:36,000
+the cell stops
+
+489
+00:19:36,000 --> 00:19:37,039
+think about what time frame you're
+
+490
+00:19:37,039 --> 00:19:39,760
+looking at here this is a daily chart
+
+491
+00:19:39,760 --> 00:19:41,840
+if the daily chart is indicating that it
+
+492
+00:19:41,840 --> 00:19:43,039
+wants to run
+
+493
+00:19:43,039 --> 00:19:45,280
+lower because it has no problem getting
+
+494
+00:19:45,280 --> 00:19:47,360
+down below short term lows
+
+495
+00:19:47,360 --> 00:19:49,120
+but every rally
+
+496
+00:19:49,120 --> 00:19:51,840
+has a failure to make new ground and
+
+497
+00:19:51,840 --> 00:19:54,080
+can't make a higher high
+
+498
+00:19:54,080 --> 00:19:55,840
+when it does make a higher high it's
+
+499
+00:19:55,840 --> 00:19:57,840
+punished immediately
+
+500
+00:19:57,840 --> 00:19:59,760
+but the high that it makes is always
+
+501
+00:19:59,760 --> 00:20:01,840
+just above a short-term
+
+502
+00:20:01,840 --> 00:20:05,039
+insignificant high
+
+503
+00:20:05,200 --> 00:20:08,080
+every time it does this it solidifies a
+
+504
+00:20:08,080 --> 00:20:09,760
+intermediate term high
+
+505
+00:20:09,760 --> 00:20:12,000
+that is now lower than the previous
+
+506
+00:20:12,000 --> 00:20:14,880
+intermediate term high
+
+507
+00:20:14,960 --> 00:20:17,600
+an intermediate term high is any high
+
+508
+00:20:17,600 --> 00:20:20,240
+that has a short term high to the left
+
+509
+00:20:20,240 --> 00:20:22,480
+of it and to the right of it
+
+510
+00:20:22,480 --> 00:20:24,080
+think of it like a head and shoulders
+
+511
+00:20:24,080 --> 00:20:26,480
+top formation
+
+512
+00:20:26,480 --> 00:20:28,000
+every time you see
+
+513
+00:20:28,000 --> 00:20:28,880
+a
+
+514
+00:20:28,880 --> 00:20:30,880
+enemy term high that has a lower enemy
+
+515
+00:20:30,880 --> 00:20:33,120
+term high to the left of it and enemy
+
+516
+00:20:33,120 --> 00:20:35,039
+term high to the right of it that's
+
+517
+00:20:35,039 --> 00:20:37,360
+actually a long term high in the middle
+
+518
+00:20:37,360 --> 00:20:39,200
+again think like a head and shoulders
+
+519
+00:20:39,200 --> 00:20:41,760
+pattern now invert that
+
+520
+00:20:41,760 --> 00:20:43,520
+and you'll have the same thing that
+
+521
+00:20:43,520 --> 00:20:45,760
+would be said for an immediate term low
+
+522
+00:20:45,760 --> 00:20:48,720
+or a long term low
+
+523
+00:20:48,720 --> 00:20:50,880
+once you see that in price you'll
+
+524
+00:20:50,880 --> 00:20:52,480
+actually see the
+
+525
+00:20:52,480 --> 00:20:55,039
+market structure that i actually learned
+
+526
+00:20:55,039 --> 00:20:56,880
+from studying larry williams as a new
+
+527
+00:20:56,880 --> 00:20:58,159
+trader
+
+528
+00:20:58,159 --> 00:21:00,159
+you can see the market structure in this
+
+529
+00:21:00,159 --> 00:21:01,679
+entire
+
+530
+00:21:01,679 --> 00:21:03,440
+sample size of data
+
+531
+00:21:03,440 --> 00:21:04,799
+it's multiple
+
+532
+00:21:04,799 --> 00:21:06,480
+intermediate term highs
+
+533
+00:21:06,480 --> 00:21:08,159
+and long term highs that are
+
+534
+00:21:08,159 --> 00:21:09,919
+significantly
+
+535
+00:21:09,919 --> 00:21:12,400
+signaling that the market in fact wanted
+
+536
+00:21:12,400 --> 00:21:15,799
+to go lower
+
+537
+00:21:16,159 --> 00:21:19,360
+there was a liquidity void
+
+538
+00:21:19,360 --> 00:21:20,520
+around the
+
+539
+00:21:20,520 --> 00:21:23,360
+106.80 level
+
+540
+00:21:23,360 --> 00:21:24,440
+to
+
+541
+00:21:24,440 --> 00:21:26,240
+106.35
+
+542
+00:21:26,240 --> 00:21:27,600
+it filled that in when all the way down
+
+543
+00:21:27,600 --> 00:21:30,880
+to the short-term low at 105.34
+
+544
+00:21:30,880 --> 00:21:32,320
+bounce a little bit there and then
+
+545
+00:21:32,320 --> 00:21:34,960
+ultimately
+
+546
+00:21:35,440 --> 00:21:38,000
+once breaking that low
+
+547
+00:21:38,000 --> 00:21:40,640
+at 107 big figure
+
+548
+00:21:40,640 --> 00:21:42,240
+it reached down below
+
+549
+00:21:42,240 --> 00:21:45,679
+to take this outside liquidity out
+
+550
+00:21:45,679 --> 00:21:48,640
+now when you study the daily charts like
+
+551
+00:21:48,640 --> 00:21:50,799
+this you can look at
+
+552
+00:21:50,799 --> 00:21:52,880
+a lot of examples
+
+553
+00:21:52,880 --> 00:21:54,880
+but they require time
+
+554
+00:21:54,880 --> 00:21:56,480
+and unfortunately
+
+555
+00:21:56,480 --> 00:21:59,120
+they don't give you a lot of turnaround
+
+556
+00:21:59,120 --> 00:22:01,679
+time for study but in hindsight you can
+
+557
+00:22:01,679 --> 00:22:04,400
+go back and look at a plethora of
+
+558
+00:22:04,400 --> 00:22:06,080
+really nice trading examples where you
+
+559
+00:22:06,080 --> 00:22:08,400
+can see where liquidity was ran on one
+
+560
+00:22:08,400 --> 00:22:11,200
+side the market was drawn up for three
+
+561
+00:22:11,200 --> 00:22:12,640
+to six months
+
+562
+00:22:12,640 --> 00:22:15,039
+okay look at the move from
+
+563
+00:22:15,039 --> 00:22:15,840
+the
+
+564
+00:22:15,840 --> 00:22:18,480
+december low of 2015
+
+565
+00:22:18,480 --> 00:22:23,200
+up to the high made in may of 2016.
+
+566
+00:22:23,679 --> 00:22:24,840
+it's about six
+
+567
+00:22:24,840 --> 00:22:26,400
+months
+
+568
+00:22:26,400 --> 00:22:28,640
+then the move from that high
+
+569
+00:22:28,640 --> 00:22:30,880
+in the spring of 2016
+
+570
+00:22:30,880 --> 00:22:34,559
+it traded all the way down to a low
+
+571
+00:22:34,559 --> 00:22:37,120
+made in
+
+572
+00:22:37,440 --> 00:22:40,559
+december of 2016.
+
+573
+00:22:40,559 --> 00:22:41,679
+again
+
+574
+00:22:41,679 --> 00:22:43,600
+about six months or so a little bit more
+
+575
+00:22:43,600 --> 00:22:44,880
+in six months
+
+576
+00:22:44,880 --> 00:22:46,320
+but you're seeing
+
+577
+00:22:46,320 --> 00:22:48,000
+the effects of
+
+578
+00:22:48,000 --> 00:22:50,720
+how the quarterly shift
+
+579
+00:22:50,720 --> 00:22:52,000
+takes place
+
+580
+00:22:52,000 --> 00:22:55,280
+also how the runs on liquidity and the
+
+581
+00:22:55,280 --> 00:22:58,000
+implementation of open float open float
+
+582
+00:22:58,000 --> 00:23:00,080
+is the study of how the market reaches
+
+583
+00:23:00,080 --> 00:23:00,960
+for
+
+584
+00:23:00,960 --> 00:23:03,120
+the buys and the cells that are above
+
+585
+00:23:03,120 --> 00:23:05,840
+market price
+
+586
+00:23:06,480 --> 00:23:09,520
+knowing where orders will be building
+
+587
+00:23:09,520 --> 00:23:11,919
+and stacking above old highs and below
+
+588
+00:23:11,919 --> 00:23:13,120
+old lows
+
+589
+00:23:13,120 --> 00:23:15,280
+that will give you the framework to map
+
+590
+00:23:15,280 --> 00:23:17,600
+out which side of the marketplace
+
+591
+00:23:17,600 --> 00:23:20,000
+the market makers and smart money are
+
+592
+00:23:20,000 --> 00:23:21,200
+seeking to
+
+593
+00:23:21,200 --> 00:23:22,880
+make a run on
+
+594
+00:23:22,880 --> 00:23:24,640
+if you can determine that on a daily
+
+595
+00:23:24,640 --> 00:23:26,799
+chart like this it will give you
+
+596
+00:23:26,799 --> 00:23:27,919
+trend
+
+597
+00:23:27,919 --> 00:23:29,760
+daily bias
+
+598
+00:23:29,760 --> 00:23:31,600
+long-term bias
+
+599
+00:23:31,600 --> 00:23:33,520
+and it'll give you prognostication for
+
+600
+00:23:33,520 --> 00:23:35,840
+having smart money perspectives an
+
+601
+00:23:35,840 --> 00:23:38,400
+institutional vantage point with all of
+
+602
+00:23:38,400 --> 00:23:40,320
+your trades until next time i wish good
+
+603
+00:23:40,320 --> 00:23:43,440
+luck and good trading
+

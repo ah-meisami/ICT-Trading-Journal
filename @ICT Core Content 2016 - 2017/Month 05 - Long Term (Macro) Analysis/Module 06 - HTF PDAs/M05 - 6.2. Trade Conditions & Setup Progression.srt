@@ -1,0 +1,2964 @@
+1
+00:00:17,880 --> 00:00:21,539
+welcome back folks this is lesson 6.2 of
+
+2
+00:00:21,539 --> 00:00:24,600
+January 2017 ICT mentorship
+
+3
+00:00:24,600 --> 00:00:27,060
+we're dealing with trade conditions and
+
+4
+00:00:27,060 --> 00:00:30,199
+set up progression
+
+5
+00:00:34,680 --> 00:00:35,940
+okay we're going to be outlining the
+
+6
+00:00:35,940 --> 00:00:38,700
+1200 pip move we mentioned in the money
+
+7
+00:00:38,700 --> 00:00:42,500
+management lesson number five
+
+8
+00:00:46,260 --> 00:00:49,620
+and obviously it's just a brief recap as
+
+9
+00:00:49,620 --> 00:00:51,059
+a refresher just in case you came back
+
+10
+00:00:51,059 --> 00:00:53,039
+to this lesson solo without going into
+
+11
+00:00:53,039 --> 00:00:54,539
+6.1
+
+12
+00:00:54,539 --> 00:00:57,120
+when we're looking at a premium market
+
+13
+00:00:57,120 --> 00:01:00,300
+and markets are trading near a premium
+
+14
+00:01:00,300 --> 00:01:03,120
+and we have reasons to suspect that at
+
+15
+00:01:03,120 --> 00:01:05,880
+lower future prices in order we don't
+
+16
+00:01:05,880 --> 00:01:07,260
+know how much time it's going to be
+
+17
+00:01:07,260 --> 00:01:10,140
+needed to get to that lower future price
+
+18
+00:01:10,140 --> 00:01:13,020
+but we're looking for a displacement in
+
+19
+00:01:13,020 --> 00:01:15,200
+price
+
+20
+00:01:16,140 --> 00:01:18,540
+and vice versa in this example we'll be
+
+21
+00:01:18,540 --> 00:01:21,360
+focusing on a buying opportunity when a
+
+22
+00:01:21,360 --> 00:01:24,720
+market went to a deep discount
+
+23
+00:01:24,720 --> 00:01:27,720
+on a monthly weekly and daily time frame
+
+24
+00:01:27,720 --> 00:01:29,700
+and how we would use that insight to get
+
+25
+00:01:29,700 --> 00:01:33,740
+to a higher Premium Future price
+
+26
+00:01:35,460 --> 00:01:37,500
+and briefly just as a click overview
+
+27
+00:01:37,500 --> 00:01:39,540
+again since this
+
+28
+00:01:39,540 --> 00:01:40,979
+teaching's going to be specifically
+
+29
+00:01:40,979 --> 00:01:44,280
+dealing with the discount
+
+30
+00:01:44,280 --> 00:01:47,159
+opportunity buying at a discount and
+
+31
+00:01:47,159 --> 00:01:49,020
+aiming for a premium
+
+32
+00:01:49,020 --> 00:01:51,720
+objectives
+
+33
+00:01:51,720 --> 00:01:54,000
+are focuses down here
+
+34
+00:01:54,000 --> 00:01:56,899
+where mitigation blocks bullish Breakers
+
+35
+00:01:56,899 --> 00:01:59,880
+liquidity voids fair value gaps bullish
+
+36
+00:01:59,880 --> 00:02:02,579
+order blocks rejection blocks and old
+
+37
+00:02:02,579 --> 00:02:05,159
+lows or old Highs are our focal point
+
+38
+00:02:05,159 --> 00:02:08,098
+for entries on Long positions
+
+39
+00:02:08,098 --> 00:02:09,840
+the idea is we're looking for something
+
+40
+00:02:09,840 --> 00:02:13,080
+down in this list of arrays
+
+41
+00:02:13,080 --> 00:02:16,040
+to Target
+
+42
+00:02:16,080 --> 00:02:19,379
+one of the premium arrays
+
+43
+00:02:19,379 --> 00:02:21,480
+now obviously the first one we'll be
+
+44
+00:02:21,480 --> 00:02:23,040
+reaching for is a mitigation block that
+
+45
+00:02:23,040 --> 00:02:24,480
+would be a first objective
+
+46
+00:02:24,480 --> 00:02:26,099
+then if there's a breaker of any kind we
+
+47
+00:02:26,099 --> 00:02:27,900
+would aim for that and we'd have to
+
+48
+00:02:27,900 --> 00:02:29,459
+weigh out whether or not there's a
+
+49
+00:02:29,459 --> 00:02:31,440
+significant force that would drive it
+
+50
+00:02:31,440 --> 00:02:33,599
+through a breaker
+
+51
+00:02:33,599 --> 00:02:36,120
+and we'll talk about that
+
+52
+00:02:36,120 --> 00:02:38,580
+should we come to it in our example
+
+53
+00:02:38,580 --> 00:02:41,040
+and then obviously looking for any range
+
+54
+00:02:41,040 --> 00:02:43,680
+to be filled in for a liquidity void
+
+55
+00:02:43,680 --> 00:02:45,959
+and aiming for fair value gaps in the
+
+56
+00:02:45,959 --> 00:02:48,360
+premium range of the market and then we
+
+57
+00:02:48,360 --> 00:02:51,480
+look at Value gaps bearish order blocks
+
+58
+00:02:51,480 --> 00:02:53,220
+and then looking for a rejection block
+
+59
+00:02:53,220 --> 00:02:57,780
+and or old high and old historic low
+
+60
+00:02:57,780 --> 00:03:00,480
+so we're looking for bullish
+
+61
+00:03:00,480 --> 00:03:03,540
+PD arrays to buy into with the
+
+62
+00:03:03,540 --> 00:03:05,340
+expectation of
+
+63
+00:03:05,340 --> 00:03:07,739
+selling it at one of the monthly premium
+
+64
+00:03:07,739 --> 00:03:10,280
+arrays
+
+65
+00:03:12,780 --> 00:03:14,940
+if we were looking at a bearish example
+
+66
+00:03:14,940 --> 00:03:16,019
+which is what we're not going to be
+
+67
+00:03:16,019 --> 00:03:17,220
+doing here but just for the sake of
+
+68
+00:03:17,220 --> 00:03:18,420
+completeness
+
+69
+00:03:18,420 --> 00:03:21,180
+we would be looking to sell short at a
+
+70
+00:03:21,180 --> 00:03:23,819
+bearish PD array
+
+71
+00:03:23,819 --> 00:03:26,940
+aiming to cover that short position with
+
+72
+00:03:26,940 --> 00:03:30,239
+one of the bullish PD arrays mitigation
+
+73
+00:03:30,239 --> 00:03:32,220
+block bullish breaker liquidity void
+
+74
+00:03:32,220 --> 00:03:34,379
+fair value Gap bullish order block
+
+75
+00:03:34,379 --> 00:03:36,900
+rejection block and or old low or
+
+76
+00:03:36,900 --> 00:03:39,739
+historic High
+
+77
+00:03:41,280 --> 00:03:43,560
+so selling at a premium and buying back
+
+78
+00:03:43,560 --> 00:03:46,040
+at a discount
+
+79
+00:03:47,940 --> 00:03:50,640
+before we get into our actual example I
+
+80
+00:03:50,640 --> 00:03:53,280
+want to give you some uh study points so
+
+81
+00:03:53,280 --> 00:03:54,900
+we keep it in mind when you are looking
+
+82
+00:03:54,900 --> 00:03:55,980
+at price
+
+83
+00:03:55,980 --> 00:03:58,080
+it's important to keep this as one of
+
+84
+00:03:58,080 --> 00:04:01,340
+the focal points when you're studying
+
+85
+00:04:01,379 --> 00:04:03,659
+when markets are at a premium or at a
+
+86
+00:04:03,659 --> 00:04:04,860
+discount they're always going to
+
+87
+00:04:04,860 --> 00:04:07,319
+initially look to rebalance that means
+
+88
+00:04:07,319 --> 00:04:09,659
+the equilibrium price point between the
+
+89
+00:04:09,659 --> 00:04:12,299
+last recent range so even if it doesn't
+
+90
+00:04:12,299 --> 00:04:13,980
+go all the way up to a deep premium or
+
+91
+00:04:13,980 --> 00:04:15,959
+down to a deep discount
+
+92
+00:04:15,959 --> 00:04:17,760
+you can always reasonably expect it to
+
+93
+00:04:17,760 --> 00:04:19,560
+go back to equilibrium and if that's all
+
+94
+00:04:19,560 --> 00:04:21,899
+you aim for if you if you buy it a real
+
+95
+00:04:21,899 --> 00:04:23,460
+deep discount and just get back to
+
+96
+00:04:23,460 --> 00:04:25,259
+equilibrium you'll find a lot of Trades
+
+97
+00:04:25,259 --> 00:04:26,880
+like that if you're a big premium in the
+
+98
+00:04:26,880 --> 00:04:28,620
+marketplace you're at historic highs or
+
+99
+00:04:28,620 --> 00:04:32,280
+a annual high or three month High
+
+100
+00:04:32,280 --> 00:04:34,560
+you got a real good chance of seeing the
+
+101
+00:04:34,560 --> 00:04:36,720
+market sell off back to some equilibrium
+
+102
+00:04:36,720 --> 00:04:38,940
+price point of the most recent trading
+
+103
+00:04:38,940 --> 00:04:40,800
+range
+
+104
+00:04:40,800 --> 00:04:42,660
+when markets are in premium
+
+105
+00:04:42,660 --> 00:04:45,060
+again and if you're in equilibrium
+
+106
+00:04:45,060 --> 00:04:47,580
+you're gonna be focusing on the market
+
+107
+00:04:47,580 --> 00:04:50,100
+potentially moving up into one of these
+
+108
+00:04:50,100 --> 00:04:53,220
+monthly PD arrays that possibly may be a
+
+109
+00:04:53,220 --> 00:04:56,060
+shorting opportunity
+
+110
+00:04:57,780 --> 00:04:59,820
+when the market's at equilibrium can
+
+111
+00:04:59,820 --> 00:05:02,699
+anticipate a market move down into a
+
+112
+00:05:02,699 --> 00:05:04,139
+monthly discount
+
+113
+00:05:04,139 --> 00:05:07,380
+aiming for one of the PD arrays
+
+114
+00:05:07,380 --> 00:05:09,900
+as an objective
+
+115
+00:05:09,900 --> 00:05:12,419
+so basically at equilibrium you can look
+
+116
+00:05:12,419 --> 00:05:14,100
+for either expansion on the outside or
+
+117
+00:05:14,100 --> 00:05:15,180
+downside now you're going to be
+
+118
+00:05:15,180 --> 00:05:16,259
+Consulting
+
+119
+00:05:16,259 --> 00:05:18,660
+the market structure on the monthly
+
+120
+00:05:18,660 --> 00:05:20,759
+chart to determine what side of the
+
+121
+00:05:20,759 --> 00:05:21,600
+marketplace you're going to be looking
+
+122
+00:05:21,600 --> 00:05:23,340
+for so it's not indiscriminately going
+
+123
+00:05:23,340 --> 00:05:25,320
+in there rolling the dice and seeing
+
+124
+00:05:25,320 --> 00:05:26,699
+well I'm going to sell it short because
+
+125
+00:05:26,699 --> 00:05:27,840
+it's at the middle of the range or I'm
+
+126
+00:05:27,840 --> 00:05:29,520
+going to buy it at the middle range we
+
+127
+00:05:29,520 --> 00:05:31,740
+have to look at some of the uh the
+
+128
+00:05:31,740 --> 00:05:33,360
+criteria around that price action at the
+
+129
+00:05:33,360 --> 00:05:35,400
+time
+
+130
+00:05:35,400 --> 00:05:37,919
+you know weekly ranges just as a
+
+131
+00:05:37,919 --> 00:05:41,039
+complete approach or overview all of the
+
+132
+00:05:41,039 --> 00:05:43,259
+same PD arrays for premium and discount
+
+133
+00:05:43,259 --> 00:05:46,860
+are the same and the same is said for
+
+134
+00:05:46,860 --> 00:05:48,360
+the daily chart so we're gonna move
+
+135
+00:05:48,360 --> 00:05:50,699
+through the charts now and look at the
+
+136
+00:05:50,699 --> 00:05:54,180
+Japanese Yen cash price
+
+137
+00:05:54,180 --> 00:05:56,460
+okay we're looking at the daily of a
+
+138
+00:05:56,460 --> 00:05:59,759
+cash price for Japanese Yen
+
+139
+00:05:59,759 --> 00:06:02,460
+this is seen at barchart.com and
+
+140
+00:06:02,460 --> 00:06:05,880
+historically uh last year in 2016 we
+
+141
+00:06:05,880 --> 00:06:07,560
+made a high in August
+
+142
+00:06:07,560 --> 00:06:09,120
+and the market showed willingness to
+
+143
+00:06:09,120 --> 00:06:10,500
+want to start breaking down Market
+
+144
+00:06:10,500 --> 00:06:12,539
+structure at this low here
+
+145
+00:06:12,539 --> 00:06:14,759
+this low
+
+146
+00:06:14,759 --> 00:06:17,220
+became broken at this moment here so
+
+147
+00:06:17,220 --> 00:06:19,139
+Market structure on a long term basis on
+
+148
+00:06:19,139 --> 00:06:22,860
+a daily chart had been broken bearishly
+
+149
+00:06:22,860 --> 00:06:25,560
+and we see this Trump
+
+150
+00:06:25,560 --> 00:06:28,139
+election
+
+151
+00:06:28,139 --> 00:06:31,500
+rally up into bearish order block and
+
+152
+00:06:31,500 --> 00:06:33,300
+then it sells off so we're gonna be
+
+153
+00:06:33,300 --> 00:06:36,440
+looking at this move in here
+
+154
+00:06:36,660 --> 00:06:39,660
+okay and we're going to go over to
+
+155
+00:06:39,660 --> 00:06:43,680
+the Forex chart now just so you
+
+156
+00:06:43,680 --> 00:06:45,539
+understand clearly because a lot of you
+
+157
+00:06:45,539 --> 00:06:48,240
+may be knew and maybe you're used to
+
+158
+00:06:48,240 --> 00:06:50,220
+trading the Futures Market or following
+
+159
+00:06:50,220 --> 00:06:52,500
+the Japanese Yen cash price but when we
+
+160
+00:06:52,500 --> 00:06:54,240
+pair it with a
+
+161
+00:06:54,240 --> 00:06:55,979
+currency like the dollar Index the
+
+162
+00:06:55,979 --> 00:06:58,259
+dollar Index is the front currency and
+
+163
+00:06:58,259 --> 00:07:00,300
+then the Japanese ends the second so
+
+164
+00:07:00,300 --> 00:07:02,220
+that means if we're bearish or expecting
+
+165
+00:07:02,220 --> 00:07:04,340
+lower prices on Japanese Yen cash prices
+
+166
+00:07:04,340 --> 00:07:07,080
+the dollar Yen pair is actually going to
+
+167
+00:07:07,080 --> 00:07:08,759
+be inverted it's going to go up because
+
+168
+00:07:08,759 --> 00:07:10,800
+if Japanese Yen cash price is dropping
+
+169
+00:07:10,800 --> 00:07:13,319
+that means dollar prices are rallying
+
+170
+00:07:13,319 --> 00:07:15,240
+and if the dollar is the first in the
+
+171
+00:07:15,240 --> 00:07:17,580
+name of the pair dollar Yen that means
+
+172
+00:07:17,580 --> 00:07:19,199
+when you're watching dollar Yen price
+
+173
+00:07:19,199 --> 00:07:21,000
+action you're watching the advancement
+
+174
+00:07:21,000 --> 00:07:23,460
+of dollar versus decline of the Japanese
+
+175
+00:07:23,460 --> 00:07:25,819
+Yen
+
+176
+00:07:27,000 --> 00:07:29,039
+okay here's a monthly chart of the
+
+177
+00:07:29,039 --> 00:07:30,900
+dollar yen
+
+178
+00:07:30,900 --> 00:07:34,020
+okay you can see how we've seen the
+
+179
+00:07:34,020 --> 00:07:36,060
+market have a really nice rally up in
+
+180
+00:07:36,060 --> 00:07:37,319
+here this is going to be again
+
+181
+00:07:37,319 --> 00:07:39,000
+diametrically opposed to what we
+
+182
+00:07:39,000 --> 00:07:41,819
+expected or just saw rather on the cash
+
+183
+00:07:41,819 --> 00:07:43,860
+price on the Japanese Yen
+
+184
+00:07:43,860 --> 00:07:46,620
+now as a reminder for some of you
+
+185
+00:07:46,620 --> 00:07:49,259
+um we talked about the Japanese yen in
+
+186
+00:07:49,259 --> 00:07:51,960
+the beginning months of our mentorship
+
+187
+00:07:51,960 --> 00:07:53,639
+and I gave you some study points and
+
+188
+00:07:53,639 --> 00:07:55,680
+gave some examples about this move
+
+189
+00:07:55,680 --> 00:07:58,319
+higher and some of the levels that we
+
+190
+00:07:58,319 --> 00:08:01,680
+saw a trade to the 118 for instance was
+
+191
+00:08:01,680 --> 00:08:04,380
+one that was mentioned so
+
+192
+00:08:04,380 --> 00:08:06,360
+if we look at what has happened and
+
+193
+00:08:06,360 --> 00:08:08,699
+what's transpired we're gonna map out
+
+194
+00:08:08,699 --> 00:08:11,280
+this this monthly chart
+
+195
+00:08:11,280 --> 00:08:14,360
+and we're gonna get some
+
+196
+00:08:17,280 --> 00:08:19,020
+some levels on here we have a high back
+
+197
+00:08:19,020 --> 00:08:20,460
+here
+
+198
+00:08:20,460 --> 00:08:21,720
+okay and I want you to take a look at
+
+199
+00:08:21,720 --> 00:08:24,419
+these equal lows
+
+200
+00:08:24,419 --> 00:08:25,860
+okay
+
+201
+00:08:25,860 --> 00:08:28,139
+the equal lows in here we're going to be
+
+202
+00:08:28,139 --> 00:08:31,319
+expecting what to be there cell stops so
+
+203
+00:08:31,319 --> 00:08:34,020
+while the market was dropping last year
+
+204
+00:08:34,020 --> 00:08:35,940
+we would be expecting it to trade down
+
+205
+00:08:35,940 --> 00:08:37,620
+into these levels now what's this over
+
+206
+00:08:37,620 --> 00:08:38,458
+here
+
+207
+00:08:38,458 --> 00:08:41,099
+these two Down Candles
+
+208
+00:08:41,099 --> 00:08:44,399
+that is a bullish order block when you
+
+209
+00:08:44,399 --> 00:08:47,779
+blend both of the bodies together
+
+210
+00:08:48,779 --> 00:08:50,160
+because it's two consecutive Down
+
+211
+00:08:50,160 --> 00:08:51,660
+Candles
+
+212
+00:08:51,660 --> 00:08:53,339
+okay and that gives you your equilibrium
+
+213
+00:08:53,339 --> 00:08:55,200
+price point in here
+
+214
+00:08:55,200 --> 00:08:57,800
+okay we'll take that off and round it to
+
+215
+00:08:57,800 --> 00:09:00,899
+the full 99 level so we have a range
+
+216
+00:09:00,899 --> 00:09:03,600
+here we have a high end or premium and a
+
+217
+00:09:03,600 --> 00:09:05,760
+low end or discount
+
+218
+00:09:05,760 --> 00:09:08,040
+what makes this a discount level the
+
+219
+00:09:08,040 --> 00:09:09,420
+fact that we saw a price move away from
+
+220
+00:09:09,420 --> 00:09:10,920
+it here now this could be a discount
+
+221
+00:09:10,920 --> 00:09:13,140
+level as well we want to go back to
+
+222
+00:09:13,140 --> 00:09:15,899
+where the move originated here we saw a
+
+223
+00:09:15,899 --> 00:09:18,000
+big move away here that left the Gap
+
+224
+00:09:18,000 --> 00:09:20,940
+open so we saw the the dollar Yen leave
+
+225
+00:09:20,940 --> 00:09:23,640
+the Gap open here where price is only
+
+226
+00:09:23,640 --> 00:09:24,959
+delivered on the upside there was no
+
+227
+00:09:24,959 --> 00:09:27,360
+down movement to counteract that up move
+
+228
+00:09:27,360 --> 00:09:29,580
+that was seen here okay came down
+
+229
+00:09:29,580 --> 00:09:31,620
+closing that little range in here okay
+
+230
+00:09:31,620 --> 00:09:34,500
+so price comes down hits the full big
+
+231
+00:09:34,500 --> 00:09:37,500
+figure 99 okay so we have a defined
+
+232
+00:09:37,500 --> 00:09:38,760
+range up here
+
+233
+00:09:38,760 --> 00:09:40,980
+this is premium on the monthly level
+
+234
+00:09:40,980 --> 00:09:43,800
+this is discount on the monthly level so
+
+235
+00:09:43,800 --> 00:09:46,800
+on this level down here
+
+236
+00:09:46,800 --> 00:09:50,040
+we would look to see a move below
+
+237
+00:09:50,040 --> 00:09:52,680
+these wicks in here
+
+238
+00:09:52,680 --> 00:09:54,360
+the bodies of these candles we saw it
+
+239
+00:09:54,360 --> 00:09:55,800
+right in here
+
+240
+00:09:55,800 --> 00:09:59,660
+this candle comes in at November
+
+241
+00:09:59,660 --> 00:10:02,640
+2016 it went below the bodies of the
+
+242
+00:10:02,640 --> 00:10:03,779
+candles in here
+
+243
+00:10:03,779 --> 00:10:05,940
+that is going to be a rejection block it
+
+244
+00:10:05,940 --> 00:10:08,100
+cleared out the bodies of the candle on
+
+245
+00:10:08,100 --> 00:10:10,140
+a monthly chart rejected
+
+246
+00:10:10,140 --> 00:10:13,820
+sent it higher okay
+
+247
+00:10:15,000 --> 00:10:17,580
+we have a range up here
+
+248
+00:10:17,580 --> 00:10:20,760
+we also have this down candle which is a
+
+249
+00:10:20,760 --> 00:10:22,440
+breaker why is this a breaker because we
+
+250
+00:10:22,440 --> 00:10:24,300
+have an old high here
+
+251
+00:10:24,300 --> 00:10:25,920
+old highs
+
+252
+00:10:25,920 --> 00:10:27,120
+anyone that gets short they're going to
+
+253
+00:10:27,120 --> 00:10:28,920
+put a buy stopper is resting right above
+
+254
+00:10:28,920 --> 00:10:31,080
+that the market rallies above clears out
+
+255
+00:10:31,080 --> 00:10:33,060
+those buy stops here and then trades
+
+256
+00:10:33,060 --> 00:10:35,160
+down through it once this down candle is
+
+257
+00:10:35,160 --> 00:10:37,200
+violated rate
+
+258
+00:10:37,200 --> 00:10:40,620
+here it becomes a valid breaker
+
+259
+00:10:40,620 --> 00:10:42,540
+if it trades down below it comes back to
+
+260
+00:10:42,540 --> 00:10:45,180
+it here we have it middle of the body of
+
+261
+00:10:45,180 --> 00:10:47,519
+the candle extend out in time
+
+262
+00:10:47,519 --> 00:10:49,200
+it would give you a level of watch this
+
+263
+00:10:49,200 --> 00:10:50,399
+is actually a weekly level we're going
+
+264
+00:10:50,399 --> 00:10:51,720
+to see very clearly when we drop down
+
+265
+00:10:51,720 --> 00:10:53,279
+into weekly range
+
+266
+00:10:53,279 --> 00:10:55,380
+but we also have notice we have a gap in
+
+267
+00:10:55,380 --> 00:10:57,540
+here which I'm not going to add all this
+
+268
+00:10:57,540 --> 00:10:59,459
+on this chart to make it way too busy
+
+269
+00:10:59,459 --> 00:11:01,440
+but we have a gap in here price has only
+
+270
+00:11:01,440 --> 00:11:02,940
+been delivered on the downside between
+
+271
+00:11:02,940 --> 00:11:05,399
+this candle's low and this candle's high
+
+272
+00:11:05,399 --> 00:11:07,860
+it's been delivered down here as a gap
+
+273
+00:11:07,860 --> 00:11:09,180
+so that would be one reasonable
+
+274
+00:11:09,180 --> 00:11:11,339
+objective to look for when price was
+
+275
+00:11:11,339 --> 00:11:13,079
+rallying
+
+276
+00:11:13,079 --> 00:11:15,300
+but what makes the buy down here we're
+
+277
+00:11:15,300 --> 00:11:16,260
+going to discount
+
+278
+00:11:16,260 --> 00:11:18,480
+on a monthly let's change it over to a
+
+279
+00:11:18,480 --> 00:11:21,120
+weekly okay here's the same dollar Yen
+
+280
+00:11:21,120 --> 00:11:23,640
+just in a weekly format okay you can see
+
+281
+00:11:23,640 --> 00:11:25,680
+here we have an up candle right before
+
+282
+00:11:25,680 --> 00:11:27,180
+the down move okay that's a bearish
+
+283
+00:11:27,180 --> 00:11:28,620
+order block so we're mapping that
+
+284
+00:11:28,620 --> 00:11:29,880
+opening out
+
+285
+00:11:29,880 --> 00:11:32,459
+over to here okay and the reason why I'm
+
+286
+00:11:32,459 --> 00:11:34,140
+using the open on this candle not the
+
+287
+00:11:34,140 --> 00:11:36,540
+wick is because there's an absence of a
+
+288
+00:11:36,540 --> 00:11:38,399
+gap the reason why is because we have a
+
+289
+00:11:38,399 --> 00:11:40,620
+wick here and the market traded down
+
+290
+00:11:40,620 --> 00:11:43,079
+through here so this is two times
+
+291
+00:11:43,079 --> 00:11:45,240
+this little area has been traded to and
+
+292
+00:11:45,240 --> 00:11:46,980
+it was blocked in with this candle's
+
+293
+00:11:46,980 --> 00:11:49,019
+high so this whole little area in here
+
+294
+00:11:49,019 --> 00:11:51,420
+wouldn't be viewed as a gap
+
+295
+00:11:51,420 --> 00:11:54,000
+or fair value Gap it's it's been closed
+
+296
+00:11:54,000 --> 00:11:56,519
+in because the the very bearish
+
+297
+00:11:56,519 --> 00:11:58,740
+water block itself had a movement lower
+
+298
+00:11:58,740 --> 00:12:00,420
+initially so it's been passed through
+
+299
+00:12:00,420 --> 00:12:02,579
+twice there
+
+300
+00:12:02,579 --> 00:12:04,620
+price comes up and closes it right to
+
+301
+00:12:04,620 --> 00:12:07,320
+the opening so they also have a we have
+
+302
+00:12:07,320 --> 00:12:08,880
+a gap in here fair value Gap here
+
+303
+00:12:08,880 --> 00:12:10,560
+between this candle's low and this
+
+304
+00:12:10,560 --> 00:12:11,940
+candle is high that would be an
+
+305
+00:12:11,940 --> 00:12:14,160
+objective to reach for also but I want
+
+306
+00:12:14,160 --> 00:12:16,140
+you to look at the weekly chart we're
+
+307
+00:12:16,140 --> 00:12:19,140
+deep in a discount on the Range
+
+308
+00:12:19,140 --> 00:12:21,000
+and the price shares of willingness to
+
+309
+00:12:21,000 --> 00:12:23,220
+want to rally and comes back down into
+
+310
+00:12:23,220 --> 00:12:25,019
+the down candle right before that move
+
+311
+00:12:25,019 --> 00:12:26,820
+this is a bullish order block you could
+
+312
+00:12:26,820 --> 00:12:28,860
+be a buyer here but we're focusing on
+
+313
+00:12:28,860 --> 00:12:30,480
+that November
+
+314
+00:12:30,480 --> 00:12:33,240
+loan that's this move right here it's
+
+315
+00:12:33,240 --> 00:12:34,740
+trading right back into and
+
+316
+00:12:34,740 --> 00:12:37,980
+recapitalizing an old weekly bullish
+
+317
+00:12:37,980 --> 00:12:39,420
+order block
+
+318
+00:12:39,420 --> 00:12:41,339
+let's see what's done it's hit that
+
+319
+00:12:41,339 --> 00:12:43,980
+right there perfectly and rally away now
+
+320
+00:12:43,980 --> 00:12:46,560
+on a weekly time frame this bearish
+
+321
+00:12:46,560 --> 00:12:48,240
+order block which is the last up candle
+
+322
+00:12:48,240 --> 00:12:50,279
+right before the down move this is what
+
+323
+00:12:50,279 --> 00:12:52,320
+you could have on your charts as well
+
+324
+00:12:52,320 --> 00:12:54,920
+this is how you
+
+325
+00:12:55,260 --> 00:12:57,480
+map out the conditions
+
+326
+00:12:57,480 --> 00:12:58,740
+okay so that would be a reasonable
+
+327
+00:12:58,740 --> 00:13:01,500
+objective once the price
+
+328
+00:13:01,500 --> 00:13:04,079
+comes down hits it this by here
+
+329
+00:13:04,079 --> 00:13:06,360
+it shows it hit that but then we had
+
+330
+00:13:06,360 --> 00:13:07,860
+this set up here so which is this is
+
+331
+00:13:07,860 --> 00:13:10,260
+later on you don't really see this as an
+
+332
+00:13:10,260 --> 00:13:11,459
+objective once it's already been hit
+
+333
+00:13:11,459 --> 00:13:13,680
+this wouldn't be no resistance
+
+334
+00:13:13,680 --> 00:13:15,180
+whatsoever
+
+335
+00:13:15,180 --> 00:13:17,399
+so you can take that level move it over
+
+336
+00:13:17,399 --> 00:13:19,940
+to here
+
+337
+00:13:24,959 --> 00:13:26,459
+that would be a reasonable objective on
+
+338
+00:13:26,459 --> 00:13:28,800
+the upside closing in that range but now
+
+339
+00:13:28,800 --> 00:13:31,079
+look at the bodies here see that equal
+
+340
+00:13:31,079 --> 00:13:34,079
+Body candles above that we would expect
+
+341
+00:13:34,079 --> 00:13:36,839
+to see a rejection block
+
+342
+00:13:36,839 --> 00:13:38,600
+price reaches through that as well
+
+343
+00:13:38,600 --> 00:13:41,880
+another rejection block candidate here
+
+344
+00:13:41,880 --> 00:13:44,760
+equal Body candles
+
+345
+00:13:44,760 --> 00:13:46,800
+we can expect to see that
+
+346
+00:13:46,800 --> 00:13:48,660
+as an upside objective as price
+
+347
+00:13:48,660 --> 00:13:52,139
+continues to trade higher
+
+348
+00:13:52,139 --> 00:13:53,399
+here
+
+349
+00:13:53,399 --> 00:13:55,920
+and then we have that fair value Gap up
+
+350
+00:13:55,920 --> 00:13:57,420
+in here where prices only delivered on
+
+351
+00:13:57,420 --> 00:13:58,440
+the downside
+
+352
+00:13:58,440 --> 00:13:59,880
+that would be an objective over here you
+
+353
+00:13:59,880 --> 00:14:00,899
+can see that I'm not going to move this
+
+354
+00:14:00,899 --> 00:14:02,760
+line all around and then finally all the
+
+355
+00:14:02,760 --> 00:14:04,200
+way up here to the bearish order block
+
+356
+00:14:04,200 --> 00:14:05,579
+which is the last stop camera before the
+
+357
+00:14:05,579 --> 00:14:06,660
+down move
+
+358
+00:14:06,660 --> 00:14:08,279
+so we have a
+
+359
+00:14:08,279 --> 00:14:10,380
+discount to Premium
+
+360
+00:14:10,380 --> 00:14:13,440
+using the monthly and weekly charts but
+
+361
+00:14:13,440 --> 00:14:15,720
+now let's go down into a daily time
+
+362
+00:14:15,720 --> 00:14:18,079
+frame
+
+363
+00:14:21,420 --> 00:14:23,339
+after I add one more little thing to
+
+364
+00:14:23,339 --> 00:14:24,899
+this
+
+365
+00:14:24,899 --> 00:14:27,360
+we also have this last down candle right
+
+366
+00:14:27,360 --> 00:14:31,700
+before this buy occurred
+
+367
+00:14:33,180 --> 00:14:34,980
+so right in here
+
+368
+00:14:34,980 --> 00:14:36,600
+we're going to map that out with a
+
+369
+00:14:36,600 --> 00:14:37,680
+different color
+
+370
+00:14:37,680 --> 00:14:39,360
+so that way we can see
+
+371
+00:14:39,360 --> 00:14:42,360
+the hierarchy between the weekly and the
+
+372
+00:14:42,360 --> 00:14:44,220
+daily
+
+373
+00:14:44,220 --> 00:14:47,399
+let's use a different color that a
+
+374
+00:14:47,399 --> 00:14:49,680
+little bit darker maybe a little a
+
+375
+00:14:49,680 --> 00:14:51,300
+little too dark for some of your
+
+376
+00:14:51,300 --> 00:14:52,560
+personal tastes but we're just going to
+
+377
+00:14:52,560 --> 00:14:54,060
+deal with that won't we
+
+378
+00:14:54,060 --> 00:14:55,920
+I'm going to go over to a daily chart
+
+379
+00:14:55,920 --> 00:14:58,620
+okay and you can see here the darker
+
+380
+00:14:58,620 --> 00:15:01,860
+area is a weekly bullish order block
+
+381
+00:15:01,860 --> 00:15:03,899
+this is the lower weekly order block and
+
+382
+00:15:03,899 --> 00:15:05,399
+this is the higher weekly order block
+
+383
+00:15:05,399 --> 00:15:07,320
+price comes down it hits that and
+
+384
+00:15:07,320 --> 00:15:10,139
+actually touches both it gives you the
+
+385
+00:15:10,139 --> 00:15:12,060
+return back to lower weekly order block
+
+386
+00:15:12,060 --> 00:15:14,339
+that's bullish so it trades two times
+
+387
+00:15:14,339 --> 00:15:16,260
+into a higher order block on the weekly
+
+388
+00:15:16,260 --> 00:15:19,199
+chart and the lower of the two bullish
+
+389
+00:15:19,199 --> 00:15:21,120
+order blocks
+
+390
+00:15:21,120 --> 00:15:24,860
+and price rallies away and through
+
+391
+00:15:25,320 --> 00:15:28,139
+right here on this November bye
+
+392
+00:15:28,139 --> 00:15:30,180
+same thing we start seeing here on the
+
+393
+00:15:30,180 --> 00:15:32,639
+daily we see an old high here we see an
+
+394
+00:15:32,639 --> 00:15:34,380
+old high here we have equal highs in
+
+395
+00:15:34,380 --> 00:15:36,560
+here
+
+396
+00:15:36,839 --> 00:15:38,579
+we have relatively equal highs here as
+
+397
+00:15:38,579 --> 00:15:40,620
+well we have a fair value Gap
+
+398
+00:15:40,620 --> 00:15:43,220
+in here
+
+399
+00:15:44,519 --> 00:15:46,380
+this high and this low which is what
+
+400
+00:15:46,380 --> 00:15:47,699
+that would have been on the weekly chart
+
+401
+00:15:47,699 --> 00:15:48,720
+by the way
+
+402
+00:15:48,720 --> 00:15:50,279
+and then we have
+
+403
+00:15:50,279 --> 00:15:53,160
+the last up candle right in here that
+
+404
+00:15:53,160 --> 00:15:57,360
+low comes in at 118.55
+
+405
+00:15:57,360 --> 00:15:59,760
+so 118.55 so you can see how prices
+
+406
+00:15:59,760 --> 00:16:02,760
+reached up into premium level
+
+407
+00:16:02,760 --> 00:16:04,560
+over here
+
+408
+00:16:04,560 --> 00:16:07,680
+now important thing is is if we don't
+
+409
+00:16:07,680 --> 00:16:10,079
+see any
+
+410
+00:16:10,079 --> 00:16:12,420
+retracement to come back into for a
+
+411
+00:16:12,420 --> 00:16:15,540
+daily bullish order block or or if we
+
+412
+00:16:15,540 --> 00:16:17,220
+saw for instance
+
+413
+00:16:17,220 --> 00:16:18,720
+um let's say it like this
+
+414
+00:16:18,720 --> 00:16:20,519
+let's zoom in
+
+415
+00:16:20,519 --> 00:16:23,100
+we have this down candle right here okay
+
+416
+00:16:23,100 --> 00:16:25,920
+price rallies away from it every time
+
+417
+00:16:25,920 --> 00:16:27,839
+you look in an uptrend you want to focus
+
+418
+00:16:27,839 --> 00:16:29,220
+on the Down Candles because that's where
+
+419
+00:16:29,220 --> 00:16:31,320
+institutions are going to buy either
+
+420
+00:16:31,320 --> 00:16:32,880
+they're buying at the time of the Down
+
+421
+00:16:32,880 --> 00:16:35,339
+Candles creation which is usually always
+
+422
+00:16:35,339 --> 00:16:36,779
+the case
+
+423
+00:16:36,779 --> 00:16:38,519
+and then if it comes back to that same
+
+424
+00:16:38,519 --> 00:16:40,980
+down candle at a later time they will
+
+425
+00:16:40,980 --> 00:16:43,680
+they will buy more at that time
+
+426
+00:16:43,680 --> 00:16:46,079
+we have three consecutive Down Candles
+
+427
+00:16:46,079 --> 00:16:47,279
+in here
+
+428
+00:16:47,279 --> 00:16:48,899
+right in here
+
+429
+00:16:48,899 --> 00:16:51,300
+okay the order block really begins at
+
+430
+00:16:51,300 --> 00:16:54,000
+this candle's opening not this last one
+
+431
+00:16:54,000 --> 00:16:55,920
+you can use that one but if you want to
+
+432
+00:16:55,920 --> 00:17:00,839
+be ultra Ultra tight on your stops but
+
+433
+00:17:00,839 --> 00:17:04,079
+you're really going to be using
+
+434
+00:17:04,079 --> 00:17:06,059
+the opening on this candle because it's
+
+435
+00:17:06,059 --> 00:17:09,540
+the highest open of the three
+
+436
+00:17:09,540 --> 00:17:11,160
+consecutive candles
+
+437
+00:17:11,160 --> 00:17:13,260
+so that's this candle right here open
+
+438
+00:17:13,260 --> 00:17:15,839
+comes in at 113.28
+
+439
+00:17:15,839 --> 00:17:17,699
+and this candle
+
+440
+00:17:17,699 --> 00:17:20,880
+it's open was 113.26 so it's only two
+
+441
+00:17:20,880 --> 00:17:23,160
+Pips below it and you see look at the
+
+442
+00:17:23,160 --> 00:17:27,119
+the movement off of that level one two
+
+443
+00:17:27,119 --> 00:17:29,280
+three times you're gonna bought and
+
+444
+00:17:29,280 --> 00:17:30,900
+caught that last piece now that's not a
+
+445
+00:17:30,900 --> 00:17:33,299
+long-term position trade mind you but it
+
+446
+00:17:33,299 --> 00:17:36,419
+is what you'd be focusing on to see more
+
+447
+00:17:36,419 --> 00:17:39,360
+upside pressure on this move once you
+
+448
+00:17:39,360 --> 00:17:41,220
+have already been in it every down
+
+449
+00:17:41,220 --> 00:17:42,900
+candle here
+
+450
+00:17:42,900 --> 00:17:45,120
+okay price trades through here and it
+
+451
+00:17:45,120 --> 00:17:47,520
+comes back down to a hit rate there in
+
+452
+00:17:47,520 --> 00:17:48,900
+that moment right there adding the
+
+453
+00:17:48,900 --> 00:17:50,400
+spread you could probably get another
+
+454
+00:17:50,400 --> 00:17:51,780
+position on there
+
+455
+00:17:51,780 --> 00:17:54,600
+but more more likely this is one as well
+
+456
+00:17:54,600 --> 00:17:56,580
+uh you have a down candle price trades
+
+457
+00:17:56,580 --> 00:17:58,980
+through it come back down into this
+
+458
+00:17:58,980 --> 00:18:02,100
+candle what is the high on that candle
+
+459
+00:18:02,100 --> 00:18:05,400
+High concept 1 11 39 the low on this
+
+460
+00:18:05,400 --> 00:18:08,820
+candle comes in at 1 11 36 so that's
+
+461
+00:18:08,820 --> 00:18:10,140
+definitely an opportunity for you to get
+
+462
+00:18:10,140 --> 00:18:14,120
+in and get new Longs on
+
+463
+00:18:14,460 --> 00:18:16,860
+so having these levels
+
+464
+00:18:16,860 --> 00:18:19,140
+from the monthly and the weekly on it
+
+465
+00:18:19,140 --> 00:18:21,000
+gives you context to what to reach for
+
+466
+00:18:21,000 --> 00:18:22,620
+on a lower time frame daily when you're
+
+467
+00:18:22,620 --> 00:18:25,740
+executing long-term trades but more
+
+468
+00:18:25,740 --> 00:18:27,120
+importantly not that I could show it
+
+469
+00:18:27,120 --> 00:18:30,240
+here but if we would have lost say for
+
+470
+00:18:30,240 --> 00:18:32,460
+instance this candle here in order to
+
+471
+00:18:32,460 --> 00:18:35,220
+trade it down below it we could look for
+
+472
+00:18:35,220 --> 00:18:38,280
+another return to this order block here
+
+473
+00:18:38,280 --> 00:18:40,020
+as the high end
+
+474
+00:18:40,020 --> 00:18:42,419
+not down this V but we could expect for
+
+475
+00:18:42,419 --> 00:18:43,919
+it to trade back down here and give
+
+476
+00:18:43,919 --> 00:18:45,240
+another Buy
+
+477
+00:18:45,240 --> 00:18:47,580
+and what I mean by that any bullish
+
+478
+00:18:47,580 --> 00:18:50,340
+order block or any supportive role from
+
+479
+00:18:50,340 --> 00:18:53,280
+a PD array on a daily chart if it is
+
+480
+00:18:53,280 --> 00:18:55,799
+bullish but it fails to give you a Buy
+
+481
+00:18:55,799 --> 00:18:58,200
+Signal or a support price the next level
+
+482
+00:18:58,200 --> 00:19:01,320
+you drop back to is a weekly PD array so
+
+483
+00:19:01,320 --> 00:19:02,220
+you're going to be looking for something
+
+484
+00:19:02,220 --> 00:19:03,840
+bullish to support price on the weekly
+
+485
+00:19:03,840 --> 00:19:07,020
+chart if the weekly chart PD array has
+
+486
+00:19:07,020 --> 00:19:09,840
+no support and it breaks then you'd get
+
+487
+00:19:09,840 --> 00:19:13,260
+back to the monthly support so
+
+488
+00:19:13,260 --> 00:19:15,539
+because you're trading off a long-term
+
+489
+00:19:15,539 --> 00:19:16,919
+perspectives and higher time frame
+
+490
+00:19:16,919 --> 00:19:19,799
+charts the retracements can go through
+
+491
+00:19:19,799 --> 00:19:22,260
+what you see on the daily the daily
+
+492
+00:19:22,260 --> 00:19:24,539
+isn't going to support a monthly
+
+493
+00:19:24,539 --> 00:19:26,039
+retracement it just isn't going to do it
+
+494
+00:19:26,039 --> 00:19:27,360
+sometimes this is going to give way it's
+
+495
+00:19:27,360 --> 00:19:28,740
+going to break through it's going to
+
+496
+00:19:28,740 --> 00:19:30,120
+pull all the way back to what you would
+
+497
+00:19:30,120 --> 00:19:31,559
+otherwise not see unless you're looking
+
+498
+00:19:31,559 --> 00:19:33,539
+at a monthly chart
+
+499
+00:19:33,539 --> 00:19:35,820
+so by having the monthly
+
+500
+00:19:35,820 --> 00:19:38,820
+PD arrays on your on your charts and
+
+501
+00:19:38,820 --> 00:19:40,799
+looking for them also on the weekly
+
+502
+00:19:40,799 --> 00:19:43,020
+chart and having those levels on both
+
+503
+00:19:43,020 --> 00:19:44,820
+monthly and weekly on your daily now
+
+504
+00:19:44,820 --> 00:19:46,740
+it's not going to be on your executable
+
+505
+00:19:46,740 --> 00:19:48,299
+time frame chart okay it's not going to
+
+506
+00:19:48,299 --> 00:19:49,500
+be there
+
+507
+00:19:49,500 --> 00:19:51,299
+but you should always have in your
+
+508
+00:19:51,299 --> 00:19:54,059
+platform the asset that your or the
+
+509
+00:19:54,059 --> 00:19:55,740
+market you're Trading
+
+510
+00:19:55,740 --> 00:19:57,240
+you should have these monthly weekly
+
+511
+00:19:57,240 --> 00:19:59,700
+levels on regardless even if you're a
+
+512
+00:19:59,700 --> 00:20:00,840
+day trader because it's going to
+
+513
+00:20:00,840 --> 00:20:04,140
+surprise you how many times it has great
+
+514
+00:20:04,140 --> 00:20:06,539
+impact or significant impact even in day
+
+515
+00:20:06,539 --> 00:20:09,179
+trading or short-term Trading swing
+
+516
+00:20:09,179 --> 00:20:10,500
+trading you're gonna definitely need it
+
+517
+00:20:10,500 --> 00:20:12,480
+but position trading it's absolutely
+
+518
+00:20:12,480 --> 00:20:14,100
+crucial you definitely need it here
+
+519
+00:20:14,100 --> 00:20:16,799
+because it's going to frame what trades
+
+520
+00:20:16,799 --> 00:20:18,480
+you're taking and it's going to provide
+
+521
+00:20:18,480 --> 00:20:21,299
+you support structure in the form of
+
+522
+00:20:21,299 --> 00:20:24,539
+support of resistance or natural support
+
+523
+00:20:24,539 --> 00:20:29,940
+for price to find new buying and or new
+
+524
+00:20:29,940 --> 00:20:32,880
+resistance to find new selling at
+
+525
+00:20:32,880 --> 00:20:35,400
+the takeaway from this is
+
+526
+00:20:35,400 --> 00:20:37,860
+if you're following the market on a
+
+527
+00:20:37,860 --> 00:20:40,020
+daily chart just because there's a
+
+528
+00:20:40,020 --> 00:20:43,620
+bullish order block or a void that gets
+
+529
+00:20:43,620 --> 00:20:45,960
+closed in or fills in a gap and that
+
+530
+00:20:45,960 --> 00:20:48,720
+supposedly is bullish doesn't mean that
+
+531
+00:20:48,720 --> 00:20:50,520
+it's going to keep price up from that
+
+532
+00:20:50,520 --> 00:20:52,380
+point price could come back on the daily
+
+533
+00:20:52,380 --> 00:20:54,960
+chart and retrace rather deeply see this
+
+534
+00:20:54,960 --> 00:20:57,900
+is a one-sided Market delivery here the
+
+535
+00:20:57,900 --> 00:20:59,940
+Market's been priced in on one side they
+
+536
+00:20:59,940 --> 00:21:02,039
+completely keep running it higher higher
+
+537
+00:21:02,039 --> 00:21:04,080
+up to a logical level which was that
+
+538
+00:21:04,080 --> 00:21:06,840
+Weekly bearish order block
+
+539
+00:21:06,840 --> 00:21:10,620
+the market moved from a discount all the
+
+540
+00:21:10,620 --> 00:21:14,400
+way up to a long-term premium notice on
+
+541
+00:21:14,400 --> 00:21:17,299
+the daily chart
+
+542
+00:21:17,299 --> 00:21:19,380
+understanding order block Theory you
+
+543
+00:21:19,380 --> 00:21:21,179
+could see that as a viable upside
+
+544
+00:21:21,179 --> 00:21:22,260
+objective
+
+545
+00:21:22,260 --> 00:21:25,799
+but for those that simply look at
+
+546
+00:21:25,799 --> 00:21:28,140
+the higher time frame weekly for levels
+
+547
+00:21:28,140 --> 00:21:30,799
+to key off of
+
+548
+00:21:31,620 --> 00:21:33,720
+this is a logical area because it's very
+
+549
+00:21:33,720 --> 00:21:35,460
+clear and distinct it's last up candle
+
+550
+00:21:35,460 --> 00:21:37,200
+right for the down sharp move
+
+551
+00:21:37,200 --> 00:21:38,700
+so this is going to be your bearish
+
+552
+00:21:38,700 --> 00:21:40,679
+order block the opening on that candle
+
+553
+00:21:40,679 --> 00:21:43,500
+comes in at 1 1861.
+
+554
+00:21:43,500 --> 00:21:46,140
+the high it comes in on this candle at
+
+555
+00:21:46,140 --> 00:21:48,240
+118.66.
+
+556
+00:21:48,240 --> 00:21:50,700
+that's Precision I mean that's really
+
+557
+00:21:50,700 --> 00:21:53,039
+really tight for a weekly chart it's
+
+558
+00:21:53,039 --> 00:21:54,960
+hard to deny Precision in that case
+
+559
+00:21:54,960 --> 00:21:56,580
+there because this is simply it's
+
+560
+00:21:56,580 --> 00:21:58,020
+irrefutable
+
+561
+00:21:58,020 --> 00:22:00,299
+so when we look at Price every one of
+
+562
+00:22:00,299 --> 00:22:03,240
+these new uh these ranges in here
+
+563
+00:22:03,240 --> 00:22:05,880
+they're all tradable so even if you
+
+564
+00:22:05,880 --> 00:22:07,919
+don't have the wherewithal to hold all
+
+565
+00:22:07,919 --> 00:22:09,720
+the way through to get to the Deep
+
+566
+00:22:09,720 --> 00:22:10,919
+premium
+
+567
+00:22:10,919 --> 00:22:12,120
+Market
+
+568
+00:22:12,120 --> 00:22:15,480
+you can get a premium here
+
+569
+00:22:15,480 --> 00:22:17,820
+on this range
+
+570
+00:22:17,820 --> 00:22:20,820
+this is a premium from this high down to
+
+571
+00:22:20,820 --> 00:22:23,120
+the low
+
+572
+00:22:23,340 --> 00:22:25,380
+these highs in here down to that low is
+
+573
+00:22:25,380 --> 00:22:27,539
+a premium but as you go through and
+
+574
+00:22:27,539 --> 00:22:30,080
+deeper this is where the last
+
+575
+00:22:30,080 --> 00:22:33,179
+last opportunity for the highest premium
+
+576
+00:22:33,179 --> 00:22:35,520
+and unloading along from that down here
+
+577
+00:22:35,520 --> 00:22:37,020
+in these discount area
+
+578
+00:22:37,020 --> 00:22:39,659
+so moving from higher time frame charts
+
+579
+00:22:39,659 --> 00:22:42,960
+to the Daily monthly and weekly levels
+
+580
+00:22:42,960 --> 00:22:46,320
+moving them on to your daily chart
+
+581
+00:22:46,320 --> 00:22:48,480
+that's obvious it's just transposing
+
+582
+00:22:48,480 --> 00:22:49,919
+hard time frame support resistance ideas
+
+583
+00:22:49,919 --> 00:22:53,220
+okay but we're using the PD arrays in
+
+584
+00:22:53,220 --> 00:22:54,600
+terms of understanding institutional
+
+585
+00:22:54,600 --> 00:22:57,960
+order flow but the main takeaway is if
+
+586
+00:22:57,960 --> 00:23:01,020
+we lose a level that's arrived at only
+
+587
+00:23:01,020 --> 00:23:02,700
+on a daily chart
+
+588
+00:23:02,700 --> 00:23:05,460
+you could drop back into the levels
+
+589
+00:23:05,460 --> 00:23:08,100
+that's seen on a weekly chart
+
+590
+00:23:08,100 --> 00:23:09,000
+and I'm going to show you what that
+
+591
+00:23:09,000 --> 00:23:10,799
+looks like now
+
+592
+00:23:10,799 --> 00:23:15,120
+if you look at just a horizontal line
+
+593
+00:23:15,120 --> 00:23:16,980
+all right we have
+
+594
+00:23:16,980 --> 00:23:19,679
+this old high back here equal highs
+
+595
+00:23:19,679 --> 00:23:21,360
+when you use that
+
+596
+00:23:21,360 --> 00:23:22,740
+and let's see what that looks like on
+
+597
+00:23:22,740 --> 00:23:24,120
+the daily
+
+598
+00:23:24,120 --> 00:23:26,340
+we have another one
+
+599
+00:23:26,340 --> 00:23:28,620
+here
+
+600
+00:23:28,620 --> 00:23:31,820
+right there
+
+601
+00:23:32,900 --> 00:23:37,820
+and we have another one
+
+602
+00:23:37,980 --> 00:23:41,159
+right there
+
+603
+00:23:41,159 --> 00:23:43,620
+and all this consolidation is down the
+
+604
+00:23:43,620 --> 00:23:46,200
+move here the candle
+
+605
+00:23:46,200 --> 00:23:47,640
+making a swing low in here we're going
+
+606
+00:23:47,640 --> 00:23:50,340
+to look at that as some early scaling in
+
+607
+00:23:50,340 --> 00:23:52,140
+long they were buying here they're
+
+608
+00:23:52,140 --> 00:23:53,640
+buying in here they're buying in here
+
+609
+00:23:53,640 --> 00:23:55,740
+they're buying in here they're buying in
+
+610
+00:23:55,740 --> 00:23:57,960
+here they're buying in here it bought in
+
+611
+00:23:57,960 --> 00:23:59,659
+here and then boom you see that big move
+
+612
+00:23:59,659 --> 00:24:01,980
+long-term hedging that's what you're
+
+613
+00:24:01,980 --> 00:24:03,780
+seeing in here every time it's a down
+
+614
+00:24:03,780 --> 00:24:06,179
+candle and then it's a subsequent up
+
+615
+00:24:06,179 --> 00:24:07,500
+move
+
+616
+00:24:07,500 --> 00:24:09,539
+you know that they bought and that's the
+
+617
+00:24:09,539 --> 00:24:11,460
+footprint they moved the market by doing
+
+618
+00:24:11,460 --> 00:24:13,740
+that and every time they do that it
+
+619
+00:24:13,740 --> 00:24:17,400
+allows new scaling in for them and their
+
+620
+00:24:17,400 --> 00:24:18,720
+positions are large and they can't get
+
+621
+00:24:18,720 --> 00:24:20,159
+them all in one time
+
+622
+00:24:20,159 --> 00:24:23,039
+so if we go out to the Daily again
+
+623
+00:24:23,039 --> 00:24:25,260
+you can see there's that order block
+
+624
+00:24:25,260 --> 00:24:26,460
+right here
+
+625
+00:24:26,460 --> 00:24:28,679
+and here's that order block here that
+
+626
+00:24:28,679 --> 00:24:30,480
+level trading right down here now it's
+
+627
+00:24:30,480 --> 00:24:33,539
+not going to be right to the point okay
+
+628
+00:24:33,539 --> 00:24:35,880
+or right to the PIP if you will but you
+
+629
+00:24:35,880 --> 00:24:37,679
+can see how these levels draw your
+
+630
+00:24:37,679 --> 00:24:40,080
+attention to where a future order block
+
+631
+00:24:40,080 --> 00:24:42,720
+on a daily time frame may occur so it
+
+632
+00:24:42,720 --> 00:24:44,039
+gives you an opportunity kind of like to
+
+633
+00:24:44,039 --> 00:24:46,020
+anticipate when the next down candle
+
+634
+00:24:46,020 --> 00:24:48,120
+should occur in terms of price not time
+
+635
+00:24:48,120 --> 00:24:51,539
+but around the time of this price
+
+636
+00:24:51,539 --> 00:24:53,580
+hitting this you want to be focusing on
+
+637
+00:24:53,580 --> 00:24:55,080
+when there's air down close on a daily
+
+638
+00:24:55,080 --> 00:24:56,340
+chart because that's going to be new
+
+639
+00:24:56,340 --> 00:24:58,440
+buying opportunities especially if you
+
+640
+00:24:58,440 --> 00:25:00,240
+have a higher time frame premium level
+
+641
+00:25:00,240 --> 00:25:03,419
+that's still unmet
+
+642
+00:25:03,419 --> 00:25:04,919
+so hopefully this is giving you some
+
+643
+00:25:04,919 --> 00:25:07,679
+insights about how you can use the PD
+
+644
+00:25:07,679 --> 00:25:09,659
+arrays in a context for moving to
+
+645
+00:25:09,659 --> 00:25:11,700
+monthly to a daily if I want to be
+
+646
+00:25:11,700 --> 00:25:13,440
+specific and make sure that you've drawn
+
+647
+00:25:13,440 --> 00:25:15,720
+something of value out of it is not
+
+648
+00:25:15,720 --> 00:25:17,400
+because we can take higher time frame
+
+649
+00:25:17,400 --> 00:25:19,740
+levels and transpose them onto a daily
+
+650
+00:25:19,740 --> 00:25:22,080
+chart that's not the point it goes
+
+651
+00:25:22,080 --> 00:25:25,440
+beyond that if we lose a level
+
+652
+00:25:25,440 --> 00:25:27,779
+if we lose a order block for instance
+
+653
+00:25:27,779 --> 00:25:28,919
+like we see
+
+654
+00:25:28,919 --> 00:25:30,539
+here
+
+655
+00:25:30,539 --> 00:25:33,539
+okay we saw price trade down and it
+
+656
+00:25:33,539 --> 00:25:34,679
+moved up
+
+657
+00:25:34,679 --> 00:25:36,000
+so this could have been a bullish order
+
+658
+00:25:36,000 --> 00:25:37,080
+block
+
+659
+00:25:37,080 --> 00:25:39,179
+price came down here Why didn't it go up
+
+660
+00:25:39,179 --> 00:25:40,740
+why did it come all the way down here it
+
+661
+00:25:40,740 --> 00:25:42,419
+went through this down candle to go
+
+662
+00:25:42,419 --> 00:25:45,299
+right back into which is a higher weekly
+
+663
+00:25:45,299 --> 00:25:47,940
+order block it wasn't until we saw the
+
+664
+00:25:47,940 --> 00:25:50,100
+the election of Donald Trump that's what
+
+665
+00:25:50,100 --> 00:25:51,960
+this big whipsaw move was where they
+
+666
+00:25:51,960 --> 00:25:54,120
+took out the stops here and it had to
+
+667
+00:25:54,120 --> 00:25:55,320
+trade all the way back down to the lower
+
+668
+00:25:55,320 --> 00:25:57,059
+weekly bullish order block which is what
+
+669
+00:25:57,059 --> 00:25:58,380
+this is now I'm showing on the daily
+
+670
+00:25:58,380 --> 00:26:00,600
+chart but this level is all on that
+
+671
+00:26:00,600 --> 00:26:03,419
+lowest weekly bullish order block
+
+672
+00:26:03,419 --> 00:26:06,900
+so again you can see how this low here
+
+673
+00:26:06,900 --> 00:26:09,179
+it was violated but it went down to the
+
+674
+00:26:09,179 --> 00:26:11,760
+most logical area on the weekly chart so
+
+675
+00:26:11,760 --> 00:26:13,919
+the daily chart was pushed
+
+676
+00:26:13,919 --> 00:26:16,500
+aside and the values that's attributed
+
+677
+00:26:16,500 --> 00:26:19,200
+to using daily time frame
+
+678
+00:26:19,200 --> 00:26:21,720
+that wasn't sufficient enough
+
+679
+00:26:21,720 --> 00:26:23,820
+the banks went back to recapitalizing a
+
+680
+00:26:23,820 --> 00:26:25,799
+level on the weekly chart and that's
+
+681
+00:26:25,799 --> 00:26:27,419
+what this whole move is here usually
+
+682
+00:26:27,419 --> 00:26:29,760
+when you see these big surges higher or
+
+683
+00:26:29,760 --> 00:26:31,500
+lower in price and you're watching it on
+
+684
+00:26:31,500 --> 00:26:33,179
+a daily chart or if you see it on a
+
+685
+00:26:33,179 --> 00:26:34,380
+lower time frame you just can't
+
+686
+00:26:34,380 --> 00:26:36,120
+understand what's going on quickly go
+
+687
+00:26:36,120 --> 00:26:37,320
+out to a weekly chart and you'll see
+
+688
+00:26:37,320 --> 00:26:38,460
+what they've done or what they're
+
+689
+00:26:38,460 --> 00:26:40,500
+reaching for and then many times what
+
+690
+00:26:40,500 --> 00:26:42,960
+everybody else gets afraid of to go back
+
+691
+00:26:42,960 --> 00:26:44,400
+into if they got knocked down take a
+
+692
+00:26:44,400 --> 00:26:46,020
+loss like for instance say you bought
+
+693
+00:26:46,020 --> 00:26:48,059
+down here maybe you bought this low here
+
+694
+00:26:48,059 --> 00:26:50,940
+as a old well and you bought it as cell
+
+695
+00:26:50,940 --> 00:26:53,220
+stops being ran out okay great
+
+696
+00:26:53,220 --> 00:26:55,140
+about it you start to see some money and
+
+697
+00:26:55,140 --> 00:26:56,460
+all of a sudden this boom you get
+
+698
+00:26:56,460 --> 00:26:57,419
+knocked out
+
+699
+00:26:57,419 --> 00:26:59,340
+if you go and look at the weekly chart
+
+700
+00:26:59,340 --> 00:27:01,140
+you can see that all that was in the
+
+701
+00:27:01,140 --> 00:27:02,340
+return back to that Weekly order block
+
+702
+00:27:02,340 --> 00:27:04,679
+and if it was starting to trade back up
+
+703
+00:27:04,679 --> 00:27:06,659
+to this level here it could be a buyer
+
+704
+00:27:06,659 --> 00:27:07,740
+again
+
+705
+00:27:07,740 --> 00:27:08,940
+because you know that they went down to
+
+706
+00:27:08,940 --> 00:27:10,620
+the weekly order block and there's
+
+707
+00:27:10,620 --> 00:27:12,240
+nothing to worry about dude all they did
+
+708
+00:27:12,240 --> 00:27:14,460
+was recapitalize a longer term
+
+709
+00:27:14,460 --> 00:27:16,860
+pdra and that's all it was this is a
+
+710
+00:27:16,860 --> 00:27:18,960
+return back to a Polish or block on a
+
+711
+00:27:18,960 --> 00:27:21,419
+weekly time frame so if you lose a level
+
+712
+00:27:21,419 --> 00:27:24,480
+on a daily don't be concerned just go
+
+713
+00:27:24,480 --> 00:27:26,100
+out to a weekly chart and you'll see
+
+714
+00:27:26,100 --> 00:27:28,140
+what they're reaching for if you can't
+
+715
+00:27:28,140 --> 00:27:29,580
+find it on the weekly chart which is
+
+716
+00:27:29,580 --> 00:27:31,320
+probably unlikely but if you can't go
+
+717
+00:27:31,320 --> 00:27:32,460
+out to a monthly chart and you'll
+
+718
+00:27:32,460 --> 00:27:33,900
+probably see much clearer where they're
+
+719
+00:27:33,900 --> 00:27:35,340
+trying to push price
+
+720
+00:27:35,340 --> 00:27:37,500
+the algorithm is going to work
+
+721
+00:27:37,500 --> 00:27:39,659
+predominantly on a daily time frame but
+
+722
+00:27:39,659 --> 00:27:42,480
+if the levels are already worked enough
+
+723
+00:27:42,480 --> 00:27:44,220
+and already absorbed all of the
+
+724
+00:27:44,220 --> 00:27:45,299
+potential liquidity because it's already
+
+725
+00:27:45,299 --> 00:27:47,640
+been trading to them it will go out to
+
+726
+00:27:47,640 --> 00:27:50,340
+that larger open float and that usually
+
+727
+00:27:50,340 --> 00:27:52,140
+will dip you into
+
+728
+00:27:52,140 --> 00:27:54,840
+the weekly ranges so when you see the
+
+729
+00:27:54,840 --> 00:27:56,520
+market movement to the weekly objectives
+
+730
+00:27:56,520 --> 00:27:59,100
+or the levels that we identify with
+
+731
+00:27:59,100 --> 00:28:00,900
+these PD arrays
+
+732
+00:28:00,900 --> 00:28:02,700
+then you'll know that you're probably
+
+733
+00:28:02,700 --> 00:28:04,140
+going to have a really significant price
+
+734
+00:28:04,140 --> 00:28:06,600
+move because of the weekly level those
+
+735
+00:28:06,600 --> 00:28:08,159
+large funds Banks and institutions
+
+736
+00:28:08,159 --> 00:28:10,020
+they're all going to Dogpile on those
+
+737
+00:28:10,020 --> 00:28:11,520
+levels because they're significant and
+
+738
+00:28:11,520 --> 00:28:13,440
+they're long term and they're poised to
+
+739
+00:28:13,440 --> 00:28:15,539
+make moves like this
+
+740
+00:28:15,539 --> 00:28:17,400
+so until next time wish you good luck
+
+741
+00:28:17,400 --> 00:28:20,120
+and good Trading
+

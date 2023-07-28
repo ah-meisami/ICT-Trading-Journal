@@ -1,0 +1,1192 @@
+1
+00:00:21,720 --> 00:00:38,019
+okay folks welcome to the January 2017 ICT mentorship long-term analysis Lesson 1.1 
+we're teaching implementing Macro analysis and this teaching is Quarterly shifts and IPDA data ranges.
+
+7
+00:00:39,960 --> 00:00:56,700
+the Quarterly Market Shift 
+okay if there is an algorithm 
+if our belief is that there is a automated price delivery engine that takes care of providing efficiency in the delivery of price.
+
+13
+00:00:57,239 --> 00:01:14,120
+the efficiency of trading at every potential trading price available per asset. 
+we're going to be dealing specifically with Forex for this teaching.
+but the effect of a Quarterly Market Shift is in Universal and all asset classes.
+
+20
+00:01:15,299 --> 00:01:17,880
+but I want to ask you a question just for a moment try to imagine the world as investing.
+if it were all completely random, if the market in fact was random, how could anyone reasonably have an EDGE.
+think about it. 
+Statistics, really what is it?
+you're still counting the odds of something that's already happening,
+and attributing that to some future unseen event.
+
+32
+00:01:47,939 --> 00:02:19,920
+So there's no guarantee that just if the markets were completely random, 
+if we had based our system, 
+if our analysis concepts are based on the effects of Randomness in the marketplace,
+we're left with the conclusion that yes!
+things may have happened 50 times as their last 60 times. 
+and therefore an EDGE could be a defined. 
+but that does not equate to future events that have not been seen yet.
+
+44
+00:02:20,280 --> 00:02:45,700
+that's the falsehood of teaching.
+the idea that the markets are completely random.
+if the markets were in fact completely random I myself would never have an interest in them.
+because I would have no trust in the fact that there was any measure of prognostication that would fulfill a profitable condition as an outcome.
+
+53
+00:02:46,980 --> 00:03:40,959
+my belief is that the markets are 100 percent engineered. 
+they're absolutely controlled to the very pip in the Foreign Exchange Market.
+I've proven many times in the past over many years how we can call specific price levels to the pip.
+sometimes it varies a little bit. many times going right to the pip as an exit or a target.
+and my opinion about that is, if I can do that multiple times throughout the year.
+that in itself, regardless of what I believe, I'm going to be able to communicate to you from my understanding about the marketplace.
+if I could do that to me that proves that there is in fact zero randomness to the marketplace.
+because if it was randomness I could not be that precise about my forecasts. 
+and where I believe the market was going to go going to go.
+
+76
+00:03:41,519 --> 00:04:46,819
+if we understand and can agree that the markets do in fact have a element of control. 
+and this is in the form of a price engine algorithm at the Central Bank level.
+they set the price. they allow the markets to move to a predefined range for the day.
+for the most part are. sometimes that things may occur that they send the price outside of the predetermined range.
+but for the most part the interbank price delivery algorithm or IPDA has data ranges that it works Within
+and by understanding what those ranges are we can go into the marketplace with a pre determined idea where the algorithm will do its work, where is it pulling the information from, what dates what ranges and what specific highs and lows is the algorithm reaching to as a reference point.
+that's what this teaching is going to talk about specifically today.
+
+102
+00:04:47,639 --> 00:05:48,560
+I want to remind you and I've talked just briefly about this in the free tutorial section as I was going through all of the teachings that I provided for the online community. 
+as it trades the Foreign Exchange Market I teach it there is a market structure shift that takes place every three to four months. 
+and for the most part that's Universal. doesn't apply just to the Foreign Exchange Market but it does apply to all asset classes.
+this effect takes place because the market has to generate new interest. 
+it has to have a new sense of urgency a missed opportunity is a lost opportunity in many people's eyes as a Trader.
+so the markets have a tendency to move around and gyrate around every 3 to 4 months. 
+what was true or what was seen as a directional movement in the marketplace over the last 2 or 3 months may not in fact be true for the next coming 2 to 3 or 4 months in Market Direction.
+
+128
+00:05:49,440 --> 00:06:26,259
+so I'm going to counsel you to always look at price on a Macro level. 
+it means a monthly weekly and daily timeframe and learn to anticipate intermediate price swings.
+it doesn't matter if the market is predisposed to go up on a primary bullish Market or a primary down market,
+you can still fare it out rather significant intermediate-term retracements in either strong uptrends or down trends.
+if you understand this component you'll also be able to weather the Deep retracement sometimes in long-term position trading that is required.
+
+144
+00:06:27,419 --> 00:07:02,580
+you'll also understand that by understanding that there's intermediate-term retracements on these HTF levels. 
+and if you're a long-term position Trader as this month is aimed at teaching you. 
+also have no problem and no emotional commitment to not holding the position forever. 
+but in fact taking some of the position off waiting for that retracement. 
+and then going back in adding that same position you just took off or a portion of that position off, 
+your long-term position trade and then adding it back in to recapitalize on that further movement higher.
+
+159
+00:07:03,600 --> 00:07:52,660
+every 3 to 4 months there's going to be a change in Direction.
+it may cause a consolidation or it may cause a retracement of whatever price swing has been unfolding up to that moment.
+the fact that the market is in a primary uptrend or a downtrend that's going to be the whether or not the market has a deep retracement on a HTF basis or if it goes into consolidation.
+if the market is in a strong uptrend many times you won't see much of a retracement but you will see consolidation or trading range form and they'll capitalize new long positions that way. 
+and then sometimes they'll take the market below a short-term low on a daily chart and then send it higher after that would be the extent of any kind of retracement.
+
+182
+00:07:53,819 --> 00:08:34,099
+but either way I want you to look at the marketplace there's always some intermediate-term play to trade on every 3 to 4 months on every asset class.
+if the market you're looking at or studying is in a significant range-bound environment. 
+and look at a market that is potentially moving up to a new uptrend or downtrend stage in its PA. 
+by doing so it will also get you in line with potential long-term trends moving higher or lower respectively to what you would be seeing in your charts. 
+we're going to talk a lot about that this month but let's get into a little bit more nuts and bolts about how we can use if the data ranges and the Quarterly market shift.
+
+200
+00:08:35,580 --> 00:08:57,219
+obviously my view on the marketplace is if we can focus in on what the Smart-Money is doing with their money, how are they allocating funds, how are they moving into the marketplace. 
+if we can mimic those characteristics in our own trading, hopefully, the outcome should be we have high probability conditions when we look at Smart-Money accumulation for buy programs.
+
+210
+00:08:58,800 --> 00:09:18,080
+the buy program is when the market goes through a series of successive days sessions that are consecutive regardless of what timeframe it is.
+you can see a buy program on a hourly chart. you can see a buy program on a 4 hour. chart you see a buy program on a daily. and or weekly or monthly.
+
+218
+00:09:19,760 --> 00:09:51,560
+but the trading timeframe that we're using for this month is primarily the daily chart.
+so if we're going to be anticipating a buy program that means we're going to be expecting a series of UP-days and it could last as long as several months.
+it doesn't have to be a few days. 
+but a few days up on the daily chart can still be considered a buy program. 
+if it's reaching for a measure of liquidity that would be above the recent market highs.
+
+230
+00:09:52,100 --> 00:10:27,480
+when we're looking for Smart-Money accumulation for buy programs what we're essentially expecting is manipulation in the Underlying vs. the Benchmark.
+now what is the Underlying and what is the Benchmark?
+what we're going to be looking at again specifically dealing with the Foreign Exchange market for this teaching.
+but we will be talking about Commodities. we will be talking about stocks. and we'll be talking about interest rate markets as well. 
+in the same venue that we're teaching here but I want to keep the topics very concise about one asset class at a time to avoid any kind of confusion on you as a student.
+
+248
+00:10:28,320 --> 00:10:40,540
+but the manipulation of the Underlying. 
+the Underlying is what you're actually trading. 
+and the Benchmark is what you're measuring the potential manipulation or lack thereof.
+
+253
+00:10:41,940 --> 00:11:20,519
+for Smart-Money accumulation for a buy program on a daily chart the Benchmark is going to sometimes make a Lower-Low while the Underlying makes a Higher-Low.
+this would indicate the strong buying pressure under the Underlying issue or in this case the currency that you're Trading
+it's failing to make a Lower-Low whereas the Benchmark would be making a Lower-Low.
+it's showing relative strength so therefore you would expect a measure of upside movement
+
+267
+00:11:21,240 --> 00:11:22,740
+another scenario where Smart-Money accumulation for buy programs would come in the way is.
+the Underlying or the currency that you're trading makes a Lower-Low while the Benchmark makes a Lower-High.
+and this is for Inverse-Correlated Benchmarks to currency and I'll give you an example.
+for the point number 2 where it says Benchmark makes Lower-Low, Underlying makes Higher-Low. 
+in this case that statement could be true by saying the $DXY makes a Lower-Low while the $USDJPY makes a Higher-Low.
+that would be an accumulation buy program.
+
+284
+00:12:04,079 --> 00:12:43,540
+the Underlying or currency that you're Trading makes a Lower-Low but the Benchmark makes a Lower-High.
+in this case this would be true in the sense that if we were looking at say the GBPUSD makes a Lower-Low while the $DXY makes a Lower-High.
+what that would indicate is while the dollar was failing to make a Higher-High in respect to making a Lower-Low in the GBPUSD.
+it's indicating that the pound is actually going under an Old-Low to scoop up SSL.
+so therefore we would anticipate a Turtle-Soup scenario on a daily chart.
+
+301
+00:12:44,820 --> 00:13:28,579
+Benchmark makes Higher-High Underlying makes Higher-Low.
+in this case it's stating in a condition that would be the dollar making a Higher-High which would look like relative strength for the dollar. 
+but the Underlying or in this case we'll use the pound dollar makes a Higher-Low.
+that pound dollar should have made a Lower-Low but it was unwilling to make that Lower-Low.
+so therefore the Relative-Strength is in the buyside on pound vs. dollar and the dollar is actually going above an Old-High to take the buy stops above and on high. 
+and then reject we would look for a Turtle-Soup in the daily in that condition.
+
+320
+00:13:29,519 --> 00:14:46,380
+Smart-Money distribution for sell programs
+we'll look at the 4 conditions we use for that. 
+again the manipulation in the Underlying vs. the Benchmark. 
+is what we're studying this is all relative to the Daily timeframe only nothing less than a daily chart
+
+330
+00:13:47,519 --> 00:14:12,980
+the Benchmark makes a Higher-High while the Underlying makes a Lower-High. 
+in this case that would be the dollar making a Higher-High while the Underlying or in this case it would be the USDJPY makes a Lower-High.
+that would be a sell program we're showing heavy distribution in the USDJPY pair
+
+340
+00:14:13,260 --> 00:14:48,480
+Underlying makes a Higher-High while the Benchmark makes a Higher-Low. 
+this could be true in the sense that the GBPUSD makes a Higher-High while the $DXY makes a Higher-Low.
+in this case what it's implying is for instance if the Underlying is the pound dollar and it makes a Higher-High. 
+it's reaching above an Old-High to get the BSL for a Turtle-Soup sell. 
+and the $DXY is actually failing to make a Lower-Low so the Underlying strength is in the $DXY
+
+355
+00:14:49,139 --> 00:14:52,079
+lastly for a sell program on the daily chart. 
+the Benchmark makes a Lower-Low while the Underlying makes a Lower-High.
+in this case it would be the $DXY makes a Lower-Low while the pound dollar makes a Lower-High. 
+the $DXY making a Lower-Low while the pound making a Lower-High. 
+the pound dollar while making a Lower-High showing relative weakness while the Benchmark $DXY makes that Lower-Low it would look like the $DXY is breaking lower. 
+so therefore support broken is going to see continuation go lower.
+but in fact what's actually happening is the $DXY would be breaking the previous low to accumulate all the sell stops below an Old-Low 
+while the pound dollar was unwilling to make a Higher-High because it's already booked enough shorts and it's heavily under distribution 
+we will be seeing heavy selling in the pound dollar based on the relative weakness 
+because it was failing to make a Higher-High while the $DXY made a Lower-Low.
+
+382
+00:15:54,060 --> 00:17:00,279
+all that said and it was probably a little bit confusing for you but I gave you some Replacements. 
+but the rules are as they were explained just a moment ago on the previous slide 
+but you can see everything set here we'll go through it briefly
+Smart-Money accumulation for buy programs 
+we're specializing in the manipulation in the Underlying vs. the Benchmark 
+and that's seen in this sense that the $DXY makes a Lower-Low while the dollar Swiss 
+for example makes a Higher-Low that would be bullish for the dollar Swiss 
+euro dollar makes a Lower-Low while the $DXY makes a Lower-High that would be seen as bearishness for the dollar and the
+bullishness for the euro dollar because it went below an Old-Low to scoop up the SSL and then you would see a rejection or a Turtle-Soup long
+the $DXY makes a Higher-High and the euro dollar makes a Higher-Low 
+and that would be Relative-Strength for the euro dollar and the move above the old high on the $DXY would be a Turtle-Soup sell  
+after running the buy stops liquidity.
+
+413
+00:17:01,620 --> 00:18:44,720
+and the Smart-Money distribution for sell programs 
+again focusing on manipulation in the Underlying vs. the Benchmark 
+the $DXY makes a Higher-High at the same time the dollar Swiss would be making a Lower-High 
+that would be relative weakness in the dollar Swiss pair and the $DXY making a move of an Old-High 
+would be a run on buy stops for a dollar and then you would see rejection after that and looking for lower prices on $DXY
+the $DXY and the dollar Swiss are Closely-Correlated and just like the dollar Swiss being close to Chloride to $DXY 
+so is dollar CAD when oil is not an issue and dollar yen is also Closely-Correlated to the $DXY
+positively or Naturally-Correlated uh vs. the euro dollar in the dollar Index they're Inversely-Correlated 
+so that means whatever the euro dollar is doing the option seeing in the dollar Index and this third example for the
+sell  program euro dollar makes a higher high while the $DXY makes a Higher-Low a Relative-Strength in the $DXY and Underlying weakness
+should be expected after euro dollar takes that Old-High out running out to buy stops liquidity 
+and the daily chart should see lower prices in that condition $DXY makes a Lower-Low while the euro dollar makes a Lower-High
+that's relative weakness in the euro dollar pair while the $DXY does in fact go below that Lower-Low 
+the dollar that's would be scooping up the SSL below an Old-Low and then rejection and trading higher on the $DXY thus pushing your dollar lower
+
+456
+00:18:45,720 --> 00:19:14,980
+okay but we're looking at here the $DXY is a monthly chart. 
+and what I did was outlined a full year January to January. 
+and I want you to take a look at the price swings in between all of these reference points vertically.
+as you can see there's a couple different market shifts that take place.
+and this is what it looks like if you have it set up on every 4 months vs. the last live being every 3 months.
+
+469
+00:19:15,059 --> 00:20:20,460
+and I'll give you an example of seeing it again.
+this is your chart divided up on every 3 months and every 4 months. 
+and you can still see. it gives you a really good context of where the market structure is and what market shift should take place next.
+this is that same $DXY that's viewed on a weekly timeframe. 
+and we're looking at every 4 months for Quarterly shifts.
+and we're going to drop down into a daily chart.
+you can see here we have the $DXY daily. 
+and what I did was again I'm only using calendars starts of each month here from one January to the following years January.
+or in the case of this example the New Year 2017 that we're now in looking at 2016's January 1st to January 1st of 2017.
+
+494
+00:20:21,059 --> 00:21:05,620
+I want you to take a look at how many times the market shifts back and forth.
+and how many price swings you see over the course of a full year.
+I want a daily timeframe. 
+you're not getting a great deal of setups and unfortunately that's the reason why most people don't trade this timeframe.
+but it is a timeframe that is supportive to all other disciplines of trading and I said this multiple times.
+and I kind of belabor it here. but I want you to see how the market does in fact give us a very good Macro view of the marketplace. 
+where it gives us framework and structure to work within.
+so that way we can trade on one side of the marketplace and focus primarily there.
+
+513
+00:21:06,600 --> 00:22:05,039
+all right let's deal with a little bit more detail about what is a Quarterly shift.
+okay on your chart you're going to delineate with a vertical line on your calendar.
+at the beginning of the year you're going to find or and if you're just now starting say you're watching this video
+which you shouldn't be because everyone should be watching at the same time in January 2017 as part of this mentorship
+but for those that are studying again watching this video and the mentorship and their access to the content
+you may look at your charts and it may be May okay it could be 3 years from now
+and you could do a whole new analysis by taking a look at the chart and putting a vertical line at the beginning of the most recent past month. 
+okay for instance we're in January right now you would put it on the first day of December
+okay and you would do everything I'm about to explain to you here. 
+but to start it all to make it easy to explain everything I just used the January to the January Factor
+
+542
+00:22:06,780 --> 00:22:08,940
+and we're going to be viewing that as the anticipated Quarterly shift. 
+now we don't know that's going to be true but we're going to do some things to arrive at how we can calibrate that level and this is called the look back.
+
+549
+00:22:23,820 --> 00:22:24,960
+what you're going to be doing is you're
+going to look back from your month of
+study wherever that is in time
+regardless of what when you start your
+analysis the most recent past month okay
+you want to be using that first trading
+day of that month put a vertical line on
+your chart and then from that point on
+you're going to be looking back to the
+left you're going to be looking back to
+the left of that vertical line that you
+place on your chart
+60 trading days
+40 trading days and 20 trading days now
+why am I giving you those 3
+parameters
+the algorithm will reach back about
+3 trading months worth of data
+that's the average where it'll reach
+back for now there's other times where
+it will go into further ranges but for
+now I'm just teaching you how to look
+for the most Salient points of reference
+on the daily chart
+
+573
+00:23:23,159 --> 00:23:26,640
+the 60 the 40 and the 20 trading days
+left of the most recent calendar month
+put your vertical line on that's
+your beginning marker point and you're
+going to delineate what 60 days to the
+left of that is what 40 days to the left
+of that is and what 20 days and they're
+all trading days not calendar days
+
+581
+00:23:45,240 --> 00:23:46,679
+you're going to basically in those
+ranges you're going to identify
+institutional order flow what was the
+market doing
+60 days ago to now
+or
+instead of a vertical line of that most
+recent month that's delineated in your
+chart also to the left of that vertical
+line you place on your chart
+you're going to be looking back over
+the 60 the 40 and the 20 past trading
+days to the left of that past month
+and you're going to look for recent
+institutional reference points
+
+596
+00:24:18,240 --> 00:25:13,240
+I'm gonna look for an old price High
+you're gonna look at old price low why
+are you doing that you're looking for a
+potential liquidity pool that would be
+resting above it or if those highs have
+a lot of Wicks you're going to be
+looking for rejection blocks which would
+be a move above the bodies of the
+candles for a potential sell-off
+or below an Old-Low that has long Wicks
+on it you'd be looking for the bodies of
+the candle to house some
+sell  side liquidity below that for a
+rejection block
+or sell stops below an old blow if
+there's not a whole lot of Wicks to the
+lows that would be defined in the last
+60 to 40 to 20 trading days
+you'll be looking for bearish order
+blocks pool shoulder blocks in the last
+60 days and you're going to look
+specifically around the last 60 around
+40 in the last 20 days basically you're
+looking back the last 3 trading
+months
+
+621
+00:25:14,220 --> 00:26:38,840
+and you'll be looking for fair value
+gaps and any liquidity voids as well
+once you identify
+over the last 60 trading days okay
+you're using the previous
+closed calendar month as your beginning
+reference point again as an example
+right now today it's January 6th 2017.
+and if I were to use this method I would
+look at December 1st 2016. my vertical
+line would be on that calendar day and
+then I would book 60 trading days to the
+left of that on my chart I would look 40
+trading days to the left of that and I
+would look 20 trading days to the left
+of that December 1st or whatever the
+first trading day would be for December
+2016.
+and I'll be looking for over those 3
+months where's the high and where's the
+low if the market has been trading
+higher I'm going to frame everything off
+of the market low if it's been trading
+lower I'm going to trade frame
+everything off of the market High
+so again I'll repeat that for you
+you're looking back left
+60 trading days at the maximum over
+those last 60 trading days you're
+determining what was the institutional
+order flow over those last 3 months
+was it trading higher collectively or
+was it trading lower collectively
+as a whole
+
+655
+00:26:40,220 --> 00:26:42,480
+sometimes you can look at it and it'll
+be a rather large trading range and
+that's okay still you'll be able to do
+things with that as well but for now you
+want to see what's more significant was
+there a significant intermediate-term
+price low formed in the last 60 trading
+days to the left
+or was it a significant intermediate
+term high that formed whichever is true
+and whichever is obvious to you then you
+put your vertical line on that high or
+that low
+so now you're calibrating it to the
+market structure that's in place right
+now
+once you do that what you're doing is
+you're anchoring your vertical line to a
+previous market structure shift
+
+674
+00:27:23,419 --> 00:27:26,100
+okay so let's go back to our daily chart
+of the $DXY okay and this is
+what we had earlier
+in the presentation I had January 1st
+2016 to January 1st 2017.
+okay and I'm going to do what I just
+explained to you
+if we were looking at the market in
+January 1st of 2016 we're going to
+actually do
+what I explained
+just a moment ago and this is what we
+end up at we would be moving to December
+2015
+the first trading day there
+vs. January 1st of 2016. so we moved
+to the left
+and we noted that high and we were using
+the first calendar day of the month
+and they're always using that reference
+point to calibrate and begin because
+again if our belief is the algorithm is
+systematic it's methodical it's going to
+work on data ranges and it's going to
+use calendar dates and it has to
+reference how far to look back because
+it's a numerical reference point so now
+we know how we can calibrate just like
+the algorithm will will Define it in the
+sense of every 3 months there is a
+shift also in the last 3 months
+where is the liquidity at and that's
+essentially what we're going to be
+talking specifically dealing with in the
+next teaching with the open float but
+for here to get to that understanding in
+the next teaching I have to teach you
+how to calibrate your market structure
+so that way you can see where the market
+is most likely going to reach for
+
+714
+00:28:57,779 --> 00:29:00,000
+so now we have our reference point on
+our vertical line all the way to the
+left the furthest most left vertical
+line again delineated at December 1st
+2015 and now we're anchored now we're
+going to do the look back on that
+vertical line we're going to be looking
+at the range
+that was created in the last 60 trading
+days from that vertical line that we
+adjusted and anchored at December 1st
+2015.
+over the last 60 trading days what we
+saw is the market traded higher
+from around October 2015 so it made an
+interview and term low
+the market traded up and created that
+short-term or any term High
+at December 1st or their balance in the
+last 40 trading days to the left of that
+December 1st 2015 delineation with that
+vertical line we also see there was a
+consolidation and then expanded again
+once more time higher
+in the last 20 trading days to the left
+of that vertical line the market just
+kept pressing higher so institution
+order flow was bullish
+
+742
+00:30:03,240 --> 00:30:08,360
+so where is the liquidity at
+it's going to be what
+it's going to be below the marketplace
+because the market has already traded
+higher
+that's this reference point here
+right below that October low
+the market trades lower after or to the
+right of December 1st 2015. once the
+market trades lower
+in between this reference point once we
+identified where the market structure
+starts to break down that means a kilo
+was broken and that kilo is seen
+right here
+any retracement higher or movement
+higher at this moment we're going to be
+anticipating a move lower because the
+market has already been moving bullishly
+we've seen a market structure break
+lower
+and now we're going to be anticipating a
+potential move lower in the $DXY
+it could be a consolidation sideways but
+we're still expecting a measure of
+bearishness in the $DXY post
+December 2015.
+
+769
+00:31:23,700 --> 00:31:26,760
+the 60 to 40 and the 20 when we look back like this again we're focusing primarily on where has the market traded from 
+what was the institutional order flow at that point and at the this time we can see clearly between the October and November into December 2015 the market had been Trading bullishly
+I don't care about the long long term Trend right now all we're doing is looking at Quarterly shifts and this
+will give you a great deal context on
+how you can
+do a lot of different trading but it'll
+help you frame your position trades
+because without understanding this you
+can't incorporate Trend to get yourself
+on the right side of the marketplace
+there are things that we're going to
+teach in the content for January that
+helps you get in sync with long-term
+trends but for the most part I want you
+to look at how the market shifts back
+and forth both directions
+the markets aren't always in big
+long-term trends on the higher time
+frame charts they may be in a larger
+range
+that larger range will be trends that
+would look Dynamic on a hourly chart or
+15 minute timeframe but on a higher
+timeframe you're still within a
+well-defined range
+so by using this HTF daily
+chart when we see the market structure
+shift bearishly
+we're expecting now the next 3
+months
+to be a potential correction
+
+808
+00:32:49,200 --> 00:32:51,659
+again the reference points that I asked
+you to go into and look for were all the
+things we taught in September which is
+the order block bullish and bearish
+fair value gaps liquidity voids
+Old-Highs and Old-Lows
+so we're anticipating a move back into
+institutional reference points then
+moving lower looking for that same event
+to occur looking for lower level
+institutional reference points in other
+words price should be drawn down to a
+logical level not randomness down to a
+logical level from an Institutional
+vantage point where we can see where
+they would want to absorb liquidity or
+engineer new liquidity into the
+marketplace
+
+826
+00:33:37,799 --> 00:33:42,120
+so using this last 60 40 and 20
+idea we want to look at how price in
+those ranges what is it created well the
+market has moved higher
+so prior to December 1st 2015 the
+marketplace had an Institutional order
+flow that was moving bullishly
+so that means as the market was moving
+higher every short-term low is going to
+have SSL or sell stops
+below that
+so in each one of these ranges what we
+can do is Define the range find the low
+and then we can note that as where all
+of the sell  side liquidity is
+
+841
+00:34:26,879 --> 00:34:29,820
+now once you have your
+vertical line calibrated to the most
+recent market structure shift
+and you've done the look back and you've
+defined all of the liquidity reference
+points on the 60 40 and 20 last trading
+days to the left
+and you identified institution order
+flow and you referred to all the recent
+institutional reference points that
+we've identified in brief listing
+now you're going to be doing the cast forward
+
+854
+00:34:55,139 --> 00:34:56,960
+okay the cast forward is when you look
+ahead with the same parameters we use
+when we look back
+we're anticipating the next market shift
+in 20 to 60 trading days again because
+if we understand and we our belief is
+the market will have a gyration a new
+directional bias okay or a shift in
+sentiment or as I call it a Quarterly shift
+
+864
+00:35:25,200 --> 00:35:28,380
+we cast forward 20 days to the right of
+our vertical line when the last shift
+was 40 days ago
+in other words if we've seen a market
+structure shift
+after a vertical line was delineated if
+we see the market shift
+in the last 40 days to the left of where
+we're at now
+we cast forward 40 more days because
+we're always using a reference point of
+60 days
+
+876
+00:35:57,000 --> 00:36:00,180
+we cast forward 40 days
+when the last shift was 20 days ago
+again the common denominator is it's 60
+days of range that we're always using
+
+880
+00:36:12,060 --> 00:36:15,119
+we do this until we reach the extreme of
+the projected 3 month limit in other
+words where there would be another
+vertical line drawn on our chart or
+capping 3 months
+
+885
+00:36:28,560 --> 00:36:30,359
+so what does that look like this is what
+it looks like here
+this is called the cast forward where we
+have delineated a calendar first trading
+day at 2015 December 1st as we did
+moments ago
+we have a 20-day range a 40-day range
+and a 60-day range
+added to the right of our
+
+894
+00:36:50,579 --> 00:36:54,540
+December 1st 2015 delineation or the
+vertical line and now what we have is
+a future
+day range or a data range the algorithm
+is going to anticipate
+doing a shift in the marketplace in that
+range between 60
+and 20 days
+if we've seen the market structure break
+down
+as we saw
+a moments ago by delineating this low
+here
+then we're looking for a market move
+going lower
+to fill in a potential liquidity void
+seen here
+
+911
+00:37:41,940 --> 00:37:45,420
+in the range of 60 days to the right of
+our market structure shift delineation
+that we have at December 1st 2015.
+we expect a
+setup on the daily chart essentially in
+the next 60 days so that tells you a
+time Horizons you could have to wait
+sometimes as long as 60 trading days
+now this is the reason why I'm not a
+heavy positioned Trader because I don't
+have the capacity to wait that long for
+the next trade some of you that may be
+perfect for you but for me personally it
+doesn't fit my cup of tea but it doesn't
+have to require you trading for that
+entire duration you can use this to get
+daily bias contacts you can get
+short-term setups and you can get
+long-term objectives where the market
+should be moving over weeks and months
+vs. limiting your scope on a
+short-term intraday basis and marrying
+those lower timeframes
+
+934
+00:38:39,300 --> 00:38:41,880
+now we're looking at the euro dollar in
+the same way but obviously like we
+mentioned earlier the U.S dollar is
+going to be inversely related to the
+euro dollar
+if we're expecting bearishness on the
+$DXY we would be expecting
+bullishness on the euro dollar
+so in the same way we're going to add 20
+days to the right of our 2015 December
+1st 40 days to the right of that
+vertical line and then we're going to
+add 60 days to the right of that line
+and on mt4 what you're going to do is
+you can just use a trend line
+and anchor it to your vertical line
+drive it out to the right and let go of
+it for a little bit and click back on
+the right end of it and drag it out some
+more and you'll see the number that
+gives you a range is pull that out until
+you get to 20 to 40 into 60 and then
+you'll have the delineations that would
+be necessary to frame out how far the
+IPDA data ranges go
+
+959
+00:39:39,359 --> 00:39:43,200
+I want you to see that the high formed
+here
+on the euro dollar look how it falls
+directly right at the 60 day
+if the data range
+Nails it on the very high
+now this is a daily chart folks okay so
+think about what we're doing here we're
+mapping out where the highest probable
+time
+when the time range should be
+influential in when the setups occur now
+we're going to have a lot of tools to
+help us
+move down into a lot more Precision even
+with this timeframe but you have to
+understand when the setups occur
+again if it's something that's not
+random and if it is in fact manipulated
+and controlled there should be
+characteristics that repeat themselves
+and it should be measurable and we
+should be able to see things repeat
+themselves based on a criteria
+the algorithm will seek to do something
+in the first 20 days the first 40 days
+and up to 60 days after the most recent
+market structure shift we saw a high
+form on the $DXY and expected
+the market to move lower because it
+broke its market structure bearishly
+
+990
+00:40:51,780 --> 00:40:54,480
+we can see the euro dollar made a low
+here December 1st 2015 and price moved
+higher breaking market structure
+bullishly for it
+in between
+the vertical lines okay once you have
+calibrated your market structure
+on a Quarterly basis and we're assuming
+back in back in 2015 December 1st that
+we would have calibrated there now again
+I'm going to give you this as a homework
+because I want you to go through your
+charts and do this very exercise and
+you're going to see it's not form fitted
+it's the same stuff that you can do in
+your own charts don't just use what I'm
+using here go into your charts and do
+the very thing that I'm showing you here
+assume that you started doing the
+analysis in for instance July of 2016
+and do the same thing okay and you'll
+see it still helps you it'll give you
+all the data points that you would be using
+
+1014
+00:41:46,500 --> 00:41:50,220
+but if we see that we're expecting
+bullishness on the part of the euro
+dollar because the $DXY was
+expected to go bearishly
+after December 2015
+
+1019
+00:42:01,380 --> 00:42:03,720
+that means all the way up into March
+2016 we have a stance that the
+bearishness in the dollar should bode
+well for bullishness on the euro dollar
+so between those 2 reference points
+because we understand that December 1st
+okay we go out forward 3 to 4
+months we go as far as March 1st
+and by having March 1st
+defined as the beginning of the new
+month out that far away we project
+that
+limit on the Quarterly range
+in between December 1st and March 1st we
+would be expecting a bullish signal to
+form in the euro dollar and a bear
+signal to form in the $DXY
+
+1036
+00:42:49,619 --> 00:42:50,940
+getting back to what we mentioned
+earlier about buy programs and sell
+programs the scenario would be even
+looking at a daily chart
+there's going to be a
+manipulation that takes place even on a
+HTF daily let's go back to
+the $DXY
+
+1044
+00:43:08,819 --> 00:43:12,839
+okay do you see the highs
+here
+all these Highs are forming inside of
+the data range
+of 60 days to the right of the beginning
+of December 2015.
+so all of these highs in here
+Higher-Higher-Higher-Higher
+is seeing what after the market
+structure break below this low here
+all these retracements higher all that
+did was close in this liquidity void
+when this void closed in up here
+inside of the data range of 60 days
+we had to measure
+is there all this Justified
+by using a inversely related currency
+like the euro dollar now we can go and
+take a look at the lows that were
+forming in the euro dollar
+
+1064
+00:44:08,400 --> 00:44:12,240
+here's 20 days 40 days and 60 days to
+the right of the delineation setting our
+new marker for the Quarterly shift
+look at the lows here
+in the euro dollar
+all the way up to the 60-day data range
+the lows were higher in the euro dollar
+so this was under what
+accumulation
+the Underlying which would be traded
+because we don't trade the $DXY
+we use it as a Benchmark the Underlying
+is failing to make a Lower-Low again at
+the same time
+that the Benchmark is making higher
+highs by all standards this looks like
+bullishness every time a new high is
+formed and it looks like it's trying to
+go higher all it's doing is inching up
+the clothes in this liquidity void that
+reference point that we talked about at
+the beginning of this teaching this is
+what it's looking to close in it's
+pressing higher
+at the same time all this entire High
+business is not being seen with lower
+lows in the euro dollar and it's
+occurring
+in between
+where we delineate the market structure
+shift here we go out 3 months that
+means there's going to be a move that
+takes place in the next 3 months on
+the daily chart we're looking for it to
+happen within 60 days of a new calendar
+month
+if this data range will go out and
+project that long
+the 60-day delineation nails the very
+high so you have a buy-in here
+and it ends right here after closing in
+this void
+okay
+
+1107
+00:45:45,780 --> 00:45:47,579
+so essentially what we're doing is we're
+framing the market Quarterly
+and it gives us a context to look at the
+market modularly so we can take the
+PA and really look inside of
+it and look for setups instead of just
+being lost in the whole
+grand scheme of things looking at the
+candles highs and lows and all that
+business you have to understand there's
+a the Rhythm
+and there's a there's a method behind
+how price is delivered even on a daily
+chart like this every 3 months to
+4 months there's going to be a shake
+up in the market there's going to be a
+sentiment shift there's going to be
+a change in Trend okay there's going to
+be excitement injected into the
+marketplace to cause interest in a
+specific asset class especially if it's
+an asset class that's been dormant for a
+while it hasn't been traded much they
+tend to take those markets and shake
+them up
+
+1132
+00:46:40,680 --> 00:46:42,480
+so by looking the market and breaking it
+down like this it gives us a great deal
+of context it's specific it's measurable
+it gives us a very clear indication of
+what we're doing and how how long it
+should take to form and then looking for
+the signs to create these setups
+
+1139
+00:47:00,720 --> 00:47:04,020
+you can see here at the lows we had a
+market structure shift that was bullish
+on the $DXY if we had these
+highs in here taken out on the upside so
+no highs were violated on the upside
+prior to this High here on the daily so
+institution order flow broke to
+bullishness here because of the shift in
+market structure
+the market's trading lower here okay now
+we have another divider okay at June
+1st 2016.
+so all you're doing is adding another
+vertical line once you have one you go
+out in time you add these individually
+okay
+now you can calibrate them as you see
+fit based on what the market's doing but
+I'm going to resist the temptation to
+calibrate it based on this market
+structure shift here because you could
+do the same thing here once this market
+structure breaks foolishly here
+you can go back to May 1st and use that
+as your delineation and then start going
+20 days 40 days 60 days to the right of
+it okay and then draw another vertical
+line every 3 months or so and then
+that will be the same thing to be
+accomplished here but I want to keep
+everything as it is here because I don't
+want to do any more that's necessary to
+teach this specific principle because
+we're going to build on it as we go
+through January's content
+
+1174
+00:48:20,760 --> 00:48:22,140
+but I want you to take a look at what
+this is done we have a low here
+on the $DXY we have a low here
+on the $DXY that's lower and
+then we have another Lower-Low on the
+$DXY after the market structure
+has broken to the bullish side
+so once we have an interruption in the
+down move okay notice also it's been
+essentially six months of down movement
+on the dollar
+that's about when you're going to see
+the shake-up that takes place and
+there's also going to be a seasonal
+influence that we're going to talk about
+in January as well but for this movement
+here I want you to take a look at the
+relationship of how the dollar makes
+these Lower-Lows in here
+
+1193
+00:48:58,020 --> 00:48:59,880
+let's go back to the euro dollar at the
+same time let's see what was going on
+around June of 2016 in the euro
+well we're not seeing that Higher-High
+that would be reasonably expected
+as we saw Lower-Lows in dollar let's go
+back again
+we have Lower-Lows in the dollar
+at the same time we should be seeing
+Higher-Highs in the euro dollar
+it's not happening we see a Higher-High
+here but you have to look at every
+institutional reference point we have an
+Old-High back here
+relatively this is not higher it's
+actually lower this is a market that's
+heavily being distributed
+this market run up here is just a run on
+BSL taking the buy stops
+out on short players already and then
+the market trades lower
+
+1214
+00:49:53,579 --> 00:49:56,819
+in between the vertical lines to
+delineate the next market shift
+okay there's a Quarterly shift that
+takes place every 3 or 4 months
+and you can see that these
+Smart-Money accumulation and
+distribution programs are very easy to
+see in PA but you have to
+Define it in such a way where you now
+look for it to occur
+also notice and I'll leave this for your
+own personal study
+how many days away
+to the right of this calendar start
+that's just High form
+I'll leave that for your personal study
+I'll also counsel you to take a look at
+this day right here
+this is the election
+okay even on the day of the election
+there is
+exactly out to 60 days
+to the right of of here 60 days on the
+empty mt4 platform now it's the very
+very high that gives us the sell-off so
+initially it opened up traded higher on
+the euro dollar and rejected and traded
+aggressively lower
+this Higher-High
+again here's the Old-High
+this Higher-High is not being seen
+with a Lower-Low in the $DXY
+so dollars being accumulated the
+Underlying strength is in dollar can't
+go lower
+and
+the euro dollar only went higher to take
+out the buy stops they're going to
+reject that as
+false strength which is suspect rally
+and the price moved lower
+as a result of it
+
+1256
+00:51:33,540 --> 00:51:35,040
+so I want you to go through this notes this
+is going to require you a lot of
+thinking as that's why I said this month
+is going to be a lot of information
+that's why you have to have a video
+recording every single day and they have
+to be pre-recorded if I do any live
+sessions this entire month of January
+there's no way I have enough time in the
+day and also live my own personal life
+to be able to complete all the things
+that's necessary to cover long-term
+analysis and have it all encapsulated in
+the first month of 2017 and then again
+framework going forward 
+
+1271
+00:52:05,040 --> 00:52:07,079
+so go through the notes on this one again go through
+your charts also using it as well and
+again in summary all you're doing is
+you're looking for a obvious break and
+shift in the marketplace like this was
+one here
+okay the market trades higher and then
+if we were looking at the market in
+February
+we could go back to January 1st and put
+our marker there and then go out 20 days
+40 days 60 days and you'd get something
+here
+we're looking back and see where the
+liquidity is resting you're looking back
+to find what liquidity is and you're
+looking forward or to the right of it to
+get the very next setup in terms of the
+data range you're going to know how long
+it takes potentially before the next
+setup forms
+and how far back you look for the
+liquidity reference points for where the
+stops are on the above or below the lows
+and where the liquidity voids and gaps
+are that you want to be referencing so
+it gives you context and believe me
+we're gonna have lots of examples of
+this for January's content but for the
+most part I want you to look at the
+market in a Quarterly basis I want you
+to be able to calibrate your market
+shifts okay on a Quarterly basis how
+it's being defined in this video and
+regardless of where you're at in time
+like for instance
+
+1307
+00:53:25,319 --> 00:53:29,160
+say it was November 14 2016.
+what month would you calibrate your
+vertical line to to start
+if you said October 1st 2016 you're
+accurate you're correct if you said
+anything other than that you're wrong
+okay you want to go back to the previous
+closed month you want to go back one
+full calendar month where it traded from
+the first trading day to the last
+trading day and then created a new month
+by doing that you calibrate yourself
+that way you'll be able to see what it
+is doing reference wise
+and then you start walking forward from
+there when you see an obvious change in
+Trend which we saw up here we have a
+market structure break here bearishly
+for the Euro all this rallying up is
+just another attempt to do what we saw
+happening
+in the dollar back here when it had a
+market structure break bearishly it
+traded higher up the closing the void
+and then sold off
+the same thing is just being seen here
+market structure break here smart comes
+up take out BSL and
+Underlying weakness seen here
+the heavy distribution and the market
+goes lower as a result of it again we'll
+talk more on this as we go through the
+content throughout the year but
+for January we'll touch more on this
+because I'm quite sure while your gears
+are turning now and you're probably
+really excited about what you're seeing
+some of you invariably are going to want
+to send me emails I didn't understand
+this I didn't understand that don't do
+that yet hold off on sending emails and
+wait and see if the content doesn't
+answer your questions by the end of this
+month
+until the next video wish you good luck
+and good Trading
+
