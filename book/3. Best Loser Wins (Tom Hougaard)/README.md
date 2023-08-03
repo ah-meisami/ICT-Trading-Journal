@@ -103,13 +103,6 @@ The transformation is the result of the interaction of traders and investors.
 Our minds struggle to separate the world of trading from the world of general consumer behaviour. Let’s look at the differences.
 
 =========================================================================================================
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
-
 If my free mind argues for a position, 
 and my fear mind argues about the consequences of failing on that trade, 
 then I am essentially arguing with myself. The posh term for this phenomenon is cognitive dissonance.
@@ -141,4 +134,43 @@ The pain of having missed out on the rally towards the end of the day was greate
 The key to victory starts with being mindful of the existence of two brains: conscious mind vs. subconscious mind
 For the subconscious brain there are two pains in trading. There is the pain of seeing a profit. When it sees a profit, it wants you to close it because then it doesn’t have to deal with the pain of seeing the profit disappear. Then there is the pain of loss. When the subconscious brain sees a loss, it wants you to hold on to the position a little longer and a little longer. Otherwise, it will have to deal with taking the loss. As long as the position is open, there is always hope.
 
-In a nutshell, what separates the 10% of winners from the 90% of losers is which brain they are listening to. It took me many years to realise this. I developed a system for my mind, a training program that enabled me to withstand the influences of the emotional subconscious brain on my trading decisions.
+In a nutshell, what separates the 10% of winners from the 90% of losers is which brain they are listening to. 
+It took me many years to realise this. 
+I developed a system for my mind, a training program that enabled me to withstand the influences of the emotional subconscious brain on my trading decisions.
+
+=========================================================================================================
+#BestLoserWins   2023.08.03
+#TopPickers and #BottomPickers soon become cotton pickers.
+
+Emotionally, 
+a loss is clearly felt much harder than a win. 
+Human beings postpone making decisions that will cause pain. 
+It is the reason why we let losing trades run.
+
+We want the instant gratification, but we want to delay the pain. Hope dies last. As long as the losing position is open, there is hope.
+
+=========================================================================================================
+| DISGUST                          |
+| ------------- | ---------------- |
+| away-oriented | towards-oriented |
+=========================================================================================================
+It is for this reason that I tell people to spend less time on technical analysis and more time on self-analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
