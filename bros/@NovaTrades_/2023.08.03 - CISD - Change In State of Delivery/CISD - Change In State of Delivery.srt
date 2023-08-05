@@ -1,0 +1,3492 @@
+1
+00:00:00,840 --> 00:00:02,460
+hey guys welcome back to the channel
+
+2
+00:00:02,460 --> 00:00:04,080
+it's Nova trades it's been a while since
+
+3
+00:00:04,080 --> 00:00:05,640
+the last video but today I'll be
+
+4
+00:00:05,640 --> 00:00:07,379
+covering a topic that has been requested
+
+5
+00:00:07,379 --> 00:00:10,019
+many times it is Sisty or change in
+
+6
+00:00:10,019 --> 00:00:12,900
+state of delivery of price and so what
+
+7
+00:00:12,900 --> 00:00:15,780
+we have in front of me is NQ and this is
+
+8
+00:00:15,780 --> 00:00:17,699
+live price action
+
+9
+00:00:17,699 --> 00:00:21,000
+so what we're looking at is:
+when can we identify the end phase of the manipulation ?
+when does price start to expand in the direction for the daily and weekly candle bias ?
+
+15
+00:00:32,399 --> 00:00:34,739
+so from our weekly Outlook & seasonality wise
+August into September tends to be slower for QQQ or NQ
+and what we're looking for is a simple external into internal move
+
+21
+00:00:49,440 --> 00:00:52,020
+so with that being said
+
+22
+00:00:52,020 --> 00:00:53,760
+if we were to take a look at NQ on the
+
+23
+00:00:53,760 --> 00:00:56,039
+monthly you can see that we've rated
+
+24
+00:00:56,039 --> 00:00:58,620
+a monthly High into a monthly fair value
+
+25
+00:00:58,620 --> 00:01:00,600
+Gap so it
+
+26
+00:01:00,600 --> 00:01:03,120
+just to highlight it
+
+27
+00:01:03,120 --> 00:01:04,739
+sorry
+
+28
+00:01:04,739 --> 00:01:06,840
+there's the monthly fair value Gap and
+
+29
+00:01:06,840 --> 00:01:09,420
+there is the monthly pivot High
+
+30
+00:01:09,420 --> 00:01:12,299
+and so what we have right now is July
+
+31
+00:01:12,299 --> 00:01:14,700
+expanded higher so we have open low high
+
+32
+00:01:14,700 --> 00:01:17,580
+close and now we have August retracing
+
+33
+00:01:17,580 --> 00:01:19,439
+back into that move towards the
+
+34
+00:01:19,439 --> 00:01:21,659
+quarterly and monthly open
+
+35
+00:01:21,659 --> 00:01:24,600
+so what we're looking for is whether or
+
+36
+00:01:24,600 --> 00:01:27,060
+not August has the momentum to continue
+
+37
+00:01:27,060 --> 00:01:29,460
+this move higher but in order to do so
+
+38
+00:01:29,460 --> 00:01:32,040
+it's going to do a move from external
+
+39
+00:01:32,040 --> 00:01:35,280
+liquidity right above an external Range
+
+40
+00:01:35,280 --> 00:01:36,360
+High
+
+41
+00:01:36,360 --> 00:01:38,520
+which is this pivot high right here and
+
+42
+00:01:38,520 --> 00:01:40,860
+retrace back into internal liquidity now
+
+43
+00:01:40,860 --> 00:01:42,720
+because this is a monthly candle it is
+
+44
+00:01:42,720 --> 00:01:44,939
+likely to have some sort of weekly
+
+45
+00:01:44,939 --> 00:01:46,979
+imbalance or daily imbalance that price
+
+46
+00:01:46,979 --> 00:01:48,780
+can retrace back into
+
+47
+00:01:48,780 --> 00:01:52,640
+so if we go to the weekly time frame
+
+48
+00:01:53,700 --> 00:01:55,560
+here is our
+
+49
+00:01:55,560 --> 00:01:59,759
+weekly fair value Gap or busy
+
+50
+00:01:59,759 --> 00:02:02,640
+and this is our internal liquidity so
+
+51
+00:02:02,640 --> 00:02:05,520
+we've gone from a external liquidity by
+
+52
+00:02:05,520 --> 00:02:07,799
+taking out an old monthly High
+
+53
+00:02:07,799 --> 00:02:10,560
+so this is a monthly
+
+54
+00:02:10,560 --> 00:02:13,379
+all right let's fix that letter
+
+55
+00:02:13,379 --> 00:02:15,920
+oops
+
+56
+00:02:16,200 --> 00:02:20,239
+inside a monthly fair value Gap
+
+57
+00:02:21,000 --> 00:02:23,280
+and then we are now looking to see
+
+58
+00:02:23,280 --> 00:02:25,440
+whether or not price is willing to trade
+
+59
+00:02:25,440 --> 00:02:27,720
+back into internal liquidity so we had
+
+60
+00:02:27,720 --> 00:02:30,060
+this move last week where it dropped
+
+61
+00:02:30,060 --> 00:02:32,280
+into internal liquidity and try to
+
+62
+00:02:32,280 --> 00:02:34,379
+expand higher now this week what we're
+
+63
+00:02:34,379 --> 00:02:35,700
+looking for is whether or not we have
+
+64
+00:02:35,700 --> 00:02:37,860
+the momentum to continue the move higher
+
+65
+00:02:37,860 --> 00:02:40,200
+or whether we will reverse back down and
+
+66
+00:02:40,200 --> 00:02:43,200
+possibly go back lower once again to
+
+67
+00:02:43,200 --> 00:02:45,540
+pick up some more liquidity and how we
+
+68
+00:02:45,540 --> 00:02:47,640
+recognize that is by using syste to our
+
+69
+00:02:47,640 --> 00:02:49,080
+advantage our Changing State of delivery
+
+70
+00:02:49,080 --> 00:02:51,239
+of price so for those of you that are
+
+71
+00:02:51,239 --> 00:02:53,400
+familiar with the term but are not too
+
+72
+00:02:53,400 --> 00:02:56,879
+sure what it is it is simply defining
+
+73
+00:02:56,879 --> 00:02:59,819
+order blocks and when price has shifted
+
+74
+00:02:59,819 --> 00:03:02,340
+its way of delivering price so for
+
+75
+00:03:02,340 --> 00:03:04,500
+example let's say we're in an uptrend
+
+76
+00:03:04,500 --> 00:03:07,400
+what you're looking for is
+
+77
+00:03:07,400 --> 00:03:10,379
+and the easiest way to say it is you're
+
+78
+00:03:10,379 --> 00:03:12,720
+looking for an opposing
+
+79
+00:03:12,720 --> 00:03:15,300
+reaction meaning if price is trending up
+
+80
+00:03:15,300 --> 00:03:17,220
+you are looking for a displacement down
+
+81
+00:03:17,220 --> 00:03:19,319
+you're looking for an order block to
+
+82
+00:03:19,319 --> 00:03:22,019
+form that supports price down as soon as
+
+83
+00:03:22,019 --> 00:03:24,000
+you see that first order block form in
+
+84
+00:03:24,000 --> 00:03:25,640
+your higher time frame point of interest
+
+85
+00:03:25,640 --> 00:03:28,140
+that confirms a change of state of
+
+86
+00:03:28,140 --> 00:03:29,700
+delivery of price
+
+87
+00:03:29,700 --> 00:03:31,980
+uh at an aggressive point so for example
+
+88
+00:03:31,980 --> 00:03:34,080
+let's say that we're utilizing the
+
+89
+00:03:34,080 --> 00:03:36,720
+monthly FEG to identify when price is
+
+90
+00:03:36,720 --> 00:03:39,000
+likely to start trading back down we
+
+91
+00:03:39,000 --> 00:03:41,940
+know price is trading higher
+
+92
+00:03:41,940 --> 00:03:44,099
+with this move higher we are looking for
+
+93
+00:03:44,099 --> 00:03:48,239
+price to Signal a possible uh end to
+
+94
+00:03:48,239 --> 00:03:50,760
+this move up with a change in state of
+
+95
+00:03:50,760 --> 00:03:52,500
+delivery price so what I like to utilize
+
+96
+00:03:52,500 --> 00:03:54,540
+is the hourly chart so if we were to go
+
+97
+00:03:54,540 --> 00:03:56,819
+back to the hourly chart
+
+98
+00:03:56,819 --> 00:03:59,940
+we are looking for an opposing
+
+99
+00:03:59,940 --> 00:04:01,440
+price move
+
+100
+00:04:01,440 --> 00:04:05,760
+that is a price move that supports
+
+101
+00:04:05,760 --> 00:04:09,540
+a bearish order block and then forms a
+
+102
+00:04:09,540 --> 00:04:12,540
+bearish PD array so going back to that
+
+103
+00:04:12,540 --> 00:04:15,840
+setup right here this is Wednesday July
+
+104
+00:04:15,840 --> 00:04:17,880
+19th of 2023
+
+105
+00:04:17,880 --> 00:04:20,639
+you see we have this attempt to move
+
+106
+00:04:20,639 --> 00:04:24,180
+higher one two three four times right on
+
+107
+00:04:24,180 --> 00:04:25,979
+the hourly time frame and then we get
+
+108
+00:04:25,979 --> 00:04:28,080
+this huge displacement down as soon as
+
+109
+00:04:28,080 --> 00:04:30,780
+this candle closes
+
+110
+00:04:30,780 --> 00:04:33,419
+and it engulfs this entire candle this
+
+111
+00:04:33,419 --> 00:04:35,880
+is our first bearish order block
+
+112
+00:04:35,880 --> 00:04:40,259
+by definition after we've taken out
+
+113
+00:04:40,259 --> 00:04:42,360
+external range liquidity
+
+114
+00:04:42,360 --> 00:04:44,940
+right in a higher time frame point of
+
+115
+00:04:44,940 --> 00:04:47,100
+Interest so a monthly fair value Gap
+
+116
+00:04:47,100 --> 00:04:49,919
+and a monthly order block to the left
+
+117
+00:04:49,919 --> 00:04:52,800
+and we had a massive displacement down
+
+118
+00:04:52,800 --> 00:04:56,100
+this also confirms our first bearish PD
+
+119
+00:04:56,100 --> 00:04:57,540
+array so let me get rid of this monthly
+
+120
+00:04:57,540 --> 00:04:59,400
+for Value go
+
+121
+00:04:59,400 --> 00:05:01,139
+because we know we're inside where we
+
+122
+00:05:01,139 --> 00:05:02,160
+want to be
+
+123
+00:05:02,160 --> 00:05:05,280
+so this first candle right here
+
+124
+00:05:05,280 --> 00:05:07,020
+this is your first order block that
+
+125
+00:05:07,020 --> 00:05:08,699
+forms
+
+126
+00:05:08,699 --> 00:05:10,620
+on this displacement lower
+
+127
+00:05:10,620 --> 00:05:13,740
+then we get the secondary candle that
+
+128
+00:05:13,740 --> 00:05:14,820
+closes
+
+129
+00:05:14,820 --> 00:05:18,300
+below the pivot low
+
+130
+00:05:18,300 --> 00:05:21,720
+so once this candle forms the downside
+
+131
+00:05:21,720 --> 00:05:24,479
+this is our
+
+132
+00:05:24,479 --> 00:05:26,360
+aggressive
+
+133
+00:05:26,360 --> 00:05:29,039
+meaning or changes to delivery price has
+
+134
+00:05:29,039 --> 00:05:31,979
+already begun when we are looking for a
+
+135
+00:05:31,979 --> 00:05:34,800
+clear confirmation we are looking for
+
+136
+00:05:34,800 --> 00:05:37,680
+the complete PD array to form that is we
+
+137
+00:05:37,680 --> 00:05:39,780
+go and if you're not familiar with this
+
+138
+00:05:39,780 --> 00:05:42,539
+it's in the previous video that I'll
+
+139
+00:05:42,539 --> 00:05:44,759
+have released maybe a month ago and I'll
+
+140
+00:05:44,759 --> 00:05:45,900
+link in the description below that
+
+141
+00:05:45,900 --> 00:05:48,060
+regards uh PD arrays and how they all
+
+142
+00:05:48,060 --> 00:05:49,680
+form but we can do a quick review right
+
+143
+00:05:49,680 --> 00:05:50,580
+here
+
+144
+00:05:50,580 --> 00:05:52,259
+external
+
+145
+00:05:52,259 --> 00:05:54,120
+high is rated
+
+146
+00:05:54,120 --> 00:05:56,759
+data rejection block forms
+
+147
+00:05:56,759 --> 00:05:58,680
+right so you have this rejection block
+
+148
+00:05:58,680 --> 00:06:00,780
+forming with this Wick
+
+149
+00:06:00,780 --> 00:06:02,639
+so here is
+
+150
+00:06:02,639 --> 00:06:04,440
+external
+
+151
+00:06:04,440 --> 00:06:07,560
+uh High
+
+152
+00:06:07,560 --> 00:06:09,000
+you have
+
+153
+00:06:09,000 --> 00:06:11,539
+rejection
+
+154
+00:06:13,259 --> 00:06:14,699
+so if price somehow managed to trade
+
+155
+00:06:14,699 --> 00:06:16,919
+back up above this line we'd expect them
+
+156
+00:06:16,919 --> 00:06:18,479
+to defend
+
+157
+00:06:18,479 --> 00:06:20,880
+this close and this open of these hourly
+
+158
+00:06:20,880 --> 00:06:22,500
+candles
+
+159
+00:06:22,500 --> 00:06:25,259
+so here's the OB we'll get rid of that
+
+160
+00:06:25,259 --> 00:06:27,900
+so external High rejection then what
+
+161
+00:06:27,900 --> 00:06:31,500
+comes next after a rejection forms is
+
+162
+00:06:31,500 --> 00:06:33,419
+your displacement lower and your order
+
+163
+00:06:33,419 --> 00:06:34,500
+block
+
+164
+00:06:34,500 --> 00:06:37,400
+so here's your OB
+
+165
+00:06:37,860 --> 00:06:40,139
+right and because it's a bearish or we
+
+166
+00:06:40,139 --> 00:06:43,340
+will put a minus sign beside it
+
+167
+00:06:45,360 --> 00:06:48,560
+then comes your
+
+168
+00:06:51,120 --> 00:06:53,960
+value yet
+
+169
+00:06:54,840 --> 00:06:57,360
+so we have one two three four components
+
+170
+00:06:57,360 --> 00:07:00,240
+we are looking for a pivot low to be
+
+171
+00:07:00,240 --> 00:07:02,400
+broken so the pivot low that forms this
+
+172
+00:07:02,400 --> 00:07:04,500
+pivot high is broken right there with
+
+173
+00:07:04,500 --> 00:07:06,539
+this confirmed on closed candle
+
+174
+00:07:06,539 --> 00:07:08,520
+and so we have a market structure shift
+
+175
+00:07:08,520 --> 00:07:10,560
+once this closes
+
+176
+00:07:10,560 --> 00:07:13,680
+and we have what is also going to be a
+
+177
+00:07:13,680 --> 00:07:18,060
+low high lower low after rating external
+
+178
+00:07:18,060 --> 00:07:20,039
+liquidity so we are going to have a
+
+179
+00:07:20,039 --> 00:07:22,680
+breaker right breaker or mitigation and
+
+180
+00:07:22,680 --> 00:07:23,699
+in this sense
+
+181
+00:07:23,699 --> 00:07:25,500
+you can look at
+
+182
+00:07:25,500 --> 00:07:27,660
+these down cools candles here
+
+183
+00:07:27,660 --> 00:07:29,819
+aligned with this OB here and so this
+
+184
+00:07:29,819 --> 00:07:31,800
+general area is going to act as your
+
+185
+00:07:31,800 --> 00:07:33,300
+mitigation
+
+186
+00:07:33,300 --> 00:07:36,720
+right because of how messy uh the Wicks
+
+187
+00:07:36,720 --> 00:07:39,120
+are in regards to or in relation to
+
+188
+00:07:39,120 --> 00:07:41,160
+where the bodies are we're going to say
+
+189
+00:07:41,160 --> 00:07:43,800
+that this area in general
+
+190
+00:07:43,800 --> 00:07:46,740
+are about to highlight this area
+
+191
+00:07:46,740 --> 00:07:50,160
+is going to provide the mitigation
+
+192
+00:07:50,160 --> 00:07:53,220
+so we have mitigation
+
+193
+00:07:53,220 --> 00:07:54,900
+and in breaker block we have liquidity
+
+194
+00:07:54,900 --> 00:07:56,400
+void or fair value Gap we have order
+
+195
+00:07:56,400 --> 00:07:57,840
+block we have rejection we have external
+
+196
+00:07:57,840 --> 00:08:01,560
+High so we have a complete PD array form
+
+197
+00:08:01,560 --> 00:08:03,419
+with respect to
+
+198
+00:08:03,419 --> 00:08:05,039
+uh
+
+199
+00:08:05,039 --> 00:08:07,259
+a bearish PDA reform with respect to
+
+200
+00:08:07,259 --> 00:08:10,259
+this bullish move higher so this is the
+
+201
+00:08:10,259 --> 00:08:13,380
+first opposing PD array opposing means
+
+202
+00:08:13,380 --> 00:08:15,300
+opposing the current direction
+
+203
+00:08:15,300 --> 00:08:16,800
+of price
+
+204
+00:08:16,800 --> 00:08:18,780
+this is the first opposing PDA that has
+
+205
+00:08:18,780 --> 00:08:21,240
+formed and is signaling aligned with the
+
+206
+00:08:21,240 --> 00:08:23,940
+economic calendar a possible retracement
+
+207
+00:08:23,940 --> 00:08:27,599
+from external liquidity into internal
+
+208
+00:08:27,599 --> 00:08:29,520
+liquidity and where does internal Equity
+
+209
+00:08:29,520 --> 00:08:32,039
+lie right underneath here
+
+210
+00:08:32,039 --> 00:08:35,700
+in the form of all of these imbalances
+
+211
+00:08:35,700 --> 00:08:38,099
+right so if we were to take
+
+212
+00:08:38,099 --> 00:08:40,140
+this move here
+
+213
+00:08:40,140 --> 00:08:42,719
+and Define the PD array
+
+214
+00:08:42,719 --> 00:08:45,060
+oops
+
+215
+00:08:45,060 --> 00:08:47,480
+all right
+
+216
+00:08:47,480 --> 00:08:50,640
+we took external liquidity with Wix on
+
+217
+00:08:50,640 --> 00:08:52,560
+the hourly time frame and we displaced
+
+218
+00:08:52,560 --> 00:08:55,320
+back lower so now we have our confirmed
+
+219
+00:08:55,320 --> 00:08:58,019
+change in state of delivery of price
+
+220
+00:08:58,019 --> 00:09:00,540
+so here is the confirmed move right
+
+221
+00:09:00,540 --> 00:09:02,519
+there
+
+222
+00:09:02,519 --> 00:09:05,220
+right so this is our sister
+
+223
+00:09:05,220 --> 00:09:08,040
+the more conservative approach to it
+
+224
+00:09:08,040 --> 00:09:09,660
+right
+
+225
+00:09:09,660 --> 00:09:11,399
+and so
+
+226
+00:09:11,399 --> 00:09:12,959
+this is your Market structure shift but
+
+227
+00:09:12,959 --> 00:09:16,140
+this is also indicating that price is
+
+228
+00:09:16,140 --> 00:09:18,620
+now aligned with the economic calendar
+
+229
+00:09:18,620 --> 00:09:22,080
+ready to move back lower and retrace
+
+230
+00:09:22,080 --> 00:09:24,779
+back into a discount oops this should be
+
+231
+00:09:24,779 --> 00:09:26,640
+flipped I just realized that
+
+232
+00:09:26,640 --> 00:09:28,740
+so let's do that like this whoops there
+
+233
+00:09:28,740 --> 00:09:31,860
+we go back into a discount and a
+
+234
+00:09:31,860 --> 00:09:33,839
+discount liquidity pool so we're looking
+
+235
+00:09:33,839 --> 00:09:36,180
+for price to retrace back into
+
+236
+00:09:36,180 --> 00:09:39,779
+uh this busy right here this hourly fair
+
+237
+00:09:39,779 --> 00:09:42,180
+value Gap to the upside
+
+238
+00:09:42,180 --> 00:09:45,300
+and so what happens is once price forms
+
+239
+00:09:45,300 --> 00:09:47,459
+it retraces back into that mitigation
+
+240
+00:09:47,459 --> 00:09:50,580
+slash breaker area almost Taps the order
+
+241
+00:09:50,580 --> 00:09:52,260
+block body
+
+242
+00:09:52,260 --> 00:09:55,680
+Rejects and then we have this overnight
+
+243
+00:09:55,680 --> 00:09:58,459
+move lower
+
+244
+00:10:01,080 --> 00:10:04,019
+right and then we get this uh
+
+245
+00:10:04,019 --> 00:10:06,959
+continuation into the next day with the
+
+246
+00:10:06,959 --> 00:10:08,700
+gap down and it trades all the way into
+
+247
+00:10:08,700 --> 00:10:10,860
+discount so there is your first complete
+
+248
+00:10:10,860 --> 00:10:13,980
+move that opposes the price action
+
+249
+00:10:13,980 --> 00:10:19,019
+leading up to this uh CISD right here
+
+250
+00:10:19,019 --> 00:10:22,320
+so this is from July
+
+251
+00:10:22,320 --> 00:10:26,339
+19th right now here it is again
+
+252
+00:10:26,339 --> 00:10:28,320
+albeit this time it's a little bit
+
+253
+00:10:28,320 --> 00:10:30,200
+different because it doesn't take out
+
+254
+00:10:30,200 --> 00:10:33,360
+the old high but it does take out an old
+
+255
+00:10:33,360 --> 00:10:35,760
+weekly high so for example
+
+256
+00:10:35,760 --> 00:10:38,820
+here is our
+
+257
+00:10:38,820 --> 00:10:40,980
+weekly High
+
+258
+00:10:40,980 --> 00:10:43,560
+previously High
+
+259
+00:10:43,560 --> 00:10:45,779
+price is currently trying to expand
+
+260
+00:10:45,779 --> 00:10:49,019
+higher after the sell-off
+
+261
+00:10:49,019 --> 00:10:51,060
+and look what happens right we reprice
+
+262
+00:10:51,060 --> 00:10:52,980
+all the way back up to the
+
+263
+00:10:52,980 --> 00:10:55,320
+inefficiencies over here and almost into
+
+264
+00:10:55,320 --> 00:10:58,800
+this Gap right it almost touches that uh
+
+265
+00:10:58,800 --> 00:11:01,079
+gap down so that would be a daily Vib
+
+266
+00:11:01,079 --> 00:11:03,540
+that is formed right here from Wednesday
+
+267
+00:11:03,540 --> 00:11:05,700
+sorry from the Wednesday session into
+
+268
+00:11:05,700 --> 00:11:07,980
+the Thursday session we form a daily bib
+
+269
+00:11:07,980 --> 00:11:10,200
+it almost Taps into it doesn't
+
+270
+00:11:10,200 --> 00:11:11,220
+and what we're looking for is
+
+271
+00:11:11,220 --> 00:11:13,440
+confirmation of a
+
+272
+00:11:13,440 --> 00:11:16,740
+change in state of delivery of price so
+
+273
+00:11:16,740 --> 00:11:19,320
+here's the load that forms as high and
+
+274
+00:11:19,320 --> 00:11:20,940
+we don't displace below it so we don't
+
+275
+00:11:20,940 --> 00:11:22,620
+have a confirmed
+
+276
+00:11:22,620 --> 00:11:25,380
+uh PD array that forms however we do
+
+277
+00:11:25,380 --> 00:11:26,880
+have
+
+278
+00:11:26,880 --> 00:11:30,060
+an aggressive approach to our changes
+
+279
+00:11:30,060 --> 00:11:33,360
+data deal of your price with right here
+
+280
+00:11:33,360 --> 00:11:35,519
+so this up close candle the rage
+
+281
+00:11:35,519 --> 00:11:37,620
+liquidity is completely displaced
+
+282
+00:11:37,620 --> 00:11:38,399
+through
+
+283
+00:11:38,399 --> 00:11:40,140
+and what you'll notice is we have
+
+284
+00:11:40,140 --> 00:11:43,500
+external liquidity taken we have
+
+285
+00:11:43,500 --> 00:11:45,060
+a rejection
+
+286
+00:11:45,060 --> 00:11:48,060
+the possibly forms right here
+
+287
+00:11:48,060 --> 00:11:51,260
+so we can label it
+
+288
+00:11:52,320 --> 00:11:54,600
+and what we're looking for next is
+
+289
+00:11:54,600 --> 00:11:55,980
+uh
+
+290
+00:11:55,980 --> 00:11:58,380
+displacement lower which we have we have
+
+291
+00:11:58,380 --> 00:12:01,680
+liquidity void or fair value Gap
+
+292
+00:12:01,680 --> 00:12:05,180
+on the hourly time frame right here
+
+293
+00:12:07,320 --> 00:12:09,120
+and we need
+
+294
+00:12:09,120 --> 00:12:10,440
+a
+
+295
+00:12:10,440 --> 00:12:13,079
+mitigation slash breaker deform and so
+
+296
+00:12:13,079 --> 00:12:15,360
+we need to see a low break
+
+297
+00:12:15,360 --> 00:12:18,959
+and an hourly bodily candle bodily uh
+
+298
+00:12:18,959 --> 00:12:21,300
+sorry candle body to close below that
+
+299
+00:12:21,300 --> 00:12:24,920
+low so in this instance
+
+300
+00:12:25,440 --> 00:12:27,839
+we don't get that move until right
+
+301
+00:12:27,839 --> 00:12:29,399
+around here
+
+302
+00:12:29,399 --> 00:12:31,019
+so here's the low that forms this high
+
+303
+00:12:31,019 --> 00:12:32,760
+and then we get this overnight move
+
+304
+00:12:32,760 --> 00:12:35,700
+lower heading into Tuesday of this week
+
+305
+00:12:35,700 --> 00:12:39,000
+so this is our first complete bearish PD
+
+306
+00:12:39,000 --> 00:12:42,180
+array that forms however our aggressive
+
+307
+00:12:42,180 --> 00:12:45,540
+60 right when our first opposing order
+
+308
+00:12:45,540 --> 00:12:48,839
+block that is farmed on uh
+
+309
+00:12:48,839 --> 00:12:51,540
+the open on Sunday into Monday overnight
+
+310
+00:12:51,540 --> 00:12:55,200
+has held up into Monday's trading and
+
+311
+00:12:55,200 --> 00:12:56,700
+Tuesday overnight
+
+312
+00:12:56,700 --> 00:12:59,160
+and then we get the confirmed hourly
+
+313
+00:12:59,160 --> 00:13:02,579
+displacement lower so now we have
+
+314
+00:13:02,579 --> 00:13:06,540
+our bearish PD array form
+
+315
+00:13:06,540 --> 00:13:09,060
+with respect to this move right here and
+
+316
+00:13:09,060 --> 00:13:12,320
+then we get the complete
+
+317
+00:13:13,200 --> 00:13:15,000
+bodily close
+
+318
+00:13:15,000 --> 00:13:19,339
+right here heading into Tuesday am
+
+319
+00:13:20,040 --> 00:13:23,220
+so we have our complete system now
+
+320
+00:13:23,220 --> 00:13:25,860
+with relation to the structure up here
+
+321
+00:13:25,860 --> 00:13:27,779
+so there's a rejection this previous
+
+322
+00:13:27,779 --> 00:13:30,240
+week high is also your external
+
+323
+00:13:30,240 --> 00:13:32,820
+you have your fair value Gap and now you
+
+324
+00:13:32,820 --> 00:13:36,180
+have your mitigation and breaker
+
+325
+00:13:36,180 --> 00:13:37,740
+so if I were to take this and then draw
+
+326
+00:13:37,740 --> 00:13:39,839
+it straight across
+
+327
+00:13:39,839 --> 00:13:43,800
+that's going to be your breaker
+
+328
+00:13:43,800 --> 00:13:45,600
+why is your breaker because this is the
+
+329
+00:13:45,600 --> 00:13:46,560
+low
+
+330
+00:13:46,560 --> 00:13:49,200
+that urges an old weekly High
+
+331
+00:13:49,200 --> 00:13:52,139
+and then this is the hourly confirmation
+
+332
+00:13:52,139 --> 00:13:53,760
+of a change in state of delivery of
+
+333
+00:13:53,760 --> 00:13:55,800
+price that occurs right on the more
+
+334
+00:13:55,800 --> 00:13:57,480
+conservative event so what we're looking
+
+335
+00:13:57,480 --> 00:13:59,940
+for is price to retrace back up into a
+
+336
+00:13:59,940 --> 00:14:01,200
+breaker
+
+337
+00:14:01,200 --> 00:14:03,480
+which also happens to have
+
+338
+00:14:03,480 --> 00:14:05,760
+fair value Gap or consecutive fair value
+
+339
+00:14:05,760 --> 00:14:09,000
+gaps so what you can do is
+
+340
+00:14:09,000 --> 00:14:12,959
+you can mark off all the way up to
+
+341
+00:14:12,959 --> 00:14:14,940
+where these fair value gaps form so let
+
+342
+00:14:14,940 --> 00:14:15,959
+me do the other way actually that's
+
+343
+00:14:15,959 --> 00:14:18,000
+right that's right
+
+344
+00:14:18,000 --> 00:14:21,000
+and we get into a premium right there
+
+345
+00:14:21,000 --> 00:14:22,920
+and so this is your premium fear value
+
+346
+00:14:22,920 --> 00:14:25,320
+Gap portion and up here is your premium
+
+347
+00:14:25,320 --> 00:14:28,980
+of your fair value Gap portion so these
+
+348
+00:14:28,980 --> 00:14:31,440
+are the fair value gaps of interest of
+
+349
+00:14:31,440 --> 00:14:33,660
+trying to engage price in a short and
+
+350
+00:14:33,660 --> 00:14:35,220
+very similar to what was happening up
+
+351
+00:14:35,220 --> 00:14:37,980
+here see how we have one two three four
+
+352
+00:14:37,980 --> 00:14:40,380
+drives higher with wix
+
+353
+00:14:40,380 --> 00:14:44,220
+we are looking for one two three four
+
+354
+00:14:44,220 --> 00:14:46,800
+five drives higher into a premium fair
+
+355
+00:14:46,800 --> 00:14:50,459
+value Gap inside a breaker after a
+
+356
+00:14:50,459 --> 00:14:52,139
+confirmed
+
+357
+00:14:52,139 --> 00:14:54,300
+bearish PD array or change in state of
+
+358
+00:14:54,300 --> 00:14:58,680
+delivery of price has been established
+
+359
+00:14:58,680 --> 00:15:00,899
+and so what we're looking for is shorts
+
+360
+00:15:00,899 --> 00:15:04,560
+to engage price uh from premium into
+
+361
+00:15:04,560 --> 00:15:07,079
+discount now the way price action
+
+362
+00:15:07,079 --> 00:15:08,880
+actually developed this day we didn't
+
+363
+00:15:08,880 --> 00:15:11,639
+get that sell-off until after hours due
+
+364
+00:15:11,639 --> 00:15:13,740
+to some news so they made it very
+
+365
+00:15:13,740 --> 00:15:16,079
+convenient to load up on puts all day
+
+366
+00:15:16,079 --> 00:15:18,720
+and then capitalize on those puts the
+
+367
+00:15:18,720 --> 00:15:21,260
+following day
+
+368
+00:15:23,339 --> 00:15:26,279
+so that is your hourly confirmation and
+
+369
+00:15:26,279 --> 00:15:28,560
+a retracement back up into your first
+
+370
+00:15:28,560 --> 00:15:31,139
+attempt to short and move down now then
+
+371
+00:15:31,139 --> 00:15:32,699
+what happens is overnight we get the gap
+
+372
+00:15:32,699 --> 00:15:34,560
+down and we obviously
+
+373
+00:15:34,560 --> 00:15:38,100
+then end up dropping into what
+
+374
+00:15:38,100 --> 00:15:39,839
+actually this is a swing low that starts
+
+375
+00:15:39,839 --> 00:15:41,160
+all this move
+
+376
+00:15:41,160 --> 00:15:43,500
+a discount right so we automatically
+
+377
+00:15:43,500 --> 00:15:46,980
+drop off into a liquidity pool of
+
+378
+00:15:46,980 --> 00:15:48,420
+discount liquidity by taking out these
+
+379
+00:15:48,420 --> 00:15:49,920
+hourly pivots
+
+380
+00:15:49,920 --> 00:15:51,779
+and then what happens then we retrace
+
+381
+00:15:51,779 --> 00:15:54,480
+and then we continue the confirm move
+
+382
+00:15:54,480 --> 00:15:56,760
+now so then what we're looking for is if
+
+383
+00:15:56,760 --> 00:15:59,100
+we want to play a continuation off this
+
+384
+00:15:59,100 --> 00:16:00,660
+move but you have to apply the same
+
+385
+00:16:00,660 --> 00:16:02,279
+logic here's a swing High
+
+386
+00:16:02,279 --> 00:16:04,920
+here's the swing low we are looking for
+
+387
+00:16:04,920 --> 00:16:08,339
+a premium engagement of this leg down so
+
+388
+00:16:08,339 --> 00:16:09,480
+there's premium
+
+389
+00:16:09,480 --> 00:16:12,060
+here is an hourly fair value Gap and we
+
+390
+00:16:12,060 --> 00:16:14,699
+want to see on the lower time frame now
+
+391
+00:16:14,699 --> 00:16:17,220
+a way to engage price
+
+392
+00:16:17,220 --> 00:16:18,420
+uh
+
+393
+00:16:18,420 --> 00:16:22,079
+inside the structure so here is
+
+394
+00:16:22,079 --> 00:16:24,839
+the week close of an hourly candle and
+
+395
+00:16:24,839 --> 00:16:26,760
+then we have this down close so this
+
+396
+00:16:26,760 --> 00:16:27,779
+confirms
+
+397
+00:16:27,779 --> 00:16:30,420
+that this is now an order block
+
+398
+00:16:30,420 --> 00:16:33,060
+and so we want to engage price with
+
+399
+00:16:33,060 --> 00:16:34,760
+respect to the structure
+
+400
+00:16:34,760 --> 00:16:37,920
+into a downside
+
+401
+00:16:37,920 --> 00:16:40,259
+heading into Wednesday equities open so
+
+402
+00:16:40,259 --> 00:16:43,040
+if we're going five minute
+
+403
+00:16:43,259 --> 00:16:45,540
+and then go back here
+
+404
+00:16:45,540 --> 00:16:47,940
+so here's the premium portion
+
+405
+00:16:47,940 --> 00:16:49,920
+right so New York attempts to trade
+
+406
+00:16:49,920 --> 00:16:52,980
+higher actually let me turn on
+
+407
+00:16:52,980 --> 00:16:54,839
+there we go
+
+408
+00:16:54,839 --> 00:16:56,940
+so New York attempts to trade higher
+
+409
+00:16:56,940 --> 00:17:00,480
+back into the hourly fair value Gap
+
+410
+00:17:00,480 --> 00:17:03,180
+and then what we're looking for is on
+
+411
+00:17:03,180 --> 00:17:05,160
+the 15 or five minute time frame with
+
+412
+00:17:05,160 --> 00:17:07,439
+respect to that area we are looking for
+
+413
+00:17:07,439 --> 00:17:09,119
+an order block to form
+
+414
+00:17:09,119 --> 00:17:11,760
+so here is that move right here so we
+
+415
+00:17:11,760 --> 00:17:14,099
+have a candle that fully engulfs the
+
+416
+00:17:14,099 --> 00:17:15,240
+previous candles that's an outside
+
+417
+00:17:15,240 --> 00:17:18,740
+candle or outside bar
+
+418
+00:17:18,900 --> 00:17:21,839
+and so this right here is piercing of
+
+419
+00:17:21,839 --> 00:17:24,599
+Premium liquidity a failure to displace
+
+420
+00:17:24,599 --> 00:17:26,760
+higher and then you have your first
+
+421
+00:17:26,760 --> 00:17:28,919
+little confirmation of an order block
+
+422
+00:17:28,919 --> 00:17:31,919
+and so this is an aggressive
+
+423
+00:17:31,919 --> 00:17:34,080
+lower time frame
+
+424
+00:17:34,080 --> 00:17:35,760
+idea of a
+
+425
+00:17:35,760 --> 00:17:37,140
+system now I'm doing it from the body
+
+426
+00:17:37,140 --> 00:17:39,299
+you can do it from the wick as well so
+
+427
+00:17:39,299 --> 00:17:42,260
+it's not going to change much
+
+428
+00:17:42,360 --> 00:17:44,160
+and so now what you're looking for is 15
+
+429
+00:17:44,160 --> 00:17:46,440
+minute order flow to confirm that it
+
+430
+00:17:46,440 --> 00:17:47,760
+wants to move lower
+
+431
+00:17:47,760 --> 00:17:50,840
+so you have
+
+432
+00:17:52,740 --> 00:17:56,419
+your rejection forming though
+
+433
+00:17:56,460 --> 00:17:59,580
+right we've had liquidity sweep
+
+434
+00:17:59,580 --> 00:18:01,919
+right here above an old pivot into
+
+435
+00:18:01,919 --> 00:18:03,720
+premium
+
+436
+00:18:03,720 --> 00:18:06,120
+so we have external high right with
+
+437
+00:18:06,120 --> 00:18:08,640
+relation to this 15 minute
+
+438
+00:18:08,640 --> 00:18:10,679
+leg down right here
+
+439
+00:18:10,679 --> 00:18:12,419
+so we've taken out the liquidity of this
+
+440
+00:18:12,419 --> 00:18:13,559
+leg
+
+441
+00:18:13,559 --> 00:18:15,539
+we have our first little rejection area
+
+442
+00:18:15,539 --> 00:18:17,960
+for me
+
+443
+00:18:21,780 --> 00:18:24,360
+we have our order block that forms what
+
+444
+00:18:24,360 --> 00:18:26,039
+this displacement lower now we we're now
+
+445
+00:18:26,039 --> 00:18:27,480
+we're looking for a fair value Gap so
+
+446
+00:18:27,480 --> 00:18:28,679
+it's right here
+
+447
+00:18:28,679 --> 00:18:30,900
+tiny little one on the 15 minute time
+
+448
+00:18:30,900 --> 00:18:33,299
+frame so there's our first little
+
+449
+00:18:33,299 --> 00:18:36,860
+liquidity void fair value Gap
+
+450
+00:18:37,260 --> 00:18:39,780
+so we'll do that
+
+451
+00:18:39,780 --> 00:18:42,900
+and we're looking for
+
+452
+00:18:42,900 --> 00:18:45,299
+a low
+
+453
+00:18:45,299 --> 00:18:46,860
+to the swing High to be broken to
+
+454
+00:18:46,860 --> 00:18:49,980
+confirm bearish order flow
+
+455
+00:18:49,980 --> 00:18:53,299
+so this is the conservative
+
+456
+00:18:53,520 --> 00:18:55,799
+system right
+
+457
+00:18:55,799 --> 00:18:58,620
+so we have a low high lower low so now
+
+458
+00:18:58,620 --> 00:19:02,160
+we have our mitigation
+
+459
+00:19:02,160 --> 00:19:04,500
+right slash breaker we have a rejection
+
+460
+00:19:04,500 --> 00:19:06,539
+block at the high our order block at the
+
+461
+00:19:06,539 --> 00:19:10,140
+high we have a fair value up at the High
+
+462
+00:19:10,140 --> 00:19:11,820
+we have very aggressive approach to an
+
+463
+00:19:11,820 --> 00:19:13,919
+entry at the high with this SD right so
+
+464
+00:19:13,919 --> 00:19:15,299
+the first order block that forms after
+
+465
+00:19:15,299 --> 00:19:17,220
+piercing liquidity and then we have our
+
+466
+00:19:17,220 --> 00:19:19,140
+confirmation down here and as you can
+
+467
+00:19:19,140 --> 00:19:20,460
+see
+
+468
+00:19:20,460 --> 00:19:22,140
+price immediately sells off and doesn't
+
+469
+00:19:22,140 --> 00:19:24,240
+really give a retracement at all
+
+470
+00:19:24,240 --> 00:19:26,100
+into this move
+
+471
+00:19:26,100 --> 00:19:27,660
+so the only way to have entered this
+
+472
+00:19:27,660 --> 00:19:29,760
+move would have been pre-market
+
+473
+00:19:29,760 --> 00:19:32,400
+with relation to news
+
+474
+00:19:32,400 --> 00:19:34,679
+and then if you were aggressive in your
+
+475
+00:19:34,679 --> 00:19:37,679
+approach to the open and you saw that as
+
+476
+00:19:37,679 --> 00:19:40,260
+price move lower and close below up
+
+477
+00:19:40,260 --> 00:19:44,039
+close candles so as price closed below
+
+478
+00:19:44,039 --> 00:19:46,500
+these up close candles the subsequent
+
+479
+00:19:46,500 --> 00:19:48,480
+candle should respect the previous up
+
+480
+00:19:48,480 --> 00:19:49,919
+close candle right so that's an order
+
+481
+00:19:49,919 --> 00:19:51,900
+block that's an order block so it
+
+482
+00:19:51,900 --> 00:19:53,700
+touches the order block rejects touches
+
+483
+00:19:53,700 --> 00:19:55,620
+the orderable order block and rejects
+
+484
+00:19:55,620 --> 00:19:57,900
+right touches the order block and
+
+485
+00:19:57,900 --> 00:19:59,520
+rejects so you're looking for these
+
+486
+00:19:59,520 --> 00:20:01,320
+Clues on the 15 minute time frame to
+
+487
+00:20:01,320 --> 00:20:05,179
+engage price on the five or one
+
+488
+00:20:05,520 --> 00:20:08,400
+so then going back to that area now that
+
+489
+00:20:08,400 --> 00:20:10,799
+we have a label on the 15
+
+490
+00:20:10,799 --> 00:20:12,539
+we can kind of dive down into the five
+
+491
+00:20:12,539 --> 00:20:14,760
+minute time frame and we'll so here's
+
+492
+00:20:14,760 --> 00:20:15,960
+your five minute order block that
+
+493
+00:20:15,960 --> 00:20:18,780
+pierces into that liquidity right and
+
+494
+00:20:18,780 --> 00:20:20,280
+here's your down close candle so now you
+
+495
+00:20:20,280 --> 00:20:21,900
+have a confirmed
+
+496
+00:20:21,900 --> 00:20:24,000
+order block on the five minute
+
+497
+00:20:24,000 --> 00:20:26,220
+that you can utilize too
+
+498
+00:20:26,220 --> 00:20:28,380
+start developing your PD array and so
+
+499
+00:20:28,380 --> 00:20:30,360
+then this is your five minute fair value
+
+500
+00:20:30,360 --> 00:20:31,440
+Gap
+
+501
+00:20:31,440 --> 00:20:34,160
+right here
+
+502
+00:20:37,100 --> 00:20:39,720
+and you have displacement lower you
+
+503
+00:20:39,720 --> 00:20:41,580
+break an old low so the five minute
+
+504
+00:20:41,580 --> 00:20:43,500
+confirms that it wants to move lower for
+
+505
+00:20:43,500 --> 00:20:46,020
+the time being right and we're using the
+
+506
+00:20:46,020 --> 00:20:48,860
+hourly time frame
+
+507
+00:20:49,919 --> 00:20:52,140
+sorry
+
+508
+00:20:52,140 --> 00:20:54,720
+we're using the hourly time frame to
+
+509
+00:20:54,720 --> 00:20:56,400
+determine that price is likely to go
+
+510
+00:20:56,400 --> 00:20:58,980
+lower and continue to move lower until
+
+511
+00:20:58,980 --> 00:21:01,080
+it hits a
+
+512
+00:21:01,080 --> 00:21:03,539
+discount sell side liquidity pool on a
+
+513
+00:21:03,539 --> 00:21:04,860
+higher time frame so such as the daily
+
+514
+00:21:04,860 --> 00:21:06,120
+or weekly
+
+515
+00:21:06,120 --> 00:21:08,760
+swing lows
+
+516
+00:21:08,760 --> 00:21:11,960
+so then back to the five minute
+
+517
+00:21:14,580 --> 00:21:18,320
+all right so now that we're here
+
+518
+00:21:18,900 --> 00:21:22,740
+we've had news in here and we're looking
+
+519
+00:21:22,740 --> 00:21:25,380
+for confirmation of the order flow which
+
+520
+00:21:25,380 --> 00:21:27,840
+we're getting on the 15s and the hour so
+
+521
+00:21:27,840 --> 00:21:29,700
+now in the five minute we have our high
+
+522
+00:21:29,700 --> 00:21:32,820
+purges and to a fair value Gap
+
+523
+00:21:32,820 --> 00:21:34,380
+right there
+
+524
+00:21:34,380 --> 00:21:36,419
+so barely enters into the fair Valley
+
+525
+00:21:36,419 --> 00:21:39,659
+Gap rejects displaces lower closes below
+
+526
+00:21:39,659 --> 00:21:41,280
+this up close candle so now this becomes
+
+527
+00:21:41,280 --> 00:21:42,419
+an order block
+
+528
+00:21:42,419 --> 00:21:44,400
+and we want to see the fair value Gap we
+
+529
+00:21:44,400 --> 00:21:46,919
+want to see price enter it close weekly
+
+530
+00:21:46,919 --> 00:21:49,140
+and then engage prices so once we see
+
+531
+00:21:49,140 --> 00:21:50,820
+this weakness in the five minute just
+
+532
+00:21:50,820 --> 00:21:53,760
+prior to open you can now start to
+
+533
+00:21:53,760 --> 00:21:55,080
+engage price so if I'm going to replay
+
+534
+00:21:55,080 --> 00:21:57,659
+and I go here
+
+535
+00:21:57,659 --> 00:22:00,559
+and then go to one minute
+
+536
+00:22:01,740 --> 00:22:04,140
+so you can see here's the piercing of
+
+537
+00:22:04,140 --> 00:22:05,100
+liquidity
+
+538
+00:22:05,100 --> 00:22:07,919
+and then we close below it and then you
+
+539
+00:22:07,919 --> 00:22:09,659
+can see how this candle try to move
+
+540
+00:22:09,659 --> 00:22:11,580
+higher in respect to the structure that
+
+541
+00:22:11,580 --> 00:22:12,900
+has formed inside
+
+542
+00:22:12,900 --> 00:22:14,760
+then it forms another fair value Gap
+
+543
+00:22:14,760 --> 00:22:15,840
+right there
+
+544
+00:22:15,840 --> 00:22:18,900
+price enters it and if we're looking for
+
+545
+00:22:18,900 --> 00:22:20,940
+lower prices the open should and now
+
+546
+00:22:20,940 --> 00:22:22,620
+this could also happen it could induce
+
+547
+00:22:22,620 --> 00:22:23,640
+higher
+
+548
+00:22:23,640 --> 00:22:25,919
+and then drop lower right that can also
+
+549
+00:22:25,919 --> 00:22:27,360
+happen so that's why it sometimes it's
+
+550
+00:22:27,360 --> 00:22:28,860
+better to wait for the open I usually
+
+551
+00:22:28,860 --> 00:22:30,720
+always wait for the open I can engage
+
+552
+00:22:30,720 --> 00:22:33,360
+price and catch it later on
+
+553
+00:22:33,360 --> 00:22:35,039
+um so that I don't get prematurely
+
+554
+00:22:35,039 --> 00:22:36,539
+stopped out
+
+555
+00:22:36,539 --> 00:22:38,520
+then what happens is here's the open
+
+556
+00:22:38,520 --> 00:22:40,679
+right so that's an immediate move down
+
+557
+00:22:40,679 --> 00:22:43,140
+in a way and you want to see it continue
+
+558
+00:22:43,140 --> 00:22:44,640
+you don't want to see it come back up
+
+559
+00:22:44,640 --> 00:22:45,419
+again
+
+560
+00:22:45,419 --> 00:22:47,940
+and then there's your second move down
+
+561
+00:22:47,940 --> 00:22:49,500
+and then obviously you get a little bit
+
+562
+00:22:49,500 --> 00:22:50,700
+of retracement
+
+563
+00:22:50,700 --> 00:22:52,860
+but now we have our fair value Gap that
+
+564
+00:22:52,860 --> 00:22:55,020
+is formed right off the open so if price
+
+565
+00:22:55,020 --> 00:22:56,280
+is going to
+
+566
+00:22:56,280 --> 00:22:58,559
+try to move lower you want to see
+
+567
+00:22:58,559 --> 00:23:00,780
+weakness out of the fair value Gap and
+
+568
+00:23:00,780 --> 00:23:03,840
+so now you can engage price based on the
+
+569
+00:23:03,840 --> 00:23:06,720
+weakness of this candle
+
+570
+00:23:06,720 --> 00:23:08,460
+and once you engage price you're in
+
+571
+00:23:08,460 --> 00:23:10,080
+short from here
+
+572
+00:23:10,080 --> 00:23:13,440
+so if you take a short position tool
+
+573
+00:23:13,440 --> 00:23:15,480
+right once this candle closes you can
+
+574
+00:23:15,480 --> 00:23:17,520
+place your stop at the high so 15 Point
+
+575
+00:23:17,520 --> 00:23:18,960
+stop
+
+576
+00:23:18,960 --> 00:23:21,480
+and with respect to price you are
+
+577
+00:23:21,480 --> 00:23:23,900
+targeting
+
+578
+00:23:25,260 --> 00:23:27,299
+right the low that is formed previously
+
+579
+00:23:27,299 --> 00:23:29,880
+so this is a 52 and a half point
+
+580
+00:23:29,880 --> 00:23:33,720
+set up with a 15.75 stop loss so you
+
+581
+00:23:33,720 --> 00:23:36,179
+have a three R trade setup
+
+582
+00:23:36,179 --> 00:23:37,559
+now
+
+583
+00:23:37,559 --> 00:23:39,900
+price is being volatile and it's
+
+584
+00:23:39,900 --> 00:23:41,760
+inefficient it could come out take you
+
+585
+00:23:41,760 --> 00:23:44,640
+out once more and then drop it lower so
+
+586
+00:23:44,640 --> 00:23:46,200
+you have to be cautious with these so as
+
+587
+00:23:46,200 --> 00:23:47,720
+soon as price starts to displace lower
+
+588
+00:23:47,720 --> 00:23:50,280
+you want to see a confirmed move lower
+
+589
+00:23:50,280 --> 00:23:51,840
+again you don't want to see a stall out
+
+590
+00:23:51,840 --> 00:23:53,520
+here so
+
+591
+00:23:53,520 --> 00:23:55,980
+if we move lower again perfect so we
+
+592
+00:23:55,980 --> 00:23:58,200
+have one move and two moves but notice
+
+593
+00:23:58,200 --> 00:23:59,520
+how there's Wicks forming at the lows
+
+594
+00:23:59,520 --> 00:24:01,380
+you don't want to see this move
+
+595
+00:24:01,380 --> 00:24:03,720
+aggressively back up again however you
+
+596
+00:24:03,720 --> 00:24:05,880
+have another fair value Gap
+
+597
+00:24:05,880 --> 00:24:08,820
+to now help you with your bearish order
+
+598
+00:24:08,820 --> 00:24:10,980
+flow to the downside so it could retrace
+
+599
+00:24:10,980 --> 00:24:12,600
+you want to see a retrace that's all
+
+600
+00:24:12,600 --> 00:24:14,100
+right you want to see a respect the
+
+601
+00:24:14,100 --> 00:24:16,080
+order block and you want to see it move
+
+602
+00:24:16,080 --> 00:24:18,320
+down
+
+603
+00:24:20,460 --> 00:24:22,260
+so in this instance it just kept moving
+
+604
+00:24:22,260 --> 00:24:24,059
+down and it hit the target so that's
+
+605
+00:24:24,059 --> 00:24:27,799
+perfect you're out so
+
+606
+00:24:28,620 --> 00:24:31,140
+even if we didn't take any entries here
+
+607
+00:24:31,140 --> 00:24:33,240
+right
+
+608
+00:24:33,240 --> 00:24:34,740
+all we have to do is wait for
+
+609
+00:24:34,740 --> 00:24:37,280
+confirmation
+
+610
+00:24:38,100 --> 00:24:39,780
+by the means of displacement right
+
+611
+00:24:39,780 --> 00:24:42,120
+energetic moves away from an area of
+
+612
+00:24:42,120 --> 00:24:44,280
+Interest right so if you're bullish you
+
+613
+00:24:44,280 --> 00:24:45,600
+want to see this these kind of areas
+
+614
+00:24:45,600 --> 00:24:48,059
+hold sweep and move higher but if you're
+
+615
+00:24:48,059 --> 00:24:49,620
+bearish you want to see confirmed
+
+616
+00:24:49,620 --> 00:24:51,960
+extended moves lower retracements
+
+617
+00:24:51,960 --> 00:24:55,380
+weakness extended moves lower right you
+
+618
+00:24:55,380 --> 00:24:57,480
+don't want to see it do
+
+619
+00:24:57,480 --> 00:24:58,799
+uh
+
+620
+00:24:58,799 --> 00:25:00,240
+chop stuff right where it comes like
+
+621
+00:25:00,240 --> 00:25:02,820
+here comes back up to here then tries to
+
+622
+00:25:02,820 --> 00:25:04,620
+do this and then goes lower right you
+
+623
+00:25:04,620 --> 00:25:07,100
+don't want to see that so this is a very
+
+624
+00:25:07,100 --> 00:25:11,220
+energetic and efficient move lower
+
+625
+00:25:11,220 --> 00:25:13,320
+but the clues to what was happening
+
+626
+00:25:13,320 --> 00:25:16,140
+started to form here for this session in
+
+627
+00:25:16,140 --> 00:25:18,500
+New York
+
+628
+00:25:19,380 --> 00:25:20,760
+so going back to the 15 minute time
+
+629
+00:25:20,760 --> 00:25:23,059
+frame
+
+630
+00:25:23,580 --> 00:25:25,380
+and obviously in terms of this entire
+
+631
+00:25:25,380 --> 00:25:28,380
+hourly leg we're looking for premium
+
+632
+00:25:28,380 --> 00:25:30,240
+premium liquidity above an old high
+
+633
+00:25:30,240 --> 00:25:33,240
+right in terms of this range
+
+634
+00:25:33,240 --> 00:25:34,860
+and then we want to see our first little
+
+635
+00:25:34,860 --> 00:25:36,419
+order block form so that's your
+
+636
+00:25:36,419 --> 00:25:37,919
+aggressive change in state of delivery
+
+637
+00:25:37,919 --> 00:25:40,620
+price so soon as you see that form based
+
+638
+00:25:40,620 --> 00:25:43,440
+on a hourly uh
+
+639
+00:25:43,440 --> 00:25:45,179
+hourly structure
+
+640
+00:25:45,179 --> 00:25:47,100
+so there's your hourly order block as
+
+641
+00:25:47,100 --> 00:25:49,200
+formed at the same time you want to see
+
+642
+00:25:49,200 --> 00:25:51,960
+confirmed order flow of price willing to
+
+643
+00:25:51,960 --> 00:25:54,179
+move lower and that is just simply by
+
+644
+00:25:54,179 --> 00:25:56,760
+observing price reject order blocks fair
+
+645
+00:25:56,760 --> 00:25:58,500
+value gaps
+
+646
+00:25:58,500 --> 00:26:01,380
+and continue to move lower
+
+647
+00:26:01,380 --> 00:26:03,659
+so you can see that we had this nice low
+
+648
+00:26:03,659 --> 00:26:06,419
+move up into news and then once that
+
+649
+00:26:06,419 --> 00:26:08,159
+occurred we start to deliver back down
+
+650
+00:26:08,159 --> 00:26:09,419
+with aggression and then if you wanted
+
+651
+00:26:09,419 --> 00:26:12,000
+to see the rest you can see that
+
+652
+00:26:12,000 --> 00:26:15,919
+right we sold off all the way into
+
+653
+00:26:16,080 --> 00:26:21,179
+a daily fair value Gap right
+
+654
+00:26:21,179 --> 00:26:23,100
+but yeah that was that move but the
+
+655
+00:26:23,100 --> 00:26:25,799
+confirmation of the entire week's move
+
+656
+00:26:25,799 --> 00:26:27,480
+started up here right so there's a whole
+
+657
+00:26:27,480 --> 00:26:28,980
+bunch of consolidation
+
+658
+00:26:28,980 --> 00:26:31,860
+that's occurring so this is untradable
+
+659
+00:26:31,860 --> 00:26:34,320
+the only trade that I was able to take
+
+660
+00:26:34,320 --> 00:26:38,760
+was the short here I think and
+
+661
+00:26:38,760 --> 00:26:41,460
+I actually missed this NQ move but I was
+
+662
+00:26:41,460 --> 00:26:44,520
+able to capture a move on rty instead so
+
+663
+00:26:44,520 --> 00:26:48,659
+my focus was on rty because NQ had moved
+
+664
+00:26:48,659 --> 00:26:52,440
+without me and I uh I missed the entry
+
+665
+00:26:52,440 --> 00:26:54,539
+at the open by like
+
+666
+00:26:54,539 --> 00:26:58,159
+uh fractions of a tick
+
+667
+00:26:58,260 --> 00:27:00,600
+so this is basically seconds right I
+
+668
+00:27:00,600 --> 00:27:02,159
+just was too slow to pull the trigger
+
+669
+00:27:02,159 --> 00:27:05,220
+but this is how you use syste on the
+
+670
+00:27:05,220 --> 00:27:07,860
+hourly time frame to identify when price
+
+671
+00:27:07,860 --> 00:27:10,200
+starts to oppose the move that has
+
+672
+00:27:10,200 --> 00:27:13,080
+happened and confirms when it is likely
+
+673
+00:27:13,080 --> 00:27:14,880
+to go from external to internal and
+
+674
+00:27:14,880 --> 00:27:17,220
+internal back into external so now if we
+
+675
+00:27:17,220 --> 00:27:19,799
+go back to live price action
+
+676
+00:27:19,799 --> 00:27:23,640
+for the date of August 3rd
+
+677
+00:27:23,640 --> 00:27:26,640
+I want to point out that we have
+
+678
+00:27:26,640 --> 00:27:28,620
+on the weekly time frame we've taken out
+
+679
+00:27:28,620 --> 00:27:31,080
+an old weekly law right we entered into
+
+680
+00:27:31,080 --> 00:27:34,080
+the weekly fair value Gap so here is
+
+681
+00:27:34,080 --> 00:27:35,820
+okay let me use
+
+682
+00:27:35,820 --> 00:27:40,320
+the horizontal Ray so it stays annotated
+
+683
+00:27:40,320 --> 00:27:42,360
+previous week's law so that's external
+
+684
+00:27:42,360 --> 00:27:44,779
+liquidity
+
+685
+00:27:53,220 --> 00:27:55,080
+so there's external liquidity
+
+686
+00:27:55,080 --> 00:27:56,220
+and
+
+687
+00:27:56,220 --> 00:27:59,520
+a failure to display slower right here
+
+688
+00:27:59,520 --> 00:28:01,559
+and what happens is you have an outside
+
+689
+00:28:01,559 --> 00:28:03,720
+candle that forms so it's an engulfs the
+
+690
+00:28:03,720 --> 00:28:04,980
+previous candle
+
+691
+00:28:04,980 --> 00:28:09,140
+and so you have an aggressive
+
+692
+00:28:09,720 --> 00:28:13,039
+syste right here
+
+693
+00:28:15,299 --> 00:28:17,400
+however it's albeit price is still
+
+694
+00:28:17,400 --> 00:28:19,080
+supporting Bearer structure we haven't
+
+695
+00:28:19,080 --> 00:28:22,020
+taken out the old hourly hi-hat and so
+
+696
+00:28:22,020 --> 00:28:24,779
+this is an aggressive way to approach a
+
+697
+00:28:24,779 --> 00:28:26,760
+possible short-term low being put in so
+
+698
+00:28:26,760 --> 00:28:29,460
+a failed swing lower and in fact we had
+
+699
+00:28:29,460 --> 00:28:31,919
+diversions with es here
+
+700
+00:28:31,919 --> 00:28:33,840
+so there's some sort of versions of the
+
+701
+00:28:33,840 --> 00:28:35,520
+lows
+
+702
+00:28:35,520 --> 00:28:36,779
+and then what you're looking for is
+
+703
+00:28:36,779 --> 00:28:39,240
+price to start to expand higher
+
+704
+00:28:39,240 --> 00:28:42,120
+and retrace back into what internal
+
+705
+00:28:42,120 --> 00:28:44,400
+liquidity so we go from external to
+
+706
+00:28:44,400 --> 00:28:45,840
+internal and internal into external
+
+707
+00:28:45,840 --> 00:28:47,580
+that's it
+
+708
+00:28:47,580 --> 00:28:51,020
+uh where is it right here
+
+709
+00:28:53,039 --> 00:28:54,600
+so what do you think price is likely
+
+710
+00:28:54,600 --> 00:28:56,039
+trying to do right here
+
+711
+00:28:56,039 --> 00:28:58,559
+see this high and see this high
+
+712
+00:28:58,559 --> 00:29:00,600
+it is likely trying to go for the Asian
+
+713
+00:29:00,600 --> 00:29:01,919
+Range High
+
+714
+00:29:01,919 --> 00:29:03,960
+and into an internal liquidity pool so
+
+715
+00:29:03,960 --> 00:29:06,240
+above an old high so the displacement
+
+716
+00:29:06,240 --> 00:29:08,700
+that occurred from yesterday is now
+
+717
+00:29:08,700 --> 00:29:11,960
+being repriced back into
+
+718
+00:29:12,000 --> 00:29:13,559
+simply it
+
+719
+00:29:13,559 --> 00:29:15,720
+we've gone from external and now we're
+
+720
+00:29:15,720 --> 00:29:18,779
+going back into internal now this setup
+
+721
+00:29:18,779 --> 00:29:20,399
+here isn't going to be clean because
+
+722
+00:29:20,399 --> 00:29:24,380
+it's fighting the down move
+
+723
+00:29:29,100 --> 00:29:31,200
+and is trying to establish
+
+724
+00:29:31,200 --> 00:29:34,200
+a retracement move higher
+
+725
+00:29:34,200 --> 00:29:37,140
+so you can see that it's pretty volatile
+
+726
+00:29:37,140 --> 00:29:40,200
+it trades up then trades lower trades up
+
+727
+00:29:40,200 --> 00:29:41,760
+trades lower and then finally
+
+728
+00:29:41,760 --> 00:29:44,340
+establishes a break of this high and
+
+729
+00:29:44,340 --> 00:29:47,700
+then you have respective structure
+
+730
+00:29:47,700 --> 00:29:49,919
+on the lower time frame so we have the
+
+731
+00:29:49,919 --> 00:29:52,080
+aggressive cyste and then we finally
+
+732
+00:29:52,080 --> 00:29:55,440
+have an approach on the five minute that
+
+733
+00:29:55,440 --> 00:29:58,919
+confirms that it is now willing to or at
+
+734
+00:29:58,919 --> 00:30:01,200
+least trying to move higher so it trades
+
+735
+00:30:01,200 --> 00:30:03,720
+above that high creates a fair value Gap
+
+736
+00:30:03,720 --> 00:30:06,860
+and then for about
+
+737
+00:30:07,860 --> 00:30:10,740
+an hour it ranges inside that and then
+
+738
+00:30:10,740 --> 00:30:12,960
+finally breaks out into the PM session
+
+739
+00:30:12,960 --> 00:30:16,880
+and it's breaking out to do what
+
+740
+00:30:17,880 --> 00:30:22,039
+attack and internal liquidity pool
+
+741
+00:30:23,460 --> 00:30:26,600
+and so that has been
+
+742
+00:30:26,760 --> 00:30:29,399
+the idea of syste
+
+743
+00:30:29,399 --> 00:30:30,899
+two approaches
+
+744
+00:30:30,899 --> 00:30:33,779
+once when you have an order block form
+
+745
+00:30:33,779 --> 00:30:36,299
+that opposes what the current price
+
+746
+00:30:36,299 --> 00:30:37,799
+action has been doing so for example
+
+747
+00:30:37,799 --> 00:30:39,659
+we've been trading down
+
+748
+00:30:39,659 --> 00:30:41,820
+and so we have
+
+749
+00:30:41,820 --> 00:30:43,799
+there's this order block
+
+750
+00:30:43,799 --> 00:30:45,659
+however we still haven't taken up high
+
+751
+00:30:45,659 --> 00:30:47,399
+yet so what we want to see is price
+
+752
+00:30:47,399 --> 00:30:50,159
+trade higher come back test it
+
+753
+00:30:50,159 --> 00:30:52,679
+create a failed swing lower
+
+754
+00:30:52,679 --> 00:30:55,919
+and then confirm and move back higher
+
+755
+00:30:55,919 --> 00:30:58,200
+and so now we're getting a bullish PD
+
+756
+00:30:58,200 --> 00:30:59,820
+array forming
+
+757
+00:30:59,820 --> 00:31:01,799
+into
+
+758
+00:31:01,799 --> 00:31:04,919
+this down move that has occurred all
+
+759
+00:31:04,919 --> 00:31:05,640
+week
+
+760
+00:31:05,640 --> 00:31:09,899
+right so external back into internal
+
+761
+00:31:09,899 --> 00:31:12,419
+and the way to approach it on the five
+
+762
+00:31:12,419 --> 00:31:14,760
+minute would have been what we just
+
+763
+00:31:14,760 --> 00:31:16,200
+covered right here
+
+764
+00:31:16,200 --> 00:31:17,940
+now you could have played it down here
+
+765
+00:31:17,940 --> 00:31:20,580
+too with more aggressiveness that is if
+
+766
+00:31:20,580 --> 00:31:22,440
+you are expecting
+
+767
+00:31:22,440 --> 00:31:25,200
+price to hold and move higher this is
+
+768
+00:31:25,200 --> 00:31:26,460
+where your aggressive approach
+
+769
+00:31:26,460 --> 00:31:29,460
+approaches would have been now if um
+
+770
+00:31:29,460 --> 00:31:31,080
+because we have the hourly order block
+
+771
+00:31:31,080 --> 00:31:33,000
+60 right here you're looking for some
+
+772
+00:31:33,000 --> 00:31:34,260
+sort of bullish
+
+773
+00:31:34,260 --> 00:31:37,260
+five minute PD array to form
+
+774
+00:31:37,260 --> 00:31:39,720
+or five minute supportive structure to
+
+775
+00:31:39,720 --> 00:31:43,260
+form to help you gauge an entry point uh
+
+776
+00:31:43,260 --> 00:31:44,820
+I didn't like anything in here today the
+
+777
+00:31:44,820 --> 00:31:46,380
+only thing I liked was actually the
+
+778
+00:31:46,380 --> 00:31:48,240
+short move from here back down and when
+
+779
+00:31:48,240 --> 00:31:50,520
+it failed uh
+
+780
+00:31:50,520 --> 00:31:53,580
+you had been stopped out for uh while
+
+781
+00:31:53,580 --> 00:31:56,039
+doing a stream it was about 55 and a
+
+782
+00:31:56,039 --> 00:31:57,960
+half points and if you captured the bulk
+
+783
+00:31:57,960 --> 00:31:59,220
+of it you would have gone in like 79
+
+784
+00:31:59,220 --> 00:32:00,600
+points
+
+785
+00:32:00,600 --> 00:32:04,559
+um but caution was also aired once we
+
+786
+00:32:04,559 --> 00:32:06,840
+saw price being supported here
+
+787
+00:32:06,840 --> 00:32:09,419
+chances are we are most likely due to
+
+788
+00:32:09,419 --> 00:32:12,179
+the inability of NQ to drive lower to
+
+789
+00:32:12,179 --> 00:32:13,919
+try pushing back higher into internal
+
+790
+00:32:13,919 --> 00:32:15,059
+liquidity
+
+791
+00:32:15,059 --> 00:32:16,559
+and so we're getting that move now and
+
+792
+00:32:16,559 --> 00:32:17,760
+so this is what it looks like on hourly
+
+793
+00:32:17,760 --> 00:32:19,919
+now so very messy
+
+794
+00:32:19,919 --> 00:32:23,640
+right in terms of the hourly Wix but if
+
+795
+00:32:23,640 --> 00:32:26,220
+you apply that logic right where you see
+
+796
+00:32:26,220 --> 00:32:27,779
+an order block form on the hourly time
+
+797
+00:32:27,779 --> 00:32:29,880
+frame and then you wait for a 15 minute
+
+798
+00:32:29,880 --> 00:32:31,740
+or five minute structure to support
+
+799
+00:32:31,740 --> 00:32:34,260
+price action higher
+
+800
+00:32:34,260 --> 00:32:35,460
+uh
+
+801
+00:32:35,460 --> 00:32:38,880
+you can and you will over Time Capture
+
+802
+00:32:38,880 --> 00:32:41,039
+big expansion moves now there's nothing
+
+803
+00:32:41,039 --> 00:32:43,799
+Pleasant about this
+
+804
+00:32:43,799 --> 00:32:47,640
+because we are going against
+
+805
+00:32:47,640 --> 00:32:49,440
+the entire move
+
+806
+00:32:49,440 --> 00:32:51,419
+for the week however this is also
+
+807
+00:32:51,419 --> 00:32:53,100
+signaling that chances are we are most
+
+808
+00:32:53,100 --> 00:32:54,720
+likely done selling off for the week as
+
+809
+00:32:54,720 --> 00:32:56,700
+well so we're probably going to end up
+
+810
+00:32:56,700 --> 00:32:59,279
+range Bound by range but I mean back
+
+811
+00:32:59,279 --> 00:33:03,059
+into what has already transpired so just
+
+812
+00:33:03,059 --> 00:33:05,039
+before I shut this video off another
+
+813
+00:33:05,039 --> 00:33:06,659
+thing you want to point out is that we
+
+814
+00:33:06,659 --> 00:33:08,039
+do have this trendline liquidity that's
+
+815
+00:33:08,039 --> 00:33:10,080
+formed all week and it seems to be
+
+816
+00:33:10,080 --> 00:33:12,360
+piercing it just now as well
+
+817
+00:33:12,360 --> 00:33:15,059
+so if we were to delete everything here
+
+818
+00:33:15,059 --> 00:33:18,320
+and simply just
+
+819
+00:33:18,360 --> 00:33:20,840
+address
+
+820
+00:33:20,940 --> 00:33:24,500
+the discount and premium
+
+821
+00:33:25,559 --> 00:33:27,720
+from the highs
+
+822
+00:33:27,720 --> 00:33:29,700
+to the lows
+
+823
+00:33:29,700 --> 00:33:32,519
+chances are we are probably going to try
+
+824
+00:33:32,519 --> 00:33:36,260
+to trade back into a premium
+
+825
+00:33:37,799 --> 00:33:39,299
+liquidity
+
+826
+00:33:39,299 --> 00:33:42,720
+pool or fair value Gap or order block
+
+827
+00:33:42,720 --> 00:33:45,120
+into Friday
+
+828
+00:33:45,120 --> 00:33:47,779
+and
+
+829
+00:33:49,140 --> 00:33:50,460
+so we're probably going to move up into
+
+830
+00:33:50,460 --> 00:33:53,580
+here and then it'll probably try to or
+
+831
+00:33:53,580 --> 00:33:55,559
+attempt to sell back down again right
+
+832
+00:33:55,559 --> 00:33:57,419
+and it'll probably get trapped in this
+
+833
+00:33:57,419 --> 00:34:01,620
+area somewhere between here and here
+
+834
+00:34:01,620 --> 00:34:04,380
+but yeah so that is uh how you use systy
+
+835
+00:34:04,380 --> 00:34:07,919
+to help you identify what is likely to
+
+836
+00:34:07,919 --> 00:34:09,418
+occur
+
+837
+00:34:09,418 --> 00:34:11,280
+in terms of price going from external
+
+838
+00:34:11,280 --> 00:34:12,780
+liquidity into internal liquidity
+
+839
+00:34:12,780 --> 00:34:14,099
+internal Equity back into external
+
+840
+00:34:14,099 --> 00:34:15,060
+liquidity
+
+841
+00:34:15,060 --> 00:34:17,280
+uh one thing I need to point out is that
+
+842
+00:34:17,280 --> 00:34:19,020
+if you're bearish then you want to see
+
+843
+00:34:19,020 --> 00:34:20,940
+raids of old highs hold
+
+844
+00:34:20,940 --> 00:34:23,280
+and then confirm to move lower if you're
+
+845
+00:34:23,280 --> 00:34:25,760
+bullish you can get a move like this
+
+846
+00:34:25,760 --> 00:34:28,739
+retraces into discount
+
+847
+00:34:28,739 --> 00:34:30,899
+and then begins to move higher again at
+
+848
+00:34:30,899 --> 00:34:32,639
+that point what you're looking for is a
+
+849
+00:34:32,639 --> 00:34:35,099
+confirmed hourly PD area back to the
+
+850
+00:34:35,099 --> 00:34:37,739
+upside similar to What's Happening Here
+
+851
+00:34:37,739 --> 00:34:40,260
+and the PD array is always going to be
+
+852
+00:34:40,260 --> 00:34:41,580
+the same it's going to be external
+
+853
+00:34:41,580 --> 00:34:42,599
+liquidity
+
+854
+00:34:42,599 --> 00:34:44,339
+rejection block
+
+855
+00:34:44,339 --> 00:34:46,260
+displacement that creates an order block
+
+856
+00:34:46,260 --> 00:34:48,418
+then you get some sort of liquidity void
+
+857
+00:34:48,418 --> 00:34:50,339
+or fair value Gap then you get your
+
+858
+00:34:50,339 --> 00:34:52,260
+breaker or mitigation that forms and so
+
+859
+00:34:52,260 --> 00:34:54,839
+if you look here here's your high here's
+
+860
+00:34:54,839 --> 00:34:56,879
+your low here's your higher high break
+
+861
+00:34:56,879 --> 00:34:58,320
+your medication
+
+862
+00:34:58,320 --> 00:35:00,660
+order block displacement
+
+863
+00:35:00,660 --> 00:35:03,119
+or waiting for a fair value Gap or a
+
+864
+00:35:03,119 --> 00:35:04,740
+liquidity point to be
+
+865
+00:35:04,740 --> 00:35:06,180
+created
+
+866
+00:35:06,180 --> 00:35:08,220
+and then we will have a confirmed
+
+867
+00:35:08,220 --> 00:35:10,320
+bullish PD array for the move into
+
+868
+00:35:10,320 --> 00:35:11,880
+Friday
+
+869
+00:35:11,880 --> 00:35:13,380
+hope you guys have enjoyed the video it
+
+870
+00:35:13,380 --> 00:35:15,720
+might be a little lengthy and obviously
+
+871
+00:35:15,720 --> 00:35:17,339
+my communication wasn't as crystal clear
+
+872
+00:35:17,339 --> 00:35:18,780
+I did Mumble a little bit I apologize
+
+873
+00:35:18,780 --> 00:35:22,079
+for that but the idea is there in the
+
+874
+00:35:22,079 --> 00:35:23,339
+video and if you guys have any questions
+
+875
+00:35:23,339 --> 00:35:25,380
+please do post them below or you can ask
+
+876
+00:35:25,380 --> 00:35:26,700
+me in my Discord
+
+877
+00:35:26,700 --> 00:35:28,140
+uh which will be linked in the
+
+878
+00:35:28,140 --> 00:35:30,359
+description or you can just DM me on
+
+879
+00:35:30,359 --> 00:35:33,000
+Twitter although I do suggest Discord is
+
+880
+00:35:33,000 --> 00:35:35,099
+the best route for that and I'll see you
+
+881
+00:35:35,099 --> 00:35:36,660
+guys next time
+
+882
+00:35:36,660 --> 00:35:38,839
+thank you
+
