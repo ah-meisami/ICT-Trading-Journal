@@ -1,0 +1,6068 @@
+1
+00:00:00,000 --> 00:00:01,800
+this podcast is brought to you by Blue
+
+2
+00:00:01,800 --> 00:00:03,360
+Guardian the fastest growing prop film
+
+3
+00:00:03,360 --> 00:00:06,299
+in 2023. I became obsessed instead of
+
+4
+00:00:06,299 --> 00:00:07,859
+being at the job doing what I was
+
+5
+00:00:07,859 --> 00:00:09,599
+supposed to do at the job I was looking
+
+6
+00:00:09,599 --> 00:00:11,700
+at charts all day yeah eventually that
+
+7
+00:00:11,700 --> 00:00:13,920
+got me fired but it was one video that
+
+8
+00:00:13,920 --> 00:00:16,260
+actually clicked for me from his YouTube
+
+9
+00:00:16,260 --> 00:00:19,140
+I've seen it at least 30 times the
+
+10
+00:00:19,140 --> 00:00:22,199
+videos title is this is brilliant it's
+
+11
+00:00:22,199 --> 00:00:23,400
+absolutely real I've never heard
+
+12
+00:00:23,400 --> 00:00:25,439
+anything like this in like 300 odd
+
+13
+00:00:25,439 --> 00:00:27,779
+episodes I've done episode 239 right
+
+14
+00:00:27,779 --> 00:00:29,400
+folks we've got Alex Lira here in the
+
+15
+00:00:29,400 --> 00:00:31,619
+house today now this is an ICT style
+
+16
+00:00:31,619 --> 00:00:34,260
+Trader she simplified things down so
+
+17
+00:00:34,260 --> 00:00:35,640
+dramatically in fact we see a
+
+18
+00:00:35,640 --> 00:00:37,680
+step-by-step breakdown of their full
+
+19
+00:00:37,680 --> 00:00:39,360
+strategy in the next video dropping on
+
+20
+00:00:39,360 --> 00:00:40,620
+the channel so make sure you hit
+
+21
+00:00:40,620 --> 00:00:42,239
+subscribe so you don't miss that she's
+
+22
+00:00:42,239 --> 00:00:43,980
+also got a crazy heck and you're going
+
+23
+00:00:43,980 --> 00:00:45,719
+to hear it in the show where it's gonna
+
+24
+00:00:45,719 --> 00:00:48,239
+stop you from any fomo that you may have
+
+25
+00:00:48,239 --> 00:00:50,520
+with your trading so such a simple
+
+26
+00:00:50,520 --> 00:00:52,260
+little trick first time I've ever heard
+
+27
+00:00:52,260 --> 00:00:53,760
+on the show so you've got to stay tuned
+
+28
+00:00:53,760 --> 00:00:55,920
+for that as well and the crazy story
+
+29
+00:00:55,920 --> 00:00:57,899
+that got her into trading in the first
+
+30
+00:00:57,899 --> 00:00:59,460
+place so that's all coming up other
+
+31
+00:00:59,460 --> 00:01:00,840
+things going on here at trading like
+
+32
+00:01:00,840 --> 00:01:02,340
+we've got the live streams hitting the
+
+33
+00:01:02,340 --> 00:01:05,040
+channel on a daily basis Asia London and
+
+34
+00:01:05,040 --> 00:01:06,659
+New York covered so if you're looking to
+
+35
+00:01:06,659 --> 00:01:08,400
+get some support or just have a
+
+36
+00:01:08,400 --> 00:01:10,200
+community to join whilst you're trading
+
+37
+00:01:10,200 --> 00:01:11,939
+those sessions then jump in there and
+
+38
+00:01:11,939 --> 00:01:13,439
+check out these great Traders and you
+
+39
+00:01:13,439 --> 00:01:15,299
+can see how they performed if you are
+
+40
+00:01:15,299 --> 00:01:17,220
+wondering how everyone is performing
+
+41
+00:01:17,220 --> 00:01:18,420
+we've got a lot of them doing the blue
+
+42
+00:01:18,420 --> 00:01:20,280
+Guardian challenge so you can see the
+
+43
+00:01:20,280 --> 00:01:21,840
+recap videos at the end of the week
+
+44
+00:01:21,840 --> 00:01:24,180
+including myself and see some of my
+
+45
+00:01:24,180 --> 00:01:25,860
+trades as well across the course of the
+
+46
+00:01:25,860 --> 00:01:27,659
+week so jump in there and make sure you
+
+47
+00:01:27,659 --> 00:01:30,420
+grab that content and last but not least
+
+48
+00:01:30,420 --> 00:01:31,979
+if you do want to automate anything that
+
+49
+00:01:31,979 --> 00:01:33,900
+you're doing I've got a 10K blue
+
+50
+00:01:33,900 --> 00:01:35,759
+Guardian evaluation that I'm giving away
+
+51
+00:01:35,759 --> 00:01:38,400
+with my robot Builders club for new
+
+52
+00:01:38,400 --> 00:01:40,860
+members that join this month of August
+
+53
+00:01:40,860 --> 00:01:43,619
+2023 so go and check that out alright
+
+54
+00:01:43,619 --> 00:01:45,420
+folks enough from me let's jump into the
+
+55
+00:01:45,420 --> 00:01:47,159
+show our sponsor blue Guardian is the
+
+56
+00:01:47,159 --> 00:01:48,960
+only problem that gives their Traders a
+
+57
+00:01:48,960 --> 00:01:50,220
+tool to protect them from hitting their
+
+58
+00:01:50,220 --> 00:01:52,259
+max daily loss and over trading it's
+
+59
+00:01:52,259 --> 00:01:53,820
+super simple to use just set the
+
+60
+00:01:53,820 --> 00:01:55,500
+guardian protector each day from your
+
+61
+00:01:55,500 --> 00:01:57,119
+dashboard did you also know that they've
+
+62
+00:01:57,119 --> 00:01:58,979
+just released an unlimited time
+
+63
+00:01:58,979 --> 00:02:01,380
+evaluation with as zero trading days
+
+64
+00:02:01,380 --> 00:02:03,360
+requirement giving you plenty of time to
+
+65
+00:02:03,360 --> 00:02:04,920
+hit their low eight and four percent
+
+66
+00:02:04,920 --> 00:02:07,259
+targets making it super fast to get
+
+67
+00:02:07,259 --> 00:02:09,419
+funded plus it's cheaper than the 40-day
+
+68
+00:02:09,419 --> 00:02:11,400
+time limit evaluation check out the link
+
+69
+00:02:11,400 --> 00:02:12,900
+and coupon in the description to get
+
+70
+00:02:12,900 --> 00:02:14,340
+tempting off your next Blue Guardian
+
+71
+00:02:14,340 --> 00:02:15,840
+evaluation all right folks here we are
+
+72
+00:02:15,840 --> 00:02:18,780
+on trading up we've got Alex rbv Forex
+
+73
+00:02:18,780 --> 00:02:21,060
+Made Easy in the house that's where she
+
+74
+00:02:21,060 --> 00:02:23,220
+that's how she goes by on what she goes
+
+75
+00:02:23,220 --> 00:02:25,500
+by on Instagram welcome to the show all
+
+76
+00:02:25,500 --> 00:02:27,300
+the way from Romania and I don't even
+
+77
+00:02:27,300 --> 00:02:28,920
+think I've had a Romanian guest on
+
+78
+00:02:28,920 --> 00:02:30,660
+before so you might be the first I'm
+
+79
+00:02:30,660 --> 00:02:32,099
+pretty sure you are the first
+
+80
+00:02:32,099 --> 00:02:34,680
+I hope that's good that's good
+
+81
+00:02:34,680 --> 00:02:37,440
+breaking the ice yeah yeah yeah exactly
+
+82
+00:02:37,440 --> 00:02:40,140
+so um now you you sort of came to the
+
+83
+00:02:40,140 --> 00:02:43,500
+attention of of me because it's been
+
+84
+00:02:43,500 --> 00:02:45,959
+knowing that you are you you've I
+
+85
+00:02:45,959 --> 00:02:49,319
+suppose the way you explain uh ICT is
+
+86
+00:02:49,319 --> 00:02:52,560
+among the sort of simplest ways that
+
+87
+00:02:52,560 --> 00:02:54,720
+people are explaining it I.E you've
+
+88
+00:02:54,720 --> 00:02:56,220
+simplified the whole thing down so we're
+
+89
+00:02:56,220 --> 00:02:58,500
+going to get into your journey today and
+
+90
+00:02:58,500 --> 00:03:00,180
+find out man how you managed to do it
+
+91
+00:03:00,180 --> 00:03:01,260
+why you managed to do it how you even
+
+92
+00:03:01,260 --> 00:03:04,260
+found this ICT dude uh and all this sort
+
+93
+00:03:04,260 --> 00:03:05,819
+of stuff so do you want to start off
+
+94
+00:03:05,819 --> 00:03:08,580
+with uh how you found trading and I
+
+95
+00:03:08,580 --> 00:03:09,660
+believe it so that some kind of
+
+96
+00:03:09,660 --> 00:03:11,459
+interesting story at the beach
+
+97
+00:03:11,459 --> 00:03:14,340
+yeah yeah so I found training 10 years
+
+98
+00:03:14,340 --> 00:03:18,480
+ago uh when I met my partner and
+
+99
+00:03:18,480 --> 00:03:21,000
+um I didn't feel any attraction towards
+
+100
+00:03:21,000 --> 00:03:22,620
+trading because I've always felt like it
+
+101
+00:03:22,620 --> 00:03:28,019
+was a male dominated uh industry and uh
+
+102
+00:03:28,019 --> 00:03:30,959
+but about four maybe five years later we
+
+103
+00:03:30,959 --> 00:03:33,420
+were at the beach uh vacation and
+
+104
+00:03:33,420 --> 00:03:35,099
+something really strange happened where
+
+105
+00:03:35,099 --> 00:03:38,040
+a guy out of the nowhere came at me and
+
+106
+00:03:38,040 --> 00:03:40,019
+he told me
+
+107
+00:03:40,019 --> 00:03:44,040
+um that he knows me from trading in
+
+108
+00:03:44,040 --> 00:03:48,599
+South Africa and I said no you you're
+
+109
+00:03:48,599 --> 00:03:51,239
+confusing me with someone else uh then
+
+110
+00:03:51,239 --> 00:03:53,580
+you know we just didn't consider that
+
+111
+00:03:53,580 --> 00:03:55,860
+something important and then when I got
+
+112
+00:03:55,860 --> 00:03:58,620
+back home in uh in Bucharest after the
+
+113
+00:03:58,620 --> 00:04:01,980
+vacation was over I actually uh was
+
+114
+00:04:01,980 --> 00:04:04,080
+approached by a trading group from South
+
+115
+00:04:04,080 --> 00:04:07,799
+Africa uh I left that group yeah it was
+
+116
+00:04:07,799 --> 00:04:09,739
+really really weird it was really weird
+
+117
+00:04:09,739 --> 00:04:13,560
+yeah I was I was approached on WhatsApp
+
+118
+00:04:13,560 --> 00:04:16,680
+which is unusual because usually in this
+
+119
+00:04:16,680 --> 00:04:18,418
+industry people approach usually on
+
+120
+00:04:18,418 --> 00:04:20,339
+telegram I didn't even have telegram at
+
+121
+00:04:20,339 --> 00:04:23,880
+that time so these guys approached me on
+
+122
+00:04:23,880 --> 00:04:25,979
+Whatsapp I don't know how they got my
+
+123
+00:04:25,979 --> 00:04:27,780
+number so I started looking into their
+
+124
+00:04:27,780 --> 00:04:29,220
+strategy they were trading something
+
+125
+00:04:29,220 --> 00:04:30,900
+like beat the market maker from Steve
+
+126
+00:04:30,900 --> 00:04:32,940
+Morrow
+
+127
+00:04:32,940 --> 00:04:35,040
+um so that's how I started with trading
+
+128
+00:04:35,040 --> 00:04:37,740
+and uh then from from that point till
+
+129
+00:04:37,740 --> 00:04:41,639
+today it was a long trip and can you
+
+130
+00:04:41,639 --> 00:04:43,800
+even do you even know why why I know
+
+131
+00:04:43,800 --> 00:04:45,600
+somebody came up to you saying oh you're
+
+132
+00:04:45,600 --> 00:04:48,900
+yeah I have no idea no absolutely no
+
+133
+00:04:48,900 --> 00:04:52,139
+idea very wonderful at that time yeah at
+
+134
+00:04:52,139 --> 00:04:53,880
+that time in Romania I remember that
+
+135
+00:04:53,880 --> 00:04:56,220
+there were some protests
+
+136
+00:04:56,220 --> 00:04:58,020
+um you know Romanian people were
+
+137
+00:04:58,020 --> 00:04:59,820
+protesting because uh the government
+
+138
+00:04:59,820 --> 00:05:03,080
+wanted to uh you know do something silly
+
+139
+00:05:03,080 --> 00:05:06,900
+and uh this guy uh because he's um
+
+140
+00:05:06,900 --> 00:05:09,900
+girlfriend came then afterwards uh you
+
+141
+00:05:09,900 --> 00:05:11,340
+know to take him away from there because
+
+142
+00:05:11,340 --> 00:05:14,040
+he was really acting weird and then she
+
+143
+00:05:14,040 --> 00:05:16,800
+told us she apologized for the incident
+
+144
+00:05:16,800 --> 00:05:19,259
+and then she told us you know
+
+145
+00:05:19,259 --> 00:05:20,880
+um he was acting weird because he's
+
+146
+00:05:20,880 --> 00:05:22,620
+really stressed with his job he was
+
+147
+00:05:22,620 --> 00:05:24,180
+working uh
+
+148
+00:05:24,180 --> 00:05:26,400
+um law enforcement and because of the
+
+149
+00:05:26,400 --> 00:05:27,960
+protests and all of that he was really
+
+150
+00:05:27,960 --> 00:05:30,840
+so yeah she just said he's acting weird
+
+151
+00:05:30,840 --> 00:05:33,360
+we don't know why and the weird thing is
+
+152
+00:05:33,360 --> 00:05:35,400
+that we were at the beach in Romania
+
+153
+00:05:35,400 --> 00:05:38,699
+they were Romanians but he approached me
+
+154
+00:05:38,699 --> 00:05:40,080
+in English
+
+155
+00:05:40,080 --> 00:05:44,220
+which was super weird ah that is kind of
+
+156
+00:05:44,220 --> 00:05:46,440
+odd you even wonder if like
+
+157
+00:05:46,440 --> 00:05:49,259
+it's some sort of scam it was some kind
+
+158
+00:05:49,259 --> 00:05:51,240
+of scam yeah but then it's like how when
+
+159
+00:05:51,240 --> 00:05:52,800
+I said would they get your phone number
+
+160
+00:05:52,800 --> 00:05:54,300
+if they were going to watch it exactly
+
+161
+00:05:54,300 --> 00:05:56,820
+everything exactly you know Steve Morrow
+
+162
+00:05:56,820 --> 00:05:58,800
+beat the market maker ain't exactly
+
+163
+00:05:58,800 --> 00:06:01,800
+exactly that's weird there's very weird
+
+164
+00:06:01,800 --> 00:06:04,020
+but anyway very weird obviously a sign
+
+165
+00:06:04,020 --> 00:06:06,360
+because you're here and this you know
+
+166
+00:06:06,360 --> 00:06:09,900
+yes if the guy's watching then hey you
+
+167
+00:06:09,900 --> 00:06:11,340
+know reach out in the comments and let
+
+168
+00:06:11,340 --> 00:06:13,919
+us know why and if you did that and who
+
+169
+00:06:13,919 --> 00:06:15,960
+was the sort of doppelganger Trader from
+
+170
+00:06:15,960 --> 00:06:17,220
+South Africa I don't think he even
+
+171
+00:06:17,220 --> 00:06:19,500
+remembers yeah
+
+172
+00:06:19,500 --> 00:06:22,979
+um okay so so um so you you you sort of
+
+173
+00:06:22,979 --> 00:06:25,380
+it's delved into things but didn't I
+
+174
+00:06:25,380 --> 00:06:27,780
+mean what what happened next
+
+175
+00:06:27,780 --> 00:06:31,500
+what happened next is that I studied for
+
+176
+00:06:31,500 --> 00:06:33,720
+about three months with the people in
+
+177
+00:06:33,720 --> 00:06:35,039
+that group
+
+178
+00:06:35,039 --> 00:06:40,319
+um uh btmm strategy it was very much um
+
+179
+00:06:40,319 --> 00:06:43,919
+indicator based uh that's what caught my
+
+180
+00:06:43,919 --> 00:06:46,080
+attention uh because it was indicator
+
+181
+00:06:46,080 --> 00:06:49,259
+based and I really like geometry
+
+182
+00:06:49,259 --> 00:06:52,560
+um so indicators all of that stuff it
+
+183
+00:06:52,560 --> 00:06:55,440
+looked very mathematical to me but then
+
+184
+00:06:55,440 --> 00:06:59,340
+when my boyfriend found ICT
+
+185
+00:06:59,340 --> 00:07:01,319
+um we started looking at uh you know
+
+186
+00:07:01,319 --> 00:07:03,240
+consuming his content on YouTube and
+
+187
+00:07:03,240 --> 00:07:06,380
+then I felt like trading with indicators
+
+188
+00:07:06,380 --> 00:07:11,100
+is uh not the best way to do it so then
+
+189
+00:07:11,100 --> 00:07:13,440
+I was very interested in looking at
+
+190
+00:07:13,440 --> 00:07:17,280
+naked charts I felt like uh that's what
+
+191
+00:07:17,280 --> 00:07:19,319
+the next stage would be in my developing
+
+192
+00:07:19,319 --> 00:07:22,860
+Journey so that's where I decided to
+
+193
+00:07:22,860 --> 00:07:26,160
+leave the group because I also came in
+
+194
+00:07:26,160 --> 00:07:29,099
+in that group with my own ideas you know
+
+195
+00:07:29,099 --> 00:07:30,780
+maybe we should use this indicator or
+
+196
+00:07:30,780 --> 00:07:32,340
+maybe we shouldn't rely on indicators
+
+197
+00:07:32,340 --> 00:07:34,080
+that much maybe we should look more at
+
+198
+00:07:34,080 --> 00:07:36,479
+naked charts and that wasn't really seen
+
+199
+00:07:36,479 --> 00:07:38,639
+with good eyes so then I decided that
+
+200
+00:07:38,639 --> 00:07:42,060
+it's time to you know part ways and uh
+
+201
+00:07:42,060 --> 00:07:45,720
+from that moment we studied ICT
+
+202
+00:07:45,720 --> 00:07:48,840
+uh on YouTube went into his mentorship
+
+203
+00:07:48,840 --> 00:07:51,599
+didn't finish it because of uh financial
+
+204
+00:07:51,599 --> 00:07:53,160
+difficulties
+
+205
+00:07:53,160 --> 00:07:57,419
+and then we just continued to study uh
+
+206
+00:07:57,419 --> 00:08:00,900
+from his YouTube from the free
+
+207
+00:08:00,900 --> 00:08:04,380
+um stuff that he had on YouTube and in
+
+208
+00:08:04,380 --> 00:08:06,900
+about six months I think
+
+209
+00:08:06,900 --> 00:08:10,380
+um we started applying it and when I
+
+210
+00:08:10,380 --> 00:08:12,900
+opened the charts uh I was like really
+
+211
+00:08:12,900 --> 00:08:15,720
+really eager to apply everything that I
+
+212
+00:08:15,720 --> 00:08:18,240
+believed that I understood took notes I
+
+213
+00:08:18,240 --> 00:08:21,120
+still have two big notebooks that are
+
+214
+00:08:21,120 --> 00:08:23,879
+that are filled with um uh with
+
+215
+00:08:23,879 --> 00:08:25,560
+indications and all the stuff that I
+
+216
+00:08:25,560 --> 00:08:27,360
+understood at that time but when I
+
+217
+00:08:27,360 --> 00:08:29,580
+started to apply it in uh in the markets
+
+218
+00:08:29,580 --> 00:08:31,919
+even in back testing
+
+219
+00:08:31,919 --> 00:08:34,580
+um the results were not as I expected
+
+220
+00:08:34,580 --> 00:08:37,620
+I'm not talking about results as in the
+
+221
+00:08:37,620 --> 00:08:40,559
+trade results but more like I didn't
+
+222
+00:08:40,559 --> 00:08:43,760
+feel like I was uh 100
+
+223
+00:08:43,760 --> 00:08:46,980
+sure of what I was doing I still felt
+
+224
+00:08:46,980 --> 00:08:49,860
+that I had doubts I still felt that I'm
+
+225
+00:08:49,860 --> 00:08:51,959
+not looking at the right things I still
+
+226
+00:08:51,959 --> 00:08:55,320
+felt like I'm uh not understanding
+
+227
+00:08:55,320 --> 00:08:58,260
+concepts correctly and I always always
+
+228
+00:08:58,260 --> 00:09:01,740
+had uh conflicting signals something
+
+229
+00:09:01,740 --> 00:09:03,839
+told me to buy something else told me to
+
+230
+00:09:03,839 --> 00:09:05,459
+sell at the same time
+
+231
+00:09:05,459 --> 00:09:08,100
+because I was trying to eat all the
+
+232
+00:09:08,100 --> 00:09:11,720
+candies yeah at one time
+
+233
+00:09:11,880 --> 00:09:13,320
+do you think it was part of like not
+
+234
+00:09:13,320 --> 00:09:16,860
+finishing the the paid mentorship no no
+
+235
+00:09:16,860 --> 00:09:19,500
+absolutely not I think that ict's
+
+236
+00:09:19,500 --> 00:09:22,140
+content regardless if we're talking
+
+237
+00:09:22,140 --> 00:09:24,660
+about paid mentorship or free YouTube
+
+238
+00:09:24,660 --> 00:09:26,580
+stuff I think that it's like an
+
+239
+00:09:26,580 --> 00:09:29,339
+encyclopedia it encompasses everything
+
+240
+00:09:29,339 --> 00:09:32,760
+that someone can know not that they need
+
+241
+00:09:32,760 --> 00:09:34,620
+to know but any everything that someone
+
+242
+00:09:34,620 --> 00:09:37,920
+can actually get to know uh retail you
+
+243
+00:09:37,920 --> 00:09:41,160
+know Wise about the markets but it may
+
+244
+00:09:41,160 --> 00:09:43,800
+be even more than retail but um
+
+245
+00:09:43,800 --> 00:09:46,260
+I always felt like a kid in the candy
+
+246
+00:09:46,260 --> 00:09:50,279
+store I wanted to eat you know basically
+
+247
+00:09:50,279 --> 00:09:52,080
+apply everything at the same time
+
+248
+00:09:52,080 --> 00:09:55,740
+because charts are like books full of
+
+249
+00:09:55,740 --> 00:09:58,380
+words and sentences and they will have a
+
+250
+00:09:58,380 --> 00:10:00,720
+certain meaning if you use them in a
+
+251
+00:10:00,720 --> 00:10:03,779
+certain context and I didn't see the
+
+252
+00:10:03,779 --> 00:10:05,820
+importance of context at that time so
+
+253
+00:10:05,820 --> 00:10:07,680
+that's why I wanted to use everything at
+
+254
+00:10:07,680 --> 00:10:09,839
+the same time and when you do that you
+
+255
+00:10:09,839 --> 00:10:10,620
+just
+
+256
+00:10:10,620 --> 00:10:12,899
+it's going to be a total mush in your
+
+257
+00:10:12,899 --> 00:10:15,420
+head yeah yeah and the results are going
+
+258
+00:10:15,420 --> 00:10:18,660
+to speak you know and so you did even
+
+259
+00:10:18,660 --> 00:10:20,279
+get past the back testing phase at that
+
+260
+00:10:20,279 --> 00:10:22,320
+point where you know you said before
+
+261
+00:10:22,320 --> 00:10:23,940
+that you couldn't even make it work in
+
+262
+00:10:23,940 --> 00:10:26,760
+back testing and how did that yes I did
+
+263
+00:10:26,760 --> 00:10:29,399
+I did practicing at some point when I
+
+264
+00:10:29,399 --> 00:10:32,459
+started to exclude stuff I decided to
+
+265
+00:10:32,459 --> 00:10:35,700
+use less of the concepts that I learned
+
+266
+00:10:35,700 --> 00:10:38,220
+uh from his content I decided to use
+
+267
+00:10:38,220 --> 00:10:39,660
+less and
+
+268
+00:10:39,660 --> 00:10:41,760
+um started to focus more on back testing
+
+269
+00:10:41,760 --> 00:10:44,040
+I said okay I'm just going to leave
+
+270
+00:10:44,040 --> 00:10:46,680
+um you know live trading uh set it aside
+
+271
+00:10:46,680 --> 00:10:49,200
+for uh for a few weeks maybe a few
+
+272
+00:10:49,200 --> 00:10:51,480
+months uh back testing started going out
+
+273
+00:10:51,480 --> 00:10:55,380
+pretty well but then when I uh felt
+
+274
+00:10:55,380 --> 00:10:57,420
+confident or that's what I thought at
+
+275
+00:10:57,420 --> 00:11:00,000
+that moment that I felt confident uh and
+
+276
+00:11:00,000 --> 00:11:01,140
+again
+
+277
+00:11:01,140 --> 00:11:03,720
+um increased My Equity uh through
+
+278
+00:11:03,720 --> 00:11:07,680
+depositing and I started trading live uh
+
+279
+00:11:07,680 --> 00:11:10,680
+it went good for about a month and then
+
+280
+00:11:10,680 --> 00:11:14,160
+it was not that good anymore because I
+
+281
+00:11:14,160 --> 00:11:18,000
+came back to my old habits of trying to
+
+282
+00:11:18,000 --> 00:11:20,279
+use everything at the same time thinking
+
+283
+00:11:20,279 --> 00:11:22,500
+that you know overconfidence right I
+
+284
+00:11:22,500 --> 00:11:24,660
+became overconfident and that really
+
+285
+00:11:24,660 --> 00:11:27,540
+hurt me because you said you you lost
+
+286
+00:11:27,540 --> 00:11:30,120
+your job and that was the sort of uh
+
+287
+00:11:30,120 --> 00:11:33,180
+Genesis for you you know yeah full-time
+
+288
+00:11:33,180 --> 00:11:34,620
+right I'm just going to do this so so
+
+289
+00:11:34,620 --> 00:11:36,300
+that at that point I'm guessing it was
+
+290
+00:11:36,300 --> 00:11:39,060
+before prop firms and uh you know oh
+
+291
+00:11:39,060 --> 00:11:40,640
+yeah
+
+292
+00:11:40,640 --> 00:11:42,779
+forever but I mean like before the
+
+293
+00:11:42,779 --> 00:11:45,839
+prevalence of them uh so you had to
+
+294
+00:11:45,839 --> 00:11:48,060
+deposit your own money and try and make
+
+295
+00:11:48,060 --> 00:11:52,140
+it work what I mean what kind of can you
+
+296
+00:11:52,140 --> 00:11:54,360
+sort of given us a typical week back
+
+297
+00:11:54,360 --> 00:11:56,279
+then like how many hours at the charts
+
+298
+00:11:56,279 --> 00:11:57,899
+how many trades are you taking
+
+299
+00:11:57,899 --> 00:12:02,040
+six hours a day at least six eight hours
+
+300
+00:12:02,040 --> 00:12:05,760
+a day I would literally be glued
+
+301
+00:12:05,760 --> 00:12:08,100
+to my computer yeah and when I say six
+
+302
+00:12:08,100 --> 00:12:11,820
+hours a day I say six hours a day
+
+303
+00:12:11,820 --> 00:12:15,140
+because my boyfriend was literally
+
+304
+00:12:15,140 --> 00:12:18,660
+ripping me away from the computer I
+
+305
+00:12:18,660 --> 00:12:21,420
+became obsessed especially because after
+
+306
+00:12:21,420 --> 00:12:23,100
+I got fired from my old job and it
+
+307
+00:12:23,100 --> 00:12:24,779
+happened because of trading because I
+
+308
+00:12:24,779 --> 00:12:27,360
+was uh not drinking the results that I
+
+309
+00:12:27,360 --> 00:12:29,940
+was anymore because I started to look
+
+310
+00:12:29,940 --> 00:12:32,279
+into trading it felt more interesting to
+
+311
+00:12:32,279 --> 00:12:34,800
+me and instead of being at the job doing
+
+312
+00:12:34,800 --> 00:12:36,779
+what I was supposed to do at the job I
+
+313
+00:12:36,779 --> 00:12:38,579
+was looking at charts all day
+
+314
+00:12:38,579 --> 00:12:42,620
+and um yeah eventually that got me fired
+
+315
+00:12:42,620 --> 00:12:45,060
+but it was you know
+
+316
+00:12:45,060 --> 00:12:47,279
+it was a good a good thing that happened
+
+317
+00:12:47,279 --> 00:12:49,620
+now looking back it's a good thing it's
+
+318
+00:12:49,620 --> 00:12:51,720
+the best one that happened yeah exactly
+
+319
+00:12:51,720 --> 00:12:54,060
+well I mean yeah so six hours a day and
+
+320
+00:12:54,060 --> 00:12:56,279
+how many trades would you place in that
+
+321
+00:12:56,279 --> 00:12:57,600
+six hour period when you were doing
+
+322
+00:12:57,600 --> 00:12:59,160
+things you know when that month that it
+
+323
+00:12:59,160 --> 00:13:01,800
+worked well versus the month that things
+
+324
+00:13:01,800 --> 00:13:04,860
+started to go pear-shaped
+
+325
+00:13:04,860 --> 00:13:08,880
+I started to have bad results again when
+
+326
+00:13:08,880 --> 00:13:11,760
+I started to look at many pairs the
+
+327
+00:13:11,760 --> 00:13:15,060
+number of Trades increased because I
+
+328
+00:13:15,060 --> 00:13:17,579
+would look at more pairs previously I
+
+329
+00:13:17,579 --> 00:13:19,680
+would only look at Euro USD and GBP USD
+
+330
+00:13:19,680 --> 00:13:22,079
+which is what all ICT students have
+
+331
+00:13:22,079 --> 00:13:23,579
+started with because that's what he was
+
+332
+00:13:23,579 --> 00:13:26,160
+trading at the time uh and I did good
+
+333
+00:13:26,160 --> 00:13:28,260
+while I was focusing only on one two
+
+334
+00:13:28,260 --> 00:13:29,399
+pairs
+
+335
+00:13:29,399 --> 00:13:31,380
+um but then when I said yeah you know
+
+336
+00:13:31,380 --> 00:13:33,660
+what why not apply this because it works
+
+337
+00:13:33,660 --> 00:13:36,839
+why not just you know scale and apply it
+
+338
+00:13:36,839 --> 00:13:38,880
+on many pairs and that's where the focus
+
+339
+00:13:38,880 --> 00:13:40,860
+starts to
+
+340
+00:13:40,860 --> 00:13:44,579
+shatter because now I was without
+
+341
+00:13:44,579 --> 00:13:48,120
+actually realizing I was uh chasing
+
+342
+00:13:48,120 --> 00:13:50,360
+quantity instead of quality
+
+343
+00:13:50,360 --> 00:13:53,579
+and uh the number of Trades started to
+
+344
+00:13:53,579 --> 00:13:56,579
+increase of course because I was not
+
+345
+00:13:56,579 --> 00:13:58,980
+focused anymore on doing a proper
+
+346
+00:13:58,980 --> 00:14:01,560
+analysis anything was everything was
+
+347
+00:14:01,560 --> 00:14:03,720
+happening quite fast okay well I think
+
+348
+00:14:03,720 --> 00:14:05,100
+this is going to do this so let's buy
+
+349
+00:14:05,100 --> 00:14:06,839
+okay and this is going to do that let's
+
+350
+00:14:06,839 --> 00:14:10,200
+sell sometimes I would even put like
+
+351
+00:14:10,200 --> 00:14:13,200
+let's say I would take a Buy on GBP USD
+
+352
+00:14:13,200 --> 00:14:16,680
+and then on GBP JPY on GBP AUD also
+
+353
+00:14:16,680 --> 00:14:18,120
+because I thought well you know what
+
+354
+00:14:18,120 --> 00:14:20,339
+they are just correlated so let's just
+
+355
+00:14:20,339 --> 00:14:23,820
+over trade over risk not make a proper
+
+356
+00:14:23,820 --> 00:14:28,260
+analysis and uh I started having
+
+357
+00:14:28,260 --> 00:14:31,980
+good results with about maybe two three
+
+358
+00:14:31,980 --> 00:14:35,399
+setups a day on two pairs Euro USD and
+
+359
+00:14:35,399 --> 00:14:37,920
+GBP USD when one had something and the
+
+360
+00:14:37,920 --> 00:14:39,300
+other one didn't I would trade the one
+
+361
+00:14:39,300 --> 00:14:41,760
+that had didn't trade both at the same
+
+362
+00:14:41,760 --> 00:14:44,100
+time but then when I started to you know
+
+363
+00:14:44,100 --> 00:14:45,959
+in my head scale up
+
+364
+00:14:45,959 --> 00:14:48,899
+for the good but actually not uh I
+
+365
+00:14:48,899 --> 00:14:50,639
+reached about
+
+366
+00:14:50,639 --> 00:14:54,740
+10 20 30 trades a day it was awful
+
+367
+00:14:54,740 --> 00:14:56,519
+[Music]
+
+368
+00:14:56,519 --> 00:14:58,680
+right folks I'm here at the Blackpool
+
+369
+00:14:58,680 --> 00:15:00,480
+markets headquarters up in Auckland New
+
+370
+00:15:00,480 --> 00:15:01,920
+Zealand and I'm standing in front of the
+
+371
+00:15:01,920 --> 00:15:03,660
+whiskey bar now if you like that kind of
+
+372
+00:15:03,660 --> 00:15:05,940
+selection you're going to love the 26
+
+373
+00:15:05,940 --> 00:15:08,459
+000 tradable assets from Forex cryptos
+
+374
+00:15:08,459 --> 00:15:10,800
+indices stocks you name it they've got
+
+375
+00:15:10,800 --> 00:15:12,380
+it so folks go and check them out at
+
+376
+00:15:12,380 --> 00:15:14,279
+blackballmarkets.com or click the link
+
+377
+00:15:14,279 --> 00:15:18,019
+under the video or in the card above
+
+378
+00:15:18,720 --> 00:15:20,880
+and so so with with these like I mean
+
+379
+00:15:20,880 --> 00:15:22,440
+when you had this strategy that was
+
+380
+00:15:22,440 --> 00:15:24,120
+working and I suppose even where you
+
+381
+00:15:24,120 --> 00:15:26,279
+evolved to and what you're doing now
+
+382
+00:15:26,279 --> 00:15:28,680
+what was sort of like maybe two or three
+
+383
+00:15:28,680 --> 00:15:31,199
+of the key components that factor into
+
+384
+00:15:31,199 --> 00:15:34,260
+that from the ICT arsenal of you know
+
+385
+00:15:34,260 --> 00:15:36,240
+12-month mentorship kind of kind of
+
+386
+00:15:36,240 --> 00:15:38,339
+thing what were the the three things you
+
+387
+00:15:38,339 --> 00:15:40,680
+found that like the most powerful
+
+388
+00:15:40,680 --> 00:15:43,139
+to put into a strategy from the from the
+
+389
+00:15:43,139 --> 00:15:45,180
+mentorship I don't think that I got to
+
+390
+00:15:45,180 --> 00:15:46,980
+consume
+
+391
+00:15:46,980 --> 00:15:48,660
+um as much as I needed from the paid
+
+392
+00:15:48,660 --> 00:15:51,660
+mentorship uh to be able to extract
+
+393
+00:15:51,660 --> 00:15:54,060
+something from it because like I said
+
+394
+00:15:54,060 --> 00:15:57,060
+I've only been in it not personally but
+
+395
+00:15:57,060 --> 00:15:59,519
+I've only watched it like the first four
+
+396
+00:15:59,519 --> 00:16:01,800
+months uh order blocks have always
+
+397
+00:16:01,800 --> 00:16:04,860
+attracted me but I then realized
+
+398
+00:16:04,860 --> 00:16:07,260
+afterwards that uh when I started you
+
+399
+00:16:07,260 --> 00:16:08,940
+know filtering the information out I
+
+400
+00:16:08,940 --> 00:16:11,760
+realized that I was I thought that I was
+
+401
+00:16:11,760 --> 00:16:13,519
+attracted to order blocks simply because
+
+402
+00:16:13,519 --> 00:16:16,139
+everywhere you would look for how to
+
+403
+00:16:16,139 --> 00:16:18,420
+trade you would find order blocks so it
+
+404
+00:16:18,420 --> 00:16:19,980
+was like something fashionable yeah
+
+405
+00:16:19,980 --> 00:16:21,959
+let's get into it because everyone jumps
+
+406
+00:16:21,959 --> 00:16:24,600
+into this bandwagon
+
+407
+00:16:24,600 --> 00:16:28,860
+um but um I actually found and my entire
+
+408
+00:16:28,860 --> 00:16:31,740
+trading strategy is based on
+
+409
+00:16:31,740 --> 00:16:34,620
+his free content
+
+410
+00:16:34,620 --> 00:16:36,480
+and that was the frequency before the
+
+411
+00:16:36,480 --> 00:16:39,480
+before the premium yeah yeah yeah yeah
+
+412
+00:16:39,480 --> 00:16:40,380
+yeah yeah
+
+413
+00:16:40,380 --> 00:16:42,139
+it was it was yeah
+
+414
+00:16:42,139 --> 00:16:45,060
+I find that people do have have managed
+
+415
+00:16:45,060 --> 00:16:47,160
+to get a lot out of those free videos
+
+416
+00:16:47,160 --> 00:16:48,959
+that uh that he put out like you know
+
+417
+00:16:48,959 --> 00:16:51,720
+not that many but enough to do some
+
+418
+00:16:51,720 --> 00:16:56,100
+damage yes it yeah it's a it's a hard
+
+419
+00:16:56,100 --> 00:16:59,459
+path to follow when you want to you know
+
+420
+00:16:59,459 --> 00:17:01,500
+just study his uh YouTube content
+
+421
+00:17:01,500 --> 00:17:03,360
+because it's you don't know what to
+
+422
+00:17:03,360 --> 00:17:06,599
+start with uh there there's not a an
+
+423
+00:17:06,599 --> 00:17:08,699
+actual structure this is phase one phase
+
+424
+00:17:08,699 --> 00:17:10,500
+two phase three you need to start with
+
+425
+00:17:10,500 --> 00:17:12,299
+this and first learn the basics and then
+
+426
+00:17:12,299 --> 00:17:14,339
+uh you know learn more about those
+
+427
+00:17:14,339 --> 00:17:16,919
+things and then start to apply them make
+
+428
+00:17:16,919 --> 00:17:20,579
+yourselves uh a trading plan uh YouTube
+
+429
+00:17:20,579 --> 00:17:23,640
+doesn't have that and you're uh let's
+
+430
+00:17:23,640 --> 00:17:27,419
+say enticed into using or consuming
+
+431
+00:17:27,419 --> 00:17:31,280
+everything randomly yeah so that
+
+432
+00:17:31,280 --> 00:17:36,000
+delays the a proper understanding but it
+
+433
+00:17:36,000 --> 00:17:37,860
+was one video that actually clicked for
+
+434
+00:17:37,860 --> 00:17:41,039
+me from his YouTube only one do you
+
+435
+00:17:41,039 --> 00:17:42,360
+remember do you remember which one that
+
+436
+00:17:42,360 --> 00:17:45,120
+was what was it about I've seen it at
+
+437
+00:17:45,120 --> 00:17:49,559
+least 30 times the videos title is uh
+
+438
+00:17:49,559 --> 00:17:54,440
+liquidity purging revert right okay okay
+
+439
+00:17:54,440 --> 00:17:57,480
+yeah and is that when things started to
+
+440
+00:17:57,480 --> 00:17:59,640
+to click for you after that sort of down
+
+441
+00:17:59,640 --> 00:18:00,840
+period yes
+
+442
+00:18:00,840 --> 00:18:05,240
+exactly after that video I said oh
+
+443
+00:18:05,240 --> 00:18:09,360
+okay this is what I need to do
+
+444
+00:18:09,360 --> 00:18:12,900
+this is and from that moment
+
+445
+00:18:12,900 --> 00:18:16,020
+I don't know it just it's different did
+
+446
+00:18:16,020 --> 00:18:17,640
+you then bet did you then back test that
+
+447
+00:18:17,640 --> 00:18:20,820
+and sort of changes okay I didn't I
+
+448
+00:18:20,820 --> 00:18:22,440
+started back testing but I've actually
+
+449
+00:18:22,440 --> 00:18:24,360
+started to
+
+450
+00:18:24,360 --> 00:18:26,460
+um uh
+
+451
+00:18:26,460 --> 00:18:28,980
+more like go back in the charts not do
+
+452
+00:18:28,980 --> 00:18:31,620
+actual back testing but to go back in
+
+453
+00:18:31,620 --> 00:18:34,020
+the chart and see my understanding from
+
+454
+00:18:34,020 --> 00:18:36,720
+the video would apply yeah and I just
+
+455
+00:18:36,720 --> 00:18:38,520
+couldn't believe my eyes when I saw that
+
+456
+00:18:38,520 --> 00:18:40,860
+so then I said I spent about I think two
+
+457
+00:18:40,860 --> 00:18:45,299
+months till uh trying to figure out uh a
+
+458
+00:18:45,299 --> 00:18:47,520
+rule-based strategy because I I needed
+
+459
+00:18:47,520 --> 00:18:50,280
+rules I needed step-by-step plan and my
+
+460
+00:18:50,280 --> 00:18:51,600
+mind is
+
+461
+00:18:51,600 --> 00:18:53,700
+um constructed in such a way that I
+
+462
+00:18:53,700 --> 00:18:55,860
+always need a step-by-step plan anything
+
+463
+00:18:55,860 --> 00:18:58,020
+I do I need to know this is the first
+
+464
+00:18:58,020 --> 00:18:59,640
+thing that I need to do this is the fact
+
+465
+00:18:59,640 --> 00:19:01,740
+the second this is the third and if I
+
+466
+00:19:01,740 --> 00:19:03,660
+don't have the second then I'm still at
+
+467
+00:19:03,660 --> 00:19:07,380
+stage one I don't I cannot go directly
+
+468
+00:19:07,380 --> 00:19:10,320
+to step three that's what I've actually
+
+469
+00:19:10,320 --> 00:19:12,960
+spent time in figuring out how to do it
+
+470
+00:19:12,960 --> 00:19:16,559
+at first I was using some indicators
+
+471
+00:19:16,559 --> 00:19:17,220
+um
+
+472
+00:19:17,220 --> 00:19:20,220
+uh and then I ditched them as I started
+
+473
+00:19:20,220 --> 00:19:21,960
+to understand more price action and
+
+474
+00:19:21,960 --> 00:19:23,820
+focusing more on price action the
+
+475
+00:19:23,820 --> 00:19:26,039
+indicators you know disappeared from my
+
+476
+00:19:26,039 --> 00:19:28,260
+charts and now I just trade with uh
+
+477
+00:19:28,260 --> 00:19:30,000
+rectangles
+
+478
+00:19:30,000 --> 00:19:31,500
+lines
+
+479
+00:19:31,500 --> 00:19:33,299
+not trend lines
+
+480
+00:19:33,299 --> 00:19:35,580
+uh and the bear chart and that's it I
+
+481
+00:19:35,580 --> 00:19:38,039
+only focus on what happens right now in
+
+482
+00:19:38,039 --> 00:19:39,120
+front of me
+
+483
+00:19:39,120 --> 00:19:41,460
+and how many steps in your step-by-step
+
+484
+00:19:41,460 --> 00:19:42,919
+plan
+
+485
+00:19:42,919 --> 00:19:44,640
+uh
+
+486
+00:19:44,640 --> 00:19:47,520
+if I were to count the parts that takes
+
+487
+00:19:47,520 --> 00:19:49,679
+less than 30 seconds to identify what is
+
+488
+00:19:49,679 --> 00:19:51,620
+the actual the overall Market bias
+
+489
+00:19:51,620 --> 00:19:54,299
+whether we're bullish or bearish if I
+
+490
+00:19:54,299 --> 00:19:57,000
+were to include that one also so I'd
+
+491
+00:19:57,000 --> 00:19:59,400
+have the bias I'd have the point of
+
+492
+00:19:59,400 --> 00:20:01,919
+interest on the word time frame uh and
+
+493
+00:20:01,919 --> 00:20:03,840
+then for the actual entry setup
+
+494
+00:20:03,840 --> 00:20:05,760
+candidate
+
+495
+00:20:05,760 --> 00:20:07,980
+imbalance
+
+496
+00:20:07,980 --> 00:20:11,160
+uh three steps only three okay three
+
+497
+00:20:11,160 --> 00:20:13,740
+steps three steps is like a two
+
+498
+00:20:13,740 --> 00:20:16,380
+Candlestick uh model let's say yeah but
+
+499
+00:20:16,380 --> 00:20:18,840
+yes just that okay cool word so yeah
+
+500
+00:20:18,840 --> 00:20:20,280
+three is easy to remember I think it was
+
+501
+00:20:20,280 --> 00:20:24,360
+I was picturing 30. so no
+
+502
+00:20:24,360 --> 00:20:27,780
+um yeah it was five previously but then
+
+503
+00:20:27,780 --> 00:20:31,020
+you know understanding the markets has
+
+504
+00:20:31,020 --> 00:20:33,660
+levels
+
+505
+00:20:33,660 --> 00:20:36,299
+so when you understand another level you
+
+506
+00:20:36,299 --> 00:20:38,940
+just simplify it even more okay and what
+
+507
+00:20:38,940 --> 00:20:40,980
+when you say it has levels what do you
+
+508
+00:20:40,980 --> 00:20:42,360
+mean by that
+
+509
+00:20:42,360 --> 00:20:44,580
+I mean that
+
+510
+00:20:44,580 --> 00:20:46,679
+um my strategy was not perfect
+
+511
+00:20:46,679 --> 00:20:49,080
+three months ago but now I feel like it
+
+512
+00:20:49,080 --> 00:20:49,860
+is
+
+513
+00:20:49,860 --> 00:20:52,260
+uh and um
+
+514
+00:20:52,260 --> 00:20:54,360
+even though I've used my strategy for
+
+515
+00:20:54,360 --> 00:20:56,340
+like the past two years two years and a
+
+516
+00:20:56,340 --> 00:20:59,340
+half in the form in which it was two
+
+517
+00:20:59,340 --> 00:21:01,200
+three months ago
+
+518
+00:21:01,200 --> 00:21:04,440
+um it was not perfect and I've felt like
+
+519
+00:21:04,440 --> 00:21:06,480
+it needed some improvement
+
+520
+00:21:06,480 --> 00:21:09,539
+in regards to the risk reward ratio
+
+521
+00:21:09,539 --> 00:21:11,460
+because sometimes my stop loss was a bit
+
+522
+00:21:11,460 --> 00:21:16,080
+bigger uh than my actual first DP but
+
+523
+00:21:16,080 --> 00:21:17,039
+then
+
+524
+00:21:17,039 --> 00:21:19,440
+I've found a way to improve it after
+
+525
+00:21:19,440 --> 00:21:21,000
+I've
+
+526
+00:21:21,000 --> 00:21:23,460
+you know leveled up another layer of
+
+527
+00:21:23,460 --> 00:21:25,679
+understanding so it's it's levels to
+
+528
+00:21:25,679 --> 00:21:27,480
+understanding the markets you think you
+
+529
+00:21:27,480 --> 00:21:29,640
+understand something but then you
+
+530
+00:21:29,640 --> 00:21:31,679
+understand it even more and you have
+
+531
+00:21:31,679 --> 00:21:33,780
+another aha moment to your previously
+
+532
+00:21:33,780 --> 00:21:35,280
+aha moment
+
+533
+00:21:35,280 --> 00:21:38,039
+and uh and so how did that turn around
+
+534
+00:21:38,039 --> 00:21:40,679
+feel for you and what was sort of like
+
+535
+00:21:40,679 --> 00:21:45,000
+the The Experience can you explain that
+
+536
+00:21:45,000 --> 00:21:49,080
+uh that that made me go from the um
+
+537
+00:21:49,080 --> 00:21:52,620
+imperfect sort of yeah so basically we
+
+538
+00:21:52,620 --> 00:21:54,960
+transition from you know like losing
+
+539
+00:21:54,960 --> 00:21:56,760
+Trader to profitable Trader how did that
+
+540
+00:21:56,760 --> 00:21:58,740
+transition happen was it like a
+
+541
+00:21:58,740 --> 00:22:00,659
+instantaneous thing where you just you
+
+542
+00:22:00,659 --> 00:22:02,400
+know all of a suddenly you started you
+
+543
+00:22:02,400 --> 00:22:04,140
+know winning trades after trade and and
+
+544
+00:22:04,140 --> 00:22:05,640
+they're growing the account consistently
+
+545
+00:22:05,640 --> 00:22:09,780
+or was it you mean you mean back then
+
+546
+00:22:09,780 --> 00:22:12,419
+back then yeah back then
+
+547
+00:22:12,419 --> 00:22:15,320
+um no it was just a I I didn't notice
+
+548
+00:22:15,320 --> 00:22:19,200
+that I started to make actual profit I
+
+549
+00:22:19,200 --> 00:22:20,940
+was focusing not on making profits
+
+550
+00:22:20,940 --> 00:22:22,740
+anymore when I started focusing on the
+
+551
+00:22:22,740 --> 00:22:25,140
+process itself of me being disciplined
+
+552
+00:22:25,140 --> 00:22:27,419
+of me following a set of rules even
+
+553
+00:22:27,419 --> 00:22:29,400
+though the set of rules was was still
+
+554
+00:22:29,400 --> 00:22:30,960
+being built
+
+555
+00:22:30,960 --> 00:22:32,520
+um even though
+
+556
+00:22:32,520 --> 00:22:36,480
+um I I still didn't control my emotions
+
+557
+00:22:36,480 --> 00:22:39,600
+I didn't master myself I still don't
+
+558
+00:22:39,600 --> 00:22:41,220
+master myself the way that I would want
+
+559
+00:22:41,220 --> 00:22:42,780
+to master myself but
+
+560
+00:22:42,780 --> 00:22:44,880
+you know it's a continuous learning
+
+561
+00:22:44,880 --> 00:22:46,260
+process
+
+562
+00:22:46,260 --> 00:22:48,840
+um but it was actually a
+
+563
+00:22:48,840 --> 00:22:52,320
+a process oriented thing I was focusing
+
+564
+00:22:52,320 --> 00:22:55,020
+on what happens in the chart didn't care
+
+565
+00:22:55,020 --> 00:22:57,120
+about the Pips didn't care about the
+
+566
+00:22:57,120 --> 00:22:59,700
+money if I made money
+
+567
+00:22:59,700 --> 00:23:01,799
+um because then we you know
+
+568
+00:23:01,799 --> 00:23:04,260
+we were a little better financially
+
+569
+00:23:04,260 --> 00:23:06,120
+speaking so I didn't felt that pressure
+
+570
+00:23:06,120 --> 00:23:08,640
+anymore oh we need to make money I need
+
+571
+00:23:08,640 --> 00:23:11,220
+to make money because I'm at a job and I
+
+572
+00:23:11,220 --> 00:23:13,080
+need to bring money somehow into the
+
+573
+00:23:13,080 --> 00:23:15,960
+household uh things started to go a bit
+
+574
+00:23:15,960 --> 00:23:18,720
+better for us and uh that pressure
+
+575
+00:23:18,720 --> 00:23:20,940
+disappeared and uh
+
+576
+00:23:20,940 --> 00:23:25,020
+I I was again able to focus on the
+
+577
+00:23:25,020 --> 00:23:28,020
+process on me waiting for something
+
+578
+00:23:28,020 --> 00:23:30,000
+specific to happen
+
+579
+00:23:30,000 --> 00:23:31,620
+and then I
+
+580
+00:23:31,620 --> 00:23:34,500
+I just didn't care about the profit that
+
+581
+00:23:34,500 --> 00:23:37,080
+I made at the end of the week when I
+
+582
+00:23:37,080 --> 00:23:39,480
+looked at how much profit I made I said
+
+583
+00:23:39,480 --> 00:23:42,120
+oh I mean two percent that's good it's
+
+584
+00:23:42,120 --> 00:23:44,400
+good and two percent was nothing at that
+
+585
+00:23:44,400 --> 00:23:45,659
+time because my account balance was
+
+586
+00:23:45,659 --> 00:23:46,620
+small
+
+587
+00:23:46,620 --> 00:23:48,120
+and so if you had to like sort of break
+
+588
+00:23:48,120 --> 00:23:49,980
+down and you know you said you're doing
+
+589
+00:23:49,980 --> 00:23:51,900
+six hours at the charts and you know
+
+590
+00:23:51,900 --> 00:23:53,880
+you're trading multiple Pairs and that
+
+591
+00:23:53,880 --> 00:23:57,360
+sort of fell down uh what were you doing
+
+592
+00:23:57,360 --> 00:24:00,539
+when you were like two percent for the
+
+593
+00:24:00,539 --> 00:24:02,940
+week great what was it what was it what
+
+594
+00:24:02,940 --> 00:24:05,220
+was the change in time of the charts and
+
+595
+00:24:05,220 --> 00:24:08,400
+or markets trading a number of Trades
+
+596
+00:24:08,400 --> 00:24:12,480
+uh focusing only on Euro USD uh only
+
+597
+00:24:12,480 --> 00:24:16,080
+your USD because my my major losses
+
+598
+00:24:16,080 --> 00:24:19,140
+happened always on GBP USD even when I
+
+599
+00:24:19,140 --> 00:24:22,679
+was trading only those two pairs uh then
+
+600
+00:24:22,679 --> 00:24:25,020
+when I started to trade everything it
+
+601
+00:24:25,020 --> 00:24:27,600
+was a total catastrophe and then I
+
+602
+00:24:27,600 --> 00:24:30,000
+restarted focusing again only on Euro
+
+603
+00:24:30,000 --> 00:24:32,520
+USD so when I did that
+
+604
+00:24:32,520 --> 00:24:35,039
+um you know my focus became very sharp
+
+605
+00:24:35,039 --> 00:24:39,120
+only at one thing and um a normal
+
+606
+00:24:39,120 --> 00:24:40,980
+trading day would look like I would wake
+
+607
+00:24:40,980 --> 00:24:44,280
+up uh wait for about two hours after I
+
+608
+00:24:44,280 --> 00:24:46,020
+wake up for the London fuel Zone to
+
+609
+00:24:46,020 --> 00:24:48,720
+start uh I'm sure that the listeners
+
+610
+00:24:48,720 --> 00:24:50,520
+know what a Killzone is I think they
+
+611
+00:24:50,520 --> 00:24:52,020
+will nail because I think that the one
+
+612
+00:24:52,020 --> 00:24:53,820
+I'm releasing in a couple of hours is
+
+613
+00:24:53,820 --> 00:24:55,919
+all about the Cool Zone yeah the kill
+
+614
+00:24:55,919 --> 00:24:59,100
+zones yeah okay so um uh wait for the
+
+615
+00:24:59,100 --> 00:25:00,900
+Killzone to start and then just focus
+
+616
+00:25:00,900 --> 00:25:02,880
+two three hours from the London Kill
+
+617
+00:25:02,880 --> 00:25:05,640
+Zone and then if I have time
+
+618
+00:25:05,640 --> 00:25:07,559
+two three hours again on the New York
+
+619
+00:25:07,559 --> 00:25:10,260
+Kill Zone but not necessarily placing
+
+620
+00:25:10,260 --> 00:25:13,020
+trades because previously this is this
+
+621
+00:25:13,020 --> 00:25:15,000
+was what I was doing I felt like if the
+
+622
+00:25:15,000 --> 00:25:17,400
+market moved 12 Pips
+
+623
+00:25:17,400 --> 00:25:21,179
+to the downside I I I I I needed to be
+
+624
+00:25:21,179 --> 00:25:22,200
+in that
+
+625
+00:25:22,200 --> 00:25:25,500
+a move you know uh and then if there's a
+
+626
+00:25:25,500 --> 00:25:27,659
+pullback of eight eight Pips I need to
+
+627
+00:25:27,659 --> 00:25:29,580
+benefit from that so that's
+
+628
+00:25:29,580 --> 00:25:32,640
+how my mentality was previous to that
+
+629
+00:25:32,640 --> 00:25:35,480
+but now I wanted to focus only on having
+
+630
+00:25:35,480 --> 00:25:39,480
+one setup if I can have one good trade
+
+631
+00:25:39,480 --> 00:25:43,020
+in a session I don't need more and
+
+632
+00:25:43,020 --> 00:25:44,640
+that's actually the thing that changed
+
+633
+00:25:44,640 --> 00:25:47,340
+so focusing on only one pair back to one
+
+634
+00:25:47,340 --> 00:25:49,740
+pair and
+
+635
+00:25:49,740 --> 00:25:53,039
+two three hours per session but wait for
+
+636
+00:25:53,039 --> 00:25:55,620
+one single setup don't feel like if
+
+637
+00:25:55,620 --> 00:25:58,260
+markets it's dropping you need to be in
+
+638
+00:25:58,260 --> 00:26:01,380
+that trade no okay it's dropping I'll
+
+639
+00:26:01,380 --> 00:26:05,880
+wait for a pullback and then you know or
+
+640
+00:26:05,880 --> 00:26:08,880
+I'll wait for a reversal yeah and so so
+
+641
+00:26:08,880 --> 00:26:12,419
+uh if you look at your stats now
+
+642
+00:26:12,419 --> 00:26:14,340
+um say for example the past month I mean
+
+643
+00:26:14,340 --> 00:26:15,799
+what would you
+
+644
+00:26:15,799 --> 00:26:19,320
+how's your win rate look and if you see
+
+645
+00:26:19,320 --> 00:26:21,179
+it risk to reward per trade how does
+
+646
+00:26:21,179 --> 00:26:24,480
+that look what are those two for the
+
+647
+00:26:24,480 --> 00:26:26,340
+best month my win rate someone was
+
+648
+00:26:26,340 --> 00:26:29,400
+asking me yesterday on Instagram for the
+
+649
+00:26:29,400 --> 00:26:32,520
+past month my win rate has been 93 I
+
+650
+00:26:32,520 --> 00:26:35,640
+didn't have that much traits
+
+651
+00:26:35,640 --> 00:26:38,460
+um only trading one single pair now I've
+
+652
+00:26:38,460 --> 00:26:40,679
+transitioned to trading all the gold and
+
+653
+00:26:40,679 --> 00:26:43,380
+I've been doing this for one year one
+
+654
+00:26:43,380 --> 00:26:44,940
+year and a half
+
+655
+00:26:44,940 --> 00:26:46,980
+been trading mode for quite some time
+
+656
+00:26:46,980 --> 00:26:48,840
+yeah
+
+657
+00:26:48,840 --> 00:26:50,760
+um and
+
+658
+00:26:50,760 --> 00:26:53,760
+not too many trades usually one maybe
+
+659
+00:26:53,760 --> 00:26:55,860
+two trades a day if I trade both
+
+660
+00:26:55,860 --> 00:26:58,320
+sessions London and New York usually I
+
+661
+00:26:58,320 --> 00:27:01,020
+don't trade both sessions because if I
+
+662
+00:27:01,020 --> 00:27:04,620
+if I take a setup on London I feel like
+
+663
+00:27:04,620 --> 00:27:06,659
+I've
+
+664
+00:27:06,659 --> 00:27:08,279
+I don't need to be in front of charts
+
+665
+00:27:08,279 --> 00:27:10,679
+anymore I want to enjoy more the other
+
+666
+00:27:10,679 --> 00:27:13,380
+things that become available to us you
+
+667
+00:27:13,380 --> 00:27:14,640
+know yeah
+
+668
+00:27:14,640 --> 00:27:16,080
+um when you start to know what you're
+
+669
+00:27:16,080 --> 00:27:19,140
+doing in the charts and
+
+670
+00:27:19,140 --> 00:27:22,799
+risk reward previously when my strategy
+
+671
+00:27:22,799 --> 00:27:25,260
+was imperfect it was
+
+672
+00:27:25,260 --> 00:27:26,820
+um I would risk more than I would
+
+673
+00:27:26,820 --> 00:27:29,520
+actually aim to take profit so my risk
+
+674
+00:27:29,520 --> 00:27:32,100
+reward was negative but my win rate was
+
+675
+00:27:32,100 --> 00:27:35,340
+also good however right now I don't aim
+
+676
+00:27:35,340 --> 00:27:37,200
+for something less than one to one if I
+
+677
+00:27:37,200 --> 00:27:38,820
+have one to one doesn't matter if it's
+
+678
+00:27:38,820 --> 00:27:40,380
+going to be 10 tips doesn't matter if
+
+679
+00:27:40,380 --> 00:27:43,679
+it's going to be 15 or 20 or 30 if it's
+
+680
+00:27:43,679 --> 00:27:45,600
+30 Pips for example
+
+681
+00:27:45,600 --> 00:27:48,299
+um dirty bib stop loss I would aim for a
+
+682
+00:27:48,299 --> 00:27:52,020
+30 bips TP but I've made like a golden
+
+683
+00:27:52,020 --> 00:27:54,779
+rule for myself and this has been the
+
+684
+00:27:54,779 --> 00:27:57,000
+best decision that I've ever taken I
+
+685
+00:27:57,000 --> 00:28:01,440
+think is to take most of my position off
+
+686
+00:28:01,440 --> 00:28:05,159
+at 20 Pips so I still do that yeah yeah
+
+687
+00:28:05,159 --> 00:28:08,520
+so even though my stop loss is 30 my TP
+
+688
+00:28:08,520 --> 00:28:10,980
+is going to be 30 at least 30. I don't
+
+689
+00:28:10,980 --> 00:28:13,380
+use TP usually I just might manually
+
+690
+00:28:13,380 --> 00:28:16,140
+close partial but I would still take
+
+691
+00:28:16,140 --> 00:28:19,740
+most of my um trade off at 20 Pips okay
+
+692
+00:28:19,740 --> 00:28:20,940
+so it's like something that I've been
+
+693
+00:28:20,940 --> 00:28:23,100
+doing yeah any you like moving a stop at
+
+694
+00:28:23,100 --> 00:28:25,500
+that point or I believe the stop loss at
+
+695
+00:28:25,500 --> 00:28:27,000
+break-even yeah I move the stop loss to
+
+696
+00:28:27,000 --> 00:28:28,919
+break even after that and then if it
+
+697
+00:28:28,919 --> 00:28:30,600
+takes me out I don't care because I made
+
+698
+00:28:30,600 --> 00:28:32,580
+money if it doesn't take me out and it
+
+699
+00:28:32,580 --> 00:28:34,440
+continues to go higher I'm not going to
+
+700
+00:28:34,440 --> 00:28:36,419
+feel mad previously I would feel mad oh
+
+701
+00:28:36,419 --> 00:28:38,340
+my God so stupid why did I close the
+
+702
+00:28:38,340 --> 00:28:39,600
+trade because I could have made so much
+
+703
+00:28:39,600 --> 00:28:42,360
+more money but now I just realized that
+
+704
+00:28:42,360 --> 00:28:44,880
+I don't have to do that because when you
+
+705
+00:28:44,880 --> 00:28:46,740
+find consistency you're going to make
+
+706
+00:28:46,740 --> 00:28:48,179
+money from
+
+707
+00:28:48,179 --> 00:28:51,120
+um you know trading more uh you know
+
+708
+00:28:51,120 --> 00:28:52,740
+more of your trades are going to be
+
+709
+00:28:52,740 --> 00:28:54,720
+quality trades so it doesn't matter
+
+710
+00:28:54,720 --> 00:28:58,200
+because now I don't feel like oh
+
+711
+00:28:58,200 --> 00:29:00,960
+um I took three losing trades so I need
+
+712
+00:29:00,960 --> 00:29:03,240
+to catch one big trade to recover
+
+713
+00:29:03,240 --> 00:29:05,100
+everything and being a profit and I
+
+714
+00:29:05,100 --> 00:29:07,140
+don't feel like that anymore
+
+715
+00:29:07,140 --> 00:29:09,659
+so now I don't care if the runner goes
+
+716
+00:29:09,659 --> 00:29:12,419
+200 Pips and in Gold it can happen right
+
+717
+00:29:12,419 --> 00:29:15,600
+because I've already made my my share
+
+718
+00:29:15,600 --> 00:29:17,760
+tired of missing trades or spinning out
+
+719
+00:29:17,760 --> 00:29:19,799
+of the charts introducing my robot
+
+720
+00:29:19,799 --> 00:29:21,299
+Builders club with our platform you can
+
+721
+00:29:21,299 --> 00:29:23,460
+build bots in minutes not weeks without
+
+722
+00:29:23,460 --> 00:29:25,440
+any coding required get lifetime access
+
+723
+00:29:25,440 --> 00:29:27,720
+to my video course VIP community and
+
+724
+00:29:27,720 --> 00:29:30,419
+over 40 ready-made robots works with mt4
+
+725
+00:29:30,419 --> 00:29:32,340
+or mt5 and as a bonus you'll get three
+
+726
+00:29:32,340 --> 00:29:34,380
+months access to my robot lab where
+
+727
+00:29:34,380 --> 00:29:36,120
+we're building test bots on live calls
+
+728
+00:29:36,120 --> 00:29:37,919
+every week join the hundreds of traders
+
+729
+00:29:37,919 --> 00:29:40,200
+who are trading smarter not harder click
+
+730
+00:29:40,200 --> 00:29:41,340
+the link in the description to learn
+
+731
+00:29:41,340 --> 00:29:43,260
+more get the free training and download
+
+732
+00:29:43,260 --> 00:29:45,240
+a free robot and and how do you work out
+
+733
+00:29:45,240 --> 00:29:46,799
+like you're where you're going to get
+
+734
+00:29:46,799 --> 00:29:49,559
+out of your Runner
+
+735
+00:29:49,559 --> 00:29:54,059
+uh I look at money I look at money as in
+
+736
+00:29:54,059 --> 00:29:56,880
+usually I leave a 10 Runner so if that
+
+737
+00:29:56,880 --> 00:29:59,399
+10 is going to make I don't know 200
+
+738
+00:29:59,399 --> 00:30:01,559
+let's say or a hundred dollars I would
+
+739
+00:30:01,559 --> 00:30:04,080
+take something off at Double to a 40
+
+740
+00:30:04,080 --> 00:30:06,059
+bips so TP
+
+741
+00:30:06,059 --> 00:30:09,000
+um one in case my risk reward ratio it's
+
+742
+00:30:09,000 --> 00:30:10,799
+bigger than 20 Pips
+
+743
+00:30:10,799 --> 00:30:12,539
+um I'm gonna take something at 20 Pips
+
+744
+00:30:12,539 --> 00:30:14,580
+then I'm gonna take something at tp1
+
+745
+00:30:14,580 --> 00:30:18,000
+let's say uh uh the normal the the equal
+
+746
+00:30:18,000 --> 00:30:19,980
+size of the stop loss I'm going to take
+
+747
+00:30:19,980 --> 00:30:23,220
+half of the runner off and then 40 Pips
+
+748
+00:30:23,220 --> 00:30:25,440
+60 Pips and
+
+749
+00:30:25,440 --> 00:30:28,020
+um this I have this approach when um
+
+750
+00:30:28,020 --> 00:30:30,720
+higher above price if I'm in a bullish
+
+751
+00:30:30,720 --> 00:30:32,520
+position or in a bearish one lower below
+
+752
+00:30:32,520 --> 00:30:34,919
+price if I don't have like important
+
+753
+00:30:34,919 --> 00:30:37,440
+Market structures like uh Killzone highs
+
+754
+00:30:37,440 --> 00:30:40,020
+and lows I like session highs and lows
+
+755
+00:30:40,020 --> 00:30:42,840
+um daily highs and lows weekly highs and
+
+756
+00:30:42,840 --> 00:30:44,520
+lows if I have something like this and
+
+757
+00:30:44,520 --> 00:30:46,980
+price already reached there I'm going to
+
+758
+00:30:46,980 --> 00:30:49,559
+close most of the runner and I usually
+
+759
+00:30:49,559 --> 00:30:51,659
+leave a zero zero one
+
+760
+00:30:51,659 --> 00:30:55,080
+which just needs to feed my ego yeah
+
+761
+00:30:55,080 --> 00:30:56,880
+that's it it's just like leave it alone
+
+762
+00:30:56,880 --> 00:30:59,460
+it's like a symbolic yeah
+
+763
+00:30:59,460 --> 00:31:01,980
+yeah it's a symbolic thing that's a good
+
+764
+00:31:01,980 --> 00:31:04,080
+idea actually yeah that's a good idea
+
+765
+00:31:04,080 --> 00:31:06,360
+zero zero one how do you I suppose are
+
+766
+00:31:06,360 --> 00:31:08,580
+you using metatrader for you I'm using
+
+767
+00:31:08,580 --> 00:31:10,020
+that a Trader yeah so I suppose you can
+
+768
+00:31:10,020 --> 00:31:13,260
+just close everything bar 0.001 so
+
+769
+00:31:13,260 --> 00:31:16,100
+whatever yeah
+
+770
+00:31:16,500 --> 00:31:18,299
+um oh that's interesting yeah and it's
+
+771
+00:31:18,299 --> 00:31:19,980
+probably a little good tip there I think
+
+772
+00:31:19,980 --> 00:31:22,020
+people should take away from this is I
+
+773
+00:31:22,020 --> 00:31:23,340
+think it's something that I always
+
+774
+00:31:23,340 --> 00:31:26,760
+recommend how did you come up with that
+
+775
+00:31:26,760 --> 00:31:31,080
+every time I so so this Golden Rule of
+
+776
+00:31:31,080 --> 00:31:34,440
+um taking uh uh of closing my position
+
+777
+00:31:34,440 --> 00:31:36,659
+at 20 Pips most of it I've actually got
+
+778
+00:31:36,659 --> 00:31:38,760
+it from ICT because uh back in the days
+
+779
+00:31:38,760 --> 00:31:40,740
+when he was trading Euro USD he wouldn't
+
+780
+00:31:40,740 --> 00:31:43,799
+leave his entire trade to go for more
+
+781
+00:31:43,799 --> 00:31:45,779
+than 10 11 Pips and he would always say
+
+782
+00:31:45,779 --> 00:31:47,700
+you don't need more than 10 bips per
+
+783
+00:31:47,700 --> 00:31:50,279
+trade to make a living out of trading
+
+784
+00:31:50,279 --> 00:31:53,039
+and then when I started uh looking into
+
+785
+00:31:53,039 --> 00:31:55,559
+gold gold is a lot more volatile so I
+
+786
+00:31:55,559 --> 00:31:57,419
+felt like it's natural to have like a
+
+787
+00:31:57,419 --> 00:32:01,559
+double uh you know golden number 10 Pips
+
+788
+00:32:01,559 --> 00:32:03,899
+for Euro USD or four experience 20 Pips
+
+789
+00:32:03,899 --> 00:32:06,000
+for gold felt like natural for me but
+
+790
+00:32:06,000 --> 00:32:07,919
+then when I closed my entire position at
+
+791
+00:32:07,919 --> 00:32:09,059
+20 Pips
+
+792
+00:32:09,059 --> 00:32:11,640
+um I felt like and it would continue to
+
+793
+00:32:11,640 --> 00:32:14,039
+go in my favor
+
+794
+00:32:14,039 --> 00:32:17,299
+um I I always felt like
+
+795
+00:32:17,299 --> 00:32:19,919
+and little by little when you start to
+
+796
+00:32:19,919 --> 00:32:22,080
+pay attention at this these things that
+
+797
+00:32:22,080 --> 00:32:25,620
+you feel you want to look for uh you
+
+798
+00:32:25,620 --> 00:32:28,140
+know a way to resolve them uh it's it's
+
+799
+00:32:28,140 --> 00:32:31,080
+not a good way to uh you know make
+
+800
+00:32:31,080 --> 00:32:32,940
+yourself not feel those things anymore
+
+801
+00:32:32,940 --> 00:32:35,159
+it's a good way to feel them but it's a
+
+802
+00:32:35,159 --> 00:32:36,659
+good way to address them in a way that
+
+803
+00:32:36,659 --> 00:32:39,779
+you can satisfy that need that you have
+
+804
+00:32:39,779 --> 00:32:41,520
+for you know I want to be in the trade
+
+805
+00:32:41,520 --> 00:32:45,740
+for more Pips yeah uh so I then um
+
+806
+00:32:45,740 --> 00:32:49,860
+realized that in every Trader's head
+
+807
+00:32:49,860 --> 00:32:52,140
+there are two personalities that leave
+
+808
+00:32:52,140 --> 00:32:54,659
+and one of them is the trader who is
+
+809
+00:32:54,659 --> 00:32:57,059
+actually interested in paying his bills
+
+810
+00:32:57,059 --> 00:32:58,919
+making money and all of that stuff and
+
+811
+00:32:58,919 --> 00:33:01,020
+becoming consistent with trading so it's
+
+812
+00:33:01,020 --> 00:33:03,720
+all about the money for this guy and for
+
+813
+00:33:03,720 --> 00:33:06,360
+the other personality that's technical
+
+814
+00:33:06,360 --> 00:33:08,100
+analyst who doesn't really care about
+
+815
+00:33:08,100 --> 00:33:10,919
+the money uh it's the I.T guy if you
+
+816
+00:33:10,919 --> 00:33:12,539
+want you know the geek that spends a lot
+
+817
+00:33:12,539 --> 00:33:13,980
+of time in front of the computer and he
+
+818
+00:33:13,980 --> 00:33:16,380
+makes an analysis and he wants to ride
+
+819
+00:33:16,380 --> 00:33:18,720
+the entire move or at least as much as
+
+820
+00:33:18,720 --> 00:33:21,779
+possible from it so I couldn't get rid
+
+821
+00:33:21,779 --> 00:33:24,179
+of that personality from my own hand so
+
+822
+00:33:24,179 --> 00:33:26,279
+I said okay I need to make peace with
+
+823
+00:33:26,279 --> 00:33:29,519
+this girl girl you know inside my head
+
+824
+00:33:29,519 --> 00:33:32,220
+and that's how I came up with the with
+
+825
+00:33:32,220 --> 00:33:35,820
+this thing you know take money so the
+
+826
+00:33:35,820 --> 00:33:37,620
+trader in me is the one that I will
+
+827
+00:33:37,620 --> 00:33:40,559
+always prioritize because she helps me
+
+828
+00:33:40,559 --> 00:33:44,279
+to pay my bills she helps me to fund my
+
+829
+00:33:44,279 --> 00:33:47,820
+lifestyle and all that and I also need
+
+830
+00:33:47,820 --> 00:33:49,500
+to
+
+831
+00:33:49,500 --> 00:33:51,659
+um the other girl you know the technical
+
+832
+00:33:51,659 --> 00:33:54,419
+analyst in me I need to keep her
+
+833
+00:33:54,419 --> 00:33:56,279
+satisfied because otherwise she's going
+
+834
+00:33:56,279 --> 00:33:58,380
+to start sabotaging me she will not
+
+835
+00:33:58,380 --> 00:34:01,140
+allow me to take my money put it in my
+
+836
+00:34:01,140 --> 00:34:03,840
+pocket and she'll just say you know just
+
+837
+00:34:03,840 --> 00:34:06,720
+put a break even and if price goes 20
+
+838
+00:34:06,720 --> 00:34:08,639
+Pips in my favor and I don't take profit
+
+839
+00:34:08,639 --> 00:34:10,500
+and it takes me out a break even I'm
+
+840
+00:34:10,500 --> 00:34:12,179
+gonna feel
+
+841
+00:34:12,179 --> 00:34:15,359
+um more pain you know mentally than I
+
+842
+00:34:15,359 --> 00:34:17,339
+would if I just take most of the
+
+843
+00:34:17,339 --> 00:34:19,080
+position off at 20 Pips at least I paid
+
+844
+00:34:19,080 --> 00:34:21,418
+myself and then just leave something to
+
+845
+00:34:21,418 --> 00:34:24,000
+satisfy the technical analyst yeah this
+
+846
+00:34:24,000 --> 00:34:25,739
+is brilliant it's absolutely real I've
+
+847
+00:34:25,739 --> 00:34:27,179
+never heard anything like this and like
+
+848
+00:34:27,179 --> 00:34:31,918
+300 odd episodes have done yes so this
+
+849
+00:34:31,918 --> 00:34:33,599
+is fantastic it's interesting because I
+
+850
+00:34:33,599 --> 00:34:35,520
+I challenge you out there to anyone
+
+851
+00:34:35,520 --> 00:34:38,280
+who's listening uh how many of you
+
+852
+00:34:38,280 --> 00:34:42,359
+thought that she was gonna say that the
+
+853
+00:34:42,359 --> 00:34:45,000
+second person the technical analyst was
+
+854
+00:34:45,000 --> 00:34:48,239
+the one that you wanted to be I I
+
+855
+00:34:48,239 --> 00:34:49,619
+thought that for a second there I was
+
+856
+00:34:49,619 --> 00:34:51,719
+like are you gonna say that that's the
+
+857
+00:34:51,719 --> 00:34:52,918
+one that sounds like the right one
+
+858
+00:34:52,918 --> 00:34:54,780
+doesn't it not the one that's going to
+
+859
+00:34:54,780 --> 00:34:57,660
+just take the money and run but yeah
+
+860
+00:34:57,660 --> 00:35:00,000
+that's that's a that's a complete and
+
+861
+00:35:00,000 --> 00:35:01,380
+utter
+
+862
+00:35:01,380 --> 00:35:03,900
+um mindset shift that I think you know
+
+863
+00:35:03,900 --> 00:35:06,420
+it's great for people to hear that uh
+
+864
+00:35:06,420 --> 00:35:08,700
+fantastic stuff now um
+
+865
+00:35:08,700 --> 00:35:11,220
+what about like prop firms they sort of
+
+866
+00:35:11,220 --> 00:35:13,320
+came on the scene whilst you were you
+
+867
+00:35:13,320 --> 00:35:15,300
+know doing well by the sounds of it I
+
+868
+00:35:15,300 --> 00:35:16,980
+mean have you ever considered it did you
+
+869
+00:35:16,980 --> 00:35:18,900
+ever sort of think this was something I
+
+870
+00:35:18,900 --> 00:35:22,020
+need to look into or you know trade in a
+
+871
+00:35:22,020 --> 00:35:25,260
+on a firm no not at all okay no I never
+
+872
+00:35:25,260 --> 00:35:27,900
+and and what was the reason for that was
+
+873
+00:35:27,900 --> 00:35:29,940
+there something in that you sort of
+
+874
+00:35:29,940 --> 00:35:31,500
+decided like nah I'm not going to do it
+
+875
+00:35:31,500 --> 00:35:33,720
+because of XYZ or was it
+
+876
+00:35:33,720 --> 00:35:35,900
+[Music]
+
+877
+00:35:35,900 --> 00:35:38,400
+uh it's something that I decided I'm not
+
+878
+00:35:38,400 --> 00:35:41,040
+gonna do because
+
+879
+00:35:41,040 --> 00:35:44,640
+um back in my job when I used to work
+
+880
+00:35:44,640 --> 00:35:46,920
+um we had a lot of trainings about time
+
+881
+00:35:46,920 --> 00:35:48,599
+management and about how to make the
+
+882
+00:35:48,599 --> 00:35:50,220
+people be more productive and all of
+
+883
+00:35:50,220 --> 00:35:53,339
+that state all of that stuff and uh
+
+884
+00:35:53,339 --> 00:35:55,560
+something from one of those trainings uh
+
+885
+00:35:55,560 --> 00:35:58,200
+actually uh helped me a lot in my
+
+886
+00:35:58,200 --> 00:36:02,220
+trading uh and that was whenever you
+
+887
+00:36:02,220 --> 00:36:05,520
+have a time limit set by someone else to
+
+888
+00:36:05,520 --> 00:36:08,660
+accomplish a Target you will always
+
+889
+00:36:08,660 --> 00:36:12,839
+stumble uh you will always not be there
+
+890
+00:36:12,839 --> 00:36:15,300
+in time uh
+
+891
+00:36:15,300 --> 00:36:18,660
+and the main thing that prop firms do
+
+892
+00:36:18,660 --> 00:36:22,920
+they give you a time limit by which you
+
+893
+00:36:22,920 --> 00:36:25,079
+need to make a certain amount so it's
+
+894
+00:36:25,079 --> 00:36:28,200
+basically you are being imposed some
+
+895
+00:36:28,200 --> 00:36:31,200
+rules the purpose of trading the purpose
+
+896
+00:36:31,200 --> 00:36:34,740
+of me becoming successful is to not have
+
+897
+00:36:34,740 --> 00:36:36,839
+anyone else impose me their own rules
+
+898
+00:36:36,839 --> 00:36:40,380
+and I know that for a lot of people uh
+
+899
+00:36:40,380 --> 00:36:44,400
+prop firms have been a blessing uh it it
+
+900
+00:36:44,400 --> 00:36:48,000
+just I couldn't find a good reason for
+
+901
+00:36:48,000 --> 00:36:51,480
+me to start looking into a proverb you
+
+902
+00:36:51,480 --> 00:36:53,160
+know starting with a big Capital because
+
+903
+00:36:53,160 --> 00:36:56,339
+I thought well I deposited 500 and I
+
+904
+00:36:56,339 --> 00:36:58,500
+blew the account what on Earth makes me
+
+905
+00:36:58,500 --> 00:37:01,140
+think that I can pay a prop firm a
+
+906
+00:37:01,140 --> 00:37:03,240
+thousand dollars to give me a hundred
+
+907
+00:37:03,240 --> 00:37:05,400
+thousand dollar account what makes me
+
+908
+00:37:05,400 --> 00:37:07,700
+think that I'm gonna do better with them
+
+909
+00:37:07,700 --> 00:37:10,800
+okay if it's my own money and I can
+
+910
+00:37:10,800 --> 00:37:13,500
+afford to lose it and it's the less it's
+
+911
+00:37:13,500 --> 00:37:16,260
+500 and I can't do good with it what
+
+912
+00:37:16,260 --> 00:37:18,960
+makes me think that I can actually you
+
+913
+00:37:18,960 --> 00:37:20,579
+know take care of someone else's money
+
+914
+00:37:20,579 --> 00:37:22,079
+and even though at the beginning with
+
+915
+00:37:22,079 --> 00:37:24,420
+prop forms you start with a demo account
+
+916
+00:37:24,420 --> 00:37:27,240
+you still pay the challenge yeah you
+
+917
+00:37:27,240 --> 00:37:29,339
+know so I thought instead of paying for
+
+918
+00:37:29,339 --> 00:37:31,200
+the challenge let me start my own
+
+919
+00:37:31,200 --> 00:37:32,280
+account
+
+920
+00:37:32,280 --> 00:37:34,680
+start being consistent and then I'll see
+
+921
+00:37:34,680 --> 00:37:38,220
+if I need a a bigger fund you know more
+
+922
+00:37:38,220 --> 00:37:40,560
+money and then I will see but at least
+
+923
+00:37:40,560 --> 00:37:43,079
+let me get consistent with my own
+
+924
+00:37:43,079 --> 00:37:46,200
+trading method yeah and uh little by
+
+925
+00:37:46,200 --> 00:37:48,720
+little I just didn't need it yeah
+
+926
+00:37:48,720 --> 00:37:51,480
+because I started doing good yeah it
+
+927
+00:37:51,480 --> 00:37:54,180
+makes sense yeah but the rule-based or
+
+928
+00:37:54,180 --> 00:37:56,700
+the imposed rules and I know now there
+
+929
+00:37:56,700 --> 00:37:58,920
+are preference because that's a very bad
+
+930
+00:37:58,920 --> 00:38:01,440
+rule that they have it's very
+
+931
+00:38:01,440 --> 00:38:03,780
+um traumatizing I would say for a Trader
+
+932
+00:38:03,780 --> 00:38:07,380
+yeah the these guys here I'll tell you
+
+933
+00:38:07,380 --> 00:38:10,020
+what though they've just released an uh
+
+934
+00:38:10,020 --> 00:38:12,240
+an unlimited so this is blue Guardian I
+
+935
+00:38:12,240 --> 00:38:14,220
+know unlimited time yeah so they've yeah
+
+936
+00:38:14,220 --> 00:38:17,760
+I think I know yeah I know they have
+
+937
+00:38:17,760 --> 00:38:20,220
+this because now you know when they're
+
+938
+00:38:20,220 --> 00:38:22,560
+the first prop first that started to pop
+
+939
+00:38:22,560 --> 00:38:25,859
+up you know uh like ftmo or mff maybe I
+
+940
+00:38:25,859 --> 00:38:27,480
+don't know if mff now has like an
+
+941
+00:38:27,480 --> 00:38:28,859
+unlimited time period to pass the
+
+942
+00:38:28,859 --> 00:38:31,079
+challenge but whatever but at first all
+
+943
+00:38:31,079 --> 00:38:33,180
+the platforms that appeared
+
+944
+00:38:33,180 --> 00:38:35,940
+um they'd have this 30 days to pass the
+
+945
+00:38:35,940 --> 00:38:38,880
+challenge now when they're like other uh
+
+946
+00:38:38,880 --> 00:38:40,859
+prop fronts that are emerging they know
+
+947
+00:38:40,859 --> 00:38:44,339
+how to do better because it's pretty
+
+948
+00:38:44,339 --> 00:38:47,820
+obvious that that imposed 30 days to
+
+949
+00:38:47,820 --> 00:38:50,839
+make 10 or 8 or 12 12
+
+950
+00:38:50,839 --> 00:38:54,380
+people will rush things they will not
+
+951
+00:38:54,380 --> 00:38:57,839
+see that okay I have one month I have 30
+
+952
+00:38:57,839 --> 00:39:00,060
+days to pass the challenge if they take
+
+953
+00:39:00,060 --> 00:39:01,800
+one or two losses or maybe even three
+
+954
+00:39:01,800 --> 00:39:04,320
+losses in a row there they will feel the
+
+955
+00:39:04,320 --> 00:39:06,180
+urge to recover that fast because they
+
+956
+00:39:06,180 --> 00:39:07,859
+will feel like they are running out of
+
+957
+00:39:07,859 --> 00:39:10,680
+time so now prop firms that start to
+
+958
+00:39:10,680 --> 00:39:14,520
+emerge now or that appeared after ftmo
+
+959
+00:39:14,520 --> 00:39:16,740
+because you know fdmo and everyone's
+
+960
+00:39:16,740 --> 00:39:20,520
+head is like the first proper you know
+
+961
+00:39:20,520 --> 00:39:22,800
+um now they start to do better with uh
+
+962
+00:39:22,800 --> 00:39:26,099
+less rules less strict rules and all of
+
+963
+00:39:26,099 --> 00:39:28,260
+that so this is good but now I don't
+
+964
+00:39:28,260 --> 00:39:31,380
+have any reason to go for a profit but
+
+965
+00:39:31,380 --> 00:39:34,740
+it's good that they they start to uh you
+
+966
+00:39:34,740 --> 00:39:36,079
+know have
+
+967
+00:39:36,079 --> 00:39:39,180
+more uh to be more Trader oriented
+
+968
+00:39:39,180 --> 00:39:40,859
+because if you're oriented towards the
+
+969
+00:39:40,859 --> 00:39:43,440
+trader that's going to trade your funds
+
+970
+00:39:43,440 --> 00:39:44,940
+um then you're also oriented towards
+
+971
+00:39:44,940 --> 00:39:47,160
+yourself you know yeah yeah and like I
+
+972
+00:39:47,160 --> 00:39:49,320
+mean you invest in the trader make him
+
+973
+00:39:49,320 --> 00:39:52,740
+feel safe make him feel not rushed and
+
+974
+00:39:52,740 --> 00:39:55,079
+uh she's gonna do a lot better yeah than
+
+975
+00:39:55,079 --> 00:39:56,700
+if you rush him yeah you need to do this
+
+976
+00:39:56,700 --> 00:39:58,980
+in 30 days otherwise you're out yeah
+
+977
+00:39:58,980 --> 00:40:01,800
+yeah which and I I suppose it does like
+
+978
+00:40:01,800 --> 00:40:04,980
+really you know get rid of the traders
+
+979
+00:40:04,980 --> 00:40:06,359
+that can trade because they are going to
+
+980
+00:40:06,359 --> 00:40:08,099
+you know blow the account at 30 days and
+
+981
+00:40:08,099 --> 00:40:10,619
+the ones that are very exceptional like
+
+982
+00:40:10,619 --> 00:40:13,680
+you know for yourself for example I
+
+983
+00:40:13,680 --> 00:40:14,880
+don't even you know they're not you're
+
+984
+00:40:14,880 --> 00:40:16,800
+not enticed by the the proper model
+
+985
+00:40:16,800 --> 00:40:18,960
+because you don't need it
+
+986
+00:40:18,960 --> 00:40:21,720
+um so it's it's a it's a fine line uh
+
+987
+00:40:21,720 --> 00:40:24,300
+right let's move on it is yeah so so uh
+
+988
+00:40:24,300 --> 00:40:25,560
+what do you think made you different
+
+989
+00:40:25,560 --> 00:40:28,380
+from other you know folks following like
+
+990
+00:40:28,380 --> 00:40:31,260
+you on Instagram or or people you've
+
+991
+00:40:31,260 --> 00:40:32,760
+like either I don't know if you Mentor
+
+992
+00:40:32,760 --> 00:40:33,960
+people but like if you're mentored
+
+993
+00:40:33,960 --> 00:40:35,280
+people what do you think made you
+
+994
+00:40:35,280 --> 00:40:37,740
+different at the start yeah
+
+995
+00:40:37,740 --> 00:40:39,720
+I think it's the same thing that makes
+
+996
+00:40:39,720 --> 00:40:43,320
+me different at the moment which is
+
+997
+00:40:43,320 --> 00:40:46,339
+my availability to help everyone
+
+998
+00:40:46,339 --> 00:40:49,980
+regardless if they are part of my paid
+
+999
+00:40:49,980 --> 00:40:52,980
+mentorship or not I've always
+
+1000
+00:40:52,980 --> 00:40:55,800
+spent a lot of time in answering all the
+
+1001
+00:40:55,800 --> 00:40:57,599
+questions that I've received and not
+
+1002
+00:40:57,599 --> 00:41:00,480
+just give like a blunt answer yes or no
+
+1003
+00:41:00,480 --> 00:41:02,760
+or yeah you need to go check that or you
+
+1004
+00:41:02,760 --> 00:41:05,099
+need to go look at that uh no I've
+
+1005
+00:41:05,099 --> 00:41:07,980
+always spent a lot of time every day to
+
+1006
+00:41:07,980 --> 00:41:09,540
+answer questions
+
+1007
+00:41:09,540 --> 00:41:11,520
+in the same way in which I would have
+
+1008
+00:41:11,520 --> 00:41:13,440
+wanted someone to answer me so I think
+
+1009
+00:41:13,440 --> 00:41:15,359
+that the fact that I've always been
+
+1010
+00:41:15,359 --> 00:41:18,119
+helpful friendly
+
+1011
+00:41:18,119 --> 00:41:21,000
+um you know answering questions even
+
+1012
+00:41:21,000 --> 00:41:22,740
+when they were about my paid mentorship
+
+1013
+00:41:22,740 --> 00:41:25,020
+like if someone asked me a question that
+
+1014
+00:41:25,020 --> 00:41:26,820
+would be something that I would only
+
+1015
+00:41:26,820 --> 00:41:28,320
+teach in the paid mentorship or
+
+1016
+00:41:28,320 --> 00:41:29,880
+something like that I wouldn't say oh
+
+1017
+00:41:29,880 --> 00:41:31,440
+you know well I covered that only in the
+
+1018
+00:41:31,440 --> 00:41:33,359
+paid mentorship no I just give him what
+
+1019
+00:41:33,359 --> 00:41:36,359
+he asked for me from me and I think that
+
+1020
+00:41:36,359 --> 00:41:39,859
+this little by little started to add up
+
+1021
+00:41:39,859 --> 00:41:44,280
+more people were coming to me asking me
+
+1022
+00:41:44,280 --> 00:41:46,680
+stuff I kept replying I kept being
+
+1023
+00:41:46,680 --> 00:41:51,300
+friendly and I still do that I have I do
+
+1024
+00:41:51,300 --> 00:41:53,940
+not have a single comment
+
+1025
+00:41:53,940 --> 00:41:56,220
+in my entire YouTube channel that has
+
+1026
+00:41:56,220 --> 00:41:57,960
+remained unanswered not till this date
+
+1027
+00:41:57,960 --> 00:41:59,760
+and it's a thing that I do three times a
+
+1028
+00:41:59,760 --> 00:42:02,760
+day I go to YouTube studio and I go to
+
+1029
+00:42:02,760 --> 00:42:04,560
+my Instagram and I go to my Telegram and
+
+1030
+00:42:04,560 --> 00:42:06,780
+every day three times a day I make sure
+
+1031
+00:42:06,780 --> 00:42:08,520
+okay what new comments do I have when
+
+1032
+00:42:08,520 --> 00:42:10,200
+your questions that I receive I need to
+
+1033
+00:42:10,200 --> 00:42:11,940
+answer them all I cannot leave people
+
+1034
+00:42:11,940 --> 00:42:13,859
+like that without answering them without
+
+1035
+00:42:13,859 --> 00:42:16,859
+making them feel like I pay attention to
+
+1036
+00:42:16,859 --> 00:42:20,160
+them so I think that this is what
+
+1037
+00:42:20,160 --> 00:42:22,500
+um you know made me be different and it
+
+1038
+00:42:22,500 --> 00:42:25,440
+still is something that
+
+1039
+00:42:25,440 --> 00:42:28,140
+um makes me be a bit different from the
+
+1040
+00:42:28,140 --> 00:42:29,579
+others yeah you're making me feel like a
+
+1041
+00:42:29,579 --> 00:42:31,560
+bad YouTuber I I was really struggling
+
+1042
+00:42:31,560 --> 00:42:33,720
+to talk it to the comments no because
+
+1043
+00:42:33,720 --> 00:42:35,400
+I'm sure the comments that you receive
+
+1044
+00:42:35,400 --> 00:42:36,960
+are not necessarily questions about
+
+1045
+00:42:36,960 --> 00:42:38,820
+technical analysis and all that stuff
+
+1046
+00:42:38,820 --> 00:42:42,000
+that's me yeah so what I was really
+
+1047
+00:42:42,000 --> 00:42:44,160
+after was like from from a trading point
+
+1048
+00:42:44,160 --> 00:42:45,839
+of view versus a mentorship and I think
+
+1049
+00:42:45,839 --> 00:42:48,000
+I probably screwed up the question there
+
+1050
+00:42:48,000 --> 00:42:51,119
+um yeah what do you think made you
+
+1051
+00:42:51,119 --> 00:42:53,760
+different as a Trader like you know why
+
+1052
+00:42:53,760 --> 00:42:55,500
+did why were you able to sort of come
+
+1053
+00:42:55,500 --> 00:42:58,140
+through it and become a profitable
+
+1054
+00:42:58,140 --> 00:43:00,119
+Trader whereas so many come through and
+
+1055
+00:43:00,119 --> 00:43:02,280
+fail or give up or or just spend years
+
+1056
+00:43:02,280 --> 00:43:04,680
+and can never really make it happen
+
+1057
+00:43:04,680 --> 00:43:07,319
+okay it's um
+
+1058
+00:43:07,319 --> 00:43:10,319
+my
+
+1059
+00:43:10,319 --> 00:43:12,960
+my needs to simplify things I don't like
+
+1060
+00:43:12,960 --> 00:43:15,900
+complicated things I don't like uh
+
+1061
+00:43:15,900 --> 00:43:18,000
+complicated designs complicated clothes
+
+1062
+00:43:18,000 --> 00:43:20,520
+complicated jewelry complicated makeup I
+
+1063
+00:43:20,520 --> 00:43:22,980
+don't like any of that stuff uh and this
+
+1064
+00:43:22,980 --> 00:43:25,319
+also transposed into trading when I
+
+1065
+00:43:25,319 --> 00:43:27,240
+first started to learn ICT everything
+
+1066
+00:43:27,240 --> 00:43:31,619
+was complex I at that time I would say
+
+1067
+00:43:31,619 --> 00:43:33,359
+it's complicated now I know it's only
+
+1068
+00:43:33,359 --> 00:43:36,359
+complex not complicated anymore
+
+1069
+00:43:36,359 --> 00:43:38,400
+um but um
+
+1070
+00:43:38,400 --> 00:43:40,920
+trying to do good in a very complex
+
+1071
+00:43:40,920 --> 00:43:43,920
+environment with very complex methods
+
+1072
+00:43:43,920 --> 00:43:46,319
+it's going to make you
+
+1073
+00:43:46,319 --> 00:43:49,260
+be successful a lot harder and a lot
+
+1074
+00:43:49,260 --> 00:43:52,140
+later so I think that when I realized
+
+1075
+00:43:52,140 --> 00:43:55,619
+that I need to simplify things I need to
+
+1076
+00:43:55,619 --> 00:43:58,980
+exclude more than 90 of the things that
+
+1077
+00:43:58,980 --> 00:44:00,540
+I've understood that I've learned about
+
+1078
+00:44:00,540 --> 00:44:03,420
+and I need to understand that if I'm in
+
+1079
+00:44:03,420 --> 00:44:05,579
+a candy store and I will want to eat all
+
+1080
+00:44:05,579 --> 00:44:07,619
+the candies I'll get cavities very soon
+
+1081
+00:44:07,619 --> 00:44:10,619
+so it's not in my benefit so I then
+
+1082
+00:44:10,619 --> 00:44:13,680
+spent some time realizing only just
+
+1083
+00:44:13,680 --> 00:44:15,180
+staring at charts and trying to
+
+1084
+00:44:15,180 --> 00:44:18,900
+understand myself what is that thing in
+
+1085
+00:44:18,900 --> 00:44:20,940
+the charts that makes me look at it
+
+1086
+00:44:20,940 --> 00:44:23,880
+right at the first moment when I open
+
+1087
+00:44:23,880 --> 00:44:26,460
+the charts and for me those were highs
+
+1088
+00:44:26,460 --> 00:44:29,700
+and lows and big candles and balances so
+
+1089
+00:44:29,700 --> 00:44:31,859
+then I said okay if this is these are
+
+1090
+00:44:31,859 --> 00:44:35,400
+the two things that I feel like my eyes
+
+1091
+00:44:35,400 --> 00:44:38,520
+and my bracer instantly attracted to I
+
+1092
+00:44:38,520 --> 00:44:41,400
+have two brains my eyes and my brains my
+
+1093
+00:44:41,400 --> 00:44:43,020
+eyes and my brain are instantly
+
+1094
+00:44:43,020 --> 00:44:44,940
+attracted to
+
+1095
+00:44:44,940 --> 00:44:47,540
+um I said okay maybe it's time to
+
+1096
+00:44:47,540 --> 00:44:51,060
+learn more about these things focus more
+
+1097
+00:44:51,060 --> 00:44:54,240
+on these and then if I feel like I need
+
+1098
+00:44:54,240 --> 00:44:56,400
+to add something I will look into a
+
+1099
+00:44:56,400 --> 00:44:58,020
+third concept or something like that but
+
+1100
+00:44:58,020 --> 00:45:01,260
+I think my need to simplify things and
+
+1101
+00:45:01,260 --> 00:45:03,480
+to have everything simple around me is
+
+1102
+00:45:03,480 --> 00:45:06,119
+what made me simplify ICP Concepts
+
+1103
+00:45:06,119 --> 00:45:09,060
+explain them in a simple way not you
+
+1104
+00:45:09,060 --> 00:45:11,579
+know put a lot of lipstick on the charts
+
+1105
+00:45:11,579 --> 00:45:15,060
+like ICT says himself and uh just keep
+
+1106
+00:45:15,060 --> 00:45:17,700
+it simple this this is yeah so
+
+1107
+00:45:17,700 --> 00:45:19,740
+simplistic so keep simplifying things
+
+1108
+00:45:19,740 --> 00:45:22,140
+down which is which in a way is kind of
+
+1109
+00:45:22,140 --> 00:45:24,900
+hard for like it's hard it's hard for
+
+1110
+00:45:24,900 --> 00:45:26,339
+everything right I mean Apple do it very
+
+1111
+00:45:26,339 --> 00:45:27,839
+well in terms of they simplified all
+
+1112
+00:45:27,839 --> 00:45:30,420
+their products down and but it I don't
+
+1113
+00:45:30,420 --> 00:45:32,099
+even remember a speech from an Apple
+
+1114
+00:45:32,099 --> 00:45:34,079
+employee who was saying it is actually
+
+1115
+00:45:34,079 --> 00:45:35,160
+one of the hardest things of the world
+
+1116
+00:45:35,160 --> 00:45:36,839
+to do is to simplify something that's
+
+1117
+00:45:36,839 --> 00:45:39,420
+quite complex yes exactly so it's a
+
+1118
+00:45:39,420 --> 00:45:41,040
+special talent there
+
+1119
+00:45:41,040 --> 00:45:43,319
+um in terms of I mean the other thing
+
+1120
+00:45:43,319 --> 00:45:45,180
+you did I suppose with the regard to the
+
+1121
+00:45:45,180 --> 00:45:47,280
+stop loss and take profit and and exits
+
+1122
+00:45:47,280 --> 00:45:49,319
+is that's kind of simple right it's like
+
+1123
+00:45:49,319 --> 00:45:51,480
+it's almost old school I've even heard
+
+1124
+00:45:51,480 --> 00:45:54,599
+people talk about a 30 pip stop loss and
+
+1125
+00:45:54,599 --> 00:45:57,480
+a 20 pip take profit and Donkey tears
+
+1126
+00:45:57,480 --> 00:45:59,760
+nobody talks about it now so the fact
+
+1127
+00:45:59,760 --> 00:46:01,980
+that you know with that you get a 93 win
+
+1128
+00:46:01,980 --> 00:46:04,380
+rate last month then there's something
+
+1129
+00:46:04,380 --> 00:46:05,579
+to be said about that because you're
+
+1130
+00:46:05,579 --> 00:46:07,980
+always making money right and exactly
+
+1131
+00:46:07,980 --> 00:46:09,839
+that's the game
+
+1132
+00:46:09,839 --> 00:46:11,579
+um I'm loving this interview by the way
+
+1133
+00:46:11,579 --> 00:46:13,980
+it's really really good uh right what
+
+1134
+00:46:13,980 --> 00:46:17,099
+about a mindset sort of technique or
+
+1135
+00:46:17,099 --> 00:46:19,200
+something you do like on the day to try
+
+1136
+00:46:19,200 --> 00:46:21,960
+and get you on the in the right right
+
+1137
+00:46:21,960 --> 00:46:23,880
+frame of mind
+
+1138
+00:46:23,880 --> 00:46:26,819
+do you have anything oh I see I do I
+
+1139
+00:46:26,819 --> 00:46:28,920
+think uh it's not necessarily something
+
+1140
+00:46:28,920 --> 00:46:32,040
+that I do but it's something that that I
+
+1141
+00:46:32,040 --> 00:46:34,200
+pay attention to I think that starting
+
+1142
+00:46:34,200 --> 00:46:35,640
+your day
+
+1143
+00:46:35,640 --> 00:46:38,040
+um in front of charts if you open a
+
+1144
+00:46:38,040 --> 00:46:40,140
+chart but you know that you didn't get a
+
+1145
+00:46:40,140 --> 00:46:43,260
+proper rest during the night or you had
+
+1146
+00:46:43,260 --> 00:46:46,079
+a fight with your partner or there's
+
+1147
+00:46:46,079 --> 00:46:48,480
+something else you know working in the
+
+1148
+00:46:48,480 --> 00:46:50,460
+back of your head that you're thinking
+
+1149
+00:46:50,460 --> 00:46:52,319
+about and you can't really focus if
+
+1150
+00:46:52,319 --> 00:46:53,640
+there's something that needs to be
+
+1151
+00:46:53,640 --> 00:46:55,619
+solved right now and it's not trading
+
+1152
+00:46:55,619 --> 00:46:59,160
+related I try not to engage that much in
+
+1153
+00:46:59,160 --> 00:47:01,859
+trading I first try to fix that thing
+
+1154
+00:47:01,859 --> 00:47:03,300
+and then
+
+1155
+00:47:03,300 --> 00:47:04,520
+um you know
+
+1156
+00:47:04,520 --> 00:47:07,140
+refocus on trading another thing that I
+
+1157
+00:47:07,140 --> 00:47:09,359
+started doing is
+
+1158
+00:47:09,359 --> 00:47:13,079
+um I bought a whiteboard and I write on
+
+1159
+00:47:13,079 --> 00:47:15,960
+it uh thanks
+
+1160
+00:47:15,960 --> 00:47:18,240
+for all the good trades that I take and
+
+1161
+00:47:18,240 --> 00:47:20,640
+for all the batteries that I take and
+
+1162
+00:47:20,640 --> 00:47:23,040
+for the bad ones when I don't follow my
+
+1163
+00:47:23,040 --> 00:47:25,800
+rules when I jump ahead of myself and
+
+1164
+00:47:25,800 --> 00:47:28,440
+all of that stuff I write there thank
+
+1165
+00:47:28,440 --> 00:47:30,119
+you for the lesson that cost me this
+
+1166
+00:47:30,119 --> 00:47:33,540
+much and I don't erase those from the
+
+1167
+00:47:33,540 --> 00:47:36,420
+Whiteboard uh because I want them to be
+
+1168
+00:47:36,420 --> 00:47:40,380
+like a a statement of what happens when
+
+1169
+00:47:40,380 --> 00:47:41,640
+I
+
+1170
+00:47:41,640 --> 00:47:43,619
+don't do what I'm supposed to do but I
+
+1171
+00:47:43,619 --> 00:47:45,240
+don't do what I teach other to do other
+
+1172
+00:47:45,240 --> 00:47:47,400
+people to do and that really helps me
+
+1173
+00:47:47,400 --> 00:47:49,500
+keep myself accountable
+
+1174
+00:47:49,500 --> 00:47:51,300
+and how many how many though sorry
+
+1175
+00:47:51,300 --> 00:47:52,920
+what's the oldest one of those that
+
+1176
+00:47:52,920 --> 00:47:54,960
+you've written on the how long ago was
+
+1177
+00:47:54,960 --> 00:47:56,040
+it
+
+1178
+00:47:56,040 --> 00:47:59,599
+uh oldest one is like an entire account
+
+1179
+00:47:59,599 --> 00:48:03,720
+not a trade I haven't had a like a trade
+
+1180
+00:48:03,720 --> 00:48:05,400
+that I lost because I didn't follow the
+
+1181
+00:48:05,400 --> 00:48:07,319
+rules so those are the kind of things I
+
+1182
+00:48:07,319 --> 00:48:09,119
+saw you I mean um I mean on the
+
+1183
+00:48:09,119 --> 00:48:10,260
+Whiteboard if you're writing these
+
+1184
+00:48:10,260 --> 00:48:12,000
+things on the Whiteboard yeah how long
+
+1185
+00:48:12,000 --> 00:48:14,220
+ago was the last the the first one you
+
+1186
+00:48:14,220 --> 00:48:15,540
+put on
+
+1187
+00:48:15,540 --> 00:48:19,560
+first one oh it was uh I think five
+
+1188
+00:48:19,560 --> 00:48:23,280
+months ago because I didn't
+
+1189
+00:48:23,280 --> 00:48:26,160
+how many of you go on there now
+
+1190
+00:48:26,160 --> 00:48:27,740
+yeah
+
+1191
+00:48:27,740 --> 00:48:31,040
+let me check
+
+1192
+00:48:35,160 --> 00:48:39,599
+14 but one of them 14 but one of them is
+
+1193
+00:48:39,599 --> 00:48:41,819
+an entire account right I'll tell you
+
+1194
+00:48:41,819 --> 00:48:43,440
+the story if you want yeah go for it
+
+1195
+00:48:43,440 --> 00:48:45,000
+because it's already public you know
+
+1196
+00:48:45,000 --> 00:48:49,619
+yeah yeah okay so uh four months ago I
+
+1197
+00:48:49,619 --> 00:48:51,900
+said that you know there are a lot of
+
+1198
+00:48:51,900 --> 00:48:54,780
+people who want to learn more but they
+
+1199
+00:48:54,780 --> 00:48:56,579
+don't necessarily
+
+1200
+00:48:56,579 --> 00:48:59,040
+um have the money to pay for a
+
+1201
+00:48:59,040 --> 00:49:01,319
+mentorship and for some whatever reason
+
+1202
+00:49:01,319 --> 00:49:04,020
+even though I'm always available to
+
+1203
+00:49:04,020 --> 00:49:06,000
+answer questions they don't ask
+
+1204
+00:49:06,000 --> 00:49:08,819
+so I said okay maybe my YouTube content
+
+1205
+00:49:08,819 --> 00:49:10,619
+doesn't help I don't even have that much
+
+1206
+00:49:10,619 --> 00:49:13,140
+time to produce YouTube content so I
+
+1207
+00:49:13,140 --> 00:49:15,960
+said there has to be a way in which I
+
+1208
+00:49:15,960 --> 00:49:19,319
+could um make other people benefit from
+
+1209
+00:49:19,319 --> 00:49:21,420
+my trading and I opened a copy effect
+
+1210
+00:49:21,420 --> 00:49:23,880
+service and that happens about four
+
+1211
+00:49:23,880 --> 00:49:25,680
+months ago I think maybe three months
+
+1212
+00:49:25,680 --> 00:49:29,280
+ago uh it was uh in uh at the beginning
+
+1213
+00:49:29,280 --> 00:49:30,300
+of
+
+1214
+00:49:30,300 --> 00:49:33,359
+March or middle of March so I'm going to
+
+1215
+00:49:33,359 --> 00:49:35,040
+copy FX service I deposited three
+
+1216
+00:49:35,040 --> 00:49:37,980
+thousand dollars people started to
+
+1217
+00:49:37,980 --> 00:49:40,200
+um you know copy my trades it went good
+
+1218
+00:49:40,200 --> 00:49:42,560
+for the first two weeks and then
+
+1219
+00:49:42,560 --> 00:49:46,800
+I I don't know everything like all my
+
+1220
+00:49:46,800 --> 00:49:51,180
+mindset was doubt absolutely I started
+
+1221
+00:49:51,180 --> 00:49:53,160
+to do everything that I did in my
+
+1222
+00:49:53,160 --> 00:49:54,720
+beginning stages of trading everything
+
+1223
+00:49:54,720 --> 00:49:57,420
+that I was not supposed to do Buy sell
+
+1224
+00:49:57,420 --> 00:49:59,400
+Buy sell if I see a good girl a big
+
+1225
+00:49:59,400 --> 00:50:02,040
+candle just buy at an Impulse sell out
+
+1226
+00:50:02,040 --> 00:50:04,200
+an Impulse oh my god
+
+1227
+00:50:04,200 --> 00:50:06,300
+um don't post don't don't put stop bus
+
+1228
+00:50:06,300 --> 00:50:08,760
+remove the stop loss all of that thing
+
+1229
+00:50:08,760 --> 00:50:11,460
+and eventually I just blew the account
+
+1230
+00:50:11,460 --> 00:50:13,120
+it was such
+
+1231
+00:50:13,120 --> 00:50:14,819
+[Music]
+
+1232
+00:50:14,819 --> 00:50:16,859
+that was because that was the pressure
+
+1233
+00:50:16,859 --> 00:50:19,200
+the pressure of like having other people
+
+1234
+00:50:19,200 --> 00:50:21,839
+yes taking those trades a lot of people
+
+1235
+00:50:21,839 --> 00:50:23,700
+because like I said in the first two
+
+1236
+00:50:23,700 --> 00:50:25,319
+weeks everything was really good in the
+
+1237
+00:50:25,319 --> 00:50:26,940
+first two weeks I did
+
+1238
+00:50:26,940 --> 00:50:30,240
+20 I think or 17 I even had a day in
+
+1239
+00:50:30,240 --> 00:50:31,859
+which I did seven percent which I was
+
+1240
+00:50:31,859 --> 00:50:35,339
+wow that's good and then
+
+1241
+00:50:35,339 --> 00:50:38,040
+um people started writing me
+
+1242
+00:50:38,040 --> 00:50:40,680
+thanking me uh thank you for the
+
+1243
+00:50:40,680 --> 00:50:44,579
+opportunity I put my rent money and you
+
+1244
+00:50:44,579 --> 00:50:47,040
+uh made more of it and all of that stuff
+
+1245
+00:50:47,040 --> 00:50:49,440
+a guy wrote me
+
+1246
+00:50:49,440 --> 00:50:51,300
+um because I had like a minimum deposit
+
+1247
+00:50:51,300 --> 00:50:53,280
+of a hundred dollars you know it was you
+
+1248
+00:50:53,280 --> 00:50:55,980
+know the requirement from the broker
+
+1249
+00:50:55,980 --> 00:50:57,960
+um and
+
+1250
+00:50:57,960 --> 00:51:00,900
+a guy wrote to me and he told me could
+
+1251
+00:51:00,900 --> 00:51:02,760
+you please lower the minimum deposit
+
+1252
+00:51:02,760 --> 00:51:04,559
+requirement and make it 50 because I
+
+1253
+00:51:04,559 --> 00:51:07,680
+only have 50 it's my only money and I
+
+1254
+00:51:07,680 --> 00:51:10,079
+wanna you know put it there so I copy
+
+1255
+00:51:10,079 --> 00:51:12,420
+your trades and make it more uh and make
+
+1256
+00:51:12,420 --> 00:51:15,300
+more of it but I started receiving all
+
+1257
+00:51:15,300 --> 00:51:17,640
+these messages and I realized that most
+
+1258
+00:51:17,640 --> 00:51:19,980
+of the people that have
+
+1259
+00:51:19,980 --> 00:51:22,800
+signed for The Copy Service were people
+
+1260
+00:51:22,800 --> 00:51:24,900
+that didn't even afford to lose that
+
+1261
+00:51:24,900 --> 00:51:27,780
+money that they put in and I said I've
+
+1262
+00:51:27,780 --> 00:51:29,280
+opened
+
+1263
+00:51:29,280 --> 00:51:31,980
+a Pandora box something that I was not
+
+1264
+00:51:31,980 --> 00:51:34,920
+supposed to do because people who
+
+1265
+00:51:34,920 --> 00:51:38,160
+sign up for a copy service they don't
+
+1266
+00:51:38,160 --> 00:51:40,500
+trade or at least they don't have the
+
+1267
+00:51:40,500 --> 00:51:43,700
+results that they want so their mindset
+
+1268
+00:51:43,700 --> 00:51:47,359
+is like well she'll make money for me
+
+1269
+00:51:47,359 --> 00:51:50,640
+and I'm sure that she will so I'll put
+
+1270
+00:51:50,640 --> 00:51:52,500
+all the money that I have so they are
+
+1271
+00:51:52,500 --> 00:51:54,960
+not aware of the fact that they can lose
+
+1272
+00:51:54,960 --> 00:51:57,780
+that money and when I realized that that
+
+1273
+00:51:57,780 --> 00:52:00,000
+you know I cannot control the kind of
+
+1274
+00:52:00,000 --> 00:52:01,680
+people that are going to copy my service
+
+1275
+00:52:01,680 --> 00:52:05,700
+and when I say the kind of people I say
+
+1276
+00:52:05,700 --> 00:52:08,280
+aware people people that have the
+
+1277
+00:52:08,280 --> 00:52:11,099
+awareness that stuff bad stuff can
+
+1278
+00:52:11,099 --> 00:52:13,559
+happen and the money can be lost
+
+1279
+00:52:13,559 --> 00:52:16,200
+and I couldn't control that so then I
+
+1280
+00:52:16,200 --> 00:52:18,420
+started feeling really responsible oh my
+
+1281
+00:52:18,420 --> 00:52:20,220
+God what if I'm going to lose someone's
+
+1282
+00:52:20,220 --> 00:52:21,839
+rent money what if I'm going to lose
+
+1283
+00:52:21,839 --> 00:52:24,240
+someone's entire life savings what am I
+
+1284
+00:52:24,240 --> 00:52:25,319
+going to do then because I'll feel
+
+1285
+00:52:25,319 --> 00:52:28,380
+responsive and I will be responsible for
+
+1286
+00:52:28,380 --> 00:52:31,140
+ruining the lives of people how can I go
+
+1287
+00:52:31,140 --> 00:52:34,740
+about that so I felt at the time you
+
+1288
+00:52:34,740 --> 00:52:38,700
+know I was already losing it I felt that
+
+1289
+00:52:38,700 --> 00:52:41,599
+the best thing to do was to trade more
+
+1290
+00:52:41,599 --> 00:52:45,420
+you know to make more money faster which
+
+1291
+00:52:45,420 --> 00:52:47,700
+is a rookie mistake
+
+1292
+00:52:47,700 --> 00:52:51,079
+I just completely
+
+1293
+00:52:51,240 --> 00:52:54,780
+you know rug to pull myself yeah yeah
+
+1294
+00:52:54,780 --> 00:52:57,900
+that's what I did what what kind of risk
+
+1295
+00:52:57,900 --> 00:52:59,760
+were you what kind of risk were you
+
+1296
+00:52:59,760 --> 00:53:01,500
+putting on that account versus what are
+
+1297
+00:53:01,500 --> 00:53:03,000
+you what are you put on your like normal
+
+1298
+00:53:03,000 --> 00:53:05,280
+account what counts on that account I
+
+1299
+00:53:05,280 --> 00:53:07,380
+was putting like five maybe ten percent
+
+1300
+00:53:07,380 --> 00:53:10,559
+risk per trade on my normal account I
+
+1301
+00:53:10,559 --> 00:53:13,859
+use a fixed slot size on my own
+
+1302
+00:53:13,859 --> 00:53:16,500
+personal account yeah I put a fixed lot
+
+1303
+00:53:16,500 --> 00:53:17,460
+size
+
+1304
+00:53:17,460 --> 00:53:19,920
+doesn't matter how big my stop loss is
+
+1305
+00:53:19,920 --> 00:53:21,960
+going to be but the thing is that with
+
+1306
+00:53:21,960 --> 00:53:24,420
+when I was doing The Copy Service I was
+
+1307
+00:53:24,420 --> 00:53:27,240
+still trading the let's say old rbv
+
+1308
+00:53:27,240 --> 00:53:29,220
+strategy
+
+1309
+00:53:29,220 --> 00:53:33,000
+um and that incident
+
+1310
+00:53:33,000 --> 00:53:36,420
+with the copy effects account made me
+
+1311
+00:53:36,420 --> 00:53:39,660
+realize that there is something that I
+
+1312
+00:53:39,660 --> 00:53:41,640
+need to fix with my strategy so that was
+
+1313
+00:53:41,640 --> 00:53:44,099
+because remember I I told you earlier
+
+1314
+00:53:44,099 --> 00:53:46,559
+that my strategy was not perfect but now
+
+1315
+00:53:46,559 --> 00:53:48,599
+I feel that I don't need to modify
+
+1316
+00:53:48,599 --> 00:53:51,480
+anything related to it but back then I
+
+1317
+00:53:51,480 --> 00:53:53,099
+always felt like for the past three
+
+1318
+00:53:53,099 --> 00:53:55,200
+years I felt like there's something
+
+1319
+00:53:55,200 --> 00:53:57,480
+missing but yeah it works it makes money
+
+1320
+00:53:57,480 --> 00:53:59,339
+so you know what and it was a big stop
+
+1321
+00:53:59,339 --> 00:54:01,800
+loss that I had and it was
+
+1322
+00:54:01,800 --> 00:54:04,040
+um some entry confirmations that I had
+
+1323
+00:54:04,040 --> 00:54:07,559
+and the copy effects incident
+
+1324
+00:54:07,559 --> 00:54:09,900
+gave me no other choice no other
+
+1325
+00:54:09,900 --> 00:54:12,599
+alternative but to face
+
+1326
+00:54:12,599 --> 00:54:15,359
+the problem that I felt the strategy had
+
+1327
+00:54:15,359 --> 00:54:18,119
+and find a way to fix it
+
+1328
+00:54:18,119 --> 00:54:21,180
+and then I started taking all my
+
+1329
+00:54:21,180 --> 00:54:21,839
+um
+
+1330
+00:54:21,839 --> 00:54:25,319
+uh Instagram reels because I would post
+
+1331
+00:54:25,319 --> 00:54:28,020
+my trades on Instagram reels I took them
+
+1332
+00:54:28,020 --> 00:54:30,359
+all one by one and all the pictures that
+
+1333
+00:54:30,359 --> 00:54:32,520
+I documented I ever documented my trades
+
+1334
+00:54:32,520 --> 00:54:35,099
+with because I keep for every year for
+
+1335
+00:54:35,099 --> 00:54:37,920
+every month I keep a like a uh you know
+
+1336
+00:54:37,920 --> 00:54:41,040
+I uh screenshot my screen when I take a
+
+1337
+00:54:41,040 --> 00:54:43,980
+trade uh and I keep those as a journal
+
+1338
+00:54:43,980 --> 00:54:46,260
+of my trade and I started looking at all
+
+1339
+00:54:46,260 --> 00:54:48,900
+of those trades all of them taken within
+
+1340
+00:54:48,900 --> 00:54:50,460
+the past two years
+
+1341
+00:54:50,460 --> 00:54:53,520
+and I realized how to improve my
+
+1342
+00:54:53,520 --> 00:54:55,980
+strategy because I've just filtered out
+
+1343
+00:54:55,980 --> 00:54:59,460
+the traits that didn't do good but that
+
+1344
+00:54:59,460 --> 00:55:01,020
+I you know I said oh it's just part of
+
+1345
+00:55:01,020 --> 00:55:02,940
+the game losing smart again it is part
+
+1346
+00:55:02,940 --> 00:55:05,760
+of the game but it's only part of the
+
+1347
+00:55:05,760 --> 00:55:08,700
+game when you when you when you don't
+
+1348
+00:55:08,700 --> 00:55:10,380
+feel like there is something else that
+
+1349
+00:55:10,380 --> 00:55:11,819
+needs to be improved if you feel like
+
+1350
+00:55:11,819 --> 00:55:13,440
+there's something else being to be
+
+1351
+00:55:13,440 --> 00:55:15,119
+improved but you don't work to improve
+
+1352
+00:55:15,119 --> 00:55:17,220
+it then the loss is not part of the game
+
+1353
+00:55:17,220 --> 00:55:20,040
+it's the kind of loss that it it it it
+
+1354
+00:55:20,040 --> 00:55:22,920
+you left the room for an error there and
+
+1355
+00:55:22,920 --> 00:55:24,599
+you're not doing anything to address it
+
+1356
+00:55:24,599 --> 00:55:27,240
+if you find the error and you do
+
+1357
+00:55:27,240 --> 00:55:28,500
+something to address it and you address
+
+1358
+00:55:28,500 --> 00:55:30,599
+it and you still get a loss and you just
+
+1359
+00:55:30,599 --> 00:55:33,480
+literally feel like there's nothing else
+
+1360
+00:55:33,480 --> 00:55:36,599
+that you need to improve or that okay I
+
+1361
+00:55:36,599 --> 00:55:38,579
+don't know what other things to improve
+
+1362
+00:55:38,579 --> 00:55:41,220
+honestly if that's the case then yes
+
+1363
+00:55:41,220 --> 00:55:43,140
+that's a loss that is part of the game
+
+1364
+00:55:43,140 --> 00:55:45,420
+it is what it is accept it because you
+
+1365
+00:55:45,420 --> 00:55:49,559
+know no system is 100 bulletproof but if
+
+1366
+00:55:49,559 --> 00:55:50,880
+you take a loss
+
+1367
+00:55:50,880 --> 00:55:53,520
+and you treat it as if it's a part of
+
+1368
+00:55:53,520 --> 00:55:56,660
+the game but deep down you have a doubt
+
+1369
+00:55:56,660 --> 00:56:00,000
+what if there could have been something
+
+1370
+00:56:00,000 --> 00:56:01,980
+that I could have done
+
+1371
+00:56:01,980 --> 00:56:05,160
+to you know improve my entry to improve
+
+1372
+00:56:05,160 --> 00:56:07,319
+my stop-loss placement to have like a
+
+1373
+00:56:07,319 --> 00:56:10,440
+better uh price level at which I need to
+
+1374
+00:56:10,440 --> 00:56:12,180
+wait for price to be informed of my
+
+1375
+00:56:12,180 --> 00:56:14,520
+specific setup when you feel that but
+
+1376
+00:56:14,520 --> 00:56:16,440
+you just ignore it
+
+1377
+00:56:16,440 --> 00:56:18,300
+eventually is gonna
+
+1378
+00:56:18,300 --> 00:56:20,760
+come against you yeah yeah I'll sort of
+
+1379
+00:56:20,760 --> 00:56:22,140
+I'll sort of get what you say in there
+
+1380
+00:56:22,140 --> 00:56:24,000
+I'll sort of get what you're saying
+
+1381
+00:56:24,000 --> 00:56:28,079
+um yeah now what about uh uh we're gonna
+
+1382
+00:56:28,079 --> 00:56:29,460
+jump into the quick far round in a
+
+1383
+00:56:29,460 --> 00:56:31,380
+second but before we do I just want to
+
+1384
+00:56:31,380 --> 00:56:33,119
+see if there's any one thing you would
+
+1385
+00:56:33,119 --> 00:56:34,920
+recommend a retail Trader spend the next
+
+1386
+00:56:34,920 --> 00:56:37,940
+month mastering
+
+1387
+00:56:38,099 --> 00:56:40,500
+themselves
+
+1388
+00:56:40,500 --> 00:56:43,559
+themselves your
+
+1389
+00:56:43,559 --> 00:56:45,619
+um
+
+1390
+00:56:47,700 --> 00:56:49,800
+pay attention to what you feel when you
+
+1391
+00:56:49,800 --> 00:56:51,839
+open the chart pay attention to the urge
+
+1392
+00:56:51,839 --> 00:56:53,940
+that you feel of being in a move that is
+
+1393
+00:56:53,940 --> 00:56:57,480
+happening right now pay attention to
+
+1394
+00:56:57,480 --> 00:56:57,720
+[Music]
+
+1395
+00:56:57,720 --> 00:56:59,720
+um
+
+1396
+00:56:59,760 --> 00:57:02,480
+you know
+
+1397
+00:57:02,520 --> 00:57:05,940
+if I were to to relate only at a
+
+1398
+00:57:05,940 --> 00:57:08,460
+technical analyst from a technical
+
+1399
+00:57:08,460 --> 00:57:11,460
+analyst standpoint I would say focus on
+
+1400
+00:57:11,460 --> 00:57:13,680
+understanding Market structures if you
+
+1401
+00:57:13,680 --> 00:57:16,020
+understand Market structures and if you
+
+1402
+00:57:16,020 --> 00:57:19,079
+can find a way in which to blend price
+
+1403
+00:57:19,079 --> 00:57:21,420
+structures with time structures and
+
+1404
+00:57:21,420 --> 00:57:23,400
+understand that there has to be a price
+
+1405
+00:57:23,400 --> 00:57:25,559
+level that it is
+
+1406
+00:57:25,559 --> 00:57:28,020
+a Time structure and a market structure
+
+1407
+00:57:28,020 --> 00:57:29,520
+like price structure at the same time
+
+1408
+00:57:29,520 --> 00:57:31,020
+and that's the one that you should focus
+
+1409
+00:57:31,020 --> 00:57:33,300
+on then yes spend time on that so
+
+1410
+00:57:33,300 --> 00:57:35,040
+understanding Market structures and
+
+1411
+00:57:35,040 --> 00:57:36,839
+understanding
+
+1412
+00:57:36,839 --> 00:57:38,280
+um
+
+1413
+00:57:38,280 --> 00:57:40,440
+you know time and price not just price
+
+1414
+00:57:40,440 --> 00:57:43,260
+from a technical analysis standpoint
+
+1415
+00:57:43,260 --> 00:57:44,960
+this is what I would focus on
+
+1416
+00:57:44,960 --> 00:57:47,220
+understanding Market structures from a
+
+1417
+00:57:47,220 --> 00:57:50,660
+time and price perspective
+
+1418
+00:57:50,660 --> 00:57:53,520
+psychologically speaking Master yourself
+
+1419
+00:57:53,520 --> 00:57:56,160
+try to pay attention at all those urges
+
+1420
+00:57:56,160 --> 00:57:58,680
+that push you you know push the button
+
+1421
+00:57:58,680 --> 00:58:01,200
+when you know you're not supposed to pay
+
+1422
+00:58:01,200 --> 00:58:03,359
+attention to how your heart is racing
+
+1423
+00:58:03,359 --> 00:58:05,640
+when you push the button
+
+1424
+00:58:05,640 --> 00:58:08,460
+because the heart is racing I mean your
+
+1425
+00:58:08,460 --> 00:58:09,960
+heart wouldn't be racing when you open a
+
+1426
+00:58:09,960 --> 00:58:13,500
+trade if you if you have a rule-based
+
+1427
+00:58:13,500 --> 00:58:14,819
+strategy that you know you followed
+
+1428
+00:58:14,819 --> 00:58:17,520
+you're gonna feel like okay well I have
+
+1429
+00:58:17,520 --> 00:58:19,680
+a plan I'm following it so why is my
+
+1430
+00:58:19,680 --> 00:58:22,200
+heart racing but if the heart races it
+
+1431
+00:58:22,200 --> 00:58:24,180
+means that you're not taking the
+
+1432
+00:58:24,180 --> 00:58:26,460
+decision to open a trade based on a rule
+
+1433
+00:58:26,460 --> 00:58:29,040
+or a set of rules that you've you know
+
+1434
+00:58:29,040 --> 00:58:31,200
+decided to follow and if that's the case
+
+1435
+00:58:31,200 --> 00:58:33,300
+you know whoever doesn't have rules
+
+1436
+00:58:33,300 --> 00:58:36,119
+they're not gonna
+
+1437
+00:58:36,119 --> 00:58:38,400
+evolve and it's also yeah having the
+
+1438
+00:58:38,400 --> 00:58:40,020
+rules that you that you've tested so
+
+1439
+00:58:40,020 --> 00:58:41,520
+you've got confidence in it so that
+
+1440
+00:58:41,520 --> 00:58:43,380
+absolutely absolutely otherwise you can
+
+1441
+00:58:43,380 --> 00:58:44,940
+have rules but you've still got you
+
+1442
+00:58:44,940 --> 00:58:46,319
+don't you still don't know whether or
+
+1443
+00:58:46,319 --> 00:58:48,079
+not it's going to work or
+
+1444
+00:58:48,079 --> 00:58:49,920
+right we're going to jump into the quick
+
+1445
+00:58:49,920 --> 00:58:51,299
+fire around here so
+
+1446
+00:58:51,299 --> 00:58:53,040
+um a few quick questions so how long did
+
+1447
+00:58:53,040 --> 00:58:54,780
+it take you to go from newbie to
+
+1448
+00:58:54,780 --> 00:58:56,940
+consistently profitable
+
+1449
+00:58:56,940 --> 00:58:58,920
+uh about two years
+
+1450
+00:58:58,920 --> 00:59:01,619
+what's your favorite favorite entry
+
+1451
+00:59:01,619 --> 00:59:03,299
+setup
+
+1452
+00:59:03,299 --> 00:59:06,720
+entry setup is price has to be below 12
+
+1453
+00:59:06,720 --> 00:59:09,839
+minute open for me to buy and it has to
+
+1454
+00:59:09,839 --> 00:59:12,480
+create an imbalance to the upside and
+
+1455
+00:59:12,480 --> 00:59:15,960
+then like a ICT sphere value Gap
+
+1456
+00:59:15,960 --> 00:59:18,720
+um and this uh pattern has to form
+
+1457
+00:59:18,720 --> 00:59:22,440
+between uh let's say nine not not my
+
+1458
+00:59:22,440 --> 00:59:23,339
+hour
+
+1459
+00:59:23,339 --> 00:59:26,339
+um 2 a.m till 5 a.m New York time zone
+
+1460
+00:59:26,339 --> 00:59:29,099
+for the London session and then I want
+
+1461
+00:59:29,099 --> 00:59:31,500
+to sell only prices above the 12
+
+1462
+00:59:31,500 --> 00:59:34,500
+midnight open uh price and it gives me
+
+1463
+00:59:34,500 --> 00:59:36,599
+that imbalance to the downside and then
+
+1464
+00:59:36,599 --> 00:59:38,940
+it comes back rebalances and then starts
+
+1465
+00:59:38,940 --> 00:59:42,299
+to move down so that's my favorite entry
+
+1466
+00:59:42,299 --> 00:59:45,059
+pattern sell above 12 minute open
+
+1467
+00:59:45,059 --> 00:59:48,299
+buy below 12 minute open
+
+1468
+00:59:48,299 --> 00:59:50,460
+what's your preferred broker and trading
+
+1469
+00:59:50,460 --> 00:59:52,559
+platform look folks I know you want the
+
+1470
+00:59:52,559 --> 00:59:54,240
+answer to this question which broker is
+
+1471
+00:59:54,240 --> 00:59:56,220
+this Trader using now the answer has
+
+1472
+00:59:56,220 --> 00:59:58,619
+been sponsored by black bull markets so
+
+1473
+00:59:58,619 --> 01:00:00,119
+to find the answer out you're going to
+
+1474
+01:00:00,119 --> 01:00:02,220
+need to go over to tradynet.com find the
+
+1475
+01:00:02,220 --> 01:00:04,260
+show notes page for this guest and then
+
+1476
+01:00:04,260 --> 01:00:05,880
+all will be revealed do you have a
+
+1477
+01:00:05,880 --> 01:00:09,559
+recommended trading book or resource
+
+1478
+01:00:09,780 --> 01:00:12,000
+never read a trading book I started
+
+1479
+01:00:12,000 --> 01:00:15,540
+reading treading in the zone I think uh
+
+1480
+01:00:15,540 --> 01:00:18,540
+uh very good at the beginning but then I
+
+1481
+01:00:18,540 --> 01:00:20,359
+just left it I don't know why
+
+1482
+01:00:20,359 --> 01:00:25,079
+but trading resource definitely uh ICT
+
+1483
+01:00:25,079 --> 01:00:26,940
+yeah let's see what we'll put that link
+
+1484
+01:00:26,940 --> 01:00:28,680
+up to the uh the video you mentioned at
+
+1485
+01:00:28,680 --> 01:00:31,220
+the start of the show yes
+
+1486
+01:00:31,220 --> 01:00:34,740
+yeah okay right brilliant um before we
+
+1487
+01:00:34,740 --> 01:00:36,240
+wrap up what's the best way for Traders
+
+1488
+01:00:36,240 --> 01:00:37,980
+to get hold of you
+
+1489
+01:00:37,980 --> 01:00:40,260
+uh they can get hold of me on Instagram
+
+1490
+01:00:40,260 --> 01:00:45,119
+my handle is true underline Lara uh they
+
+1491
+01:00:45,119 --> 01:00:48,000
+can also get hold of me on telegram the
+
+1492
+01:00:48,000 --> 01:00:50,900
+handle is the same true underline Lara
+
+1493
+01:00:50,900 --> 01:00:54,900
+t-r-u-e underline l-e-r-a brilliant well
+
+1494
+01:00:54,900 --> 01:00:58,500
+look a big thank you also yeah I'll tell
+
+1495
+01:00:58,500 --> 01:00:59,520
+you what we'll make it easy for everyone
+
+1496
+01:00:59,520 --> 01:01:01,140
+because um what we're going to do is
+
+1497
+01:01:01,140 --> 01:01:02,579
+we're going to hook all those links up
+
+1498
+01:01:02,579 --> 01:01:04,380
+in the show notes and to find them
+
+1499
+01:01:04,380 --> 01:01:06,540
+simply search for Alex in the search box
+
+1500
+01:01:06,540 --> 01:01:09,420
+on tradynet.com until next time I wish
+
+1501
+01:01:09,420 --> 01:01:11,280
+all my listeners trading happiness and
+
+1502
+01:01:11,280 --> 01:01:12,660
+success all right folks there you have
+
+1503
+01:01:12,660 --> 01:01:14,579
+an interview done in dusted now we've
+
+1504
+01:01:14,579 --> 01:01:16,740
+got Alex's full strategy broken down
+
+1505
+01:01:16,740 --> 01:01:18,599
+step by step and it is a simplified way
+
+1506
+01:01:18,599 --> 01:01:21,599
+to trade the ICT method so if you do
+
+1507
+01:01:21,599 --> 01:01:23,339
+want to check that out go over to the
+
+1508
+01:01:23,339 --> 01:01:24,780
+channel hit subscribe on the YouTube
+
+1509
+01:01:24,780 --> 01:01:26,880
+channel and you'll see that video pop up
+
+1510
+01:01:26,880 --> 01:01:29,160
+very soon so other things remember we've
+
+1511
+01:01:29,160 --> 01:01:30,420
+got the live streamers we've got the
+
+1512
+01:01:30,420 --> 01:01:31,619
+blue Gaddy and they're taking the blue
+
+1513
+01:01:31,619 --> 01:01:33,059
+Guardian challenge we've got the robot
+
+1514
+01:01:33,059 --> 01:01:36,359
+Builders Club Tim uh K evaluation if you
+
+1515
+01:01:36,359 --> 01:01:38,760
+join this month of August folks have a
+
+1516
+01:01:38,760 --> 01:01:40,079
+great trading week and we'll see you in
+
+1517
+01:01:40,079 --> 01:01:42,740
+the next episode
+
