@@ -1,0 +1,6924 @@
+1
+00:00:00,079 --> 00:00:02,639
+in this section we're going to discuss
+
+2
+00:00:02,639 --> 00:00:05,549
+how prices move and who the players are
+
+3
+00:00:05,549 --> 00:00:07,919
+behind it when you understand how
+
+4
+00:00:07,919 --> 00:00:10,290
+traders make prices move then how you
+
+5
+00:00:10,290 --> 00:00:12,120
+need to think to generate consistent
+
+6
+00:00:12,120 --> 00:00:13,860
+results will start to become clear to
+
+7
+00:00:13,860 --> 00:00:16,980
+you okay where we're going now is that
+
+8
+00:00:16,980 --> 00:00:20,640
+is that I think what I said when we do
+
+9
+00:00:20,640 --> 00:00:24,300
+just before the break is that when you
+
+10
+00:00:24,300 --> 00:00:26,760
+guys understand the nature of price
+
+11
+00:00:26,760 --> 00:00:30,869
+movement and how any technical
+
+12
+00:00:30,869 --> 00:00:32,308
+methodology that's based on a
+
+13
+00:00:32,308 --> 00:00:36,630
+mathematical formula or a price pattern
+
+14
+00:00:36,630 --> 00:00:38,879
+interacts with that movement when you
+
+15
+00:00:38,879 --> 00:00:41,460
+understand that relationship how you
+
+16
+00:00:41,460 --> 00:00:43,500
+need to think will become self-evident
+
+17
+00:00:43,500 --> 00:00:46,200
+do you remember me saying that okay
+
+18
+00:00:46,200 --> 00:00:47,579
+this is the part that we're going into
+
+19
+00:00:47,579 --> 00:00:49,520
+right now okay in other words where you
+
+20
+00:00:49,520 --> 00:00:52,620
+understand just exactly how prices move
+
+21
+00:00:52,620 --> 00:00:54,270
+because what I found in doing these
+
+22
+00:00:54,270 --> 00:00:58,109
+workshops over the years that here I'm
+
+23
+00:00:58,109 --> 00:01:01,410
+I'm addressing a group of people who
+
+24
+00:01:01,410 --> 00:01:04,229
+trade and who and many cases have traded
+
+25
+00:01:04,229 --> 00:01:06,240
+for years and if you ask somebody
+
+26
+00:01:06,240 --> 00:01:09,000
+exactly how do prices get from one price
+
+27
+00:01:09,000 --> 00:01:13,619
+to the next they can't tell you they
+
+28
+00:01:13,619 --> 00:01:16,290
+don't know they don't know how it
+
+29
+00:01:16,290 --> 00:01:22,380
+happens and maybe you guys are I'm sure
+
+30
+00:01:22,380 --> 00:01:23,850
+you guys aren't that that group but well
+
+31
+00:01:23,850 --> 00:01:25,590
+you know we'll do what we'll go over it
+
+32
+00:01:25,590 --> 00:01:30,840
+just as a refresher okay we'll do it as
+
+33
+00:01:30,840 --> 00:01:38,430
+a kind of refresher no actually I
+
+34
+00:01:38,430 --> 00:01:41,090
+haven't I would address a group yet that
+
+35
+00:01:41,090 --> 00:01:44,460
+that there were very few people or if
+
+36
+00:01:44,460 --> 00:01:46,380
+anybody could tell you exactly how
+
+37
+00:01:46,380 --> 00:01:47,970
+prices move from one price level to the
+
+38
+00:01:47,970 --> 00:01:51,530
+next so for an example
+
+39
+00:02:00,680 --> 00:02:04,470
+okay if the last reported price that you
+
+40
+00:02:04,470 --> 00:02:07,550
+see on your screen of something is 10
+
+41
+00:02:07,550 --> 00:02:15,950
+how does it get to 11 what who's they
+
+42
+00:02:15,950 --> 00:02:18,570
+the market maker and market maker asked
+
+43
+00:02:18,570 --> 00:02:19,500
+12 okay
+
+44
+00:02:19,500 --> 00:02:23,730
+well no well okay it's at 10 how does it
+
+45
+00:02:23,730 --> 00:02:26,370
+get to 11 how does the price actually
+
+46
+00:02:26,370 --> 00:02:28,010
+move to 11
+
+47
+00:02:28,010 --> 00:02:32,130
+well more buyers but that okay that's
+
+48
+00:02:32,130 --> 00:02:35,030
+true but then again when you with that
+
+49
+00:02:35,030 --> 00:02:37,050
+demand okay
+
+50
+00:02:37,050 --> 00:02:40,950
+but when you look at 10 what you have is
+
+51
+00:02:40,950 --> 00:02:43,350
+you have offers at 11 and you have bids
+
+52
+00:02:43,350 --> 00:02:47,330
+at nine right everybody understands that
+
+53
+00:02:53,840 --> 00:02:58,200
+okay now there's only two ways that
+
+54
+00:02:58,200 --> 00:03:00,019
+anybody can make money in this business
+
+55
+00:03:00,019 --> 00:03:02,580
+there's only two possible ways no matter
+
+56
+00:03:02,580 --> 00:03:04,920
+what strategies you're employing no
+
+57
+00:03:04,920 --> 00:03:06,269
+matter how elaborate they are no matter
+
+58
+00:03:06,269 --> 00:03:08,610
+how simple they are you have to be able
+
+59
+00:03:08,610 --> 00:03:11,400
+to buy something at a low price and sell
+
+60
+00:03:11,400 --> 00:03:13,080
+it back at a higher price or sell
+
+61
+00:03:13,080 --> 00:03:14,459
+something at a high price and buy it
+
+62
+00:03:14,459 --> 00:03:16,260
+back at a lower price well we in
+
+63
+00:03:16,260 --> 00:03:19,260
+agreeance on that and would you also
+
+64
+00:03:19,260 --> 00:03:24,030
+agree that everyone that trades is
+
+65
+00:03:24,030 --> 00:03:28,440
+trading to make money in other words I'm
+
+66
+00:03:28,440 --> 00:03:30,299
+gonna say that there isn't anybody who
+
+67
+00:03:30,299 --> 00:03:33,180
+puts on a trade that does so knowingly
+
+68
+00:03:33,180 --> 00:03:34,739
+and consciously thinking it's going to
+
+69
+00:03:34,739 --> 00:03:35,299
+be a loser
+
+70
+00:03:35,299 --> 00:03:37,200
+in other words where they going to the
+
+71
+00:03:37,200 --> 00:03:40,140
+mark and say I my purpose is to lose
+
+72
+00:03:40,140 --> 00:03:45,269
+money okay you guys with me on this now
+
+73
+00:03:45,269 --> 00:03:47,160
+if the only way that you can make money
+
+74
+00:03:47,160 --> 00:03:49,320
+is to buy low and sell high or sell high
+
+75
+00:03:49,320 --> 00:03:52,230
+and buy low and the last price posted
+
+76
+00:03:52,230 --> 00:03:55,019
+price is 10 which represents the value
+
+77
+00:03:55,019 --> 00:03:59,340
+at that moment then what's low nine is
+
+78
+00:03:59,340 --> 00:04:03,329
+low and what's high 11 what's the only
+
+79
+00:04:03,329 --> 00:04:06,560
+way that it can get to 11
+
+80
+00:04:06,560 --> 00:04:09,300
+somebody somebody thinks 11
+
+81
+00:04:09,300 --> 00:04:10,830
+good price meaning that they have to buy
+
+82
+00:04:10,830 --> 00:04:15,360
+high relative to the last price right so
+
+83
+00:04:15,360 --> 00:04:16,410
+for an exist
+
+84
+00:04:16,410 --> 00:04:18,480
+so basically what this also means is
+
+85
+00:04:18,480 --> 00:04:20,548
+that that all the offers have to be
+
+86
+00:04:20,548 --> 00:04:23,430
+taken out at ten do they not anybody who
+
+87
+00:04:23,430 --> 00:04:25,110
+had an offer in at ten that wanted to
+
+88
+00:04:25,110 --> 00:04:28,860
+sell at ten will get filled and all
+
+89
+00:04:28,860 --> 00:04:30,420
+those offers have to be taken out for
+
+90
+00:04:30,420 --> 00:04:32,850
+the price to go to eleven correct
+
+91
+00:04:32,850 --> 00:04:34,920
+and of course and for the price to go to
+
+92
+00:04:34,920 --> 00:04:36,960
+twelve all the offers that exist that at
+
+93
+00:04:36,960 --> 00:04:38,880
+eleven have to be taken out so that
+
+94
+00:04:38,880 --> 00:04:40,320
+someone could actually bid the price up
+
+95
+00:04:40,320 --> 00:04:42,870
+to twelve for prices to move somebody
+
+96
+00:04:42,870 --> 00:04:47,160
+literally has to bid the barque it up or
+
+97
+00:04:47,160 --> 00:04:48,990
+for prices to go lower it means that
+
+98
+00:04:48,990 --> 00:04:51,600
+someone has to offer it lower now if the
+
+99
+00:04:51,600 --> 00:04:53,430
+only way that anyone can make money is
+
+100
+00:04:53,430 --> 00:04:55,980
+to buy low and sell high and sell high
+
+101
+00:04:55,980 --> 00:04:58,260
+and buy low why in the world would
+
+102
+00:04:58,260 --> 00:05:01,320
+anybody bid the market past the last
+
+103
+00:05:01,320 --> 00:05:10,190
+posted price conviction exactly
+
+104
+00:05:10,190 --> 00:05:12,540
+conviction in other words what you have
+
+105
+00:05:12,540 --> 00:05:15,300
+is a situation where on every trade
+
+106
+00:05:15,300 --> 00:05:17,850
+every trade that exists or a boat there
+
+107
+00:05:17,850 --> 00:05:19,290
+are two people on both sides of the
+
+108
+00:05:19,290 --> 00:05:22,050
+trade even in stocks there's even
+
+109
+00:05:22,050 --> 00:05:23,850
+someone who's selling a stock not like a
+
+110
+00:05:23,850 --> 00:05:25,980
+commodity where we're in a futures
+
+111
+00:05:25,980 --> 00:05:28,320
+contract or an options contract there's
+
+112
+00:05:28,320 --> 00:05:30,150
+two people on both sides of the trade
+
+113
+00:05:30,150 --> 00:05:32,419
+there's a buyer and there's a seller and
+
+114
+00:05:32,419 --> 00:05:34,740
+the next tick is going to make one of
+
+115
+00:05:34,740 --> 00:05:35,880
+them a winner and one of them a loser
+
+116
+00:05:35,880 --> 00:05:39,480
+right off the bat if you and I you and I
+
+117
+00:05:39,480 --> 00:05:42,450
+enter into a trade at ten okay we enter
+
+118
+00:05:42,450 --> 00:05:46,230
+into a trade at ten it means that you in
+
+119
+00:05:46,230 --> 00:05:48,210
+essence if you're the seller they'll say
+
+120
+00:05:48,210 --> 00:05:50,430
+you you sold them at ten and I bought
+
+121
+00:05:50,430 --> 00:05:52,919
+them at ten the next tick is going to
+
+122
+00:05:52,919 --> 00:05:54,540
+make one of us a winner and one of us a
+
+123
+00:05:54,540 --> 00:05:56,870
+loser if the next tick is nine the
+
+124
+00:05:56,870 --> 00:05:59,070
+amount of money that flows into your
+
+125
+00:05:59,070 --> 00:06:00,870
+account is coming directly out of mind
+
+126
+00:06:00,870 --> 00:06:03,480
+are you guys with me on this the next
+
+127
+00:06:03,480 --> 00:06:04,950
+tick is eleven the amount of money
+
+128
+00:06:04,950 --> 00:06:06,360
+flowing into my account is coming
+
+129
+00:06:06,360 --> 00:06:09,960
+directly out of your account okay so
+
+130
+00:06:09,960 --> 00:06:11,970
+basically what you have is you have two
+
+131
+00:06:11,970 --> 00:06:15,840
+diametrically opposed again to every
+
+132
+00:06:15,840 --> 00:06:19,800
+single trade every trade that is made
+
+133
+00:06:19,800 --> 00:06:22,410
+there are diametrically opposed Ivelisse
+
+134
+00:06:22,410 --> 00:06:23,249
+about what the few
+
+135
+00:06:23,249 --> 00:06:27,629
+sure is going to be so again I'm going
+
+136
+00:06:27,629 --> 00:06:32,069
+to say what would cause anybody to buy
+
+137
+00:06:32,069 --> 00:06:36,779
+high or sell low just conviction in
+
+138
+00:06:36,779 --> 00:06:38,309
+other words what you have is a situation
+
+139
+00:06:38,309 --> 00:06:40,799
+where if someone's willing to bid a
+
+140
+00:06:40,799 --> 00:06:43,069
+market up to the next highest price
+
+141
+00:06:43,069 --> 00:06:45,449
+basically what that person is doing is
+
+142
+00:06:45,449 --> 00:06:48,749
+that person is stepping out saying that
+
+143
+00:06:48,749 --> 00:06:51,269
+my conviction that the price is going to
+
+144
+00:06:51,269 --> 00:06:54,389
+go to 12 or beyond is so great that I am
+
+145
+00:06:54,389 --> 00:06:57,929
+willing to do the opposite of what I
+
+146
+00:06:57,929 --> 00:06:59,969
+need to do to make money think about
+
+147
+00:06:59,969 --> 00:07:02,309
+what I just said I am willing to do the
+
+148
+00:07:02,309 --> 00:07:03,959
+opposite of what I need to do to make
+
+149
+00:07:03,959 --> 00:07:06,509
+money because my conviction is so strong
+
+150
+00:07:06,509 --> 00:07:09,059
+that the next price will be 12 or 13
+
+151
+00:07:09,059 --> 00:07:11,459
+otherwise this person would wait if this
+
+152
+00:07:11,459 --> 00:07:12,689
+person thought the next price is going
+
+153
+00:07:12,689 --> 00:07:14,699
+to be 9 then they buy lower what they
+
+154
+00:07:14,699 --> 00:07:16,019
+thought was going to be 8 they'd buy low
+
+155
+00:07:16,019 --> 00:07:20,399
+they'd wait and buy lower whereas so
+
+156
+00:07:20,399 --> 00:07:22,049
+what happens is that the person who's
+
+157
+00:07:22,049 --> 00:07:24,389
+willing to bid a market up and take out
+
+158
+00:07:24,389 --> 00:07:26,729
+these offers at 10 take out all the
+
+159
+00:07:26,729 --> 00:07:30,869
+offers at 10 and bid it up to 11 has to
+
+160
+00:07:30,869 --> 00:07:33,029
+have a stronger conviction in the future
+
+161
+00:07:33,029 --> 00:07:34,769
+than the person who sold it to him at 11
+
+162
+00:07:34,769 --> 00:07:36,869
+because this person is creating price
+
+163
+00:07:36,869 --> 00:07:39,119
+movement is actually creating movement
+
+164
+00:07:39,119 --> 00:07:40,769
+and the person on the other side of the
+
+165
+00:07:40,769 --> 00:07:44,069
+trade is being passive because they're
+
+166
+00:07:44,069 --> 00:07:45,419
+doing exactly what they think they need
+
+167
+00:07:45,419 --> 00:07:47,129
+to do and that sell high relative to the
+
+168
+00:07:47,129 --> 00:07:51,539
+last price are you guys with me on this
+
+169
+00:07:51,539 --> 00:07:55,259
+okay everybody understand it now when I
+
+170
+00:07:55,259 --> 00:07:57,299
+ask you is there anybody in this room
+
+171
+00:07:57,299 --> 00:08:01,129
+who has purposefully bid up a market
+
+172
+00:08:01,189 --> 00:08:03,419
+there are there are some people who have
+
+173
+00:08:03,419 --> 00:08:04,919
+actually been a market up in other words
+
+174
+00:08:04,919 --> 00:08:06,539
+the people who've actually taken taken
+
+175
+00:08:06,539 --> 00:08:08,249
+the offers all the offers out at the
+
+176
+00:08:08,249 --> 00:08:14,009
+next highest price and bid it up do
+
+177
+00:08:14,009 --> 00:08:17,579
+people like that exist yes that so no we
+
+178
+00:08:17,579 --> 00:08:18,839
+are aware of the fact that there are
+
+179
+00:08:18,839 --> 00:08:21,029
+traders who have both who both have the
+
+180
+00:08:21,029 --> 00:08:22,259
+financial and the psychological
+
+181
+00:08:22,259 --> 00:08:25,829
+resources to actually purposefully bid
+
+182
+00:08:25,829 --> 00:08:29,909
+markets up or offer them lower we're
+
+183
+00:08:29,909 --> 00:08:34,159
+together on this right okay
+
+184
+00:08:35,380 --> 00:08:38,720
+so basically what you have is that all
+
+185
+00:08:38,720 --> 00:08:41,750
+price movement has to be a result of an
+
+186
+00:08:41,750 --> 00:08:43,370
+imbalance in the degree of conviction
+
+187
+00:08:43,370 --> 00:08:44,900
+between the traders who believe that
+
+188
+00:08:44,900 --> 00:08:47,000
+prices are going up and those who
+
+189
+00:08:47,000 --> 00:08:48,920
+believe that it's going down that is the
+
+190
+00:08:48,920 --> 00:08:51,050
+only way that prices move it doesn't
+
+191
+00:08:51,050 --> 00:08:52,850
+matter what the reasons are that people
+
+192
+00:08:52,850 --> 00:08:54,350
+tell you about why they did what they
+
+193
+00:08:54,350 --> 00:08:56,120
+did or it doesn't matter what the
+
+194
+00:08:56,120 --> 00:08:59,060
+reasons that you hear on CNBC or
+
+195
+00:08:59,060 --> 00:09:00,920
+whatever about where the market is and
+
+196
+00:09:00,920 --> 00:09:02,380
+why it went the way that it went
+
+197
+00:09:02,380 --> 00:09:05,240
+ultimately it all boils down to an
+
+198
+00:09:05,240 --> 00:09:07,850
+imbalance in conviction that's the only
+
+199
+00:09:07,850 --> 00:09:10,280
+way prices can move because the only way
+
+200
+00:09:10,280 --> 00:09:12,760
+they can move is for someone to actually
+
+201
+00:09:12,760 --> 00:09:15,620
+purposefully bid it up or offer it lower
+
+202
+00:09:15,620 --> 00:09:18,820
+and for them to do it there has to be
+
+203
+00:09:18,820 --> 00:09:23,720
+you know like like a sense of strength
+
+204
+00:09:23,720 --> 00:09:26,090
+in terms of energy in their belief that
+
+205
+00:09:26,090 --> 00:09:27,770
+the next tick is going to make them a
+
+206
+00:09:27,770 --> 00:09:30,010
+winner
+
+207
+00:09:37,590 --> 00:09:39,840
+okay so we're basically does everybody
+
+208
+00:09:39,840 --> 00:09:41,279
+understand everyone's with me on this
+
+209
+00:09:41,279 --> 00:09:43,440
+all price movement is a result of an
+
+210
+00:09:43,440 --> 00:09:45,180
+imbalance in conviction between the
+
+211
+00:09:45,180 --> 00:09:47,760
+buyers and the sellers every trade every
+
+212
+00:09:47,760 --> 00:09:49,410
+trade that's made there's somebody on
+
+213
+00:09:49,410 --> 00:09:50,730
+both sides of the trade that have
+
+214
+00:09:50,730 --> 00:09:51,930
+diametrically opposed
+
+215
+00:09:51,930 --> 00:09:53,820
+you're always having it with every
+
+216
+00:09:53,820 --> 00:09:55,260
+single trade there's always a clash
+
+217
+00:09:55,260 --> 00:09:57,330
+there's always a clash in wheels and a
+
+218
+00:09:57,330 --> 00:09:59,370
+clash and belief in terms of what the
+
+219
+00:09:59,370 --> 00:10:00,510
+next tick is going to be or what the
+
+220
+00:10:00,510 --> 00:10:02,790
+future holds we've got two people coming
+
+221
+00:10:02,790 --> 00:10:05,279
+entering into in a sense an agreement by
+
+222
+00:10:05,279 --> 00:10:07,410
+making a trade but both of those people
+
+223
+00:10:07,410 --> 00:10:09,690
+have diametrically opposed expectations
+
+224
+00:10:09,690 --> 00:10:12,960
+of the future and one of them is willing
+
+225
+00:10:12,960 --> 00:10:15,900
+to say hey you know what my expectation
+
+226
+00:10:15,900 --> 00:10:18,690
+is so great is so strong that I am
+
+227
+00:10:18,690 --> 00:10:20,339
+actually willing to do the opposite of
+
+228
+00:10:20,339 --> 00:10:22,950
+what I need to do to make money and get
+
+229
+00:10:22,950 --> 00:10:26,250
+a mark it up now there are traders who
+
+230
+00:10:26,250 --> 00:10:26,910
+will do that
+
+231
+00:10:26,910 --> 00:10:30,330
+I call them dynamic traders they are the
+
+232
+00:10:30,330 --> 00:10:32,339
+people that have like I said both the
+
+233
+00:10:32,339 --> 00:10:33,900
+financial and the psychological
+
+234
+00:10:33,900 --> 00:10:37,350
+resources to actually bid markets up
+
+235
+00:10:37,350 --> 00:10:39,450
+what the typical and what I'm going to
+
+236
+00:10:39,450 --> 00:10:42,300
+call everyone else passive technical
+
+237
+00:10:42,300 --> 00:10:45,510
+traders okay they've got dynamic traders
+
+238
+00:10:45,510 --> 00:10:49,680
+and passive technical traders what the
+
+239
+00:10:49,680 --> 00:10:51,600
+typical passive technical trader doesn't
+
+240
+00:10:51,600 --> 00:10:54,540
+really I'd say really not a where ever
+
+241
+00:10:54,540 --> 00:10:56,550
+think about is the fact that the only
+
+242
+00:10:56,550 --> 00:10:58,290
+way that they will find themselves in a
+
+243
+00:10:58,290 --> 00:11:01,310
+winning trade is by the actions of the
+
+244
+00:11:01,310 --> 00:11:03,780
+people who are willing to bid a market
+
+245
+00:11:03,780 --> 00:11:05,910
+up an offer will offer at lower that's
+
+246
+00:11:05,910 --> 00:11:10,710
+the only way that it happens in other
+
+247
+00:11:10,710 --> 00:11:12,990
+words when you and I get into a train I
+
+248
+00:11:12,990 --> 00:11:14,820
+am a passive technical trader by the way
+
+249
+00:11:14,820 --> 00:11:16,170
+I'm not one of these dynamic guys I
+
+250
+00:11:16,170 --> 00:11:19,310
+don't bid markets up an offer lower okay
+
+251
+00:11:19,310 --> 00:11:24,089
+that when you and I get into a trade at
+
+252
+00:11:24,089 --> 00:11:25,770
+this price right here let's say we got
+
+253
+00:11:25,770 --> 00:11:28,860
+to move ought at seven we're buyers at
+
+254
+00:11:28,860 --> 00:11:33,870
+seven what are we really saying when we
+
+255
+00:11:33,870 --> 00:11:36,839
+get into that trade bottom line what are
+
+256
+00:11:36,839 --> 00:11:39,540
+we saying based on the dynamics of what
+
+257
+00:11:39,540 --> 00:11:42,270
+I just explained we're saying that I
+
+258
+00:11:42,270 --> 00:11:45,060
+think that someone is going to come into
+
+259
+00:11:45,060 --> 00:11:48,089
+the market after E and buy at a worse
+
+260
+00:11:48,089 --> 00:11:50,370
+price and what I did
+
+261
+00:11:50,370 --> 00:11:52,140
+so that has such a strong conviction
+
+262
+00:11:52,140 --> 00:11:54,510
+that this market is going to go up that
+
+263
+00:11:54,510 --> 00:11:56,279
+that person is actually willing to buy
+
+264
+00:11:56,279 --> 00:11:59,940
+at a worse price than me to buy it eight
+
+265
+00:11:59,940 --> 00:12:02,040
+to buy it nine to buy it ten because if
+
+266
+00:12:02,040 --> 00:12:03,540
+there isn't anybody else that comes into
+
+267
+00:12:03,540 --> 00:12:05,310
+the market to take out all the offers at
+
+268
+00:12:05,310 --> 00:12:06,630
+eight take all the offers at nine take
+
+269
+00:12:06,630 --> 00:12:08,460
+out all the offers at ten that market
+
+270
+00:12:08,460 --> 00:12:10,800
+ain't going up and I'm not gonna be in a
+
+271
+00:12:10,800 --> 00:12:14,190
+winning trade you see the implications
+
+272
+00:12:14,190 --> 00:12:16,560
+are every single trade that we put on as
+
+273
+00:12:16,560 --> 00:12:18,839
+packed as passive technical traders we
+
+274
+00:12:18,839 --> 00:12:21,540
+are in fact obliged and dependent on
+
+275
+00:12:21,540 --> 00:12:23,640
+other people who are willing to do
+
+276
+00:12:23,640 --> 00:12:24,990
+something at a worse price than what
+
+277
+00:12:24,990 --> 00:12:27,540
+we've done it we did it at oh we will be
+
+278
+00:12:27,540 --> 00:12:33,210
+a winner are you guys following me on
+
+279
+00:12:33,210 --> 00:12:35,730
+this is it starting to put the idea of
+
+280
+00:12:35,730 --> 00:12:40,170
+trading into a different context that in
+
+281
+00:12:40,170 --> 00:12:41,610
+essence what you're really trading is
+
+282
+00:12:41,610 --> 00:12:42,930
+other people's perception of what is
+
+283
+00:12:42,930 --> 00:12:46,170
+high and what is low that any technical
+
+284
+00:12:46,170 --> 00:12:48,240
+indicator any price pattern that you
+
+285
+00:12:48,240 --> 00:12:50,670
+might trade any trade that you put on
+
+286
+00:12:50,670 --> 00:12:53,310
+you are basically trading other people's
+
+287
+00:12:53,310 --> 00:12:55,200
+perceptions of what is high and what is
+
+288
+00:12:55,200 --> 00:13:02,339
+low now when you think about how well
+
+289
+00:13:02,339 --> 00:13:03,930
+you might know other people's
+
+290
+00:13:03,930 --> 00:13:06,240
+perceptions you think about in that
+
+291
+00:13:06,240 --> 00:13:08,040
+context it might not make a lot of sense
+
+292
+00:13:08,040 --> 00:13:11,040
+to get so fixated on staying in a train
+
+293
+00:13:11,040 --> 00:13:17,550
+that isn't working it might be a little
+
+294
+00:13:17,550 --> 00:13:23,100
+easier to put in a stop and to say hey
+
+295
+00:13:23,100 --> 00:13:26,250
+you know what if they if these if people
+
+296
+00:13:26,250 --> 00:13:28,050
+aren't coming in to buy it a higher
+
+297
+00:13:28,050 --> 00:13:30,420
+price than me I'm gonna give them this
+
+298
+00:13:30,420 --> 00:13:32,850
+much room from here to here and if they
+
+299
+00:13:32,850 --> 00:13:34,320
+don't come in I'm out of this trade I
+
+300
+00:13:34,320 --> 00:13:39,420
+just go to the next one because that's
+
+301
+00:13:39,420 --> 00:13:40,800
+basically what you're doing is a trader
+
+302
+00:13:40,800 --> 00:13:42,540
+you are completely dependent on other
+
+303
+00:13:42,540 --> 00:13:45,950
+two other traders to make you a winner
+
+304
+00:13:45,980 --> 00:13:48,720
+now who are these dynamic traders who
+
+305
+00:13:48,720 --> 00:13:49,770
+are the people that are going to do this
+
+306
+00:13:49,770 --> 00:13:50,900
+and why
+
+307
+00:13:50,900 --> 00:13:56,520
+what hedge funds okay money managers in
+
+308
+00:13:56,520 --> 00:13:57,750
+the commodities arena
+
+309
+00:13:57,750 --> 00:14:00,329
+do you guys really know how like the
+
+310
+00:14:00,329 --> 00:14:01,740
+futures markets he was started in the
+
+311
+00:14:01,740 --> 00:14:02,310
+first place
+
+312
+00:14:02,310 --> 00:14:04,200
+or why'd they even exist
+
+313
+00:14:04,200 --> 00:14:06,450
+I know people probably exist because
+
+314
+00:14:06,450 --> 00:14:08,190
+there on the screen and it's part of the
+
+315
+00:14:08,190 --> 00:14:09,720
+platform but you know there's actually a
+
+316
+00:14:09,720 --> 00:14:11,160
+legitimate economic purpose for these
+
+317
+00:14:11,160 --> 00:14:13,680
+things and when you get to the
+
+318
+00:14:13,680 --> 00:14:15,330
+underlying and I would understand the
+
+319
+00:14:15,330 --> 00:14:17,460
+underlying reason for these markets
+
+320
+00:14:17,460 --> 00:14:19,680
+you'll understand why they trade the way
+
+321
+00:14:19,680 --> 00:14:21,060
+that they do and why prices move the way
+
+322
+00:14:21,060 --> 00:14:25,080
+that they do you know for an example
+
+323
+00:14:25,080 --> 00:14:27,120
+what you know what really what what what
+
+324
+00:14:27,120 --> 00:14:29,130
+happened in the past is that a for an
+
+325
+00:14:29,130 --> 00:14:33,450
+example if you had a farmer who you know
+
+326
+00:14:33,450 --> 00:14:35,700
+who planted their their their corn in
+
+327
+00:14:35,700 --> 00:14:38,280
+the spring and harvested the corn in the
+
+328
+00:14:38,280 --> 00:14:40,440
+fall what they were dependent on of
+
+329
+00:14:40,440 --> 00:14:41,790
+course was a lot of different factors
+
+330
+00:14:41,790 --> 00:14:43,290
+that they had no control of one of them
+
+331
+00:14:43,290 --> 00:14:44,850
+being the weather and one of them being
+
+332
+00:14:44,850 --> 00:14:46,470
+how much other how much other corn was
+
+333
+00:14:46,470 --> 00:14:48,030
+planted out throughout the country and
+
+334
+00:14:48,030 --> 00:14:50,490
+how much that corn would end up end up
+
+335
+00:14:50,490 --> 00:14:52,440
+in in the market in the fall in
+
+336
+00:14:52,440 --> 00:14:55,050
+relationship to what the demand was so
+
+337
+00:14:55,050 --> 00:14:57,510
+if there was a lot of corn and and and
+
+338
+00:14:57,510 --> 00:15:00,870
+let's say the demand remained relatively
+
+339
+00:15:00,870 --> 00:15:02,760
+constant the price of the corn would go
+
+340
+00:15:02,760 --> 00:15:05,130
+down and the farmer would lose money if
+
+341
+00:15:05,130 --> 00:15:06,810
+there wasn't a lot of corn and demand
+
+342
+00:15:06,810 --> 00:15:08,100
+would remain constant the price would go
+
+343
+00:15:08,100 --> 00:15:10,170
+up if there wasn't a lot of corn and for
+
+344
+00:15:10,170 --> 00:15:11,550
+some reason demand was really high and
+
+345
+00:15:11,550 --> 00:15:14,070
+the price would go up even further so
+
+346
+00:15:14,070 --> 00:15:15,630
+what you had is a situation where there
+
+347
+00:15:15,630 --> 00:15:17,490
+was a great deal of economic risk in
+
+348
+00:15:17,490 --> 00:15:20,190
+being a farmer or being anybody that
+
+349
+00:15:20,190 --> 00:15:22,800
+manufactured anything or abduch stuff
+
+350
+00:15:22,800 --> 00:15:24,590
+out of the ground like gold or silver or
+
+351
+00:15:24,590 --> 00:15:26,640
+manufactured electric motors that needed
+
+352
+00:15:26,640 --> 00:15:28,290
+copper or whatever goes into all the
+
+353
+00:15:28,290 --> 00:15:32,040
+products that we use so what what
+
+354
+00:15:32,040 --> 00:15:35,610
+evolved was a situation where the the
+
+355
+00:15:35,610 --> 00:15:38,100
+farmer and the and the manufacturer
+
+356
+00:15:38,100 --> 00:15:39,570
+let's say a bread that needed the flour
+
+357
+00:15:39,570 --> 00:15:41,700
+they would enter into what was called a
+
+358
+00:15:41,700 --> 00:15:44,910
+forward agreement meaning that they both
+
+359
+00:15:44,910 --> 00:15:46,830
+wanted the economic risks taken out of
+
+360
+00:15:46,830 --> 00:15:48,540
+their business they both wanted to be
+
+361
+00:15:48,540 --> 00:15:50,910
+able to make a profit they both wanted
+
+362
+00:15:50,910 --> 00:15:52,800
+you know to be able to have some sense
+
+363
+00:15:52,800 --> 00:15:56,220
+of certainty as to what prices might be
+
+364
+00:15:56,220 --> 00:15:58,500
+at some point in the future so for
+
+365
+00:15:58,500 --> 00:16:05,880
+example if if I'm a farmer and it cost
+
+366
+00:16:05,880 --> 00:16:11,490
+me $4 a bushel to plant my corn and
+
+367
+00:16:11,490 --> 00:16:12,900
+bring it to harvest or bring it to
+
+368
+00:16:12,900 --> 00:16:15,480
+market then for me to force me to make
+
+369
+00:16:15,480 --> 00:16:16,950
+some money I want at least five dollars
+
+370
+00:16:16,950 --> 00:16:19,190
+a bushel right
+
+371
+00:16:19,190 --> 00:16:22,260
+and if I'm the guy on the other end of
+
+372
+00:16:22,260 --> 00:16:23,550
+that trade or other end of that
+
+373
+00:16:23,550 --> 00:16:26,010
+transaction that wants to buy that corn
+
+374
+00:16:26,010 --> 00:16:30,330
+in the fall or wheat or whatever and I
+
+375
+00:16:30,330 --> 00:16:31,920
+want to know exactly how much I'm going
+
+376
+00:16:31,920 --> 00:16:34,290
+to have to pay for it so what ends up
+
+377
+00:16:34,290 --> 00:16:36,240
+happening is that if let's say it's it's
+
+378
+00:16:36,240 --> 00:16:38,910
+April or its it's March and the price of
+
+379
+00:16:38,910 --> 00:16:41,910
+corn is $4 a bushel you enter to a
+
+380
+00:16:41,910 --> 00:16:44,190
+forward agreement with with the with the
+
+381
+00:16:44,190 --> 00:16:46,380
+end user and they say hey you know what
+
+382
+00:16:46,380 --> 00:16:49,260
+I will deliver a million dollars of our
+
+383
+00:16:49,260 --> 00:16:50,670
+million bushels of corn or a hundred
+
+384
+00:16:50,670 --> 00:16:53,250
+thousand bushels of corn and say 450 a
+
+385
+00:16:53,250 --> 00:16:54,690
+bushel or whether a price they agreed on
+
+386
+00:16:54,690 --> 00:16:56,700
+five dollars a bushel regardless of what
+
+387
+00:16:56,700 --> 00:17:00,180
+the price of corn is in the fall so if
+
+388
+00:17:00,180 --> 00:17:01,860
+the price of corn in the fall happens to
+
+389
+00:17:01,860 --> 00:17:04,140
+be three dollars a bushel because
+
+390
+00:17:04,140 --> 00:17:05,369
+there's so much demand or because
+
+391
+00:17:05,369 --> 00:17:06,839
+there's because there's so much corn and
+
+392
+00:17:06,839 --> 00:17:08,490
+very little demand then the farmer
+
+393
+00:17:08,490 --> 00:17:10,800
+actually still got his price and let's
+
+394
+00:17:10,800 --> 00:17:13,380
+say five dollars a bushel but the but
+
+395
+00:17:13,380 --> 00:17:15,540
+the manufacturer ended up having to pay
+
+396
+00:17:15,540 --> 00:17:16,980
+two dollars a bushel more than what he
+
+397
+00:17:16,980 --> 00:17:18,900
+would have if he had waited and just
+
+398
+00:17:18,900 --> 00:17:20,339
+bought his corn on the open market in
+
+399
+00:17:20,339 --> 00:17:23,130
+the fall so in that sense he seemed to
+
+400
+00:17:23,130 --> 00:17:25,170
+lose on that transaction but then the
+
+401
+00:17:25,170 --> 00:17:27,000
+next year what ends up happening is that
+
+402
+00:17:27,000 --> 00:17:29,220
+there's very little corn or there's more
+
+403
+00:17:29,220 --> 00:17:31,140
+demand than what there is corn and the
+
+404
+00:17:31,140 --> 00:17:32,520
+price of corn ends up being seven
+
+405
+00:17:32,520 --> 00:17:35,430
+dollars a bushel and the farmer would
+
+406
+00:17:35,430 --> 00:17:36,690
+have made the seven dollars had he not
+
+407
+00:17:36,690 --> 00:17:39,150
+or entered into a ford agreement but
+
+408
+00:17:39,150 --> 00:17:40,770
+what ends up happening is he still made
+
+409
+00:17:40,770 --> 00:17:43,740
+his dollar bushel profit and the and the
+
+410
+00:17:43,740 --> 00:17:45,570
+end user ended up saving himself two
+
+411
+00:17:45,570 --> 00:17:48,420
+dollars a bushel so over the years all
+
+412
+00:17:48,420 --> 00:17:51,120
+this evens out well so then what
+
+413
+00:17:51,120 --> 00:17:53,580
+happened then is that exchanges in other
+
+414
+00:17:53,580 --> 00:17:55,110
+words instead of these these people
+
+415
+00:17:55,110 --> 00:17:56,550
+individually entering into these
+
+416
+00:17:56,550 --> 00:18:01,680
+transactions exchanges were developed so
+
+417
+00:18:01,680 --> 00:18:03,270
+in other words they had a central place
+
+418
+00:18:03,270 --> 00:18:06,170
+to come to and make these transactions
+
+419
+00:18:06,170 --> 00:18:08,700
+like the Chicago Board of Trade Chicago
+
+420
+00:18:08,700 --> 00:18:09,570
+Mercantile Exchange
+
+421
+00:18:09,570 --> 00:18:11,640
+well what ended up happening is that
+
+422
+00:18:11,640 --> 00:18:14,160
+when with the advent of exchanges which
+
+423
+00:18:14,160 --> 00:18:15,900
+you had of the situation where there
+
+424
+00:18:15,900 --> 00:18:17,880
+were people that were willing to take
+
+425
+00:18:17,880 --> 00:18:20,070
+the other sides of these trades that had
+
+426
+00:18:20,070 --> 00:18:22,590
+nothing to do with the actual process of
+
+427
+00:18:22,590 --> 00:18:24,800
+making bread or growing wheat or corn
+
+428
+00:18:24,800 --> 00:18:28,590
+they were called speculators and then
+
+429
+00:18:28,590 --> 00:18:30,330
+that's when futures are futures
+
+430
+00:18:30,330 --> 00:18:31,470
+contracts
+
+431
+00:18:31,470 --> 00:18:33,690
+came into being so what would happen is
+
+432
+00:18:33,690 --> 00:18:36,870
+that is that if I'm if I'm a farmer
+
+433
+00:18:36,870 --> 00:18:38,460
+instead of me having to make the
+
+434
+00:18:38,460 --> 00:18:42,630
+transaction directly with a with someone
+
+435
+00:18:42,630 --> 00:18:45,720
+who manufactures bread I could go to the
+
+436
+00:18:45,720 --> 00:18:48,210
+Chicago Board of Trade and sell my corn
+
+437
+00:18:48,210 --> 00:18:50,900
+or wheat in with a futures contract and
+
+438
+00:18:50,900 --> 00:18:53,700
+so if I'm selling it at four dollars a
+
+439
+00:18:53,700 --> 00:18:57,690
+bushel and so that means I'm long corn
+
+440
+00:18:57,690 --> 00:18:58,919
+this is where the long and the short
+
+441
+00:18:58,919 --> 00:19:01,799
+comes from I am long cash I'm long corn
+
+442
+00:19:01,799 --> 00:19:04,799
+and because I've got a crop and crop in
+
+443
+00:19:04,799 --> 00:19:08,970
+the ground and so if if I sell it at
+
+444
+00:19:08,970 --> 00:19:10,320
+four dollars a bushel on a futures
+
+445
+00:19:10,320 --> 00:19:11,549
+contract I think the equivalent number
+
+446
+00:19:11,549 --> 00:19:14,309
+of futures contracts and so if the price
+
+447
+00:19:14,309 --> 00:19:18,630
+of corn goes down but let's say the
+
+448
+00:19:18,630 --> 00:19:20,460
+price of corn goes up I've already
+
+449
+00:19:20,460 --> 00:19:21,690
+locked in well I'm gonna sell at five
+
+450
+00:19:21,690 --> 00:19:22,770
+dollars but I've locked in my dollar
+
+451
+00:19:22,770 --> 00:19:24,840
+bushel profit so if the price of corn
+
+452
+00:19:24,840 --> 00:19:27,929
+goes up what I've done is I'm short
+
+453
+00:19:27,929 --> 00:19:29,909
+futures I'm short the actual futures
+
+454
+00:19:29,909 --> 00:19:32,669
+contract I'm long the corn so I'm gonna
+
+455
+00:19:32,669 --> 00:19:34,820
+lose money on my futures contract
+
+456
+00:19:34,820 --> 00:19:37,380
+because as the price goes up I'm losing
+
+457
+00:19:37,380 --> 00:19:40,710
+money but I'm making money on my cash so
+
+458
+00:19:40,710 --> 00:19:41,970
+I'm making the equivalent amount of
+
+459
+00:19:41,970 --> 00:19:45,059
+money on my cash as well what I'm losing
+
+460
+00:19:45,059 --> 00:19:47,130
+on my futures so in any case it doesn't
+
+461
+00:19:47,130 --> 00:19:49,049
+matter what the market does the market
+
+462
+00:19:49,049 --> 00:19:50,940
+could go up the market can go down I've
+
+463
+00:19:50,940 --> 00:19:52,799
+locked in my dollar profit bushel but
+
+464
+00:19:52,799 --> 00:19:55,799
+dollar per bushel profit and the person
+
+465
+00:19:55,799 --> 00:19:57,059
+on the other side of that trade the
+
+466
+00:19:57,059 --> 00:19:59,970
+speculator if of course the market goes
+
+467
+00:19:59,970 --> 00:20:02,340
+up then the speculator is the one that
+
+468
+00:20:02,340 --> 00:20:03,840
+makes that two dollars a bushel profit
+
+469
+00:20:03,840 --> 00:20:06,440
+if it goes up to seven dollars a bushel
+
+470
+00:20:06,440 --> 00:20:09,419
+okay these guys with me on all this if
+
+471
+00:20:09,419 --> 00:20:12,330
+the price of course the price of of it
+
+472
+00:20:12,330 --> 00:20:14,970
+goes down then I'm losing money I'm
+
+473
+00:20:14,970 --> 00:20:17,610
+losing money on my cash crop but I'm
+
+474
+00:20:17,610 --> 00:20:19,500
+making money on my futures contract and
+
+475
+00:20:19,500 --> 00:20:21,630
+the speculator on the other side of the
+
+476
+00:20:21,630 --> 00:20:24,210
+contract is losing money because the
+
+477
+00:20:24,210 --> 00:20:25,530
+markets going down in other words the
+
+478
+00:20:25,530 --> 00:20:27,840
+speculator is just one-sided this the
+
+479
+00:20:27,840 --> 00:20:29,580
+farmers two-sided he is hedged that's
+
+480
+00:20:29,580 --> 00:20:32,669
+what's that's what's called a hedge now
+
+481
+00:20:32,669 --> 00:20:34,740
+what's interesting about all this is
+
+482
+00:20:34,740 --> 00:20:38,460
+that is that as these markets evolved
+
+483
+00:20:38,460 --> 00:20:41,399
+you will find that that the farmers
+
+484
+00:20:41,399 --> 00:20:44,530
+don't trade against each other
+
+485
+00:20:44,530 --> 00:20:47,380
+or the grain elevators or the people who
+
+486
+00:20:47,380 --> 00:20:49,270
+the commercials who actually are
+
+487
+00:20:49,270 --> 00:20:52,440
+involved with the production and
+
+488
+00:20:52,440 --> 00:20:55,390
+manufacture of anything they don't take
+
+489
+00:20:55,390 --> 00:20:57,630
+the other side of each other's trades
+
+490
+00:20:57,630 --> 00:21:01,660
+what they do is they want speculators to
+
+491
+00:21:01,660 --> 00:21:05,050
+take the other sides of their trades in
+
+492
+00:21:05,050 --> 00:21:07,060
+other words if I'm a if I'm a commercial
+
+493
+00:21:07,060 --> 00:21:11,350
+grain elevator I'm not going to be that
+
+494
+00:21:11,350 --> 00:21:13,240
+I'm another commercial grain elevators
+
+495
+00:21:13,240 --> 00:21:14,350
+not going to be taking the other side of
+
+496
+00:21:14,350 --> 00:21:15,220
+my trade because we're both going to be
+
+497
+00:21:15,220 --> 00:21:17,560
+doing the same thing okay if I'm a
+
+498
+00:21:17,560 --> 00:21:20,860
+farmer and I'm gonna sell sell my wheat
+
+499
+00:21:20,860 --> 00:21:23,350
+or sell my corn the guy the farmer down
+
+500
+00:21:23,350 --> 00:21:25,060
+the street who also trades isn't going
+
+501
+00:21:25,060 --> 00:21:27,840
+to be taking the other side of my trains
+
+502
+00:21:27,840 --> 00:21:32,770
+what what commercials and hedgers and
+
+503
+00:21:32,770 --> 00:21:36,130
+fund managers and all the people who are
+
+504
+00:21:36,130 --> 00:21:38,590
+really let's say professionals they have
+
+505
+00:21:38,590 --> 00:21:41,590
+become very very sophisticated at
+
+506
+00:21:41,590 --> 00:21:44,260
+finding ways of drawing the general
+
+507
+00:21:44,260 --> 00:21:46,840
+public into taking the other size of
+
+508
+00:21:46,840 --> 00:21:52,870
+their trades meaning in the point that
+
+509
+00:21:52,870 --> 00:21:55,330
+I'm making here is that they will
+
+510
+00:21:55,330 --> 00:21:59,260
+purposefully do things that will draw
+
+511
+00:21:59,260 --> 00:22:02,860
+the typical general public let's say the
+
+512
+00:22:02,860 --> 00:22:04,180
+general public into the other side of
+
+513
+00:22:04,180 --> 00:22:06,460
+their trades when in fact what they want
+
+514
+00:22:06,460 --> 00:22:08,590
+to do is the exact opposite for an
+
+515
+00:22:08,590 --> 00:22:11,200
+example let's if I'm if I'm a hedge fund
+
+516
+00:22:11,200 --> 00:22:13,300
+if I'm a hedge fund manager and I want
+
+517
+00:22:13,300 --> 00:22:15,250
+to and I'm long stocks or or it doesn't
+
+518
+00:22:15,250 --> 00:22:16,480
+really matter what it is I could be long
+
+519
+00:22:16,480 --> 00:22:18,820
+bonds I could be long a goal that could
+
+520
+00:22:18,820 --> 00:22:20,770
+be whatever it is and I want to and I
+
+521
+00:22:20,770 --> 00:22:24,070
+want to liquidate my position now I've
+
+522
+00:22:24,070 --> 00:22:27,400
+got a huge position meaning I've got a
+
+523
+00:22:27,400 --> 00:22:30,940
+cash position and I want to sell it if I
+
+524
+00:22:30,940 --> 00:22:33,010
+go into the market right now and sell my
+
+525
+00:22:33,010 --> 00:22:35,800
+entire position what do you think is
+
+526
+00:22:35,800 --> 00:22:38,560
+gonna happen to the price chances are
+
+527
+00:22:38,560 --> 00:22:39,880
+it's gonna go down I'm gonna I am
+
+528
+00:22:39,880 --> 00:22:41,500
+actually good at because of the volume
+
+529
+00:22:41,500 --> 00:22:44,230
+of my trades I am actually going to
+
+530
+00:22:44,230 --> 00:22:47,410
+drive the price down making my average
+
+531
+00:22:47,410 --> 00:22:50,650
+cost lower and lower I don't want to do
+
+532
+00:22:50,650 --> 00:22:53,380
+that I don't want a so for example if I
+
+533
+00:22:53,380 --> 00:22:54,940
+come into the market and I say hey you
+
+534
+00:22:54,940 --> 00:22:57,610
+know what I've got 10 million shares of
+
+535
+00:22:57,610 --> 00:22:58,179
+this and
+
+536
+00:22:58,179 --> 00:22:59,679
+not to sell what's going to end up
+
+537
+00:22:59,679 --> 00:23:00,999
+happening is that those 10 million
+
+538
+00:23:00,999 --> 00:23:02,679
+shares are going to end up taking out
+
+539
+00:23:02,679 --> 00:23:04,899
+all the bids all the way all the prices
+
+540
+00:23:04,899 --> 00:23:06,279
+down take out all the bids until you
+
+541
+00:23:06,279 --> 00:23:08,139
+find a spot where it can't take out
+
+542
+00:23:08,139 --> 00:23:11,080
+where the sides of the trade cannot take
+
+543
+00:23:11,080 --> 00:23:12,340
+out any more bids and the price
+
+544
+00:23:12,340 --> 00:23:18,159
+stabilizes okay so I'm thinking to
+
+545
+00:23:18,159 --> 00:23:20,559
+myself now what you get is you've got
+
+546
+00:23:20,559 --> 00:23:21,940
+these what I'm going to call like these
+
+547
+00:23:21,940 --> 00:23:25,269
+these hotshot hotshot kind of hardcore
+
+548
+00:23:25,269 --> 00:23:28,029
+traders where you know to make a name
+
+549
+00:23:28,029 --> 00:23:30,220
+for themselves because they're in a
+
+550
+00:23:30,220 --> 00:23:31,690
+they're in a big trading room and they
+
+551
+00:23:31,690 --> 00:23:33,490
+they compete amongst one another and
+
+552
+00:23:33,490 --> 00:23:35,190
+their bonuses depend on how well they do
+
+553
+00:23:35,190 --> 00:23:37,809
+what they're gonna be what if what if
+
+554
+00:23:37,809 --> 00:23:38,860
+they did something like this I'm looking
+
+555
+00:23:38,860 --> 00:23:42,159
+at a price chart let's just say they
+
+556
+00:23:42,159 --> 00:23:47,580
+could be Daly bars or whatever okay and
+
+557
+00:23:47,580 --> 00:23:53,440
+this is like a swing high swing low okay
+
+558
+00:23:53,440 --> 00:23:55,450
+now interestingly enough as we're
+
+559
+00:23:55,450 --> 00:23:56,619
+talking about this I want to make a
+
+560
+00:23:56,619 --> 00:23:58,179
+point about what does this what does
+
+561
+00:23:58,179 --> 00:23:59,889
+this price represent right here and what
+
+562
+00:23:59,889 --> 00:24:01,710
+does this price represent right here
+
+563
+00:24:01,710 --> 00:24:04,509
+what yeah we're going to call it
+
+564
+00:24:04,509 --> 00:24:06,309
+resistance but but but more from a
+
+565
+00:24:06,309 --> 00:24:10,409
+practical matter what does it represent
+
+566
+00:24:12,029 --> 00:24:16,600
+what's that ah yeah in other words there
+
+567
+00:24:16,600 --> 00:24:18,759
+wasn't no you're right he said he said
+
+568
+00:24:18,759 --> 00:24:19,899
+there's nobody believed is going to go
+
+569
+00:24:19,899 --> 00:24:22,330
+higher it represents there wasn't one
+
+570
+00:24:22,330 --> 00:24:26,309
+person in the whole world in the whole
+
+571
+00:24:26,309 --> 00:24:33,039
+world that was willing to bid it bid the
+
+572
+00:24:33,039 --> 00:24:37,419
+price one tick higher not one up to this
+
+573
+00:24:37,419 --> 00:24:39,970
+point there could be any number of
+
+574
+00:24:39,970 --> 00:24:41,379
+people who were willing to bid it higher
+
+575
+00:24:41,379 --> 00:24:43,980
+but it got to a certain price level and
+
+576
+00:24:43,980 --> 00:24:46,749
+there wasn't one person left in the
+
+577
+00:24:46,749 --> 00:24:50,519
+whole world that would bid it higher
+
+578
+00:24:51,629 --> 00:24:53,799
+this by the way is one of the reasons
+
+579
+00:24:53,799 --> 00:24:56,440
+why technical analysis works is because
+
+580
+00:24:56,440 --> 00:25:00,460
+the market has a memory this is why
+
+581
+00:25:00,460 --> 00:25:03,980
+technical analysis works the market has
+
+582
+00:25:03,980 --> 00:25:05,750
+because when the market came back down
+
+583
+00:25:05,750 --> 00:25:08,210
+he formed a swing low came back up to
+
+584
+00:25:08,210 --> 00:25:11,450
+this high there were people there were
+
+585
+00:25:11,450 --> 00:25:14,420
+people who made money by selling this
+
+586
+00:25:14,420 --> 00:25:18,200
+high there's a good chance those same
+
+587
+00:25:18,200 --> 00:25:19,490
+traders are gonna come back into the
+
+588
+00:25:19,490 --> 00:25:21,380
+market and do it again as well as there
+
+589
+00:25:21,380 --> 00:25:23,270
+are people who lost money by buying that
+
+590
+00:25:23,270 --> 00:25:25,340
+high because for every trade that was
+
+591
+00:25:25,340 --> 00:25:27,560
+made up to this last price there was a
+
+592
+00:25:27,560 --> 00:25:30,350
+buyer and a seller there was a trader on
+
+593
+00:25:30,350 --> 00:25:32,600
+the other end of the trade that sold
+
+594
+00:25:32,600 --> 00:25:34,720
+that bought that high
+
+595
+00:25:34,720 --> 00:25:37,580
+now when the market comes back again to
+
+596
+00:25:37,580 --> 00:25:40,340
+this to the same price level chances are
+
+597
+00:25:40,340 --> 00:25:42,320
+there will be an imbalance between the
+
+598
+00:25:42,320 --> 00:25:44,600
+buyers and the sellers just by the mere
+
+599
+00:25:44,600 --> 00:25:46,460
+fact that the people who made money are
+
+600
+00:25:46,460 --> 00:25:48,140
+going to be willing to trade it again
+
+601
+00:25:48,140 --> 00:25:50,750
+and come into the market maybe with with
+
+602
+00:25:50,750 --> 00:25:53,150
+a lot of ferocity and the traders who
+
+603
+00:25:53,150 --> 00:25:56,030
+lost money by buying that high are
+
+604
+00:25:56,030 --> 00:25:57,590
+probably not going to be willing to do
+
+605
+00:25:57,590 --> 00:26:00,680
+it again and so what you have is even
+
+606
+00:26:00,680 --> 00:26:02,390
+more of an imbalance that existed the
+
+607
+00:26:02,390 --> 00:26:08,530
+last time are you guys with me on this
+
+608
+00:26:09,490 --> 00:26:11,750
+okay well that's fine you can do that
+
+609
+00:26:11,750 --> 00:26:16,970
+however now I'm not gonna really get on
+
+610
+00:26:16,970 --> 00:26:18,110
+to the most I'm gonna do is get into
+
+611
+00:26:18,110 --> 00:26:19,250
+what we're just doing right now because
+
+612
+00:26:19,250 --> 00:26:21,110
+this is not you know this is not a
+
+613
+00:26:21,110 --> 00:26:22,730
+course in technical analysis I mean that
+
+614
+00:26:22,730 --> 00:26:24,770
+and it doesn't really matter anyway
+
+615
+00:26:24,770 --> 00:26:26,000
+because you guys are trading off on
+
+616
+00:26:26,000 --> 00:26:28,280
+mathematical formulas and and not doing
+
+617
+00:26:28,280 --> 00:26:29,990
+subjective trading so and this would
+
+618
+00:26:29,990 --> 00:26:31,340
+fall into the category of subjective
+
+619
+00:26:31,340 --> 00:26:33,500
+trading subjective trading also is is
+
+620
+00:26:33,500 --> 00:26:37,160
+the equivalent to like like who watches
+
+621
+00:26:37,160 --> 00:26:39,260
+Texas Hold'em tournaments I like on TV
+
+622
+00:26:39,260 --> 00:26:41,720
+anybody come on give me more of a show
+
+623
+00:26:41,720 --> 00:26:43,790
+of so so you've got so you've got
+
+624
+00:26:43,790 --> 00:26:45,590
+categories of development where we're
+
+625
+00:26:45,590 --> 00:26:47,210
+initially people when when they play
+
+626
+00:26:47,210 --> 00:26:48,890
+Texas Hold'em you play your cards and
+
+627
+00:26:48,890 --> 00:26:50,720
+then you get well enough and get good
+
+628
+00:26:50,720 --> 00:26:51,770
+enough of playing your cards but you
+
+629
+00:26:51,770 --> 00:26:53,120
+start doing is playing the people and
+
+630
+00:26:53,120 --> 00:26:54,890
+you get good enough you get so good that
+
+631
+00:26:54,890 --> 00:26:56,000
+you don't even have to play your cards
+
+632
+00:26:56,000 --> 00:26:57,260
+you need to look at your cards just play
+
+633
+00:26:57,260 --> 00:26:59,390
+the person that's the equivalents of
+
+634
+00:26:59,390 --> 00:27:01,190
+subjective trading okay what you're
+
+635
+00:27:01,190 --> 00:27:03,620
+doing is you're using a process of
+
+636
+00:27:03,620 --> 00:27:06,410
+deductive reasoning to determine who's
+
+637
+00:27:06,410 --> 00:27:07,910
+thinking what and what they're likely to
+
+638
+00:27:07,910 --> 00:27:12,080
+do okay and all the only reason I'm
+
+639
+00:27:12,080 --> 00:27:14,090
+giving you all this information and
+
+640
+00:27:14,090 --> 00:27:15,770
+making this point is so that you
+
+641
+00:27:15,770 --> 00:27:17,040
+understand
+
+642
+00:27:17,040 --> 00:27:19,830
+with no uncertain terms that there are
+
+643
+00:27:19,830 --> 00:27:22,440
+as a whole category of traders out there
+
+644
+00:27:22,440 --> 00:27:25,890
+people out there traders people who have
+
+645
+00:27:25,890 --> 00:27:27,750
+both the financial and the psychological
+
+646
+00:27:27,750 --> 00:27:29,730
+resources the bid markets up an offer
+
+647
+00:27:29,730 --> 00:27:31,770
+from lower and what's the point that I'm
+
+648
+00:27:31,770 --> 00:27:33,660
+making the point that I'm making is that
+
+649
+00:27:33,660 --> 00:27:36,630
+any particular technical methodology
+
+650
+00:27:36,630 --> 00:27:39,690
+that you use to determine a pattern is
+
+651
+00:27:39,690 --> 00:27:41,670
+present that gives you a higher
+
+652
+00:27:41,670 --> 00:27:43,140
+probability of one thing happening over
+
+653
+00:27:43,140 --> 00:27:45,270
+another until you can get into the minds
+
+654
+00:27:45,270 --> 00:27:47,130
+of the people who actually move prices
+
+655
+00:27:47,130 --> 00:27:48,480
+you will never know for sure what's
+
+656
+00:27:48,480 --> 00:27:50,850
+going to happen next the only people
+
+657
+00:27:50,850 --> 00:27:52,050
+that know for sure the people who are
+
+658
+00:27:52,050 --> 00:27:55,860
+willing to do it and that's what you've
+
+659
+00:27:55,860 --> 00:27:57,330
+got to get you got to burn that in your
+
+660
+00:27:57,330 --> 00:28:00,600
+brain you will never know for sure
+
+661
+00:28:00,600 --> 00:28:04,140
+what's going to happen next unless you
+
+662
+00:28:04,140 --> 00:28:05,940
+can read the minds of the people who are
+
+663
+00:28:05,940 --> 00:28:08,250
+going to do it and there are people who
+
+664
+00:28:08,250 --> 00:28:10,020
+will do it and they do it all the time
+
+665
+00:28:10,020 --> 00:28:11,760
+that's the only way you end up in a
+
+666
+00:28:11,760 --> 00:28:14,130
+winning trade most of the time when you
+
+667
+00:28:14,130 --> 00:28:15,660
+end up in a winning trade is because of
+
+668
+00:28:15,660 --> 00:28:17,550
+what these other dynamic traders are
+
+669
+00:28:17,550 --> 00:28:20,430
+doing so to convince you that there are
+
+670
+00:28:20,430 --> 00:28:23,100
+people who are willing to do this if I'm
+
+671
+00:28:23,100 --> 00:28:24,720
+a hedge fund manager and I've got to
+
+672
+00:28:24,720 --> 00:28:27,600
+unload if I've got to unload a huge
+
+673
+00:28:27,600 --> 00:28:29,460
+position and the market happens to be
+
+674
+00:28:29,460 --> 00:28:31,590
+sitting right here in relative to this
+
+675
+00:28:31,590 --> 00:28:36,810
+chart pattern how might I maximize my
+
+676
+00:28:36,810 --> 00:28:40,950
+profits what might I do now remember
+
+677
+00:28:40,950 --> 00:28:42,960
+I've got a sell I'm going to be a seller
+
+678
+00:28:42,960 --> 00:28:45,330
+but what might I do to make sure that I
+
+679
+00:28:45,330 --> 00:28:50,580
+get the best price what yeah drive it up
+
+680
+00:28:50,580 --> 00:28:53,010
+in other words I will do the opposite of
+
+681
+00:28:53,010 --> 00:28:55,410
+what I want to do to get a better price
+
+682
+00:28:55,410 --> 00:28:57,780
+and I will drive it up but how much risk
+
+683
+00:28:57,780 --> 00:29:00,950
+am i taking by doing that
+
+684
+00:29:05,460 --> 00:29:08,440
+well yeah I mean if I Drive the price up
+
+685
+00:29:08,440 --> 00:29:10,240
+by taking out these offers and then
+
+686
+00:29:10,240 --> 00:29:12,460
+bidding up taking out it off taking
+
+687
+00:29:12,460 --> 00:29:14,080
+other words I can look with with
+
+688
+00:29:14,080 --> 00:29:15,369
+depending on the kind of software I have
+
+689
+00:29:15,369 --> 00:29:17,980
+I can find out what depth the depth of
+
+690
+00:29:17,980 --> 00:29:19,990
+the market meaning that that you know
+
+691
+00:29:19,990 --> 00:29:21,490
+and I'm not saying these are hard hard
+
+692
+00:29:21,490 --> 00:29:23,529
+offers because people pull their offers
+
+693
+00:29:23,529 --> 00:29:25,149
+all the time but I can look at this I
+
+694
+00:29:25,149 --> 00:29:26,259
+can look at this hi and I say you know
+
+695
+00:29:26,259 --> 00:29:30,190
+what what if how much money might it
+
+696
+00:29:30,190 --> 00:29:31,840
+take for me to drive the market from
+
+697
+00:29:31,840 --> 00:29:35,970
+here to just pass these highs right here
+
+698
+00:29:35,970 --> 00:29:38,470
+how many offers do I have to take out to
+
+699
+00:29:38,470 --> 00:29:43,509
+do it just tally it up and see if you
+
+700
+00:29:43,509 --> 00:29:45,759
+want to spend the money because in
+
+701
+00:29:45,759 --> 00:29:47,139
+essence so how much risk you actually
+
+702
+00:29:47,139 --> 00:29:51,009
+taking see by by by driving it up what
+
+703
+00:29:51,009 --> 00:29:52,720
+you're doing is you're you're increasing
+
+704
+00:29:52,720 --> 00:29:56,499
+the asset value of your portfolio so in
+
+705
+00:29:56,499 --> 00:29:57,850
+that sense you're not taking any risk
+
+706
+00:29:57,850 --> 00:30:01,299
+you're actually making money if I if I
+
+707
+00:30:01,299 --> 00:30:05,289
+continue to drive the price up I am
+
+708
+00:30:05,289 --> 00:30:07,570
+actually making the trade that I made
+
+709
+00:30:07,570 --> 00:30:09,999
+down here winners every tick that I
+
+710
+00:30:09,999 --> 00:30:11,740
+drive the price up I'm making myself a
+
+711
+00:30:11,740 --> 00:30:13,659
+winner on the trades that I made at
+
+712
+00:30:13,659 --> 00:30:16,179
+lower prices to actually drive a price
+
+713
+00:30:16,179 --> 00:30:17,740
+up because you are making yourself a
+
+714
+00:30:17,740 --> 00:30:19,779
+winner at the prices that you know what
+
+715
+00:30:19,779 --> 00:30:21,879
+you bought out in lower prices if for an
+
+716
+00:30:21,879 --> 00:30:24,700
+example by me driving this price up it
+
+717
+00:30:24,700 --> 00:30:28,509
+draws other people into the market that
+
+718
+00:30:28,509 --> 00:30:30,100
+will help will it not because it creates
+
+719
+00:30:30,100 --> 00:30:33,879
+more of an imbalance now that's the real
+
+720
+00:30:33,879 --> 00:30:35,529
+thing what I want to do is I want to get
+
+721
+00:30:35,529 --> 00:30:36,999
+more buyers into the market and the
+
+722
+00:30:36,999 --> 00:30:38,139
+reason why I want to get more buyers
+
+723
+00:30:38,139 --> 00:30:40,929
+into the market is so somebody is there
+
+724
+00:30:40,929 --> 00:30:42,940
+to take the other side of my sell orders
+
+725
+00:30:42,940 --> 00:30:44,769
+because that's ultimately what I'm doing
+
+726
+00:30:44,769 --> 00:30:48,249
+here what I'm doing is I want to sell so
+
+727
+00:30:48,249 --> 00:30:50,230
+what I'm doing is creating a bigger pool
+
+728
+00:30:50,230 --> 00:30:54,369
+of orders to come into the market to I
+
+729
+00:30:54,369 --> 00:30:56,590
+could sell into so that I might my sell
+
+730
+00:30:56,590 --> 00:30:59,549
+orders don't drive the price down down
+
+731
+00:30:59,549 --> 00:31:03,100
+and so I will purposefully do the
+
+732
+00:31:03,100 --> 00:31:05,470
+opposite of what I want to do ultimately
+
+733
+00:31:05,470 --> 00:31:07,509
+with which back to my position now what
+
+734
+00:31:07,509 --> 00:31:09,159
+the reason why I'm selling has nothing
+
+735
+00:31:09,159 --> 00:31:11,470
+to do with this chart pattern absolutely
+
+736
+00:31:11,470 --> 00:31:12,940
+nothing to do with the chart pattern
+
+737
+00:31:12,940 --> 00:31:15,100
+itself I'm just using the chart pattern
+
+738
+00:31:15,100 --> 00:31:16,950
+as a means to maximize
+
+739
+00:31:16,950 --> 00:31:21,120
+my profits now what if I managed to
+
+740
+00:31:21,120 --> 00:31:28,080
+drive it up to resistance chances are
+
+741
+00:31:28,080 --> 00:31:28,980
+there's going to be a lot of selling
+
+742
+00:31:28,980 --> 00:31:30,149
+orders coming in that I'm gonna have to
+
+743
+00:31:30,149 --> 00:31:32,760
+compete with that's that's a risk that I
+
+744
+00:31:32,760 --> 00:31:34,919
+that's a risk that I'm taking here but
+
+745
+00:31:34,919 --> 00:31:37,740
+what if I can drive it a little past
+
+746
+00:31:37,740 --> 00:31:40,919
+that resistance what I'm gonna have is a
+
+747
+00:31:40,919 --> 00:31:43,320
+situation where all the people the other
+
+748
+00:31:43,320 --> 00:31:45,450
+traders who sold at this level right
+
+749
+00:31:45,450 --> 00:31:47,820
+here that came into the market because
+
+750
+00:31:47,820 --> 00:31:49,399
+it was approaching this previous high
+
+751
+00:31:49,399 --> 00:31:51,480
+they're gonna put their stops a little
+
+752
+00:31:51,480 --> 00:31:52,950
+bit above the market know what kind of
+
+753
+00:31:52,950 --> 00:31:54,059
+stops are they gonna be they're going to
+
+754
+00:31:54,059 --> 00:31:57,240
+be buy stops if they sold to get out at
+
+755
+00:31:57,240 --> 00:31:59,639
+a loss they have to be buyers if I can
+
+756
+00:31:59,639 --> 00:32:02,970
+drive the market to those buy stops I
+
+757
+00:32:02,970 --> 00:32:05,519
+have given myself an instant pool an
+
+758
+00:32:05,519 --> 00:32:08,639
+instant pool of orders to take the other
+
+759
+00:32:08,639 --> 00:32:11,340
+side of my trades and and get me out at
+
+760
+00:32:11,340 --> 00:32:14,190
+maximum profits this is typically what
+
+761
+00:32:14,190 --> 00:32:15,750
+you see in a chart pattern is a false
+
+762
+00:32:15,750 --> 00:32:18,600
+breakout because what will end up
+
+763
+00:32:18,600 --> 00:32:20,580
+happening is that as soon as my order
+
+764
+00:32:20,580 --> 00:32:22,799
+hits the market it's so large and and
+
+765
+00:32:22,799 --> 00:32:24,809
+then because there really weren't that
+
+766
+00:32:24,809 --> 00:32:26,279
+many other traders that we're willing to
+
+767
+00:32:26,279 --> 00:32:27,720
+bid continue to bid the market up
+
+768
+00:32:27,720 --> 00:32:29,580
+what'll do it it'll take out all the
+
+769
+00:32:29,580 --> 00:32:33,230
+bids and then drive the price right down
+
+770
+00:32:33,230 --> 00:32:37,950
+that's called a false breakout it's it's
+
+771
+00:32:37,950 --> 00:32:40,980
+being done at different different time
+
+772
+00:32:40,980 --> 00:32:44,309
+frames all of the time to do this you
+
+773
+00:32:44,309 --> 00:32:46,169
+have to have a large enough position so
+
+774
+00:32:46,169 --> 00:32:48,090
+that when you drive up your cost basis
+
+775
+00:32:48,090 --> 00:32:50,130
+it's incrementally small compared to
+
+776
+00:32:50,130 --> 00:32:53,220
+where you really are today and then as
+
+777
+00:32:53,220 --> 00:32:55,500
+you said you get up to either you do it
+
+778
+00:32:55,500 --> 00:32:57,149
+below that resistance hope you break
+
+779
+00:32:57,149 --> 00:32:58,950
+above and then you just dump your shares
+
+780
+00:32:58,950 --> 00:33:04,309
+right right thank you
+
+781
+00:33:06,149 --> 00:33:08,909
+now like I said this is well did anybody
+
+782
+00:33:08,909 --> 00:33:14,189
+ever wonder why like like you you have a
+
+783
+00:33:14,189 --> 00:33:15,749
+really strong bull market or a really
+
+784
+00:33:15,749 --> 00:33:17,789
+strong bear market and the market seems
+
+785
+00:33:17,789 --> 00:33:19,439
+to open up in the morning like in bull
+
+786
+00:33:19,439 --> 00:33:21,299
+markets that opens lower and bear market
+
+787
+00:33:21,299 --> 00:33:24,929
+opens higher let that happen well what's
+
+788
+00:33:24,929 --> 00:33:26,279
+the deal with that what do you think's
+
+789
+00:33:26,279 --> 00:33:28,549
+going on
+
+790
+00:33:28,549 --> 00:33:31,589
+you ever heard the term shaking out the
+
+791
+00:33:31,589 --> 00:33:34,139
+weak lungs and the weak shorts that's
+
+792
+00:33:34,139 --> 00:33:35,669
+what that's what that's what dynamic
+
+793
+00:33:35,669 --> 00:33:37,079
+traders are doing they're shaking out
+
+794
+00:33:37,079 --> 00:33:39,059
+the weak Long's in the weak shorts in
+
+795
+00:33:39,059 --> 00:33:40,079
+other words they're taking their spot
+
+796
+00:33:40,079 --> 00:33:42,119
+because what you have in a bull market
+
+797
+00:33:42,119 --> 00:33:44,669
+is you have you know people that feels
+
+798
+00:33:44,669 --> 00:33:46,049
+the markets going up because this is
+
+799
+00:33:46,049 --> 00:33:47,729
+this is a daily bar but if we made it an
+
+800
+00:33:47,729 --> 00:33:49,829
+intraday bar or whatever as a market is
+
+801
+00:33:49,829 --> 00:33:52,919
+going up they're buying people are
+
+802
+00:33:52,919 --> 00:33:54,509
+buying but they're not they're not like
+
+803
+00:33:54,509 --> 00:33:57,719
+really confident about what it is that
+
+804
+00:33:57,719 --> 00:34:00,269
+they're doing now in the morning before
+
+805
+00:34:00,269 --> 00:34:03,869
+the market opens there might not be that
+
+806
+00:34:03,869 --> 00:34:06,329
+many bids in other words if though after
+
+807
+00:34:06,329 --> 00:34:07,619
+the market opens they'll be more bids
+
+808
+00:34:07,619 --> 00:34:09,418
+that come into the market but before the
+
+809
+00:34:09,418 --> 00:34:10,710
+market opens there might not be that
+
+810
+00:34:10,710 --> 00:34:13,379
+many bids so what so if there aren't
+
+811
+00:34:13,379 --> 00:34:15,569
+what these dynamic traders did we'll do
+
+812
+00:34:15,569 --> 00:34:17,489
+to take advantage of this is they'll hit
+
+813
+00:34:17,489 --> 00:34:18,779
+those bids now in other words they'll
+
+814
+00:34:18,779 --> 00:34:21,899
+sell they'll sell into those bids drive
+
+815
+00:34:21,899 --> 00:34:24,179
+the market down and then when the market
+
+816
+00:34:24,179 --> 00:34:26,998
+opens up all of the weak longs meaning
+
+817
+00:34:26,998 --> 00:34:29,039
+people who aren't that confident well
+
+818
+00:34:29,039 --> 00:34:30,539
+will start to it will start to get a
+
+819
+00:34:30,539 --> 00:34:33,059
+little frightened and to get out of
+
+820
+00:34:33,059 --> 00:34:34,349
+their position what do they have to do
+
+821
+00:34:34,349 --> 00:34:35,969
+they have to sell and these other
+
+822
+00:34:35,969 --> 00:34:37,559
+dynamic traders will take the other side
+
+823
+00:34:37,559 --> 00:34:39,268
+of their sell orders to buy and increase
+
+824
+00:34:39,268 --> 00:34:40,949
+their position and the market goes right
+
+825
+00:34:40,949 --> 00:34:43,379
+straight back up all they did was shake
+
+826
+00:34:43,379 --> 00:34:45,719
+these guys out take their spot at lower
+
+827
+00:34:45,719 --> 00:34:51,119
+prices by by by forcing the market lower
+
+828
+00:34:51,119 --> 00:34:53,690
+on the open
+
+829
+00:34:57,710 --> 00:35:00,440
+isn't this an argument to have a Vig to
+
+830
+00:35:00,440 --> 00:35:03,260
+either not use let's talk no no no it is
+
+831
+00:35:03,260 --> 00:35:04,940
+not no I don't want to get I don't want
+
+832
+00:35:04,940 --> 00:35:06,890
+to get into user not you absolutely you
+
+833
+00:35:06,890 --> 00:35:09,350
+stops I'm not gonna no we're not gonna
+
+834
+00:35:09,350 --> 00:35:12,740
+get into that we're yes you can achill
+
+835
+00:35:12,740 --> 00:35:14,480
+passive technical traders in the
+
+836
+00:35:14,480 --> 00:35:17,990
+mechanical mode this is not in any way
+
+837
+00:35:17,990 --> 00:35:19,400
+saying that you should not use stops
+
+838
+00:35:19,400 --> 00:35:22,460
+absolutely it's a disastrous thing to do
+
+839
+00:35:22,460 --> 00:35:24,980
+not you stops okay because I'm not
+
+840
+00:35:24,980 --> 00:35:26,810
+saying that regardless of any of this
+
+841
+00:35:26,810 --> 00:35:29,330
+that you can't make money you I'm giving
+
+842
+00:35:29,330 --> 00:35:31,490
+all I'm doing is giving you examples
+
+843
+00:35:31,490 --> 00:35:34,310
+that there are people out there who will
+
+844
+00:35:34,310 --> 00:35:36,740
+drive prices up and offer them lower
+
+845
+00:35:36,740 --> 00:35:38,660
+that they have the psychological and
+
+846
+00:35:38,660 --> 00:35:40,820
+financial resources to do it and the
+
+847
+00:35:40,820 --> 00:35:42,470
+reason why I'm spending you know making
+
+848
+00:35:42,470 --> 00:35:44,270
+so much emphasis is that the passive
+
+849
+00:35:44,270 --> 00:35:46,730
+typically the passive typical passive
+
+850
+00:35:46,730 --> 00:35:49,010
+technical trader would never conceive of
+
+851
+00:35:49,010 --> 00:35:51,380
+actually bidding a market up and so as a
+
+852
+00:35:51,380 --> 00:35:53,150
+result it's very difficult for you to
+
+853
+00:35:53,150 --> 00:35:54,530
+think that anyone else can do it either
+
+854
+00:35:54,530 --> 00:35:56,780
+when the reality is that's the only way
+
+855
+00:35:56,780 --> 00:35:58,750
+in many cases you're gonna make money
+
+856
+00:35:58,750 --> 00:36:02,420
+and so the point that I'm making is that
+
+857
+00:36:02,420 --> 00:36:04,100
+what you you're trading off of a
+
+858
+00:36:04,100 --> 00:36:06,680
+mathematical formula literally you're
+
+859
+00:36:06,680 --> 00:36:08,480
+trading you're in this mathematical
+
+860
+00:36:08,480 --> 00:36:10,760
+formula what technical analysis does is
+
+861
+00:36:10,760 --> 00:36:13,190
+it gets into the collective mind of the
+
+862
+00:36:13,190 --> 00:36:15,620
+market in other words every tick every
+
+863
+00:36:15,620 --> 00:36:17,120
+uptick and every down tick is
+
+864
+00:36:17,120 --> 00:36:19,430
+information that information is
+
+865
+00:36:19,430 --> 00:36:21,920
+accumulated and mathematical principles
+
+866
+00:36:21,920 --> 00:36:24,050
+are applied to it there are there are
+
+867
+00:36:24,050 --> 00:36:27,980
+actual patterns that that that emerge
+
+868
+00:36:27,980 --> 00:36:30,380
+that repeat themselves over and over and
+
+869
+00:36:30,380 --> 00:36:33,950
+over again that you can identify with
+
+870
+00:36:33,950 --> 00:36:36,410
+mathematical formulas or with these
+
+871
+00:36:36,410 --> 00:36:39,080
+visual price patterns but the problem is
+
+872
+00:36:39,080 --> 00:36:40,970
+is that there's no mathematical formula
+
+873
+00:36:40,970 --> 00:36:42,200
+that can get into the mind of the
+
+874
+00:36:42,200 --> 00:36:44,390
+individual traders who actually are
+
+875
+00:36:44,390 --> 00:36:46,630
+driving prices up or offering a blower
+
+876
+00:36:46,630 --> 00:36:49,280
+but if you don't know that you somehow
+
+877
+00:36:49,280 --> 00:36:51,650
+or another if you happen to if you're
+
+878
+00:36:51,650 --> 00:36:55,640
+trading on a smaller time frame you're
+
+879
+00:36:55,640 --> 00:36:57,590
+trading on a smaller time frame and you
+
+880
+00:36:57,590 --> 00:37:00,140
+get a little a little pullback right
+
+881
+00:37:00,140 --> 00:37:02,750
+here okay and based on that pullback
+
+882
+00:37:02,750 --> 00:37:05,420
+your methodology says okay it's time to
+
+883
+00:37:05,420 --> 00:37:09,830
+buy and you do and but and you do it
+
+884
+00:37:09,830 --> 00:37:10,870
+just before this
+
+885
+00:37:10,870 --> 00:37:12,610
+fund manager comes in and starts driving
+
+886
+00:37:12,610 --> 00:37:15,460
+the price up see you're gonna think that
+
+887
+00:37:15,460 --> 00:37:17,680
+the reason why you won is because that
+
+888
+00:37:17,680 --> 00:37:19,600
+your mathematical formula told you what
+
+889
+00:37:19,600 --> 00:37:21,310
+was happening next and that was the
+
+890
+00:37:21,310 --> 00:37:24,370
+reason why it happened what I'm saying
+
+891
+00:37:24,370 --> 00:37:27,130
+to you now is that there almost isn't
+
+892
+00:37:27,130 --> 00:37:29,110
+any reason that you could come up with
+
+893
+00:37:29,110 --> 00:37:31,180
+whether you won or lost that would
+
+894
+00:37:31,180 --> 00:37:32,800
+correspond to what really happened in
+
+895
+00:37:32,800 --> 00:37:35,290
+the market you hear what I just said
+
+896
+00:37:35,290 --> 00:37:37,810
+there's almost no reason that you will
+
+897
+00:37:37,810 --> 00:37:39,790
+come up with to put on a trade that will
+
+898
+00:37:39,790 --> 00:37:41,860
+ever correspond with the actual reason
+
+899
+00:37:41,860 --> 00:37:43,240
+why the market went up or the market
+
+900
+00:37:43,240 --> 00:37:45,430
+went down other than the fact that there
+
+901
+00:37:45,430 --> 00:37:46,870
+was an imbalance and conviction between
+
+902
+00:37:46,870 --> 00:37:50,800
+buyers and sellers because the people
+
+903
+00:37:50,800 --> 00:37:53,380
+who do this will not tell you unless
+
+904
+00:37:53,380 --> 00:37:55,200
+it's in their best interest to do so
+
+905
+00:37:55,200 --> 00:37:59,200
+and the reason and the people who report
+
+906
+00:37:59,200 --> 00:38:01,540
+it in the news agencies they don't know
+
+907
+00:38:01,540 --> 00:38:04,060
+either they're making it up they make up
+
+908
+00:38:04,060 --> 00:38:05,380
+the reasons because they sound
+
+909
+00:38:05,380 --> 00:38:07,840
+reasonable they are paid to sound
+
+910
+00:38:07,840 --> 00:38:09,700
+reasonable and there's no way to verify
+
+911
+00:38:09,700 --> 00:38:19,810
+what it is that they say that's right
+
+912
+00:38:19,810 --> 00:38:21,940
+there's no there's no way the only
+
+913
+00:38:21,940 --> 00:38:23,350
+people who can do it are the people who
+
+914
+00:38:23,350 --> 00:38:25,960
+actually made the trades the only people
+
+915
+00:38:25,960 --> 00:38:27,790
+who know for sure what's gonna happen
+
+916
+00:38:27,790 --> 00:38:29,320
+next are the ones who are willing to
+
+917
+00:38:29,320 --> 00:38:35,620
+make it happen you see will put on a
+
+918
+00:38:35,620 --> 00:38:38,260
+trade and find ourselves in a lace
+
+919
+00:38:38,260 --> 00:38:40,120
+monster little winner here and think oh
+
+920
+00:38:40,120 --> 00:38:43,680
+man my methodology it is just fantastic
+
+921
+00:38:43,680 --> 00:38:46,210
+and then the next time you get the same
+
+922
+00:38:46,210 --> 00:38:48,460
+signal and then you don't get anything
+
+923
+00:38:48,460 --> 00:38:49,930
+not only then it's a loser you think oh
+
+924
+00:38:49,930 --> 00:38:51,340
+now you feel betrayed you think your
+
+925
+00:38:51,340 --> 00:38:55,050
+your your methodology let you down
+
+926
+00:38:55,950 --> 00:38:58,870
+your methodology wasn't designed to tell
+
+927
+00:38:58,870 --> 00:39:00,250
+you what's gonna happen next on a trade
+
+928
+00:39:00,250 --> 00:39:03,070
+by trade basis no technical methodology
+
+929
+00:39:03,070 --> 00:39:07,240
+is that's where your expectations are
+
+930
+00:39:07,240 --> 00:39:08,890
+not in line with the reality of the
+
+931
+00:39:08,890 --> 00:39:11,800
+situation that's why it's so easy to
+
+932
+00:39:11,800 --> 00:39:13,810
+make mistakes is because you're
+
+933
+00:39:13,810 --> 00:39:15,040
+expecting something from your
+
+934
+00:39:15,040 --> 00:39:20,140
+methodology that just doesn't exist it
+
+935
+00:39:20,140 --> 00:39:24,200
+just doesn't it never did
+
+936
+00:39:24,200 --> 00:39:27,599
+and a trade by trade basis they will
+
+937
+00:39:27,599 --> 00:39:29,550
+tell you what will happen let's say I
+
+938
+00:39:29,550 --> 00:39:30,630
+don't want to use their words to happen
+
+939
+00:39:30,630 --> 00:39:32,490
+next they'll tell you what will happen
+
+940
+00:39:32,490 --> 00:39:34,829
+over a series of trades on a percentage
+
+941
+00:39:34,829 --> 00:39:39,119
+basis this particular pattern will
+
+942
+00:39:39,119 --> 00:39:41,640
+emerge X number of times and when it
+
+943
+00:39:41,640 --> 00:39:43,140
+does there's a higher probability of
+
+944
+00:39:43,140 --> 00:39:45,960
+this happening than that if I limit my
+
+945
+00:39:45,960 --> 00:39:47,730
+risk when I take the trade and my
+
+946
+00:39:47,730 --> 00:39:50,460
+profits in my profit potential is at
+
+947
+00:39:50,460 --> 00:39:52,290
+least you know one or two or three times
+
+948
+00:39:52,290 --> 00:39:53,790
+greater than what I need the risk then
+
+949
+00:39:53,790 --> 00:39:55,920
+over a series of trades I will be a
+
+950
+00:39:55,920 --> 00:39:56,880
+consistent winner
+
+951
+00:39:56,880 --> 00:39:58,800
+that's what trading is all about guys is
+
+952
+00:39:58,800 --> 00:40:00,390
+the passive technical trader unless
+
+953
+00:40:00,390 --> 00:40:01,859
+you're doing this other stuff I just
+
+954
+00:40:01,859 --> 00:40:03,930
+said it right then and there I said it
+
+955
+00:40:03,930 --> 00:40:07,589
+all right then and there there was a guy
+
+956
+00:40:07,589 --> 00:40:10,290
+that I that I guy that came to me for
+
+957
+00:40:10,290 --> 00:40:17,060
+consultations several years ago he was a
+
+958
+00:40:17,060 --> 00:40:19,800
+it was really anything he was he was a
+
+959
+00:40:19,800 --> 00:40:24,060
+guy that yeah he was a guy that lost a
+
+960
+00:40:24,060 --> 00:40:24,869
+lot of people's money
+
+961
+00:40:24,869 --> 00:40:28,200
+he was basically what he was he he he
+
+962
+00:40:28,200 --> 00:40:29,250
+was actually he was really good an
+
+963
+00:40:29,250 --> 00:40:31,560
+analyst I should say really he was an
+
+964
+00:40:31,560 --> 00:40:33,359
+excellent an aspect as far as far as
+
+965
+00:40:33,359 --> 00:40:34,800
+Margaret analysis was concerned he's
+
+966
+00:40:34,800 --> 00:40:37,230
+probably one of the best analysts I'd
+
+967
+00:40:37,230 --> 00:40:39,150
+ever worked with but the problem is that
+
+968
+00:40:39,150 --> 00:40:41,430
+he had some really as far as executing
+
+969
+00:40:41,430 --> 00:40:44,700
+his trades and and let's put it this way
+
+970
+00:40:44,700 --> 00:40:47,160
+he was let's say on the arrogant side
+
+971
+00:40:47,160 --> 00:40:48,810
+and that's and that's and that's that's
+
+972
+00:40:48,810 --> 00:40:51,060
+being that's being nice
+
+973
+00:40:51,060 --> 00:40:53,940
+and so when he put on a trade he just
+
+974
+00:40:53,940 --> 00:40:55,230
+thought that that was it you know the
+
+975
+00:40:55,230 --> 00:40:56,400
+mark was gonna do what he thought I was
+
+976
+00:40:56,400 --> 00:40:59,369
+gonna do period so he was a kind of guy
+
+977
+00:40:59,369 --> 00:41:01,230
+who you know he he went through all of
+
+978
+00:41:01,230 --> 00:41:03,390
+his relatives money with trading
+
+979
+00:41:03,390 --> 00:41:04,920
+accounts and his friends and that sort
+
+980
+00:41:04,920 --> 00:41:06,060
+of thing and his getting the point was
+
+981
+00:41:06,060 --> 00:41:08,700
+really exasperated so he came to me for
+
+982
+00:41:08,700 --> 00:41:10,140
+consultations and basically after
+
+983
+00:41:10,140 --> 00:41:11,490
+listening to him I said hey you know
+
+984
+00:41:11,490 --> 00:41:13,829
+what why don't you do something get paid
+
+985
+00:41:13,829 --> 00:41:15,329
+for something that you're good at and
+
+986
+00:41:15,329 --> 00:41:17,160
+you know and stop trying to you know
+
+987
+00:41:17,160 --> 00:41:18,930
+stop losing other people's money and go
+
+988
+00:41:18,930 --> 00:41:21,450
+get a job as an analyst just get paid to
+
+989
+00:41:21,450 --> 00:41:23,609
+be an analyst not as a trader and so he
+
+990
+00:41:23,609 --> 00:41:25,440
+did he got a job with a with one of the
+
+991
+00:41:25,440 --> 00:41:27,329
+major clearing firms that's a Chicago
+
+992
+00:41:27,329 --> 00:41:30,119
+Board of Trade as one of their analysts
+
+993
+00:41:30,119 --> 00:41:31,500
+for their brokers and that sort of thing
+
+994
+00:41:31,500 --> 00:41:34,140
+and the president are they actually the
+
+995
+00:41:34,140 --> 00:41:35,640
+chairman of the board he was his son was
+
+996
+00:41:35,640 --> 00:41:36,810
+actually the president he
+
+997
+00:41:36,810 --> 00:41:37,980
+chairman had retired he was an old-time
+
+998
+00:41:37,980 --> 00:41:40,830
+grain trader soy bean trader and you
+
+999
+00:41:40,830 --> 00:41:42,240
+know made his money in the 40s and the
+
+1000
+00:41:42,240 --> 00:41:43,530
+50s and that sort of thing
+
+1001
+00:41:43,530 --> 00:41:46,170
+and and traded Pitts style trading in
+
+1002
+00:41:46,170 --> 00:41:47,280
+other words it's something that I talked
+
+1003
+00:41:47,280 --> 00:41:48,540
+about early this morning I'm not gonna
+
+1004
+00:41:48,540 --> 00:41:50,760
+get into but in any case he didn't make
+
+1005
+00:41:50,760 --> 00:41:54,180
+Direction related traits and so the so
+
+1006
+00:41:54,180 --> 00:41:57,360
+he was really mystified with this with
+
+1007
+00:41:57,360 --> 00:41:59,460
+the idea of technical analysis I mean he
+
+1008
+00:41:59,460 --> 00:42:00,780
+really was he was literally mystified
+
+1009
+00:42:00,780 --> 00:42:02,250
+with the idea that you could basically
+
+1010
+00:42:02,250 --> 00:42:04,260
+predict prices based on chart patterns
+
+1011
+00:42:04,260 --> 00:42:06,210
+and that sort of thing so he thought
+
+1012
+00:42:06,210 --> 00:42:07,500
+well you know what I'm gonna sit down
+
+1013
+00:42:07,500 --> 00:42:09,960
+with this guy and you know this this
+
+1014
+00:42:09,960 --> 00:42:11,640
+star analyst here that we have in the
+
+1015
+00:42:11,640 --> 00:42:13,200
+firm now and find out what this with
+
+1016
+00:42:13,200 --> 00:42:15,870
+what this crap is all about basically
+
+1017
+00:42:15,870 --> 00:42:19,590
+the way he thought about it and so he's
+
+1018
+00:42:19,590 --> 00:42:21,380
+sitting down with him for a few days and
+
+1019
+00:42:21,380 --> 00:42:25,530
+it got to a point where one day the the
+
+1020
+00:42:25,530 --> 00:42:35,100
+soybean market was the soybean market
+
+1021
+00:42:35,100 --> 00:42:38,070
+was was basically you know trading in a
+
+1022
+00:42:38,070 --> 00:42:39,330
+range about the middle of a range
+
+1023
+00:42:39,330 --> 00:42:41,370
+between what the analysts projected as
+
+1024
+00:42:41,370 --> 00:42:43,440
+the high of the day not just the high
+
+1025
+00:42:43,440 --> 00:42:46,200
+the high the day and the low of the day
+
+1026
+00:42:46,200 --> 00:42:49,440
+okay and so the market drifted around
+
+1027
+00:42:49,440 --> 00:42:51,750
+you know or you maybe did a little bit
+
+1028
+00:42:51,750 --> 00:42:53,430
+of a coast to a test of the high and
+
+1029
+00:42:53,430 --> 00:42:55,050
+it's coming down to the coming down to
+
+1030
+00:42:55,050 --> 00:42:56,850
+the low and they're both sitting there
+
+1031
+00:42:56,850 --> 00:42:59,150
+and they're both watching it right now
+
+1032
+00:42:59,150 --> 00:43:02,520
+and the the chairman of the board the
+
+1033
+00:43:02,520 --> 00:43:03,960
+soybean trader old scientist Lubbock
+
+1034
+00:43:03,960 --> 00:43:06,750
+trader says ok so this is gonna be the
+
+1035
+00:43:06,750 --> 00:43:08,940
+low of the day right here right guy said
+
+1036
+00:43:08,940 --> 00:43:10,410
+yeah that's it gets that price it's the
+
+1037
+00:43:10,410 --> 00:43:13,530
+low of the day low of the day and the
+
+1038
+00:43:13,530 --> 00:43:16,020
+guy looked at me and said that's bull
+
+1039
+00:43:16,020 --> 00:43:18,060
+and he picked up the phone which he had
+
+1040
+00:43:18,060 --> 00:43:20,400
+a direct line to the soybean pit he said
+
+1041
+00:43:20,400 --> 00:43:23,850
+sell 10 million beans at the market now
+
+1042
+00:43:23,850 --> 00:43:26,130
+10 million beans is 2 thousand contracts
+
+1043
+00:43:26,130 --> 00:43:27,510
+cuz they trained five thousand five
+
+1044
+00:43:27,510 --> 00:43:30,060
+thousand bushel increments so he hit the
+
+1045
+00:43:30,060 --> 00:43:33,570
+market at that moment with two thousand
+
+1046
+00:43:33,570 --> 00:43:35,940
+sell orders okay which drove the
+
+1047
+00:43:35,940 --> 00:43:37,440
+immediately drove the price down 10
+
+1048
+00:43:37,440 --> 00:43:40,800
+cents which makes arisen is a million
+
+1049
+00:43:40,800 --> 00:43:43,500
+dollar trade by the way you drive the
+
+1050
+00:43:43,500 --> 00:43:45,540
+price of course of course if he got if
+
+1051
+00:43:45,540 --> 00:43:47,280
+he'd have sold all of them at this price
+
+1052
+00:43:47,280 --> 00:43:49,170
+and brought them all back at this price
+
+1053
+00:43:49,170 --> 00:43:50,260
+but they were
+
+1054
+00:43:50,260 --> 00:43:52,030
+he was there was an average price now
+
+1055
+00:43:52,030 --> 00:43:53,350
+but from here to here is 10 million is a
+
+1056
+00:43:53,350 --> 00:43:56,430
+million bucks on two thousand contracts
+
+1057
+00:43:56,430 --> 00:44:01,090
+and then after the price dropped he you
+
+1058
+00:44:01,090 --> 00:44:03,490
+know he looked at him and said hey if I
+
+1059
+00:44:03,490 --> 00:44:08,080
+can do that anybody can do that if I can
+
+1060
+00:44:08,080 --> 00:44:08,590
+do that
+
+1061
+00:44:08,590 --> 00:44:11,920
+anybody can do it now think about the
+
+1062
+00:44:11,920 --> 00:44:14,620
+implications of what I just said if you
+
+1063
+00:44:14,620 --> 00:44:16,210
+remember back in that surveying that we
+
+1064
+00:44:16,210 --> 00:44:17,470
+just took a little while ago and I said
+
+1065
+00:44:17,470 --> 00:44:19,480
+it only takes one trader somewhere in
+
+1066
+00:44:19,480 --> 00:44:20,800
+the world than a gate the positive
+
+1067
+00:44:20,800 --> 00:44:23,620
+outcome of your edge oh gee what if
+
+1068
+00:44:23,620 --> 00:44:24,730
+you're one of the people that bought
+
+1069
+00:44:24,730 --> 00:44:27,280
+right here how many people did it take
+
+1070
+00:44:27,280 --> 00:44:32,350
+to mess up your train just one just one
+
+1071
+00:44:32,350 --> 00:44:37,150
+person that's all it's usually more than
+
+1072
+00:44:37,150 --> 00:44:45,130
+one but that's all it takes is one you
+
+1073
+00:44:45,130 --> 00:44:48,120
+guys starting to get the idea
+
+1074
+00:44:51,030 --> 00:44:53,800
+this kind of stuff is going on all of
+
+1075
+00:44:53,800 --> 00:44:56,530
+the time as a matter of fact when prices
+
+1076
+00:44:56,530 --> 00:45:00,100
+move this is usually the reason why when
+
+1077
+00:45:00,100 --> 00:45:02,110
+I was at Merrill Lynch I mean this I
+
+1078
+00:45:02,110 --> 00:45:03,820
+mean you know and for many years even
+
+1079
+00:45:03,820 --> 00:45:05,790
+when I was teaching teaching you know
+
+1080
+00:45:05,790 --> 00:45:07,870
+material in the psychology of training I
+
+1081
+00:45:07,870 --> 00:45:09,130
+didn't really include a lot of this
+
+1082
+00:45:09,130 --> 00:45:10,540
+stuff because I just sort of took it for
+
+1083
+00:45:10,540 --> 00:45:11,890
+granted that people understood it knew
+
+1084
+00:45:11,890 --> 00:45:13,990
+it you know and the reason why I took it
+
+1085
+00:45:13,990 --> 00:45:15,730
+for granted because I guess I learned it
+
+1086
+00:45:15,730 --> 00:45:17,470
+so early in my trading career that it
+
+1087
+00:45:17,470 --> 00:45:19,390
+just you know it was self-evident to me
+
+1088
+00:45:19,390 --> 00:45:22,240
+but it was self-evident because here I
+
+1089
+00:45:22,240 --> 00:45:24,640
+was at Merrill Lynch and and I had I had
+
+1090
+00:45:24,640 --> 00:45:27,130
+access to a squawk box now our squawk
+
+1091
+00:45:27,130 --> 00:45:28,840
+boxes were open phone lines to the
+
+1092
+00:45:28,840 --> 00:45:30,340
+various pits in both Chicago and New
+
+1093
+00:45:30,340 --> 00:45:31,990
+York meaning we had Merrill Lynch
+
+1094
+00:45:31,990 --> 00:45:33,610
+representatives in each of those pits
+
+1095
+00:45:33,610 --> 00:45:36,310
+that as buy and sell orders would come
+
+1096
+00:45:36,310 --> 00:45:39,580
+in they would tell us who was buying and
+
+1097
+00:45:39,580 --> 00:45:41,770
+who was selling what houses what
+
+1098
+00:45:41,770 --> 00:45:43,930
+manufacturers what big accounts what big
+
+1099
+00:45:43,930 --> 00:45:46,030
+traders if they could in other words if
+
+1100
+00:45:46,030 --> 00:45:47,260
+they had if they had access to the
+
+1101
+00:45:47,260 --> 00:45:49,450
+information they would tell us who was
+
+1102
+00:45:49,450 --> 00:45:52,630
+buying you know and and and maybe who
+
+1103
+00:45:52,630 --> 00:45:53,740
+was even taking the other side of their
+
+1104
+00:45:53,740 --> 00:45:56,170
+orders if they could determine it so
+
+1105
+00:45:56,170 --> 00:45:58,840
+it's like he had a very intimate it was
+
+1106
+00:45:58,840 --> 00:46:00,130
+like you know you had this sort of
+
+1107
+00:46:00,130 --> 00:46:03,970
+intimate connection with what was really
+
+1108
+00:46:03,970 --> 00:46:07,240
+going on now at the same time when I was
+
+1109
+00:46:07,240 --> 00:46:08,950
+doing my own technical analysis I would
+
+1110
+00:46:08,950 --> 00:46:12,190
+do I would do my equations because we
+
+1111
+00:46:12,190 --> 00:46:13,300
+didn't have computers back then of
+
+1112
+00:46:13,300 --> 00:46:13,990
+course you can do that
+
+1113
+00:46:13,990 --> 00:46:15,850
+the hewitt packard the handheld thing
+
+1114
+00:46:15,850 --> 00:46:17,350
+but I didn't do that I did all my
+
+1115
+00:46:17,350 --> 00:46:19,360
+equations on all my analysis on a
+
+1116
+00:46:19,360 --> 00:46:22,480
+spreadsheet and I actually did all the
+
+1117
+00:46:22,480 --> 00:46:25,150
+all the calculations by hand and I did
+
+1118
+00:46:25,150 --> 00:46:27,370
+it on purpose that way so that I could
+
+1119
+00:46:27,370 --> 00:46:29,620
+get an intimate sense of how the actual
+
+1120
+00:46:29,620 --> 00:46:33,010
+mathematics of my signals in other words
+
+1121
+00:46:33,010 --> 00:46:35,800
+actual calculations the multiplications
+
+1122
+00:46:35,800 --> 00:46:38,350
+the divisions of subtractions you know
+
+1123
+00:46:38,350 --> 00:46:40,090
+and what that what the final product was
+
+1124
+00:46:40,090 --> 00:46:42,370
+in terms of a signal how it related to
+
+1125
+00:46:42,370 --> 00:46:45,190
+the actual market movement and I found
+
+1126
+00:46:45,190 --> 00:46:47,920
+that there was no relationship other
+
+1127
+00:46:47,920 --> 00:46:49,090
+than the fact that it would identify
+
+1128
+00:46:49,090 --> 00:46:51,610
+patterns where the signals would work
+
+1129
+00:46:51,610 --> 00:46:53,650
+sometimes and you know sometimes they
+
+1130
+00:46:53,650 --> 00:46:55,540
+wouldn't but the point is is that there
+
+1131
+00:46:55,540 --> 00:46:57,250
+wasn't any relationship between this
+
+1132
+00:46:57,250 --> 00:46:59,170
+fixed mathematical formula and the
+
+1133
+00:46:59,170 --> 00:47:00,670
+people who were buying and selling at
+
+1134
+00:47:00,670 --> 00:47:01,960
+that moment the reasons why they were
+
+1135
+00:47:01,960 --> 00:47:02,500
+doing it
+
+1136
+00:47:02,500 --> 00:47:04,750
+there was none at all
+
+1137
+00:47:04,750 --> 00:47:06,799
+but not only that here's what really
+
+1138
+00:47:06,799 --> 00:47:11,089
+shocked me is we had a TV monitors going
+
+1139
+00:47:11,089 --> 00:47:14,299
+all the time and we had it on in Chicago
+
+1140
+00:47:14,299 --> 00:47:15,829
+there was a local investment channel
+
+1141
+00:47:15,829 --> 00:47:17,930
+channel 26 and it was very much like
+
+1142
+00:47:17,930 --> 00:47:19,760
+CNBC now but it was a lot less
+
+1143
+00:47:19,760 --> 00:47:22,369
+sophisticated and you know so we'd watch
+
+1144
+00:47:22,369 --> 00:47:25,609
+as people would come on the show and and
+
+1145
+00:47:25,609 --> 00:47:27,230
+with various you know you have various
+
+1146
+00:47:27,230 --> 00:47:28,460
+interviews and that sort of thing and
+
+1147
+00:47:28,460 --> 00:47:30,799
+I'm watching watching one morning and
+
+1148
+00:47:30,799 --> 00:47:32,720
+there's this vice president from hind
+
+1149
+00:47:32,720 --> 00:47:34,760
+hold which was now doesn't exist anymore
+
+1150
+00:47:34,760 --> 00:47:36,349
+but they were one of the biggest hog and
+
+1151
+00:47:36,349 --> 00:47:38,240
+and meat producers in the Midwest back
+
+1152
+00:47:38,240 --> 00:47:40,880
+in the 80s and this hump this vice
+
+1153
+00:47:40,880 --> 00:47:42,260
+president from hind hold is being
+
+1154
+00:47:42,260 --> 00:47:43,670
+interviewed by you know the guy in
+
+1155
+00:47:43,670 --> 00:47:45,980
+channel 26 and he's talking about how
+
+1156
+00:47:45,980 --> 00:47:48,740
+you know how people got people got to
+
+1157
+00:47:48,740 --> 00:47:50,690
+get into live hogs and pork bellies
+
+1158
+00:47:50,690 --> 00:47:52,730
+because prices are going up and you know
+
+1159
+00:47:52,730 --> 00:47:54,170
+and he's just going on and on about what
+
+1160
+00:47:54,170 --> 00:47:56,240
+a great investment it is and and really
+
+1161
+00:47:56,240 --> 00:47:57,799
+and here and this one happened quite
+
+1162
+00:47:57,799 --> 00:47:59,240
+frequently by the way but this was just
+
+1163
+00:47:59,240 --> 00:48:01,250
+an example and all the phones started
+
+1164
+00:48:01,250 --> 00:48:03,349
+lighten up these are all the people in
+
+1165
+00:48:03,349 --> 00:48:04,910
+the Chicago area the typical you know
+
+1166
+00:48:04,910 --> 00:48:06,559
+the traders in the Chicago area then a
+
+1167
+00:48:06,559 --> 00:48:08,210
+listener to this guy because I think I
+
+1168
+00:48:08,210 --> 00:48:09,740
+say that because the phones are lighting
+
+1169
+00:48:09,740 --> 00:48:11,029
+up and all the brokers are starting to
+
+1170
+00:48:11,029 --> 00:48:14,390
+take orders to uh to buy bellies and buy
+
+1171
+00:48:14,390 --> 00:48:16,880
+hogs and I don't think well you know
+
+1172
+00:48:16,880 --> 00:48:18,589
+that was pretty a pretty impactful right
+
+1173
+00:48:18,589 --> 00:48:20,660
+oh gee and then on squawk box guess
+
+1174
+00:48:20,660 --> 00:48:21,710
+who's taken the other side of those
+
+1175
+00:48:21,710 --> 00:48:26,269
+orders hein hold they needed somebody to
+
+1176
+00:48:26,269 --> 00:48:27,589
+come in and take the other side of their
+
+1177
+00:48:27,589 --> 00:48:37,190
+orders what is a mathematical formula
+
+1178
+00:48:37,190 --> 00:48:39,259
+have to do with that now as it just so
+
+1179
+00:48:39,259 --> 00:48:42,259
+happens if my math is working in a way
+
+1180
+00:48:42,259 --> 00:48:44,660
+where I happen to get in at that moment
+
+1181
+00:48:44,660 --> 00:48:46,250
+I end up in a winning trade well that's
+
+1182
+00:48:46,250 --> 00:48:48,170
+great but that doesn't mean I could rely
+
+1183
+00:48:48,170 --> 00:48:49,430
+it on the rely on it to do the same
+
+1184
+00:48:49,430 --> 00:48:52,299
+thing the next time
+
+1185
+00:49:01,420 --> 00:49:04,640
+okay explain hedging reverse auction in
+
+1186
+00:49:04,640 --> 00:49:06,650
+a normal auction this I'll talk about
+
+1187
+00:49:06,650 --> 00:49:08,869
+dynamic traders right now in a normal
+
+1188
+00:49:08,869 --> 00:49:10,430
+auction what do people do in a normal
+
+1189
+00:49:10,430 --> 00:49:13,760
+auction in other words of you're in in a
+
+1190
+00:49:13,760 --> 00:49:16,040
+situation where where those things or
+
+1191
+00:49:16,040 --> 00:49:20,420
+items are up for bid when you bid when
+
+1192
+00:49:20,420 --> 00:49:21,890
+you're out bidding somebody what are you
+
+1193
+00:49:21,890 --> 00:49:23,930
+doing you're limiting the competition
+
+1194
+00:49:23,930 --> 00:49:25,849
+right in other words by bidding higher
+
+1195
+00:49:25,849 --> 00:49:27,680
+your hopefully eliminating
+
+1196
+00:49:27,680 --> 00:49:31,630
+anybody else who'll bid higher than you
+
+1197
+00:49:31,720 --> 00:49:35,060
+hedgers and commercials and dynamic
+
+1198
+00:49:35,060 --> 00:49:37,070
+traders create what I call a reverse
+
+1199
+00:49:37,070 --> 00:49:40,640
+auction they'll bid a market up or offer
+
+1200
+00:49:40,640 --> 00:49:42,880
+a lower to try to attract the public
+
+1201
+00:49:42,880 --> 00:49:46,130
+into the market to take the other side
+
+1202
+00:49:46,130 --> 00:49:51,940
+of their trait you guys with me on this
+
+1203
+00:49:51,940 --> 00:49:54,650
+they will bid a market up or offer it
+
+1204
+00:49:54,650 --> 00:49:57,710
+lower as a reverse auction that doesn't
+
+1205
+00:49:57,710 --> 00:49:59,570
+mean that they want they you know they
+
+1206
+00:49:59,570 --> 00:50:00,770
+could the market can go higher but
+
+1207
+00:50:00,770 --> 00:50:02,270
+they're their immediate objective is
+
+1208
+00:50:02,270 --> 00:50:03,950
+that if they're bidding it up it means
+
+1209
+00:50:03,950 --> 00:50:05,869
+that they want to sell they just want
+
+1210
+00:50:05,869 --> 00:50:07,160
+someone to take the other side of their
+
+1211
+00:50:07,160 --> 00:50:08,869
+trades so they're actually creating a
+
+1212
+00:50:08,869 --> 00:50:11,030
+reverse auction attracting people into
+
+1213
+00:50:11,030 --> 00:50:12,950
+the market because as the market goes up
+
+1214
+00:50:12,950 --> 00:50:14,869
+the people to think okay I'm going to be
+
+1215
+00:50:14,869 --> 00:50:16,490
+missing out and and I've got the
+
+1216
+00:50:16,490 --> 00:50:17,630
+assurance that I need that it's gonna
+
+1217
+00:50:17,630 --> 00:50:19,760
+keep on going and so they get sucked
+
+1218
+00:50:19,760 --> 00:50:21,800
+into this move and then and then they
+
+1219
+00:50:21,800 --> 00:50:30,230
+slam them with a huge order now see I
+
+1220
+00:50:30,230 --> 00:50:32,030
+had intimate contact with a hole that
+
+1221
+00:50:32,030 --> 00:50:37,099
+Merrill Lynch not only that I mean cuz
+
+1222
+00:50:37,099 --> 00:50:39,170
+because I knew the floor traders I knew
+
+1223
+00:50:39,170 --> 00:50:40,400
+many of the floor traders who actually
+
+1224
+00:50:40,400 --> 00:50:42,800
+created the movement that particular day
+
+1225
+00:50:42,800 --> 00:50:44,960
+and there were a number of times where
+
+1226
+00:50:44,960 --> 00:50:46,400
+the movement was significant and they
+
+1227
+00:50:46,400 --> 00:50:48,470
+were fast markets and you know enough to
+
+1228
+00:50:48,470 --> 00:50:50,780
+track the the media to the exchange and
+
+1229
+00:50:50,780 --> 00:50:52,099
+you know when they put a microphone in
+
+1230
+00:50:52,099 --> 00:50:53,720
+front of their front of their mouth and
+
+1231
+00:50:53,720 --> 00:50:55,580
+you know and that I definitely they
+
+1232
+00:50:55,580 --> 00:50:57,050
+definitely would say something that was
+
+1233
+00:50:57,050 --> 00:50:59,060
+palatable to the public in other words
+
+1234
+00:50:59,060 --> 00:51:01,670
+what was reasonable I can guarantee you
+
+1235
+00:51:01,670 --> 00:51:02,900
+that the reason why they did what they
+
+1236
+00:51:02,900 --> 00:51:04,430
+did during the day had nothing to do
+
+1237
+00:51:04,430 --> 00:51:07,430
+with what they said nothing there was no
+
+1238
+00:51:07,430 --> 00:51:10,210
+relationship whatsoever
+
+1239
+00:51:14,160 --> 00:51:18,160
+go ahead I'll fully understand your
+
+1240
+00:51:18,160 --> 00:51:21,190
+concept of the movement that's taking
+
+1241
+00:51:21,190 --> 00:51:25,150
+place because of dynamic players and I
+
+1242
+00:51:25,150 --> 00:51:26,890
+can understand how that would relate to
+
+1243
+00:51:26,890 --> 00:51:29,080
+the commodity stock and stock options
+
+1244
+00:51:29,080 --> 00:51:32,500
+market but can you have the same effect
+
+1245
+00:51:32,500 --> 00:51:34,330
+and say the foreign currency market
+
+1246
+00:51:34,330 --> 00:51:37,000
+where it's a much bigger market that's
+
+1247
+00:51:37,000 --> 00:51:40,330
+traded worldwide it just depends on the
+
+1248
+00:51:40,330 --> 00:51:42,430
+player absolutely you get a central bank
+
+1249
+00:51:42,430 --> 00:51:43,869
+that starts that starts doing this
+
+1250
+00:51:43,869 --> 00:51:45,340
+starts unloading something and then
+
+1251
+00:51:45,340 --> 00:51:46,660
+they're gonna is going to have a major
+
+1252
+00:51:46,660 --> 00:51:49,630
+impact on the market yes but you yeah
+
+1253
+00:51:49,630 --> 00:51:51,520
+you've got basically what you have is a
+
+1254
+00:51:51,520 --> 00:51:53,800
+situation where where this markets so
+
+1255
+00:51:53,800 --> 00:51:57,130
+large it's so liquid that it would be
+
+1256
+00:51:57,130 --> 00:51:59,740
+very difficult for individuals to have
+
+1257
+00:51:59,740 --> 00:52:02,140
+any impact on it is that what you're
+
+1258
+00:52:02,140 --> 00:52:03,730
+saying to me is that what you're well I
+
+1259
+00:52:03,730 --> 00:52:05,890
+wasn't necessarily limiting it to
+
+1260
+00:52:05,890 --> 00:52:09,540
+individuals I mean even a central bank
+
+1261
+00:52:09,540 --> 00:52:12,640
+just on the world market could they have
+
+1262
+00:52:12,640 --> 00:52:14,410
+that kind of an import it's what I call
+
+1263
+00:52:14,410 --> 00:52:16,599
+the pebble in a pond effect okay they
+
+1264
+00:52:16,599 --> 00:52:18,250
+might not have enough they might not
+
+1265
+00:52:18,250 --> 00:52:21,190
+have enough impact initially okay
+
+1266
+00:52:21,190 --> 00:52:23,770
+initially to do something okay to have
+
+1267
+00:52:23,770 --> 00:52:26,200
+to have that meaningful making to create
+
+1268
+00:52:26,200 --> 00:52:28,000
+that meaningful of a price move but
+
+1269
+00:52:28,000 --> 00:52:29,770
+you've got a pebble in a pond which is
+
+1270
+00:52:29,770 --> 00:52:31,119
+the way a lot of prices move anyway
+
+1271
+00:52:31,119 --> 00:52:32,740
+because it's like what you've got to
+
+1272
+00:52:32,740 --> 00:52:35,470
+drop a pebble in a pond well if it's you
+
+1273
+00:52:35,470 --> 00:52:39,040
+know it creates waves does it not okay
+
+1274
+00:52:39,040 --> 00:52:41,890
+and what I found is that especially with
+
+1275
+00:52:41,890 --> 00:52:44,680
+floor traders and and and really the
+
+1276
+00:52:44,680 --> 00:52:46,450
+kind of same the kind of same that the
+
+1277
+00:52:46,450 --> 00:52:50,230
+same kind of dynamics work even even
+
+1278
+00:52:50,230 --> 00:52:51,250
+with off the floor traders in the
+
+1279
+00:52:51,250 --> 00:52:53,260
+general market itself I found that what
+
+1280
+00:52:53,260 --> 00:52:55,660
+you had is that most floor traders did
+
+1281
+00:52:55,660 --> 00:52:58,089
+not know what they were doing in the
+
+1282
+00:52:58,089 --> 00:52:59,859
+sense that they didn't have a real good
+
+1283
+00:52:59,859 --> 00:53:01,869
+reason for buying or selling at any
+
+1284
+00:53:01,869 --> 00:53:03,160
+given moment other than the fact that
+
+1285
+00:53:03,160 --> 00:53:04,690
+they were following the lead of other
+
+1286
+00:53:04,690 --> 00:53:06,339
+people who thought they thought did have
+
+1287
+00:53:06,339 --> 00:53:08,800
+an idea of what they're doing so what
+
+1288
+00:53:08,800 --> 00:53:10,990
+ends up happening is that is that what
+
+1289
+00:53:10,990 --> 00:53:12,880
+you've got is you've got the guy the
+
+1290
+00:53:12,880 --> 00:53:14,650
+trader who's confident knows exactly
+
+1291
+00:53:14,650 --> 00:53:16,450
+what he's doing why he wants to do it
+
+1292
+00:53:16,450 --> 00:53:18,760
+and does it and then you've got you got
+
+1293
+00:53:18,760 --> 00:53:20,830
+all the other guys who are let's say in
+
+1294
+00:53:20,830 --> 00:53:23,500
+the pit okay who are closest to
+
+1295
+00:53:23,500 --> 00:53:24,970
+this particular this guy might be on
+
+1296
+00:53:24,970 --> 00:53:26,950
+this step right here who are closest to
+
+1297
+00:53:26,950 --> 00:53:30,190
+this guy that will that will mimic what
+
+1298
+00:53:30,190 --> 00:53:32,260
+he does and then what it does it starts
+
+1299
+00:53:32,260 --> 00:53:34,600
+spreading out and that and that as as
+
+1300
+00:53:34,600 --> 00:53:37,630
+word gets out okay the guys at the
+
+1301
+00:53:37,630 --> 00:53:39,490
+farthest then end up getting you prices
+
+1302
+00:53:39,490 --> 00:53:41,290
+that are that are greatly diminished in
+
+1303
+00:53:41,290 --> 00:53:42,340
+relationship to this particular
+
+1304
+00:53:42,340 --> 00:53:44,170
+individual but the point is is kind of
+
+1305
+00:53:44,170 --> 00:53:48,970
+like the pebble in the pond a central
+
+1306
+00:53:48,970 --> 00:53:50,320
+bank could create create the same thing
+
+1307
+00:53:50,320 --> 00:53:53,140
+in other words initially a central bank
+
+1308
+00:53:53,140 --> 00:53:54,870
+hitting the market with a huge order
+
+1309
+00:53:54,870 --> 00:53:58,210
+might be absorbed but the fact that the
+
+1310
+00:53:58,210 --> 00:54:00,250
+central bank is doing it will cause
+
+1311
+00:54:00,250 --> 00:54:02,020
+other people to want to do it too and
+
+1312
+00:54:02,020 --> 00:54:04,150
+therefore as a result of all the other
+
+1313
+00:54:04,150 --> 00:54:06,400
+traders who pile on it creates a huge
+
+1314
+00:54:06,400 --> 00:54:11,220
+move does that make sense okay
+
+1315
+00:54:16,120 --> 00:54:19,240
+we're moving right along here okay
+
+1316
+00:54:19,240 --> 00:54:21,400
+dynamic traders okay players they know
+
+1317
+00:54:21,400 --> 00:54:23,260
+and understand the mindset and behavior
+
+1318
+00:54:23,260 --> 00:54:25,030
+patterns of the crowd or herd they they
+
+1319
+00:54:25,030 --> 00:54:27,310
+they basically refer to the general
+
+1320
+00:54:27,310 --> 00:54:29,560
+public as the herd and they are the herd
+
+1321
+00:54:29,560 --> 00:54:34,650
+masters okay they are the herd masters
+
+1322
+00:54:34,650 --> 00:54:36,910
+whenever possible they will use that
+
+1323
+00:54:36,910 --> 00:54:38,560
+knowledge to move prices in a way that
+
+1324
+00:54:38,560 --> 00:54:39,880
+will extract the most amount of money
+
+1325
+00:54:39,880 --> 00:54:42,850
+from the largest number of traders that
+
+1326
+00:54:42,850 --> 00:54:46,320
+is their mission that is what they do
+
+1327
+00:54:47,130 --> 00:54:49,000
+characteristic the passive technical
+
+1328
+00:54:49,000 --> 00:54:50,890
+traders they're usually mystified by
+
+1329
+00:54:50,890 --> 00:54:53,110
+price movement would that be a fair
+
+1330
+00:54:53,110 --> 00:54:56,260
+characterization okay they wouldn't
+
+1331
+00:54:56,260 --> 00:54:57,610
+think about trying to cause price
+
+1332
+00:54:57,610 --> 00:54:58,930
+movement as a result they typically
+
+1333
+00:54:58,930 --> 00:55:00,310
+can't conceive of anyone else doing it
+
+1334
+00:55:00,310 --> 00:55:00,750
+either
+
+1335
+00:55:00,750 --> 00:55:02,950
+they're typically drawn into trades
+
+1336
+00:55:02,950 --> 00:55:04,360
+based on an opinion about the
+
+1337
+00:55:04,360 --> 00:55:05,950
+attractiveness of the price or Stampede
+
+1338
+00:55:05,950 --> 00:55:08,380
+it out because of fear the passive
+
+1339
+00:55:08,380 --> 00:55:09,790
+technical traders objective is to find
+
+1340
+00:55:09,790 --> 00:55:11,230
+himself in a winning trade without any
+
+1341
+00:55:11,230 --> 00:55:14,500
+intent to move prices now think about
+
+1342
+00:55:14,500 --> 00:55:17,080
+what you're doing you are trading in a
+
+1343
+00:55:17,080 --> 00:55:19,060
+way where you want to find yourself in a
+
+1344
+00:55:19,060 --> 00:55:21,940
+winning trade but absolutely wouldn't
+
+1345
+00:55:21,940 --> 00:55:24,930
+even think about moving prices to do it
+
+1346
+00:55:24,930 --> 00:55:27,250
+you're completely dependent on someone
+
+1347
+00:55:27,250 --> 00:55:32,080
+else doing it for you to find himself in
+
+1348
+00:55:32,080 --> 00:55:33,490
+a winning trade he's dependent on the
+
+1349
+00:55:33,490 --> 00:55:35,260
+traders to be willing to either buy or
+
+1350
+00:55:35,260 --> 00:55:37,000
+sell at a worse price in himself to
+
+1351
+00:55:37,000 --> 00:55:37,490
+create
+
+1352
+00:55:37,490 --> 00:55:39,800
+movement in his direction the typical
+
+1353
+00:55:39,800 --> 00:55:41,450
+passive technical trader is expecting
+
+1354
+00:55:41,450 --> 00:55:42,710
+other dynamic traders to make him a
+
+1355
+00:55:42,710 --> 00:55:44,450
+winner when they usually have little or
+
+1356
+00:55:44,450 --> 00:55:45,619
+no knowledge insight or understanding
+
+1357
+00:55:45,619 --> 00:55:48,410
+about how dynamic traders operate would
+
+1358
+00:55:48,410 --> 00:55:53,000
+that be fair the typical passive trader
+
+1359
+00:55:53,000 --> 00:55:54,350
+does not realize it only takes one
+
+1360
+00:55:54,350 --> 00:55:56,600
+dynamic trader somewhere in the world to
+
+1361
+00:55:56,600 --> 00:55:59,140
+negate the positive outcome of his edge
+
+1362
+00:55:59,140 --> 00:56:01,910
+is that a fair statement now does
+
+1363
+00:56:01,910 --> 00:56:03,230
+anybody want to argue with the statement
+
+1364
+00:56:03,230 --> 00:56:05,450
+anymore or and I'd say anybody did in
+
+1365
+00:56:05,450 --> 00:56:06,860
+the first place but there are some
+
+1366
+00:56:06,860 --> 00:56:08,810
+people who realize their hand and said
+
+1367
+00:56:08,810 --> 00:56:11,210
+that that wasn't the case is there
+
+1368
+00:56:11,210 --> 00:56:12,590
+anybody that that's not convinced about
+
+1369
+00:56:12,590 --> 00:56:14,930
+this seriously I want to know and I'm
+
+1370
+00:56:14,930 --> 00:56:16,400
+not we're not going to get into a fight
+
+1371
+00:56:16,400 --> 00:56:20,000
+or anything but you know ok the
+
+1372
+00:56:20,000 --> 00:56:21,500
+characteristics of technical analysis
+
+1373
+00:56:21,500 --> 00:56:24,410
+now what we're going to do is we're
+
+1374
+00:56:24,410 --> 00:56:26,540
+going to take what we now understand
+
+1375
+00:56:26,540 --> 00:56:29,590
+about the nature of price movement and
+
+1376
+00:56:29,590 --> 00:56:32,600
+look at the nature of technical analysis
+
+1377
+00:56:32,600 --> 00:56:37,820
+to see to see what we got here okay see
+
+1378
+00:56:37,820 --> 00:56:40,220
+how well it you know in meshes ok
+
+1379
+00:56:40,220 --> 00:56:43,100
+technical indicators define identify and
+
+1380
+00:56:43,100 --> 00:56:44,780
+organize market data the up and down
+
+1381
+00:56:44,780 --> 00:56:45,830
+ticks and to understand a little
+
+1382
+00:56:45,830 --> 00:56:49,359
+patterns are you guys with me on this
+
+1383
+00:56:49,359 --> 00:56:52,119
+the patterns are observed observable
+
+1384
+00:56:52,119 --> 00:56:53,840
+quantifiable meaning that can be
+
+1385
+00:56:53,840 --> 00:56:55,670
+measured and repeat themselves with
+
+1386
+00:56:55,670 --> 00:56:58,490
+statistical reliability and and really
+
+1387
+00:56:58,490 --> 00:57:00,260
+and while I'm doing this and while we're
+
+1388
+00:57:00,260 --> 00:57:01,430
+going through this I want you guys to
+
+1389
+00:57:01,430 --> 00:57:05,810
+really keep in mind that that just
+
+1390
+00:57:05,810 --> 00:57:08,680
+because I explained the the underlying
+
+1391
+00:57:08,680 --> 00:57:11,150
+characteristics of dynamic traders and
+
+1392
+00:57:11,150 --> 00:57:12,740
+people who can actually move the market
+
+1393
+00:57:12,740 --> 00:57:16,010
+and do it and do it all the time in fact
+
+1394
+00:57:16,010 --> 00:57:17,450
+when the markets moving they're the ones
+
+1395
+00:57:17,450 --> 00:57:20,900
+who are doing it it's not you or I the
+
+1396
+00:57:20,900 --> 00:57:22,790
+only time you or I move the market is
+
+1397
+00:57:22,790 --> 00:57:24,980
+when there's an overabundance of market
+
+1398
+00:57:24,980 --> 00:57:26,390
+orders coming into the market from
+
+1399
+00:57:26,390 --> 00:57:29,359
+passive technical traders because the
+
+1400
+00:57:29,359 --> 00:57:31,640
+market order does what okay if the last
+
+1401
+00:57:31,640 --> 00:57:33,770
+forget in the last price is 10 we've got
+
+1402
+00:57:33,770 --> 00:57:36,470
+nine and we've got 11 ok what's the
+
+1403
+00:57:36,470 --> 00:57:38,900
+market the last price is 10 if I want to
+
+1404
+00:57:38,900 --> 00:57:41,290
+buy the markets actually 11 isn't it
+
+1405
+00:57:41,290 --> 00:57:43,609
+that's the market because that's where
+
+1406
+00:57:43,609 --> 00:57:46,340
+the offers are the offers are at 11 so
+
+1407
+00:57:46,340 --> 00:57:47,420
+that's where I'm going to get filled I'm
+
+1408
+00:57:47,420 --> 00:57:49,220
+going to get filled at 11 well if
+
+1409
+00:57:49,220 --> 00:57:51,320
+there's so many buy orders come mark
+
+1410
+00:57:51,320 --> 00:57:54,350
+by orders coming into the market and all
+
+1411
+00:57:54,350 --> 00:57:56,690
+the all the offers are taken out at
+
+1412
+00:57:56,690 --> 00:57:59,180
+11:00 then that means the next price up
+
+1413
+00:57:59,180 --> 00:58:00,350
+where there's offers are 12 and that's
+
+1414
+00:58:00,350 --> 00:58:04,010
+what I'm going to get filled and if
+
+1415
+00:58:04,010 --> 00:58:05,390
+there's so many more that got in before
+
+1416
+00:58:05,390 --> 00:58:08,240
+me and this is real I mean it's really
+
+1417
+00:58:08,240 --> 00:58:10,640
+an overabundance of buy orders and
+
+1418
+00:58:10,640 --> 00:58:12,350
+relationship to the number of offers
+
+1419
+00:58:12,350 --> 00:58:14,360
+that are that that exist then I might
+
+1420
+00:58:14,360 --> 00:58:17,360
+get filled of 13 because that's the
+
+1421
+00:58:17,360 --> 00:58:19,520
+market so that's the difference you've
+
+1422
+00:58:19,520 --> 00:58:22,150
+got you've got an overabundance of
+
+1423
+00:58:22,150 --> 00:58:24,890
+passive technical orders coming into the
+
+1424
+00:58:24,890 --> 00:58:26,840
+market that will drive it up or you've
+
+1425
+00:58:26,840 --> 00:58:28,640
+got dynamic traders who are doing it
+
+1426
+00:58:28,640 --> 00:58:30,890
+purposefully and when they're doing it
+
+1427
+00:58:30,890 --> 00:58:32,960
+purposefully I guarantee you they got
+
+1428
+00:58:32,960 --> 00:58:35,180
+they got a good reason for it they know
+
+1429
+00:58:35,180 --> 00:58:36,410
+what they're doing I'm not saying it
+
+1430
+00:58:36,410 --> 00:58:38,180
+always works but they know what they're
+
+1431
+00:58:38,180 --> 00:58:44,630
+doing and it doesn't mean that you can't
+
+1432
+00:58:44,630 --> 00:58:45,710
+take advantage of it
+
+1433
+00:58:45,710 --> 00:58:48,020
+it doesn't mean that you can't make a
+
+1434
+00:58:48,020 --> 00:58:50,150
+consistent income even I'm you know a
+
+1435
+00:58:50,150 --> 00:58:52,730
+really a really good consistent income
+
+1436
+00:58:52,730 --> 00:58:56,300
+with your technical methodologies you
+
+1437
+00:58:56,300 --> 00:58:57,890
+don't you don't even have to you don't
+
+1438
+00:58:57,890 --> 00:58:59,240
+have to understand all these these
+
+1439
+00:58:59,240 --> 00:59:01,940
+subtle dynamics or market or price
+
+1440
+00:59:01,940 --> 00:59:03,410
+movement to be able to take advantage of
+
+1441
+00:59:03,410 --> 00:59:05,780
+of it all you've got to do is be able to
+
+1442
+00:59:05,780 --> 00:59:09,790
+trade your edge and follow your plan I
+
+1443
+00:59:10,090 --> 00:59:12,800
+just want you understand that when you
+
+1444
+00:59:12,800 --> 00:59:15,650
+understand what's going on you will will
+
+1445
+00:59:15,650 --> 00:59:17,930
+be able to trade your plan because you
+
+1446
+00:59:17,930 --> 00:59:20,150
+won't be putting so much emphasis on
+
+1447
+00:59:20,150 --> 00:59:22,690
+things that don't have any relevance
+
+1448
+00:59:22,690 --> 00:59:25,430
+like expecting this next trade to work
+
+1449
+00:59:25,430 --> 00:59:27,920
+just because you got a signal is this
+
+1450
+00:59:27,920 --> 00:59:30,800
+what drives the price up typically early
+
+1451
+00:59:30,800 --> 00:59:32,540
+in the morning like on when the market
+
+1452
+00:59:32,540 --> 00:59:35,930
+opens some popular stock all the market
+
+1453
+00:59:35,930 --> 00:59:38,300
+all the orders come in or it goes down
+
+1454
+00:59:38,300 --> 00:59:40,430
+and is that what creates this gap or
+
+1455
+00:59:40,430 --> 00:59:42,350
+well I can't tell you the academia would
+
+1456
+00:59:42,350 --> 00:59:43,910
+say what that's what happens I mean well
+
+1457
+00:59:43,910 --> 00:59:45,830
+you can lose it that's why is it a log
+
+1458
+00:59:45,830 --> 00:59:48,590
+jam right you can you can always break
+
+1459
+00:59:48,590 --> 00:59:51,500
+it down to one fundamental reason the
+
+1460
+00:59:51,500 --> 00:59:52,760
+only fun no the only reason that they're
+
+1461
+00:59:52,760 --> 00:59:55,120
+really there is there's an imbalance in
+
+1462
+00:59:55,120 --> 00:59:58,580
+between between buyers and sellers price
+
+1463
+00:59:58,580 --> 01:00:00,470
+movement is always the result of an
+
+1464
+01:00:00,470 --> 01:00:02,540
+imbalance because when there's balance
+
+1465
+01:00:02,540 --> 01:00:03,800
+there's no movement
+
+1466
+01:00:03,800 --> 01:00:06,080
+it's that simple right if there's
+
+1467
+01:00:06,080 --> 01:00:08,420
+balance there's no movement prices do
+
+1468
+01:00:08,420 --> 01:00:11,360
+not move when there's balance there has
+
+1469
+01:00:11,360 --> 01:00:12,890
+to be an imbalance for people to bid it
+
+1470
+01:00:12,890 --> 01:00:14,660
+up or offer a lower and if people aren't
+
+1471
+01:00:14,660 --> 01:00:16,220
+actually bidding it up in this example
+
+1472
+01:00:16,220 --> 01:00:17,870
+we don't see what the reason I can't
+
+1473
+01:00:17,870 --> 01:00:19,880
+answer you exactly is because I don't
+
+1474
+01:00:19,880 --> 01:00:21,140
+know if it's actually being bid up
+
+1475
+01:00:21,140 --> 01:00:23,450
+purposefully by somebody or it's because
+
+1476
+01:00:23,450 --> 01:00:25,880
+there's an overabundance of buy orders
+
+1477
+01:00:25,880 --> 01:00:27,080
+and relationship to the amount of offers
+
+1478
+01:00:27,080 --> 01:00:37,940
+that's what I don't know okay the
+
+1479
+01:00:37,940 --> 01:00:39,560
+Payette the patterns basically measure
+
+1480
+01:00:39,560 --> 01:00:41,120
+the collective mind of the market in
+
+1481
+01:00:41,120 --> 01:00:42,950
+other words here then I should have and
+
+1482
+01:00:42,950 --> 01:00:44,120
+I should have really emphasized this
+
+1483
+01:00:44,120 --> 01:00:47,300
+word collective collective mind of the
+
+1484
+01:00:47,300 --> 01:00:50,330
+market not the individual Minds the
+
+1485
+01:00:50,330 --> 01:00:53,210
+collective mind meaning all of the
+
+1486
+01:00:53,210 --> 01:00:56,690
+actions all of the beliefs all of the
+
+1487
+01:00:56,690 --> 01:00:59,900
+agendas all of the objectives are built
+
+1488
+01:00:59,900 --> 01:01:02,630
+into that next incremental price change
+
+1489
+01:01:02,630 --> 01:01:05,000
+from eleven to twelve or from twelve to
+
+1490
+01:01:05,000 --> 01:01:10,640
+thirteen it's all there and the only
+
+1491
+01:01:10,640 --> 01:01:12,410
+thing that mathematical formulas can do
+
+1492
+01:01:12,410 --> 01:01:15,770
+is actually measure that you know
+
+1493
+01:01:15,770 --> 01:01:17,960
+measure the patterns that result from
+
+1494
+01:01:17,960 --> 01:01:20,810
+that information it isn't getting the
+
+1495
+01:01:20,810 --> 01:01:22,760
+information of the guy who actually bid
+
+1496
+01:01:22,760 --> 01:01:24,020
+the market up by taking out all the
+
+1497
+01:01:24,020 --> 01:01:25,940
+offers because he's got some specific
+
+1498
+01:01:25,940 --> 01:01:27,260
+agenda about what he wants to do with
+
+1499
+01:01:27,260 --> 01:01:28,700
+where he wants to see the prices go
+
+1500
+01:01:28,700 --> 01:01:31,220
+because he's doing something has nothing
+
+1501
+01:01:31,220 --> 01:01:33,170
+to do with any of this meaning your
+
+1502
+01:01:33,170 --> 01:01:35,210
+technical methodology or anybody else's
+
+1503
+01:01:35,210 --> 01:01:37,070
+he might be putting on a huge hedge
+
+1504
+01:01:37,070 --> 01:01:39,320
+position based on some contract that he
+
+1505
+01:01:39,320 --> 01:01:41,270
+has to deliver something three months
+
+1506
+01:01:41,270 --> 01:01:43,540
+from now
+
+1507
+01:01:50,849 --> 01:01:53,859
+so collective mind of the market
+
+1508
+01:01:53,859 --> 01:01:55,060
+indicating when there is a higher
+
+1509
+01:01:55,060 --> 01:01:56,619
+probability of one thing happening over
+
+1510
+01:01:56,619 --> 01:02:01,780
+another represented as an edge so
+
+1511
+01:02:01,780 --> 01:02:03,369
+because the patterns show up in every
+
+1512
+01:02:03,369 --> 01:02:05,980
+timeframe technical analysis turns the
+
+1513
+01:02:05,980 --> 01:02:08,349
+market into an unending stream of
+
+1514
+01:02:08,349 --> 01:02:10,750
+opportunities to enrich ourselves these
+
+1515
+01:02:10,750 --> 01:02:13,119
+patterns that the mathematical formulas
+
+1516
+01:02:13,119 --> 01:02:17,440
+identify show up in every timeframe from
+
+1517
+01:02:17,440 --> 01:02:22,450
+the smallest to the largest and as a
+
+1518
+01:02:22,450 --> 01:02:24,910
+result if we learn how to think about
+
+1519
+01:02:24,910 --> 01:02:28,510
+these patterns or edges appropriately it
+
+1520
+01:02:28,510 --> 01:02:30,670
+will actually turn the market into an
+
+1521
+01:02:30,670 --> 01:02:36,550
+unending stream to enrich ourselves but
+
+1522
+01:02:36,550 --> 01:02:42,160
+not on a trade by trade basis but not on
+
+1523
+01:02:42,160 --> 01:02:44,950
+a trade by trade basis but rather as a
+
+1524
+01:02:44,950 --> 01:02:47,800
+percentage over a series of trades this
+
+1525
+01:02:47,800 --> 01:02:50,050
+is big guys this is it right here this
+
+1526
+01:02:50,050 --> 01:02:52,270
+is the holy grail of technical analysis
+
+1527
+01:02:52,270 --> 01:02:56,859
+right here right now your technical
+
+1528
+01:02:56,859 --> 01:02:59,410
+indicators will turn the market into an
+
+1529
+01:02:59,410 --> 01:03:03,580
+unending stream of opportunity to enrich
+
+1530
+01:03:03,580 --> 01:03:07,240
+yourself but not on a trade by trade
+
+1531
+01:03:07,240 --> 01:03:15,250
+basis but rather as a percentage over a
+
+1532
+01:03:15,250 --> 01:03:20,710
+series of trades that means you have to
+
+1533
+01:03:20,710 --> 01:03:23,740
+learn how to think of probabilities you
+
+1534
+01:03:23,740 --> 01:03:26,230
+may understand the concept of
+
+1535
+01:03:26,230 --> 01:03:27,940
+probabilities it doesn't mean that you
+
+1536
+01:03:27,940 --> 01:03:30,609
+can think that way I've worked with
+
+1537
+01:03:30,609 --> 01:03:32,200
+traders in fact one guy came to one of
+
+1538
+01:03:32,200 --> 01:03:34,030
+my workshops many years ago a hedge fund
+
+1539
+01:03:34,030 --> 01:03:37,000
+manager reasonably successful you know
+
+1540
+01:03:37,000 --> 01:03:38,589
+let's say reasonably because he made you
+
+1541
+01:03:38,589 --> 01:03:41,710
+know that I was a 10 to 18% a year but
+
+1542
+01:03:41,710 --> 01:03:44,140
+his indicators if he had followed them
+
+1543
+01:03:44,140 --> 01:03:46,060
+the way you know the way they were
+
+1544
+01:03:46,060 --> 01:03:48,220
+planned to be followed he could have
+
+1545
+01:03:48,220 --> 01:03:49,900
+made anywhere from 60 to 70 percent a
+
+1546
+01:03:49,900 --> 01:03:52,210
+year little frustrated came to a
+
+1547
+01:03:52,210 --> 01:03:54,040
+workshop and then you know some some
+
+1548
+01:03:54,040 --> 01:03:56,230
+consultations afterwards in one
+
+1549
+01:03:56,230 --> 01:03:58,000
+particular situation where he said you
+
+1550
+01:03:58,000 --> 01:03:59,710
+know he put in a trade a trade even
+
+1551
+01:03:59,710 --> 01:04:00,850
+watching four months
+
+1552
+01:04:00,850 --> 01:04:02,950
+finally got to his price level you know
+
+1553
+01:04:02,950 --> 01:04:04,870
+he put the trade on and put a stop in
+
+1554
+01:04:04,870 --> 01:04:06,730
+the market you know and the market
+
+1555
+01:04:06,730 --> 01:04:08,200
+started approaching his stop and you
+
+1556
+01:04:08,200 --> 01:04:10,870
+know he he got out he got out of the
+
+1557
+01:04:10,870 --> 01:04:14,680
+trade early it market didn't hit a stop
+
+1558
+01:04:14,680 --> 01:04:15,940
+he got out of the trade early and then
+
+1559
+01:04:15,940 --> 01:04:18,490
+it just went just just fell to pieces
+
+1560
+01:04:18,490 --> 01:04:20,350
+and because he was short and he you know
+
+1561
+01:04:20,350 --> 01:04:21,970
+in his direction he wasn't in the trade
+
+1562
+01:04:21,970 --> 01:04:24,880
+and he would have been someone who would
+
+1563
+01:04:24,880 --> 01:04:26,380
+have said that he understood the nature
+
+1564
+01:04:26,380 --> 01:04:28,390
+of probabilities because he majored in
+
+1565
+01:04:28,390 --> 01:04:38,470
+it in college but it hasn't he did not
+
+1566
+01:04:38,470 --> 01:04:41,230
+do the sufficient amount of work to
+
+1567
+01:04:41,230 --> 01:04:43,690
+train his mind to think in probabilities
+
+1568
+01:04:43,690 --> 01:04:45,670
+at a functional level there's a huge
+
+1569
+01:04:45,670 --> 01:04:48,190
+difference you can't take it for granted
+
+1570
+01:04:48,190 --> 01:04:50,200
+that because you understand the nature
+
+1571
+01:04:50,200 --> 01:04:55,240
+of percentages that you can think that
+
+1572
+01:04:55,240 --> 01:05:01,270
+way at a functional level it would be
+
+1573
+01:05:01,270 --> 01:05:03,070
+you know like you could you can do I'll
+
+1574
+01:05:03,070 --> 01:05:06,570
+do the analogy to technical analysis to
+
+1575
+01:05:06,570 --> 01:05:12,220
+flipping a coin okay that if you if you
+
+1576
+01:05:12,220 --> 01:05:15,550
+take an evenly weighted coin and flip it
+
+1577
+01:05:15,550 --> 01:05:17,770
+a thousand times you've got a large
+
+1578
+01:05:17,770 --> 01:05:20,890
+sample size there right the pattern that
+
+1579
+01:05:20,890 --> 01:05:24,340
+will emerge with each thousand flip
+
+1580
+01:05:24,340 --> 01:05:27,280
+sample size is a relatively even
+
+1581
+01:05:27,280 --> 01:05:29,370
+distribution between heads and tails
+
+1582
+01:05:29,370 --> 01:05:32,410
+maybe not quite 5050 but let's say forty
+
+1583
+01:05:32,410 --> 01:05:36,850
+nine point two and you know of forty
+
+1584
+01:05:36,850 --> 01:05:38,740
+nine point eight or something or
+
+1585
+01:05:38,740 --> 01:05:40,120
+whatever there might be a little bit of
+
+1586
+01:05:40,120 --> 01:05:41,410
+variance more variance there but in any
+
+1587
+01:05:41,410 --> 01:05:44,020
+case that will be a pattern see that's a
+
+1588
+01:05:44,020 --> 01:05:46,180
+pattern because it'll happen
+
+1589
+01:05:46,180 --> 01:05:48,220
+every single time you flip the coin a
+
+1590
+01:05:48,220 --> 01:05:54,100
+thousand times but within that thousand
+
+1591
+01:05:54,100 --> 01:05:57,100
+flip sample size is there anyway since
+
+1592
+01:05:57,100 --> 01:05:58,120
+you're going to get an even distribution
+
+1593
+01:05:58,120 --> 01:05:59,830
+between heads and tails is there any way
+
+1594
+01:05:59,830 --> 01:06:01,660
+that you can know for sure which
+
+1595
+01:06:01,660 --> 01:06:03,430
+individual flip is going to be hands in
+
+1596
+01:06:03,430 --> 01:06:04,660
+which individual flip is going to be
+
+1597
+01:06:04,660 --> 01:06:10,390
+tails no you could get ten flips of
+
+1598
+01:06:10,390 --> 01:06:12,960
+heads in a row
+
+1599
+01:06:12,960 --> 01:06:15,359
+and be absolutely positive the next
+
+1600
+01:06:15,359 --> 01:06:16,740
+one's going to be tails and it could
+
+1601
+01:06:16,740 --> 01:06:19,770
+come up heads again and even though you
+
+1602
+01:06:19,770 --> 01:06:21,450
+can have all these streaks of heads and
+
+1603
+01:06:21,450 --> 01:06:24,150
+tails in the end they're still going to
+
+1604
+01:06:24,150 --> 01:06:31,500
+come up 50/50 this is exactly the way
+
+1605
+01:06:31,500 --> 01:06:37,740
+technical analysis works exactly when
+
+1606
+01:06:37,740 --> 01:06:40,830
+you consider the diversity the diversity
+
+1607
+01:06:40,830 --> 01:06:43,320
+of the market with all the different
+
+1608
+01:06:43,320 --> 01:06:44,849
+players and all the different agendas
+
+1609
+01:06:44,849 --> 01:06:48,210
+from people all over the world trying to
+
+1610
+01:06:48,210 --> 01:06:51,930
+predict what will happen next would be
+
+1611
+01:06:51,930 --> 01:06:53,550
+almost equivalent to sitting in front of
+
+1612
+01:06:53,550 --> 01:06:55,830
+a slot machine and coming up with some
+
+1613
+01:06:55,830 --> 01:06:59,190
+rational reason why you think that the
+
+1614
+01:06:59,190 --> 01:07:01,260
+pattern that you're looking for is going
+
+1615
+01:07:01,260 --> 01:07:03,089
+to come up on the next push of the
+
+1616
+01:07:03,089 --> 01:07:05,119
+button
+
+1617
+01:07:13,550 --> 01:07:17,140
+it wouldn't make a lot of sense would it
+
+1618
+01:07:17,560 --> 01:07:20,900
+but the reason why it's we get fooled as
+
+1619
+01:07:20,900 --> 01:07:25,190
+traders and we think of it in and not
+
+1620
+01:07:25,190 --> 01:07:27,760
+this and not this probabilistic way is
+
+1621
+01:07:27,760 --> 01:07:30,620
+because when we put on a trade we put on
+
+1622
+01:07:30,620 --> 01:07:33,770
+a trade for a reason see reasons are
+
+1623
+01:07:33,770 --> 01:07:34,960
+important in our lives
+
+1624
+01:07:34,960 --> 01:07:39,620
+reasons are important we've put on a
+
+1625
+01:07:39,620 --> 01:07:43,430
+trade for a reason and see the problem
+
+1626
+01:07:43,430 --> 01:07:46,940
+is is that when the trade works we think
+
+1627
+01:07:46,940 --> 01:07:49,340
+are we just naturally think our reason
+
+1628
+01:07:49,340 --> 01:07:53,570
+was right what I'm trying to do here is
+
+1629
+01:07:53,570 --> 01:07:57,350
+help you disconnect is disconnect any
+
+1630
+01:07:57,350 --> 01:07:59,570
+reason that you put on a trade with the
+
+1631
+01:07:59,570 --> 01:08:01,760
+reason why it actually moved because
+
+1632
+01:08:01,760 --> 01:08:04,070
+like I said before there's almost never
+
+1633
+01:08:04,070 --> 01:08:08,270
+a relationship there's almost never a
+
+1634
+01:08:08,270 --> 01:08:15,970
+correlation and so the next time that
+
+1635
+01:08:15,970 --> 01:08:18,549
+reason seems to appear in the market
+
+1636
+01:08:18,549 --> 01:08:21,020
+we're gonna we're gonna do the same
+
+1637
+01:08:21,020 --> 01:08:26,350
+thing thinking we'll get the same result
+
+1638
+01:08:30,469 --> 01:08:34,960
+and then we don't we feel betrayed and
+
+1639
+01:08:34,960 --> 01:08:38,109
+then the next time the reason comes up
+
+1640
+01:08:38,109 --> 01:08:41,649
+we're gonna be a little hesitant you
+
+1641
+01:08:41,649 --> 01:08:44,870
+might not put it on at all we'll try to
+
+1642
+01:08:44,870 --> 01:08:47,600
+find additional reasons why this trade
+
+1643
+01:08:47,600 --> 01:08:50,600
+will work well the reality is there
+
+1644
+01:08:50,600 --> 01:08:52,069
+isn't any reason you're going to be able
+
+1645
+01:08:52,069 --> 01:08:53,479
+to come up with it's going to assure you
+
+1646
+01:08:53,479 --> 01:08:55,399
+of anything unless the reason you're
+
+1647
+01:08:55,399 --> 01:08:57,529
+coming up with is you know the people
+
+1648
+01:08:57,529 --> 01:08:58,790
+who are actually going to bid them hark
+
+1649
+01:08:58,790 --> 01:09:00,589
+it up or offer a lower and they tell you
+
+1650
+01:09:00,589 --> 01:09:04,310
+what they're gonna do and why ultimately
+
+1651
+01:09:04,310 --> 01:09:05,930
+there's only one reason why markets why
+
+1652
+01:09:05,930 --> 01:09:08,000
+prices move and what would that reason
+
+1653
+01:09:08,000 --> 01:09:12,680
+be come on yeah an imbalance in
+
+1654
+01:09:12,680 --> 01:09:14,089
+conviction that's the only and what
+
+1655
+01:09:14,089 --> 01:09:16,100
+technical analysis does is it finds
+
+1656
+01:09:16,100 --> 01:09:18,080
+patterns in that imbalance okay
+
+1657
+01:09:18,080 --> 01:09:21,109
+technical analysis finds and patterns in
+
+1658
+01:09:21,109 --> 01:09:26,870
+the imbalance where there's momentum in
+
+1659
+01:09:26,870 --> 01:09:30,319
+a direction it's still not going to tell
+
+1660
+01:09:30,319 --> 01:09:32,890
+you what's going to happen next
+
+1661
+01:09:32,890 --> 01:09:35,299
+technical analysis doesn't nor can it
+
+1662
+01:09:35,299 --> 01:09:36,529
+get into the minds of any particular
+
+1663
+01:09:36,529 --> 01:09:38,000
+individual trader who has both the
+
+1664
+01:09:38,000 --> 01:09:40,160
+financial and psychological resources to
+
+1665
+01:09:40,160 --> 01:09:41,540
+either move prices or defend certain
+
+1666
+01:09:41,540 --> 01:09:43,488
+price levels and traders will defend
+
+1667
+01:09:43,488 --> 01:09:46,160
+price levels by the way there are
+
+1668
+01:09:46,160 --> 01:09:48,229
+dynamic traders who will actually defend
+
+1669
+01:09:48,229 --> 01:09:54,949
+a price is it reasonable to expect the
+
+1670
+01:09:54,949 --> 01:09:57,530
+fix criteria that make up a mathematical
+
+1671
+01:09:57,530 --> 01:10:00,800
+formula the sake to stay consistent with
+
+1672
+01:10:00,800 --> 01:10:02,870
+a dynamic event that's in perpetual
+
+1673
+01:10:02,870 --> 01:10:06,140
+motion on a trade by trade basis what's
+
+1674
+01:10:06,140 --> 01:10:08,480
+the answer to that well what does the
+
+1675
+01:10:08,480 --> 01:10:13,190
+answer come on no no it is not
+
+1676
+01:10:13,190 --> 01:10:17,410
+reasonable no it is not
+
+1677
+01:10:24,870 --> 01:10:27,159
+especially where that motion is being
+
+1678
+01:10:27,159 --> 01:10:28,570
+caused by traitors all around the world
+
+1679
+01:10:28,570 --> 01:10:30,909
+with different beliefs objectives and
+
+1680
+01:10:30,909 --> 01:10:33,760
+agendas there was no way of determining
+
+1681
+01:10:33,760 --> 01:10:35,560
+the intentions of all these traitors yet
+
+1682
+01:10:35,560 --> 01:10:38,890
+the typical passive trader trades their
+
+1683
+01:10:38,890 --> 01:10:41,050
+methodology as if they are being told
+
+1684
+01:10:41,050 --> 01:10:42,870
+what those intentions are the
+
+1685
+01:10:42,870 --> 01:10:46,770
+professionals do not you guys get that
+
+1686
+01:10:46,770 --> 01:10:50,020
+the typical passive technical trader
+
+1687
+01:10:50,020 --> 01:10:52,570
+trades their methodology as if they are
+
+1688
+01:10:52,570 --> 01:10:55,590
+being told what their intentions are
+
+1689
+01:10:55,590 --> 01:10:59,100
+whereas the professional does not and
+
+1690
+01:10:59,100 --> 01:11:01,600
+why doesn't the professional because the
+
+1691
+01:11:01,600 --> 01:11:03,190
+professional understands the underlying
+
+1692
+01:11:03,190 --> 01:11:05,020
+dynamics of price movement and that
+
+1693
+01:11:05,020 --> 01:11:06,520
+anybody could come into the market at
+
+1694
+01:11:06,520 --> 01:11:09,630
+any time to do anything
+
+1695
+01:11:09,870 --> 01:11:12,010
+there was another floor trader that I
+
+1696
+01:11:12,010 --> 01:11:14,920
+work with who executed a trainers own
+
+1697
+01:11:14,920 --> 01:11:16,390
+accountant in soybean market but also
+
+1698
+01:11:16,390 --> 01:11:19,150
+also executed the orders for one at the
+
+1699
+01:11:19,150 --> 01:11:20,830
+time one of the biggest soybean
+
+1700
+01:11:20,830 --> 01:11:22,480
+producers in the world there was an
+
+1701
+01:11:22,480 --> 01:11:24,100
+Italian firm that actually tried the
+
+1702
+01:11:24,100 --> 01:11:25,480
+corn of the soybean market got thrown
+
+1703
+01:11:25,480 --> 01:11:27,340
+off the Board of Trade but before that
+
+1704
+01:11:27,340 --> 01:11:29,890
+happened you know there was many days
+
+1705
+01:11:29,890 --> 01:11:32,260
+where you know they he would call you
+
+1706
+01:11:32,260 --> 01:11:34,270
+know be in touch with the the head
+
+1707
+01:11:34,270 --> 01:11:35,980
+traders at the Home Office and their
+
+1708
+01:11:35,980 --> 01:11:37,659
+plotting out their strategy you know
+
+1709
+01:11:37,659 --> 01:11:38,830
+like you know he told me one day you
+
+1710
+01:11:38,830 --> 01:11:40,719
+know it's like like the whole strategy
+
+1711
+01:11:40,719 --> 01:11:42,520
+for that day from the Home Office
+
+1712
+01:11:42,520 --> 01:11:45,760
+traders the whole strategy was to spank
+
+1713
+01:11:45,760 --> 01:11:47,820
+the locals at the Chicago Board of Trade
+
+1714
+01:11:47,820 --> 01:11:50,920
+that wasn't only purpose that day they
+
+1715
+01:11:50,920 --> 01:11:53,050
+were gonna suck the locals into a trade
+
+1716
+01:11:53,050 --> 01:11:56,760
+and they were gonna try to wipe them out
+
+1717
+01:11:59,400 --> 01:12:01,270
+this is that we're gonna spank the
+
+1718
+01:12:01,270 --> 01:12:03,810
+locals today
+
+1719
+01:12:05,520 --> 01:12:09,390
+now your mathematical pattern okay you
+
+1720
+01:12:09,390 --> 01:12:12,360
+happen to get a buy signal ends up to be
+
+1721
+01:12:12,360 --> 01:12:14,040
+a big winning trade you think it's
+
+1722
+01:12:14,040 --> 01:12:15,810
+because because a couple of lines
+
+1723
+01:12:15,810 --> 01:12:18,960
+crossed you know no matter what it is
+
+1724
+01:12:18,960 --> 01:12:21,240
+you know with a stochastic sore Weis
+
+1725
+01:12:21,240 --> 01:12:23,690
+trade or whatever doesn't really matter
+
+1726
+01:12:23,690 --> 01:12:26,430
+it had absolutely nothing to do with the
+
+1727
+01:12:26,430 --> 01:12:28,460
+reality of why the price is moved
+
+1728
+01:12:28,460 --> 01:12:42,450
+nothing this is the primary
+
+1729
+01:12:42,450 --> 01:12:43,830
+characteristic that separates the
+
+1730
+01:12:43,830 --> 01:12:47,280
+professional from everyone else what I
+
+1731
+01:12:47,280 --> 01:12:49,970
+just said right here
+
