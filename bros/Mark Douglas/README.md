@@ -32,3 +32,10 @@ TRADING PSYCHOLOGY - MARK DOUGLAS PART 4
 ==============================================================
 [https://en.wikipedia.org/wiki/Silver_Thursday]
 
+
+
+09:11 Trading Losses are Normal Losses that reflects any #Trading Methodology
+
+There is a PSYCHOLOGY GAP between wining trade & consistently winning trade.
+
+23:29,510 --> Self Sabotaging Beliefs
