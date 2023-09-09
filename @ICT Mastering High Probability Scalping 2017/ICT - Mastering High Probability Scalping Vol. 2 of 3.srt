@@ -1,0 +1,1508 @@
+1
+00:00:07,760 --> 00:00:12,540
+okay folks welcome back this is volume
+
+2
+00:00:12,540 --> 00:00:16,109
+two of three for mastering high
+
+3
+00:00:16,109 --> 00:00:19,140
+probability scalping we're focusing on
+
+4
+00:00:19,140 --> 00:00:27,689
+previous day bank liquidity runs alright
+
+5
+00:00:27,689 --> 00:00:31,590
+so we'll be reviewing the daily bias so
+
+6
+00:00:31,590 --> 00:00:34,440
+we everyone knows exactly what should be
+
+7
+00:00:34,440 --> 00:00:37,230
+done and I'm referring to a daily chart
+
+8
+00:00:37,230 --> 00:00:40,620
+here so when we're implementing the
+
+9
+00:00:40,620 --> 00:00:42,120
+daily bias what we're gonna be doing is
+
+10
+00:00:42,120 --> 00:00:43,320
+on a daily chart we're gonna be waiting
+
+11
+00:00:43,320 --> 00:00:47,399
+for a swing high to form and to be
+
+12
+00:00:47,399 --> 00:00:50,370
+broken this will be bullish okay when we
+
+13
+00:00:50,370 --> 00:00:53,690
+see a swing high broken in other words a
+
+14
+00:00:53,690 --> 00:00:56,160
+candle that has a lower high to the left
+
+15
+00:00:56,160 --> 00:00:57,989
+of it and then lower high to the right
+
+16
+00:00:57,989 --> 00:01:03,780
+of it as seen here okay if at any time
+
+17
+00:01:03,780 --> 00:01:07,409
+in the future its traded through when we
+
+18
+00:01:07,409 --> 00:01:10,770
+have that we have a bullish stage in
+
+19
+00:01:10,770 --> 00:01:12,890
+other words we anticipate a future
+
+20
+00:01:12,890 --> 00:01:15,960
+buying opportunity doesn't mean to buy
+
+21
+00:01:15,960 --> 00:01:18,689
+it right there just means we are now on
+
+22
+00:01:18,689 --> 00:01:24,350
+an alert to wait for a specific criteria
+
+23
+00:01:24,350 --> 00:01:26,729
+criteria is going to be looking for a
+
+24
+00:01:26,729 --> 00:01:31,079
+swing low to form down here okay a swing
+
+25
+00:01:31,079 --> 00:01:33,450
+low again is a candle that has a higher
+
+26
+00:01:33,450 --> 00:01:34,979
+load to the left of it and a higher load
+
+27
+00:01:34,979 --> 00:01:36,840
+to the right of it again on the daily
+
+28
+00:01:36,840 --> 00:01:42,270
+chart key point here is this swing low
+
+29
+00:01:42,270 --> 00:01:45,750
+should not take out a previous recent
+
+30
+00:01:45,750 --> 00:01:48,860
+swing low okay so if we have this
+
+31
+00:01:48,860 --> 00:01:52,860
+criteria immediately after a heist
+
+32
+00:01:52,860 --> 00:01:58,530
+broken we have the probable optimal
+
+33
+00:01:58,530 --> 00:02:01,409
+trade entry scenario by itself on a
+
+34
+00:02:01,409 --> 00:02:04,619
+daily chart okay doesn't mean it has to
+
+35
+00:02:04,619 --> 00:02:06,630
+line up with a 62 - sometimes at Racing
+
+36
+00:02:06,630 --> 00:02:08,610
+level it just means that we are in
+
+37
+00:02:08,610 --> 00:02:13,260
+effect trading with a higher
+
+38
+00:02:13,260 --> 00:02:17,170
+after breaking a short-term high so we
+
+39
+00:02:17,170 --> 00:02:18,519
+have a break-in market structure a
+
+40
+00:02:18,519 --> 00:02:20,739
+retracement so therefore the market
+
+41
+00:02:20,739 --> 00:02:24,430
+should have an ability to find momentum
+
+42
+00:02:24,430 --> 00:02:29,560
+on the upside okay when the swing low
+
+43
+00:02:29,560 --> 00:02:31,239
+forms we're going to be anticipating the
+
+44
+00:02:31,239 --> 00:02:34,629
+third candle that is this one here it's
+
+45
+00:02:34,629 --> 00:02:36,970
+high to be rated or traded through the
+
+46
+00:02:36,970 --> 00:02:39,879
+very next day so in other words the next
+
+47
+00:02:39,879 --> 00:02:42,010
+trading day where it opens preferably
+
+48
+00:02:42,010 --> 00:02:45,730
+you want to see it open below the third
+
+49
+00:02:45,730 --> 00:02:47,859
+candle the swing lows high
+
+50
+00:02:47,859 --> 00:02:51,370
+okay so here's your criterion you want
+
+51
+00:02:51,370 --> 00:02:55,239
+to see the swing low form without
+
+52
+00:02:55,239 --> 00:02:56,879
+breaking a previous swing low
+
+53
+00:02:56,879 --> 00:03:02,290
+immediately after a swing high is formed
+
+54
+00:03:02,290 --> 00:03:05,260
+but breaking a previous swing high ok so
+
+55
+00:03:05,260 --> 00:03:07,629
+again the stage for a bullish scenario
+
+56
+00:03:07,629 --> 00:03:10,950
+is anytime I swing high is broken and
+
+57
+00:03:10,950 --> 00:03:14,859
+traded to a new high expect a
+
+58
+00:03:14,859 --> 00:03:17,769
+retracement wait for a daily swing low
+
+59
+00:03:17,769 --> 00:03:20,199
+to form swing low should be a higher
+
+60
+00:03:20,199 --> 00:03:22,930
+swing load in any recent previous
+
+61
+00:03:22,930 --> 00:03:28,239
+short-term swing low the third candle
+
+62
+00:03:28,239 --> 00:03:30,760
+that makes the swing low that high you
+
+63
+00:03:30,760 --> 00:03:34,629
+want to see the next candle open below
+
+64
+00:03:34,629 --> 00:03:37,720
+that candle is high and then anticipate
+
+65
+00:03:37,720 --> 00:03:40,690
+the market to run through this candle is
+
+66
+00:03:40,690 --> 00:03:46,090
+high we're looking for previous day's
+
+67
+00:03:46,090 --> 00:03:48,579
+highs to be rated each day until a swing
+
+68
+00:03:48,579 --> 00:03:51,729
+high when a daily forms or price reaches
+
+69
+00:03:51,729 --> 00:03:54,129
+a key support or resistance level and
+
+70
+00:03:54,129 --> 00:03:55,449
+I'll give you an example what that would
+
+71
+00:03:55,449 --> 00:03:58,569
+be well the immediate candle after this
+
+72
+00:03:58,569 --> 00:04:01,209
+particular day's formation may be
+
+73
+00:04:01,209 --> 00:04:03,459
+looking for a bullish scenario okay
+
+74
+00:04:03,459 --> 00:04:05,229
+either in London or the New York
+
+75
+00:04:05,229 --> 00:04:09,250
+scenario to a raid on the previous day's
+
+76
+00:04:09,250 --> 00:04:12,519
+high the very next trading day we would
+
+77
+00:04:12,519 --> 00:04:14,859
+look for the same scenario again looking
+
+78
+00:04:14,859 --> 00:04:16,269
+for reasons to be bullish on a
+
+79
+00:04:16,269 --> 00:04:19,358
+retracement lower going higher reaching
+
+80
+00:04:19,358 --> 00:04:22,930
+for ultimately to this old high this
+
+81
+00:04:22,930 --> 00:04:25,600
+would be an area of resistance okay
+
+82
+00:04:25,600 --> 00:04:28,630
+or if it trades to that high and through
+
+83
+00:04:28,630 --> 00:04:30,880
+it we'd still maintain looking for
+
+84
+00:04:30,880 --> 00:04:33,610
+bullish scenarios buying looking for
+
+85
+00:04:33,610 --> 00:04:36,430
+previous day's highs to be taken out or
+
+86
+00:04:36,430 --> 00:04:38,670
+if we have price rally up to a degree
+
+87
+00:04:38,670 --> 00:04:41,650
+either at this level or before it in
+
+88
+00:04:41,650 --> 00:04:45,160
+creating a swing high once that forms we
+
+89
+00:04:45,160 --> 00:04:47,440
+have to wait for that swing high to be
+
+90
+00:04:47,440 --> 00:04:50,050
+broke on the upside okay there's going
+
+91
+00:04:50,050 --> 00:04:51,550
+to be a lot of missed opportunities
+
+92
+00:04:51,550 --> 00:04:54,160
+admittedly with this but it gives you a
+
+93
+00:04:54,160 --> 00:05:02,530
+specific criteria on the work within ok
+
+94
+00:05:02,530 --> 00:05:04,420
+employing the daily bias this is when
+
+95
+00:05:04,420 --> 00:05:08,590
+it's bearish and we waiting again on the
+
+96
+00:05:08,590 --> 00:05:12,100
+daily chart for a swing low on a daily
+
+97
+00:05:12,100 --> 00:05:14,790
+to be broken so we have a swing low here
+
+98
+00:05:14,790 --> 00:05:17,490
+again a daily candle that has a higher
+
+99
+00:05:17,490 --> 00:05:20,410
+low to the left of it and a higher low
+
+100
+00:05:20,410 --> 00:05:23,050
+to the right of it eventually as price
+
+101
+00:05:23,050 --> 00:05:27,370
+trades through this this break in market
+
+102
+00:05:27,370 --> 00:05:29,470
+structure it sets the stage for a
+
+103
+00:05:29,470 --> 00:05:33,370
+bearish market condition okay so we're
+
+104
+00:05:33,370 --> 00:05:35,770
+kind of like alerted to waiting for a
+
+105
+00:05:35,770 --> 00:05:38,160
+sell scenario we wait for a retracement
+
+106
+00:05:38,160 --> 00:05:41,280
+when we get the daily swing high formed
+
+107
+00:05:41,280 --> 00:05:43,570
+the third can look at it makes a swing
+
+108
+00:05:43,570 --> 00:05:47,020
+high we're going to anticipating that
+
+109
+00:05:47,020 --> 00:05:49,720
+low to be violated the very next trading
+
+110
+00:05:49,720 --> 00:05:52,000
+day key point is we don't want to see
+
+111
+00:05:52,000 --> 00:05:53,890
+this swing high break a previous swing
+
+112
+00:05:53,890 --> 00:05:57,780
+high immediately before the swing low
+
+113
+00:05:57,780 --> 00:06:00,160
+that has broken a previous swing low
+
+114
+00:06:00,160 --> 00:06:01,810
+okay so what we're doing is we're
+
+115
+00:06:01,810 --> 00:06:06,160
+looking for a swing low broken here so
+
+116
+00:06:06,160 --> 00:06:07,330
+now we have the ability to see the
+
+117
+00:06:07,330 --> 00:06:10,320
+market trade to a new a new low then it
+
+118
+00:06:10,320 --> 00:06:13,450
+retraces but will not break a swing high
+
+119
+00:06:13,450 --> 00:06:16,990
+so now we're getting net three quarter
+
+120
+00:06:16,990 --> 00:06:22,810
+back retracement okay so by itself it's
+
+121
+00:06:22,810 --> 00:06:25,060
+like an optimal trade entry doesn't have
+
+122
+00:06:25,060 --> 00:06:27,370
+to be 260 to 270 I'm searching some
+
+123
+00:06:27,370 --> 00:06:29,680
+level it's better if it does but it
+
+124
+00:06:29,680 --> 00:06:32,530
+doesn't require it you want to see the
+
+125
+00:06:32,530 --> 00:06:34,510
+market trade up until it creates a daily
+
+126
+00:06:34,510 --> 00:06:37,950
+swing high when that third candle forms
+
+127
+00:06:37,950 --> 00:06:40,170
+at its close very next trading day
+
+128
+00:06:40,170 --> 00:06:43,290
+you'll be watching for price to make an
+
+129
+00:06:43,290 --> 00:06:45,420
+attempt to trade through this candles
+
+130
+00:06:45,420 --> 00:06:47,730
+low and that remains the bias each
+
+131
+00:06:47,730 --> 00:06:50,460
+trading day until I swing low forms or
+
+132
+00:06:50,460 --> 00:06:53,820
+we trade down to this old low okay or
+
+133
+00:06:53,820 --> 00:06:57,900
+another signifigant low so again
+
+134
+00:06:57,900 --> 00:07:00,270
+summary its we're looking for a swing
+
+135
+00:07:00,270 --> 00:07:02,340
+low to form on the daily chart and then
+
+136
+00:07:02,340 --> 00:07:06,690
+it be broken then we're looking for a
+
+137
+00:07:06,690 --> 00:07:08,730
+swing high to form but does not break a
+
+138
+00:07:08,730 --> 00:07:11,310
+recent swing high so here's a swing high
+
+139
+00:07:11,310 --> 00:07:13,380
+that doesn't come back the clear or
+
+140
+00:07:13,380 --> 00:07:17,100
+break a previous swing high when to
+
+141
+00:07:17,100 --> 00:07:19,820
+swing high forms we anticipate the third
+
+142
+00:07:19,820 --> 00:07:22,560
+daily candle in the swing high right
+
+143
+00:07:22,560 --> 00:07:25,500
+here we look for its load to be rated or
+
+144
+00:07:25,500 --> 00:07:29,520
+traded through the following day and we
+
+145
+00:07:29,520 --> 00:07:30,930
+look for the previous day's low to be
+
+146
+00:07:30,930 --> 00:07:33,720
+rated each day until a new swing low on
+
+147
+00:07:33,720 --> 00:07:36,690
+a daily forms or price reaches a key
+
+148
+00:07:36,690 --> 00:07:41,640
+support resistance level now you're not
+
+149
+00:07:41,640 --> 00:07:43,350
+going to have a set up every single
+
+150
+00:07:43,350 --> 00:07:45,990
+trading day okay I've gotten a lot of
+
+151
+00:07:45,990 --> 00:07:49,410
+emails so far since I've produced a
+
+152
+00:07:49,410 --> 00:07:51,450
+first volume of this three-part series
+
+153
+00:07:51,450 --> 00:07:55,650
+and the common complaint I'm getting is
+
+154
+00:07:55,650 --> 00:07:58,110
+I'm not getting a setup every day and
+
+155
+00:07:58,110 --> 00:08:02,070
+it's not been promised okay if you look
+
+156
+00:08:02,070 --> 00:08:05,130
+at every major that's paired against the
+
+157
+00:08:05,130 --> 00:08:08,790
+dollar you can get about three to four
+
+158
+00:08:08,790 --> 00:08:13,080
+solid setups per week now that means
+
+159
+00:08:13,080 --> 00:08:14,640
+that you're probably not going to get us
+
+160
+00:08:14,640 --> 00:08:17,460
+up every single trading day chances are
+
+161
+00:08:17,460 --> 00:08:20,400
+one pair among all the ones that are
+
+162
+00:08:20,400 --> 00:08:23,400
+available will provide you a set up to
+
+163
+00:08:23,400 --> 00:08:25,350
+study so you can practice in your demo
+
+164
+00:08:25,350 --> 00:08:29,220
+account with it the emphasis is for you
+
+165
+00:08:29,220 --> 00:08:32,190
+to remember that you'd only need about
+
+166
+00:08:32,190 --> 00:08:35,010
+25 pips or so per week and if you risk
+
+167
+00:08:35,010 --> 00:08:38,220
+2% of your account and it may be high
+
+168
+00:08:38,220 --> 00:08:41,400
+admittedly for some of you but if you
+
+169
+00:08:41,400 --> 00:08:42,900
+have grown in your understanding about
+
+170
+00:08:42,900 --> 00:08:44,970
+what I'm teaching and you're willing to
+
+171
+00:08:44,970 --> 00:08:48,540
+risk 2% it takes a little bit less than
+
+172
+00:08:48,540 --> 00:08:51,590
+25 pips per week to double your
+
+173
+00:08:51,590 --> 00:08:55,190
+or make 6% compounded monthly and I
+
+174
+00:08:55,190 --> 00:08:57,740
+think that's the objective that folks
+
+175
+00:08:57,740 --> 00:08:59,500
+should be looking for when you're new
+
+176
+00:08:59,500 --> 00:09:03,020
+because it's realistic it's low but yet
+
+177
+00:09:03,020 --> 00:09:05,300
+it still doubles the account over the
+
+178
+00:09:05,300 --> 00:09:10,610
+course of a twelvemonth year so if we're
+
+179
+00:09:10,610 --> 00:09:13,160
+looking for one good set up that would
+
+180
+00:09:13,160 --> 00:09:16,610
+yield that 25 pips or so you only need
+
+181
+00:09:16,610 --> 00:09:20,360
+one scalp one set up that does that now
+
+182
+00:09:20,360 --> 00:09:25,370
+I started the current teaching week on
+
+183
+00:09:25,370 --> 00:09:28,700
+Twitter kind of building the idea of
+
+184
+00:09:28,700 --> 00:09:31,700
+making 50 pips per week if you frame
+
+185
+00:09:31,700 --> 00:09:34,640
+your scalps in such a way that it allows
+
+186
+00:09:34,640 --> 00:09:37,970
+you to aim for 25 pips you only really
+
+187
+00:09:37,970 --> 00:09:41,210
+need to set up for a week don't you now
+
+188
+00:09:41,210 --> 00:09:43,970
+I like that model personally because
+
+189
+00:09:43,970 --> 00:09:46,180
+it's very close to what I do as a
+
+190
+00:09:46,180 --> 00:09:50,060
+short-term or intraday trader I know the
+
+191
+00:09:50,060 --> 00:09:52,040
+likelihood is I want to be trading on
+
+192
+00:09:52,040 --> 00:09:54,589
+Tuesdays and Wednesdays if I can get my
+
+193
+00:09:54,589 --> 00:09:56,570
+entire weekly objective which is 50 to
+
+194
+00:09:56,570 --> 00:09:59,720
+75 pips per week if I can get that done
+
+195
+00:09:59,720 --> 00:10:01,280
+in one day then I won't do any more
+
+196
+00:10:01,280 --> 00:10:02,870
+trading after that regardless of what
+
+197
+00:10:02,870 --> 00:10:05,450
+day of the week it is but usually I hone
+
+198
+00:10:05,450 --> 00:10:06,830
+in on Tuesday and Wednesday because
+
+199
+00:10:06,830 --> 00:10:08,810
+they're primarily the best days whether
+
+200
+00:10:08,810 --> 00:10:11,540
+bullish or bearish if it's bullish for
+
+201
+00:10:11,540 --> 00:10:14,210
+the week then I'm looking for the weekly
+
+202
+00:10:14,210 --> 00:10:15,710
+low to form around Tuesday or Wednesday
+
+203
+00:10:15,710 --> 00:10:20,630
+is New York open if I can anticipate a
+
+204
+00:10:20,630 --> 00:10:25,400
+lower close or weekly bearish candle I'm
+
+205
+00:10:25,400 --> 00:10:26,960
+shooting with an expectation that we're
+
+206
+00:10:26,960 --> 00:10:28,400
+gonna be seeing lower prices by Friday's
+
+207
+00:10:28,400 --> 00:10:31,339
+close relative to Sunday's opening then
+
+208
+00:10:31,339 --> 00:10:32,510
+I'll be looking for Tuesday or Wednesday
+
+209
+00:10:32,510 --> 00:10:35,150
+--zz price action to create the high of
+
+210
+00:10:35,150 --> 00:10:37,820
+the week so if I can train and sync with
+
+211
+00:10:37,820 --> 00:10:39,400
+that idea
+
+212
+00:10:39,400 --> 00:10:44,810
+it also formulates a lot more conviction
+
+213
+00:10:44,810 --> 00:10:47,390
+and confidence behind the setups that
+
+214
+00:10:47,390 --> 00:10:48,650
+I'm looking to trade especially with
+
+215
+00:10:48,650 --> 00:10:50,600
+what's being described here it's a
+
+216
+00:10:50,600 --> 00:10:53,390
+rather simplistic approach it may have
+
+217
+00:10:53,390 --> 00:10:56,089
+been an oversimplification on my part by
+
+218
+00:10:56,089 --> 00:10:58,760
+way of creating this diagram but from an
+
+219
+00:10:58,760 --> 00:11:00,890
+internal standpoint how I view the
+
+220
+00:11:00,890 --> 00:11:02,630
+market place this is what I'm looking
+
+221
+00:11:02,630 --> 00:11:04,060
+for
+
+222
+00:11:04,060 --> 00:11:07,540
+so if I see them daily chart chances are
+
+223
+00:11:07,540 --> 00:11:10,450
+the daily chart will probably sustain
+
+224
+00:11:10,450 --> 00:11:13,690
+the move for a few days and you'll only
+
+225
+00:11:13,690 --> 00:11:15,940
+need one trading day okay so if you
+
+226
+00:11:15,940 --> 00:11:17,650
+having a scenario that's bullish or
+
+227
+00:11:17,650 --> 00:11:18,760
+bearish relative to what I just
+
+228
+00:11:18,760 --> 00:11:22,200
+described here so far in this video
+
+229
+00:11:22,200 --> 00:11:24,250
+chances are you you're probably gonna
+
+230
+00:11:24,250 --> 00:11:27,430
+have one day's worth of momentum and
+
+231
+00:11:27,430 --> 00:11:29,860
+that's all you need so every single pair
+
+232
+00:11:29,860 --> 00:11:32,500
+does not move lockstep to one another
+
+233
+00:11:32,500 --> 00:11:36,280
+they're not always moving in tandem so
+
+234
+00:11:36,280 --> 00:11:38,050
+what may be a good parent trade today
+
+235
+00:11:38,050 --> 00:11:41,380
+may not be a pair that's really good to
+
+236
+00:11:41,380 --> 00:11:44,410
+trade tomorrow but another pair may move
+
+237
+00:11:44,410 --> 00:11:47,590
+in equal or better fashion in other
+
+238
+00:11:47,590 --> 00:11:51,460
+words the setups are plenty but you have
+
+239
+00:11:51,460 --> 00:11:54,790
+to allow them to be presented in price
+
+240
+00:11:54,790 --> 00:11:57,790
+action from the daily chart and then not
+
+241
+00:11:57,790 --> 00:12:00,700
+forcing it let's take a look over at the
+
+242
+00:12:00,700 --> 00:12:03,160
+charts I'll give you an example of what
+
+243
+00:12:03,160 --> 00:12:04,600
+it looks like and we can use the kill
+
+244
+00:12:04,600 --> 00:12:10,930
+zones okay we're looking at the table
+
+245
+00:12:10,930 --> 00:12:14,260
+this is a daily chart this stroll
+
+246
+00:12:14,260 --> 00:12:17,140
+through just family random place it
+
+247
+00:12:17,140 --> 00:12:18,430
+doesn't make a difference where we start
+
+248
+00:12:18,430 --> 00:12:23,460
+out but I want you to take a look at the
+
+249
+00:12:23,670 --> 00:12:26,800
+price action here and we're going to
+
+250
+00:12:26,800 --> 00:12:34,920
+look at this swing low right here and
+
+251
+00:12:34,920 --> 00:12:39,540
+it's on the heels of a previous
+
+252
+00:12:39,540 --> 00:12:46,960
+short-term high okay so we have a
+
+253
+00:12:46,960 --> 00:12:49,780
+short-term high here lower high to the
+
+254
+00:12:49,780 --> 00:12:52,060
+left lower high to the right highest
+
+255
+00:12:52,060 --> 00:12:55,240
+high in the middle it breaks that okay
+
+256
+00:12:55,240 --> 00:13:01,440
+so now we're on a buy watch for scalping
+
+257
+00:13:01,440 --> 00:13:05,190
+this is a swing high that's broken and
+
+258
+00:13:05,190 --> 00:13:07,870
+we have to wait for a swing low to form
+
+259
+00:13:07,870 --> 00:13:10,900
+after this is broken so we're gonna be
+
+260
+00:13:10,900 --> 00:13:13,390
+anticipating a retracement after this
+
+261
+00:13:13,390 --> 00:13:16,860
+run-up says price starts to drop down
+
+262
+00:13:16,860 --> 00:13:21,830
+we have a preliminary swing low here
+
+263
+00:13:21,830 --> 00:13:25,170
+okay so this candle is the third one we
+
+264
+00:13:25,170 --> 00:13:27,510
+need to make sure we wait for price to
+
+265
+00:13:27,510 --> 00:13:29,340
+trade through this candle is high the
+
+266
+00:13:29,340 --> 00:13:32,190
+very next day it doesn't do that okay
+
+267
+00:13:32,190 --> 00:13:34,920
+now we have another candle form a
+
+268
+00:13:34,920 --> 00:13:39,510
+potential swing low here so this candle
+
+269
+00:13:39,510 --> 00:13:40,920
+here we have to wait for this candle is
+
+270
+00:13:40,920 --> 00:13:42,750
+high to be traded through very next
+
+271
+00:13:42,750 --> 00:13:44,420
+candle it doesn't do it it does it here
+
+272
+00:13:44,420 --> 00:13:48,480
+so now we can be a buyer here with a
+
+273
+00:13:48,480 --> 00:13:50,040
+Scout running previous day's high which
+
+274
+00:13:50,040 --> 00:13:55,950
+is this one okay so one July 24th 2017
+
+275
+00:13:55,950 --> 00:13:59,760
+that high again coming in at 130 57
+
+276
+00:13:59,760 --> 00:14:02,100
+that's where the liquidity run is going
+
+277
+00:14:02,100 --> 00:14:05,580
+to be right there this candle on the
+
+278
+00:14:05,580 --> 00:14:08,130
+25th of July is where we'll be looking
+
+279
+00:14:08,130 --> 00:14:15,660
+for the set up right there okay and
+
+280
+00:14:15,660 --> 00:14:18,660
+we're going to drop down into a smaller
+
+281
+00:14:18,660 --> 00:14:22,400
+time frame we use a 15-minute time frame
+
+282
+00:14:25,370 --> 00:14:29,580
+okay and I'll scrunch this up the day
+
+283
+00:14:29,580 --> 00:14:32,970
+dividers in you guys can see it so
+
+284
+00:14:32,970 --> 00:14:37,700
+previous day's high is right here so
+
+285
+00:14:37,700 --> 00:14:41,340
+I'll put a horizontal line on the chart
+
+286
+00:14:41,340 --> 00:14:48,270
+to facilitate that okay so here's where
+
+287
+00:14:48,270 --> 00:14:54,110
+the liquidity is we're running for 30 57
+
+288
+00:14:54,110 --> 00:14:59,190
+okay this day here we're looking for a
+
+289
+00:14:59,190 --> 00:15:03,120
+scenario to get long to run that liquidy
+
+290
+00:15:03,120 --> 00:15:13,080
+pool okay and we have this again it's
+
+291
+00:15:13,080 --> 00:15:14,670
+the liquidly poor wrist we're reaching
+
+292
+00:15:14,670 --> 00:15:17,460
+for previous day's high on this trading
+
+293
+00:15:17,460 --> 00:15:23,610
+day when I use the market
+
+294
+00:15:23,610 --> 00:15:26,700
+sessions I'm looking for London setups
+
+295
+00:15:26,700 --> 00:15:30,090
+and newer setups primarily this is a
+
+296
+00:15:30,090 --> 00:15:33,180
+London session low and I'll let you see
+
+297
+00:15:33,180 --> 00:15:37,380
+that here that's in London and we're
+
+298
+00:15:37,380 --> 00:15:41,610
+gonna use that as I mentioned in the
+
+299
+00:15:41,610 --> 00:15:45,030
+volume one I use session highs and lows
+
+300
+00:15:45,030 --> 00:15:52,140
+and this is the highest portion of the
+
+301
+00:15:52,140 --> 00:15:55,740
+day in terms of a 15 minute candle you
+
+302
+00:15:55,740 --> 00:15:57,690
+just put it right here you guys can see
+
+303
+00:15:57,690 --> 00:15:59,760
+it so I'm using this one and this one
+
+304
+00:15:59,760 --> 00:16:03,030
+framing the entire price moon so as
+
+305
+00:16:03,030 --> 00:16:05,250
+price starts this day here I'm not
+
+306
+00:16:05,250 --> 00:16:07,050
+concerned about anything until it gets
+
+307
+00:16:07,050 --> 00:16:11,610
+down into the optimal trade entry 62%
+
+308
+00:16:11,610 --> 00:16:16,080
+tracing level respectively 70.5 and 79%
+
+309
+00:16:16,080 --> 00:16:18,210
+okay you can see it price trades it hits
+
+310
+00:16:18,210 --> 00:16:21,180
+it here this candle comes in exactly
+
+311
+00:16:21,180 --> 00:16:26,280
+9:45 that's London and we're going into
+
+312
+00:16:26,280 --> 00:16:31,410
+a nice run into previous day's high okay
+
+313
+00:16:31,410 --> 00:16:33,150
+so you can see that was a nice little
+
+314
+00:16:33,150 --> 00:16:37,230
+scalp it offered as much as 10 20 30 40
+
+315
+00:16:37,230 --> 00:16:40,980
+pips to get to the high and if we look
+
+316
+00:16:40,980 --> 00:16:44,190
+for 10 to 20 pips of a sweep above this
+
+317
+00:16:44,190 --> 00:16:48,900
+high it takes us 10 20 here so 20 pips
+
+318
+00:16:48,900 --> 00:16:54,630
+40 pips 60 pips 70 pips or so in terms
+
+319
+00:16:54,630 --> 00:16:57,450
+of potential price range that in itself
+
+320
+00:16:57,450 --> 00:17:00,000
+is it for the week for me that would be
+
+321
+00:17:00,000 --> 00:17:01,890
+it why wouldn't you do anything else and
+
+322
+00:17:01,890 --> 00:17:05,130
+it's hard to believe but that's how I
+
+323
+00:17:05,130 --> 00:17:05,579
+operate
+
+324
+00:17:05,579 --> 00:17:06,869
+I don't look for a whole lot of setups
+
+325
+00:17:06,869 --> 00:17:09,089
+per week cuz I'm content with you know
+
+326
+00:17:09,089 --> 00:17:11,819
+doing one thing well and there it is now
+
+327
+00:17:11,819 --> 00:17:14,550
+if this were a more conservative
+
+328
+00:17:14,550 --> 00:17:17,280
+approach you could be looking for the
+
+329
+00:17:17,280 --> 00:17:19,050
+long down here based on the alcohol
+
+330
+00:17:19,050 --> 00:17:23,160
+trade entry and reaching just to the old
+
+331
+00:17:23,160 --> 00:17:26,869
+high now if that's the case say you're
+
+332
+00:17:26,869 --> 00:17:29,850
+filled at well just rounded to one
+
+333
+00:17:29,850 --> 00:17:33,660
+thirty twenty that again is getting out
+
+334
+00:17:33,660 --> 00:17:35,350
+at 57
+
+335
+00:17:35,350 --> 00:17:39,260
+it's 37 pips or so okay almost 40 pips
+
+336
+00:17:39,260 --> 00:17:42,440
+with us say 40 pips you only need to do
+
+337
+00:17:42,440 --> 00:17:44,870
+one more trade for the week for 10 pips
+
+338
+00:17:44,870 --> 00:17:49,330
+to get a 50 pip net return for the week
+
+339
+00:17:49,330 --> 00:17:52,220
+now there's a lot of folks that will say
+
+340
+00:17:52,220 --> 00:17:57,320
+don't set targets don't set goals for
+
+341
+00:17:57,320 --> 00:18:00,260
+daily or weekly because you don't know
+
+342
+00:18:00,260 --> 00:18:02,060
+what the markets going to do well I
+
+343
+00:18:02,060 --> 00:18:04,510
+would submit that that's partially true
+
+344
+00:18:04,510 --> 00:18:07,970
+we don't know with any assurity what the
+
+345
+00:18:07,970 --> 00:18:10,240
+markets going to do but we do have
+
+346
+00:18:10,240 --> 00:18:12,530
+pretty strong probabilities of wherever
+
+347
+00:18:12,530 --> 00:18:15,350
+the market may reach for and if we can
+
+348
+00:18:15,350 --> 00:18:17,780
+frame the idea of where we're trying to
+
+349
+00:18:17,780 --> 00:18:19,340
+get in at based on time and price
+
+350
+00:18:19,340 --> 00:18:22,040
+killzone and such a optimal trade entry
+
+351
+00:18:22,040 --> 00:18:24,800
+price and where we're reaching for it
+
+352
+00:18:24,800 --> 00:18:27,380
+doesn't that not offer us a definitive
+
+353
+00:18:27,380 --> 00:18:29,570
+way of determining what could be
+
+354
+00:18:29,570 --> 00:18:31,340
+reasonably expected for that particular
+
+355
+00:18:31,340 --> 00:18:33,830
+setup and if we know that we're looking
+
+356
+00:18:33,830 --> 00:18:36,200
+at intraday setup like this there's
+
+357
+00:18:36,200 --> 00:18:38,990
+typically five days per week unless it's
+
+358
+00:18:38,990 --> 00:18:40,340
+a holiday or the markets are not trading
+
+359
+00:18:40,340 --> 00:18:42,830
+because of some other bank holiday or
+
+360
+00:18:42,830 --> 00:18:45,710
+whatever we don't want to trade it we
+
+361
+00:18:45,710 --> 00:18:50,570
+can see many instances where 25 to 50
+
+362
+00:18:50,570 --> 00:18:56,090
+pips is rather easy to get now it's when
+
+363
+00:18:56,090 --> 00:18:58,430
+we get into the I want to make 250 to
+
+364
+00:18:58,430 --> 00:19:01,040
+500 pips per week then it becomes a
+
+365
+00:19:01,040 --> 00:19:03,920
+little daunting in terms of a task so I
+
+366
+00:19:03,920 --> 00:19:07,640
+think by focusing on 20-25 pips per
+
+367
+00:19:07,640 --> 00:19:10,130
+setup in an aiming for two good ones per
+
+368
+00:19:10,130 --> 00:19:14,510
+week I think 50 pips is a really low
+
+369
+00:19:14,510 --> 00:19:17,450
+hanging fruit reachable achievable and
+
+370
+00:19:17,450 --> 00:19:20,450
+certainly realistic in the scope of a
+
+371
+00:19:20,450 --> 00:19:22,970
+developing trader will you get it every
+
+372
+00:19:22,970 --> 00:19:25,370
+week no will you get it right out the
+
+373
+00:19:25,370 --> 00:19:28,940
+gate starting using my concepts no but
+
+374
+00:19:28,940 --> 00:19:30,860
+over time you will eventually grow into
+
+375
+00:19:30,860 --> 00:19:34,940
+that in an expectancy for a nice return
+
+376
+00:19:34,940 --> 00:19:37,070
+of 50 pips per week you can frame your
+
+377
+00:19:37,070 --> 00:19:40,090
+entire career on that
+

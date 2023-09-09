@@ -1,0 +1,2756 @@
+1
+00:00:21,480 --> 00:00:23,800
+welcome back folks going to do a quick
+
+2
+00:00:23,800 --> 00:00:27,119
+little review here and I'll squeeze in
+
+3
+00:00:27,119 --> 00:00:30,640
+another approach to using some PD arrays
+
+4
+00:00:30,640 --> 00:00:32,399
+I've already taught and how we can kind
+
+5
+00:00:32,399 --> 00:00:35,040
+of like build a model around it that'll
+
+6
+00:00:35,040 --> 00:00:36,440
+come at the end of the video here for
+
+7
+00:00:36,440 --> 00:00:38,040
+now let's take a quick look at the
+
+8
+00:00:38,040 --> 00:00:42,120
+higher time frame on the US dollar
+
+9
+00:00:42,120 --> 00:00:44,920
+Index last time we talked I mentioned
+
+10
+00:00:44,920 --> 00:00:48,280
+that we would be looking
+
+11
+00:00:49,280 --> 00:00:52,359
+for potential run up into
+
+12
+00:00:52,359 --> 00:00:56,719
+here this was the bide liquidity pool I
+
+13
+00:00:56,719 --> 00:00:59,000
+mentioned we were driving up into that
+
+14
+00:00:59,000 --> 00:01:01,359
+we've seen that and then the later time
+
+15
+00:01:01,359 --> 00:01:04,000
+we might see this actually happen it did
+
+16
+00:01:04,000 --> 00:01:05,319
+we stayed bullish we haven't been
+
+17
+00:01:05,319 --> 00:01:07,439
+looking for lower prices on dollar uh
+
+18
+00:01:07,439 --> 00:01:09,960
+there's a small little volume imbalance
+
+19
+00:01:09,960 --> 00:01:12,479
+right in there watch that going into
+
+20
+00:01:12,479 --> 00:01:15,479
+next week and then obviously the buy
+
+21
+00:01:15,479 --> 00:01:19,240
+side resides here so a really strong run
+
+22
+00:01:19,240 --> 00:01:21,360
+below these relative equal
+
+23
+00:01:21,360 --> 00:01:24,400
+lows sell side liquidity taken fair
+
+24
+00:01:24,400 --> 00:01:27,759
+value Gap traded up and continuously
+
+25
+00:01:27,759 --> 00:01:30,280
+moved into the B that we had here here
+
+26
+00:01:30,280 --> 00:01:34,920
+and here longer term we have this so
+
+27
+00:01:34,920 --> 00:01:36,880
+dollar showing its underlying strength
+
+28
+00:01:36,880 --> 00:01:40,720
+and it's still going to put interterm
+
+29
+00:01:40,720 --> 00:01:43,920
+long-term pressure on euro dollar
+
+30
+00:01:43,920 --> 00:01:44,880
+wanting
+
+31
+00:01:44,880 --> 00:01:48,240
+to go lower and pound dollar wanting to
+
+32
+00:01:48,240 --> 00:01:49,960
+go
+
+33
+00:01:49,960 --> 00:01:52,520
+lower speaking of Euro here is the daily
+
+34
+00:01:52,520 --> 00:01:54,880
+chart for euro dollar and I mentioned
+
+35
+00:01:54,880 --> 00:01:56,600
+the inversion fair value
+
+36
+00:01:56,600 --> 00:01:59,200
+Gap we trade up into that look at the
+
+37
+00:01:59,200 --> 00:02:01,240
+bodies again again respecting consequent
+
+38
+00:02:01,240 --> 00:02:03,119
+inion which is the midpoint of any
+
+39
+00:02:03,119 --> 00:02:06,039
+Gap Market broke lower taking the cell
+
+40
+00:02:06,039 --> 00:02:09,639
+side out here then we moved aggressively
+
+41
+00:02:09,639 --> 00:02:12,280
+in this direction towards the cell side
+
+42
+00:02:12,280 --> 00:02:15,200
+throughout the entirety of this week it
+
+43
+00:02:15,200 --> 00:02:16,640
+would have been nice to see this trade
+
+44
+00:02:16,640 --> 00:02:19,400
+up into this small little Gap here I was
+
+45
+00:02:19,400 --> 00:02:21,319
+kind of looking for that
+
+46
+00:02:21,319 --> 00:02:25,120
+today but the failure to get up there is
+
+47
+00:02:25,120 --> 00:02:27,640
+you know it's indicative of heaviness
+
+48
+00:02:27,640 --> 00:02:29,239
+heaviness meaning that the Market's
+
+49
+00:02:29,239 --> 00:02:30,319
+likely to
+
+50
+00:02:30,319 --> 00:02:33,720
+lower and again attack that cell sign so
+
+51
+00:02:33,720 --> 00:02:36,319
+with higher dollar prices we're going to
+
+52
+00:02:36,319 --> 00:02:39,120
+stick with the idea of looking for lower
+
+53
+00:02:39,120 --> 00:02:41,720
+prices for fiber and fiber is just the
+
+54
+00:02:41,720 --> 00:02:44,879
+nickname for euro
+
+55
+00:02:45,599 --> 00:02:49,360
+dollar okay cable or pound dollar see we
+
+56
+00:02:49,360 --> 00:02:50,239
+have
+
+57
+00:02:50,239 --> 00:02:53,120
+a inversion fair value Gap here the
+
+58
+00:02:53,120 --> 00:02:54,640
+Market's been breaking
+
+59
+00:02:54,640 --> 00:02:57,840
+lower next draw liquidity Still Remains
+
+60
+00:02:57,840 --> 00:03:01,560
+at the sell side liquidity here
+
+61
+00:03:01,560 --> 00:03:03,680
+this one we traded up into this small
+
+62
+00:03:03,680 --> 00:03:05,080
+little fair value Gap there you can look
+
+63
+00:03:05,080 --> 00:03:07,239
+at your lower time frames we trade up
+
+64
+00:03:07,239 --> 00:03:08,959
+into that this is institutional Oro
+
+65
+00:03:08,959 --> 00:03:11,680
+entry drill where it goes into a
+
+66
+00:03:11,680 --> 00:03:14,680
+partial but less than half of a fair
+
+67
+00:03:14,680 --> 00:03:18,280
+value Gap there and then sells off so
+
+68
+00:03:18,280 --> 00:03:21,360
+we'll be looking for near term we
+
+69
+00:03:21,360 --> 00:03:25,040
+have sell side resting below here and we
+
+70
+00:03:25,040 --> 00:03:28,480
+have the cell side below here so we're
+
+71
+00:03:28,480 --> 00:03:31,599
+maintaining a bearish stands still for
+
+72
+00:03:31,599 --> 00:03:34,760
+British pound so if you guys appreciate
+
+73
+00:03:34,760 --> 00:03:38,599
+or like these longer term you know bias
+
+74
+00:03:38,599 --> 00:03:40,959
+based ideas for Forex I'm not going to
+
+75
+00:03:40,959 --> 00:03:43,519
+be drawing your attention to the smaller
+
+76
+00:03:43,519 --> 00:03:45,400
+time frames because I don't think that
+
+77
+00:03:45,400 --> 00:03:47,640
+it is something that we should be doing
+
+78
+00:03:47,640 --> 00:03:49,680
+right now it's something for you to do
+
+79
+00:03:49,680 --> 00:03:51,879
+or your own analysis but from the higher
+
+80
+00:03:51,879 --> 00:03:53,000
+time frame I'm just lending my
+
+81
+00:03:53,000 --> 00:03:54,560
+experience to give you the bias and you
+
+82
+00:03:54,560 --> 00:03:56,159
+can see pretty much it's been delivering
+
+83
+00:03:56,159 --> 00:03:58,720
+like Gang Busters so uh if you like that
+
+84
+00:03:58,720 --> 00:04:00,599
+kind of stuff you want me continue just
+
+85
+00:04:00,599 --> 00:04:04,239
+give this video a thumbs
+
+86
+00:04:04,239 --> 00:04:08,000
+up em Min S&P futures contract September
+
+87
+00:04:08,000 --> 00:04:09,879
+delivery daily
+
+88
+00:04:09,879 --> 00:04:14,200
+chart and we just fell short yesterday
+
+89
+00:04:14,200 --> 00:04:16,759
+going into this discount fair value Gap
+
+90
+00:04:16,759 --> 00:04:20,560
+to just got really really close but not
+
+91
+00:04:20,560 --> 00:04:22,600
+quite getting into it we have this buy
+
+92
+00:04:22,600 --> 00:04:23,840
+side and balance sell sign efficiency
+
+93
+00:04:23,840 --> 00:04:25,040
+between this candle's low and this
+
+94
+00:04:25,040 --> 00:04:27,720
+candle's High that's the blue lines here
+
+95
+00:04:27,720 --> 00:04:30,199
+that's denoting that buy side balance s
+
+96
+00:04:30,199 --> 00:04:32,240
+sign efficiency and this red line is
+
+97
+00:04:32,240 --> 00:04:34,039
+consequent encouragement or midpoint
+
+98
+00:04:34,039 --> 00:04:36,199
+between this candle's low this candle's
+
+99
+00:04:36,199 --> 00:04:38,600
+high so all this big movement up here
+
+100
+00:04:38,600 --> 00:04:40,759
+it's buy side and
+
+101
+00:04:40,759 --> 00:04:43,880
+balance sell side inefficiency so it
+
+102
+00:04:43,880 --> 00:04:45,639
+needs to see what lower price is
+
+103
+00:04:45,639 --> 00:04:49,759
+delivered we seen that happen here and
+
+104
+00:04:49,759 --> 00:04:53,560
+this price movement here is is in my
+
+105
+00:04:53,560 --> 00:04:56,160
+opinion what we're having to deal with
+
+106
+00:04:56,160 --> 00:04:58,160
+on the lower time frame so if you
+
+107
+00:04:58,160 --> 00:05:00,520
+watched how we traded on Wednesday
+
+108
+00:05:00,520 --> 00:05:02,479
+Thursday and Friday of this week for
+
+109
+00:05:02,479 --> 00:05:03,440
+index
+
+110
+00:05:03,440 --> 00:05:06,960
+Futures unless you were Ultra shortterm
+
+111
+00:05:06,960 --> 00:05:10,240
+like one minute scalping five minute
+
+112
+00:05:10,240 --> 00:05:13,000
+scalping um You probably experience a
+
+113
+00:05:13,000 --> 00:05:15,680
+lot of difficulty in terms of navigating
+
+114
+00:05:15,680 --> 00:05:17,960
+you know the EB and flow of intraday
+
+115
+00:05:17,960 --> 00:05:21,319
+price action so whenever we have these
+
+116
+00:05:21,319 --> 00:05:23,560
+kind of
+
+117
+00:05:23,840 --> 00:05:26,919
+like bookends think of it like that okay
+
+118
+00:05:26,919 --> 00:05:31,280
+we have strong opinion ated reasons that
+
+119
+00:05:31,280 --> 00:05:34,199
+we can make the case for higher prices
+
+120
+00:05:34,199 --> 00:05:36,960
+and for lower prices and when we have
+
+121
+00:05:36,960 --> 00:05:40,520
+that everything
+
+122
+00:05:40,560 --> 00:05:43,400
+makes trading with a great deal of
+
+123
+00:05:43,400 --> 00:05:45,120
+precision that would otherwise be
+
+124
+00:05:45,120 --> 00:05:47,240
+apparent in all time
+
+125
+00:05:47,240 --> 00:05:50,720
+frames it kind of reduces it down to a
+
+126
+00:05:50,720 --> 00:05:53,039
+very
+
+127
+00:05:53,039 --> 00:05:56,319
+infrequent well at least you may observe
+
+128
+00:05:56,319 --> 00:05:57,680
+that it will be
+
+129
+00:05:57,680 --> 00:06:00,039
+infrequent we've seen that Wednesday
+
+130
+00:06:00,039 --> 00:06:01,720
+Thursday and Friday not the latter part
+
+131
+00:06:01,720 --> 00:06:03,080
+of Wednesday not the first part of
+
+132
+00:06:03,080 --> 00:06:05,759
+Wednesday but the afternoon of Wednesday
+
+133
+00:06:05,759 --> 00:06:07,800
+Thursday and then Friday's
+
+134
+00:06:07,800 --> 00:06:12,280
+trading we're seeing all that in here
+
+135
+00:06:12,280 --> 00:06:16,240
+so it's going to have to move outside of
+
+136
+00:06:16,240 --> 00:06:17,080
+this
+
+137
+00:06:17,080 --> 00:06:20,000
+range definitively for me so in other
+
+138
+00:06:20,000 --> 00:06:21,960
+words it's got to either trade above the
+
+139
+00:06:21,960 --> 00:06:24,319
+buy side B sell sign efficiency is high
+
+140
+00:06:24,319 --> 00:06:27,000
+or it's got a trade below the buy side
+
+141
+00:06:27,000 --> 00:06:29,240
+and balance sell sign efficienc is low
+
+142
+00:06:29,240 --> 00:06:31,440
+why while we're in here I will not be
+
+143
+00:06:31,440 --> 00:06:33,440
+interested in taking any trades for em
+
+144
+00:06:33,440 --> 00:06:35,639
+mini
+
+145
+00:06:36,160 --> 00:06:39,639
+S&P this area here is a fair value Gap
+
+146
+00:06:39,639 --> 00:06:41,479
+from this candle's low this candle's
+
+147
+00:06:41,479 --> 00:06:44,759
+High the Shaded area is denoting
+
+148
+00:06:44,759 --> 00:06:48,080
+that on the hourly chart you can see how
+
+149
+00:06:48,080 --> 00:06:51,919
+we had Fairway Gap here institutional
+
+150
+00:06:51,919 --> 00:06:53,800
+entry drill which is a partial entry but
+
+151
+00:06:53,800 --> 00:06:56,240
+just falling short of half the Gap
+
+152
+00:06:56,240 --> 00:06:58,039
+breaks down one more in time does the
+
+153
+00:06:58,039 --> 00:07:00,240
+same thing here look at all this range
+
+154
+00:07:00,240 --> 00:07:03,440
+bound trading right in there see that
+
+155
+00:07:03,440 --> 00:07:05,560
+then we break lower small little range
+
+156
+00:07:05,560 --> 00:07:07,680
+break lower small little range and this
+
+157
+00:07:07,680 --> 00:07:10,400
+placement to the downside trading to the
+
+158
+00:07:10,400 --> 00:07:12,840
+low of the inefficiency or the bide Bal
+
+159
+00:07:12,840 --> 00:07:14,639
+sside efficiency on the daily chart
+
+160
+00:07:14,639 --> 00:07:17,479
+remember the blue lines denote
+
+161
+00:07:17,479 --> 00:07:21,080
+that big singular up Clos candle and
+
+162
+00:07:21,080 --> 00:07:23,120
+then the red level is the midpoint of
+
+163
+00:07:23,120 --> 00:07:25,560
+that and that shaded area is the fair
+
+164
+00:07:25,560 --> 00:07:27,879
+value gap on the daily chart we Tri up
+
+165
+00:07:27,879 --> 00:07:29,800
+to consequent encroachment here roll
+
+166
+00:07:29,800 --> 00:07:33,280
+over and just fell short of trading into
+
+167
+00:07:33,280 --> 00:07:35,520
+that inefficiency on the daily chart and
+
+168
+00:07:35,520 --> 00:07:38,360
+sweeping below this low so it fell
+
+169
+00:07:38,360 --> 00:07:41,240
+just short of reaching into that and
+
+170
+00:07:41,240 --> 00:07:44,520
+then we had this gnarly Thursday and
+
+171
+00:07:44,520 --> 00:07:48,840
+Friday a trading range for E Min S&P
+
+172
+00:07:48,840 --> 00:07:52,000
+returning back to consequent
+
+173
+00:07:52,000 --> 00:07:54,199
+encroachment 15 minut time frame again
+
+174
+00:07:54,199 --> 00:07:56,120
+you can see how we had Friday's trading
+
+175
+00:07:56,120 --> 00:07:58,159
+Thursday's trading in the afternoon
+
+176
+00:07:58,159 --> 00:07:59,639
+retracing back up into consequent
+
+177
+00:07:59,639 --> 00:08:01,639
+encouragement so a really nice sell off
+
+178
+00:08:01,639 --> 00:08:04,199
+here in the morning which was really
+
+179
+00:08:04,199 --> 00:08:06,440
+easy to see
+
+180
+00:08:06,440 --> 00:08:09,919
+that follow this price action here this
+
+181
+00:08:09,919 --> 00:08:13,520
+right here you have to be extremely
+
+182
+00:08:13,520 --> 00:08:15,440
+Nimble and know exactly what you're
+
+183
+00:08:15,440 --> 00:08:17,840
+looking for if you can get it take it
+
+184
+00:08:17,840 --> 00:08:20,280
+and stop otherwise you can get chopped
+
+185
+00:08:20,280 --> 00:08:22,879
+up in here over trade or do a lot of
+
+186
+00:08:22,879 --> 00:08:24,479
+things so otherwise undermine your
+
+187
+00:08:24,479 --> 00:08:27,599
+growth or create draw down for your
+
+188
+00:08:27,599 --> 00:08:30,520
+account so these are problematic areas
+
+189
+00:08:30,520 --> 00:08:32,719
+until we leave this range I'm not
+
+190
+00:08:32,719 --> 00:08:34,440
+interested in touching it so if we stay
+
+191
+00:08:34,440 --> 00:08:36,399
+within this when we open on Sunday and
+
+192
+00:08:36,399 --> 00:08:39,200
+trade into it on Monday my hands will be
+
+193
+00:08:39,200 --> 00:08:41,958
+away from all asset classes because my
+
+194
+00:08:41,958 --> 00:08:43,880
+only interest right now in trading is
+
+195
+00:08:43,880 --> 00:08:47,800
+the index Futures S&P and
+
+196
+00:08:49,080 --> 00:08:53,320
+NASDAQ NASDAQ daily chart similar vein
+
+197
+00:08:53,320 --> 00:08:55,399
+we have depos balance sell efficiency
+
+198
+00:08:55,399 --> 00:08:56,760
+defined by this candle's high this
+
+199
+00:08:56,760 --> 00:08:58,760
+candle's low midpoint is consequent
+
+200
+00:08:58,760 --> 00:09:00,279
+encouragement
+
+201
+00:09:00,279 --> 00:09:02,880
+and price will have to
+
+202
+00:09:02,880 --> 00:09:06,680
+leave this buy B sell efficiency either
+
+203
+00:09:06,680 --> 00:09:08,200
+higher or lower before I'm interested in
+
+204
+00:09:08,200 --> 00:09:10,120
+trading because we had this run
+
+205
+00:09:10,120 --> 00:09:12,399
+up I like the idea of potentially
+
+206
+00:09:12,399 --> 00:09:14,959
+trading down to
+
+207
+00:09:14,959 --> 00:09:17,880
+15126 and a half I mean that that's what
+
+208
+00:09:17,880 --> 00:09:19,680
+I'm interested in seeing I want to see
+
+209
+00:09:19,680 --> 00:09:21,320
+that happen because we've seen it happen
+
+210
+00:09:21,320 --> 00:09:23,360
+for
+
+211
+00:09:23,360 --> 00:09:26,959
+ES the run up we seen imp partial uh
+
+212
+00:09:26,959 --> 00:09:28,519
+decline which we'll look at that and I
+
+213
+00:09:28,519 --> 00:09:30,399
+called that level real time before it
+
+214
+00:09:30,399 --> 00:09:34,040
+actually is delivered on Thursday on
+
+215
+00:09:34,040 --> 00:09:36,920
+Twitter or we could rally higher and
+
+216
+00:09:36,920 --> 00:09:38,240
+come back out of this buy side and bance
+
+217
+00:09:38,240 --> 00:09:39,959
+out efficiency and then resume going
+
+218
+00:09:39,959 --> 00:09:42,480
+higher and reach for the buy side here
+
+219
+00:09:42,480 --> 00:09:43,920
+and completely close in this
+
+220
+00:09:43,920 --> 00:09:45,880
+inefficiency over here in the form of a
+
+221
+00:09:45,880 --> 00:09:50,640
+CBI so because the analysis is
+
+222
+00:09:50,640 --> 00:09:53,360
+conflicted meaning that we could range
+
+223
+00:09:53,360 --> 00:09:55,360
+Bound in here for a little while and
+
+224
+00:09:55,360 --> 00:09:59,800
+still deliver to that 15,26 A5
+
+225
+00:09:59,800 --> 00:10:01,760
+that's what I'm kind of expecting to
+
+226
+00:10:01,760 --> 00:10:05,079
+happen but I'm not excited about taking
+
+227
+00:10:05,079 --> 00:10:08,160
+any trades in here until we definitively
+
+228
+00:10:08,160 --> 00:10:10,440
+leave this buy sign balance sell sign
+
+229
+00:10:10,440 --> 00:10:12,560
+efficiency the reason why is because
+
+230
+00:10:12,560 --> 00:10:14,959
+even though I like the idea of going
+
+231
+00:10:14,959 --> 00:10:17,800
+short I could be wrong and it may be
+
+232
+00:10:17,800 --> 00:10:21,240
+just accumulating in here to go higher
+
+233
+00:10:21,240 --> 00:10:24,160
+because this Market stock market is
+
+234
+00:10:24,160 --> 00:10:27,640
+absolutely rigged okay I mean more more
+
+235
+00:10:27,640 --> 00:10:30,160
+than it really is okay and other time uh
+
+236
+00:10:30,160 --> 00:10:31,720
+they're propping this market up for
+
+237
+00:10:31,720 --> 00:10:33,760
+political reasons uh there's no reason
+
+238
+00:10:33,760 --> 00:10:37,399
+for and there's no justification for the
+
+239
+00:10:37,399 --> 00:10:40,200
+shares being at the levels they are for
+
+240
+00:10:40,200 --> 00:10:41,959
+stocks right now it's just it's not
+
+241
+00:10:41,959 --> 00:10:44,760
+warranted at all so because we're seeing
+
+242
+00:10:44,760 --> 00:10:47,040
+conflicted both sides of the narrative
+
+243
+00:10:47,040 --> 00:10:49,040
+on the higher time frame that forces
+
+244
+00:10:49,040 --> 00:10:51,800
+your hand to be a intraday scalper you
+
+245
+00:10:51,800 --> 00:10:54,399
+know short-term trading swing trading
+
+246
+00:10:54,399 --> 00:10:56,200
+you have to be very very precise you you
+
+247
+00:10:56,200 --> 00:11:00,440
+get really one entry and that's it so in
+
+248
+00:11:00,440 --> 00:11:02,800
+a very small one minute time frame
+
+249
+00:11:02,800 --> 00:11:03,639
+you'll have a little bit more
+
+250
+00:11:03,639 --> 00:11:05,639
+opportunities to navigate but you have
+
+251
+00:11:05,639 --> 00:11:08,240
+to have experience and be nimble so I'm
+
+252
+00:11:08,240 --> 00:11:10,560
+just showing you my cards I'm not
+
+253
+00:11:10,560 --> 00:11:12,000
+terribly excited about going into next
+
+254
+00:11:12,000 --> 00:11:15,920
+week until we leave this B B cell
+
+255
+00:11:15,920 --> 00:11:18,360
+efficiency on the hourly chart you can
+
+256
+00:11:18,360 --> 00:11:21,760
+see we ran buy side here into a bearish
+
+257
+00:11:21,760 --> 00:11:24,160
+order block we broke
+
+258
+00:11:24,160 --> 00:11:26,720
+down bearish order block here
+
+259
+00:11:26,720 --> 00:11:28,720
+displacement to the downside swept the
+
+260
+00:11:28,720 --> 00:11:31,600
+cell side here entered the buy side and
+
+261
+00:11:31,600 --> 00:11:32,800
+balance cell
+
+262
+00:11:32,800 --> 00:11:34,880
+efficiency rolled over after
+
+263
+00:11:34,880 --> 00:11:36,320
+institutional order entry drill here
+
+264
+00:11:36,320 --> 00:11:38,760
+which is just a partial entry into this
+
+265
+00:11:38,760 --> 00:11:41,399
+Cy I try to keep the charts clean that
+
+266
+00:11:41,399 --> 00:11:43,440
+way I have less to talk about get
+
+267
+00:11:43,440 --> 00:11:45,279
+through this chart discussion quicker
+
+268
+00:11:45,279 --> 00:11:46,279
+for you this
+
+269
+00:11:46,279 --> 00:11:49,000
+evening we rolled through went through
+
+270
+00:11:49,000 --> 00:11:50,720
+half of the daily buy sign and bance
+
+271
+00:11:50,720 --> 00:11:51,959
+cell side efficiency which is the
+
+272
+00:11:51,959 --> 00:11:53,320
+consequent encouragement level that blue
+
+273
+00:11:53,320 --> 00:11:56,040
+line which is just midpoint between the
+
+274
+00:11:56,040 --> 00:11:59,120
+lower level and the higher level of the
+
+275
+00:11:59,120 --> 00:12:00,560
+daily buy sign and balance sell sign
+
+276
+00:12:00,560 --> 00:12:02,279
+efficiency that One Singular big green
+
+277
+00:12:02,279 --> 00:12:04,839
+Candle on the daily chart that's the
+
+278
+00:12:04,839 --> 00:12:07,079
+reference points here for it on the
+
+279
+00:12:07,079 --> 00:12:09,680
+hourly chart so we rolled over and I
+
+280
+00:12:09,680 --> 00:12:10,720
+gave on
+
+281
+00:12:10,720 --> 00:12:15,519
+Twitter on Thursday I said to have 15,1
+
+282
+00:12:15,519 --> 00:12:17,720
+85.2 and
+
+283
+00:12:17,720 --> 00:12:21,000
+15,17 noted on your chart and we went
+
+284
+00:12:21,000 --> 00:12:23,279
+down the bodies respected both of those
+
+285
+00:12:23,279 --> 00:12:26,440
+levels we Wicked through both of
+
+286
+00:12:26,440 --> 00:12:30,800
+them 15175 is this candle here so
+
+287
+00:12:30,800 --> 00:12:32,240
+there's a buy sign B sell sign
+
+288
+00:12:32,240 --> 00:12:33,560
+efficiency between this candle's low
+
+289
+00:12:33,560 --> 00:12:35,519
+this candle's high with this one big
+
+290
+00:12:35,519 --> 00:12:39,320
+candle so that's where that
+
+291
+00:12:39,320 --> 00:12:44,399
+15, 175 level came from the 15, 1885 and
+
+292
+00:12:44,399 --> 00:12:46,360
+a quarter level which is here is the
+
+293
+00:12:46,360 --> 00:12:48,519
+daily buy s balance sell s efficiency
+
+294
+00:12:48,519 --> 00:12:50,959
+25% quadrant okay so in other words if
+
+295
+00:12:50,959 --> 00:12:54,440
+you take this level here and this level
+
+296
+00:12:54,440 --> 00:12:57,360
+here and divide it in equal parts four
+
+297
+00:12:57,360 --> 00:12:59,920
+equal parts half is here here so halfway
+
+298
+00:12:59,920 --> 00:13:03,040
+between this level and here is this so
+
+299
+00:13:03,040 --> 00:13:06,399
+it's the lower quadrant 25% level of
+
+300
+00:13:06,399 --> 00:13:08,120
+here this is that's not quarters Theory
+
+301
+00:13:08,120 --> 00:13:10,880
+by the way right away I know some think
+
+302
+00:13:10,880 --> 00:13:12,040
+oh he's teaching quarters Theory it's
+
+303
+00:13:12,040 --> 00:13:13,880
+not quarters Theory I'm looking at an
+
+304
+00:13:13,880 --> 00:13:16,120
+inefficiency and I'm grading that just
+
+305
+00:13:16,120 --> 00:13:17,720
+like I teach how to grade a price swing
+
+306
+00:13:17,720 --> 00:13:20,399
+in my core content so these are all
+
+307
+00:13:20,399 --> 00:13:23,040
+algorithmic signatures that price will
+
+308
+00:13:23,040 --> 00:13:26,079
+respect and adhere to so it's important
+
+309
+00:13:26,079 --> 00:13:28,440
+to know what they are and how apply it
+
+310
+00:13:28,440 --> 00:13:30,079
+to your charts and then anticipate these
+
+311
+00:13:30,079 --> 00:13:32,920
+types of responses Market rallies off of
+
+312
+00:13:32,920 --> 00:13:36,000
+that on Thursday comes back in and ret
+
+313
+00:13:36,000 --> 00:13:38,079
+trades back to the consequent
+
+314
+00:13:38,079 --> 00:13:39,839
+encroachment midpoint and then sends us
+
+315
+00:13:39,839 --> 00:13:41,480
+back up to the high end of the daily b
+
+316
+00:13:41,480 --> 00:13:44,279
+side of Mel so efficiency
+
+317
+00:13:44,279 --> 00:13:47,320
+high on the 15-minute time frame you can
+
+318
+00:13:47,320 --> 00:13:50,519
+see how again on Friday and on Thursday
+
+319
+00:13:50,519 --> 00:13:53,480
+just a really gnarly trading range I
+
+320
+00:13:53,480 --> 00:13:54,519
+mean you
+
+321
+00:13:54,519 --> 00:13:57,360
+can grow very frustrated trying to trade
+
+322
+00:13:57,360 --> 00:14:00,199
+this if you're 10 trying to anticipate a
+
+323
+00:14:00,199 --> 00:14:02,320
+follow through either higher or lower
+
+324
+00:14:02,320 --> 00:14:03,759
+you have to be very very Nimble and look
+
+325
+00:14:03,759 --> 00:14:06,199
+at the lower time frames pick your shots
+
+326
+00:14:06,199 --> 00:14:08,199
+if you get a winter stop for the day or
+
+327
+00:14:08,199 --> 00:14:09,720
+the session and be done and try not to
+
+328
+00:14:09,720 --> 00:14:12,519
+force your hand too
+
+329
+00:14:13,440 --> 00:14:16,000
+much all right see here's the one minute
+
+330
+00:14:16,000 --> 00:14:18,600
+Candlestick chart for the NASDAQ and I'm
+
+331
+00:14:18,600 --> 00:14:20,720
+going to teach you something that
+
+332
+00:14:20,720 --> 00:14:23,639
+employs my inversion fair value got now
+
+333
+00:14:23,639 --> 00:14:25,880
+before I get into this there's a a
+
+334
+00:14:25,880 --> 00:14:27,079
+couple points I want to make because
+
+335
+00:14:27,079 --> 00:14:29,120
+there are a couple Romper Room mentors
+
+336
+00:14:29,120 --> 00:14:32,320
+out there that will tell you that a fair
+
+337
+00:14:32,320 --> 00:14:37,279
+value Gap is something that is simply a
+
+338
+00:14:37,279 --> 00:14:38,639
+support or resistance level on a lower
+
+339
+00:14:38,639 --> 00:14:40,480
+time frame that's not true that's not
+
+340
+00:14:40,480 --> 00:14:42,959
+what it is it's an actual
+
+341
+00:14:42,959 --> 00:14:44,839
+inefficiency this little area in here
+
+342
+00:14:44,839 --> 00:14:46,959
+where one single candle pass up to the
+
+343
+00:14:46,959 --> 00:14:49,079
+upside that's a bide and B cide
+
+344
+00:14:49,079 --> 00:14:52,120
+efficiency so it's not had any
+
+345
+00:14:52,120 --> 00:14:54,720
+overlapping with any other candles after
+
+346
+00:14:54,720 --> 00:14:57,000
+it formed on the downside so it's
+
+347
+00:14:57,000 --> 00:14:59,480
+lacking what sells side delivery
+
+348
+00:14:59,480 --> 00:15:02,000
+so it's part of this swing
+
+349
+00:15:02,000 --> 00:15:06,160
+low part of an expected
+
+350
+00:15:06,160 --> 00:15:08,440
+redelivery between the high of the daily
+
+351
+00:15:08,440 --> 00:15:10,480
+buy sign cell sign efficiency which is
+
+352
+00:15:10,480 --> 00:15:14,199
+this level up here and the low of that
+
+353
+00:15:14,199 --> 00:15:16,839
+same daily B Bal and cell efficiency
+
+354
+00:15:16,839 --> 00:15:19,279
+okay so if we are up in the upper
+
+355
+00:15:19,279 --> 00:15:21,880
+portion of that range because here's the
+
+356
+00:15:21,880 --> 00:15:24,880
+consequent cment between this level and
+
+357
+00:15:24,880 --> 00:15:27,720
+this level and we're seeing the market
+
+358
+00:15:27,720 --> 00:15:30,480
+start to break down it's doing here this
+
+359
+00:15:30,480 --> 00:15:34,240
+inversion fair value got this is part of
+
+360
+00:15:34,240 --> 00:15:35,880
+what many of you ask how do you know
+
+361
+00:15:35,880 --> 00:15:37,240
+which fair value Gap is going to be an
+
+362
+00:15:37,240 --> 00:15:38,680
+inversion fair value Gap how do you know
+
+363
+00:15:38,680 --> 00:15:40,480
+which fair value Gap to use I'm
+
+364
+00:15:40,480 --> 00:15:42,079
+employing a lot of different things time
+
+365
+00:15:42,079 --> 00:15:44,680
+and price I'm using institutional Market
+
+366
+00:15:44,680 --> 00:15:46,720
+structure not your classic higher high
+
+367
+00:15:46,720 --> 00:15:49,319
+lower low crap because that's that's
+
+368
+00:15:49,319 --> 00:15:51,600
+infancy that's it's to myopic you need
+
+369
+00:15:51,600 --> 00:15:52,839
+to know what you're looking
+
+370
+00:15:52,839 --> 00:15:55,440
+for in the grand scheme of things price
+
+371
+00:15:55,440 --> 00:15:58,000
+was already working its way down into
+
+372
+00:15:58,000 --> 00:16:00,440
+and towards this redelivery on the buy
+
+373
+00:16:00,440 --> 00:16:02,040
+side and balance s sign efficiency low
+
+374
+00:16:02,040 --> 00:16:03,959
+that's this price level down here so if
+
+375
+00:16:03,959 --> 00:16:05,880
+we are looking at this price leg running
+
+376
+00:16:05,880 --> 00:16:07,639
+higher with the expectation that we're
+
+377
+00:16:07,639 --> 00:16:09,839
+going to see it roll over this becoming
+
+378
+00:16:09,839 --> 00:16:13,440
+a fulc chome Point high to low project
+
+379
+00:16:13,440 --> 00:16:16,199
+it down that gives us a reasonable
+
+380
+00:16:16,199 --> 00:16:19,000
+expectation to see it reach into a
+
+381
+00:16:19,000 --> 00:16:22,480
+discount range which would be half of
+
+382
+00:16:22,480 --> 00:16:25,240
+the range between this high and that low
+
+383
+00:16:25,240 --> 00:16:26,399
+which makes the daily buy side and
+
+384
+00:16:26,399 --> 00:16:29,680
+balance soide efficiency if your first
+
+385
+00:16:29,680 --> 00:16:32,160
+time watching this I already said enough
+
+386
+00:16:32,160 --> 00:16:34,440
+to completely confuse you but I promise
+
+387
+00:16:34,440 --> 00:16:36,120
+you if you take a few times to watch
+
+388
+00:16:36,120 --> 00:16:39,000
+this video the only thing I'm stating is
+
+389
+00:16:39,000 --> 00:16:41,920
+all of this price run here going down is
+
+390
+00:16:41,920 --> 00:16:44,040
+just simply trying to get down to this
+
+391
+00:16:44,040 --> 00:16:46,399
+level here because it was One Singular
+
+392
+00:16:46,399 --> 00:16:49,360
+Candle on the daily chart that went up
+
+393
+00:16:49,360 --> 00:16:52,920
+so the market will efficiently deliver
+
+394
+00:16:52,920 --> 00:16:55,360
+sside delivery which is not sell-side
+
+395
+00:16:55,360 --> 00:16:57,199
+liquidity sside delivery is just the
+
+396
+00:16:57,199 --> 00:17:00,519
+market goes lower it books price on the
+
+397
+00:17:00,519 --> 00:17:02,600
+downside in other words it's offering
+
+398
+00:17:02,600 --> 00:17:04,799
+price between the Range High of the
+
+399
+00:17:04,799 --> 00:17:07,280
+daily buy sign B sell sign efficiency at
+
+400
+00:17:07,280 --> 00:17:11,720
+15361 A5 and the low of that daily
+
+401
+00:17:11,720 --> 00:17:18,079
+Candle by balance efficiency at 15,26 A5
+
+402
+00:17:18,079 --> 00:17:20,199
+so the only thing I'm stating here is if
+
+403
+00:17:20,199 --> 00:17:22,160
+we were to take that range which is the
+
+404
+00:17:22,160 --> 00:17:25,880
+daily candle and I I'll explain again
+
+405
+00:17:25,880 --> 00:17:27,119
+what what I'm showing you here on the
+
+406
+00:17:27,119 --> 00:17:29,320
+daily chart but for now conceptually
+
+407
+00:17:29,320 --> 00:17:32,480
+just imagine if half of the range from
+
+408
+00:17:32,480 --> 00:17:34,160
+that price level here and that price
+
+409
+00:17:34,160 --> 00:17:36,679
+level here half of that range is here
+
+410
+00:17:36,679 --> 00:17:38,280
+anything at that price level or higher
+
+411
+00:17:38,280 --> 00:17:40,400
+is a premium if we're bearish we really
+
+412
+00:17:40,400 --> 00:17:42,000
+want to be selling short up here with
+
+413
+00:17:42,000 --> 00:17:43,799
+the expectation that it's going to aim
+
+414
+00:17:43,799 --> 00:17:46,640
+for something down in the lower half and
+
+415
+00:17:46,640 --> 00:17:49,480
+ultimately perfectly delivered to this
+
+416
+00:17:49,480 --> 00:17:54,520
+lower level 15,26 A5 it need not do that
+
+417
+00:17:54,520 --> 00:17:55,799
+so what levels are we looking for
+
+418
+00:17:55,799 --> 00:17:57,840
+because we're not dealing with zones
+
+419
+00:17:57,840 --> 00:17:59,760
+well what's the the lower quadrant lower
+
+420
+00:17:59,760 --> 00:18:02,600
+quadrant price level is here 15,1 185
+
+421
+00:18:02,600 --> 00:18:03,360
+and a
+
+422
+00:18:03,360 --> 00:18:07,240
+qu half of the range on the buyid B sell
+
+423
+00:18:07,240 --> 00:18:08,679
+sign efficiency on the daily chart which
+
+424
+00:18:08,679 --> 00:18:11,320
+is this high and that low that's in
+
+425
+00:18:11,320 --> 00:18:14,400
+purple half of it's here half of the
+
+426
+00:18:14,400 --> 00:18:17,039
+half point and the low is the lower
+
+427
+00:18:17,039 --> 00:18:19,159
+quadrant point so that's why I was
+
+428
+00:18:19,159 --> 00:18:21,400
+saying on Thursday to have these levels
+
+429
+00:18:21,400 --> 00:18:24,520
+noted and then you have the Tuesday
+
+430
+00:18:24,520 --> 00:18:28,520
+August 29th 2023 10: a.m. 1 hour High
+
+431
+00:18:28,520 --> 00:18:31,440
+sign balance C sign efficiency low and I
+
+432
+00:18:31,440 --> 00:18:32,640
+already mentioned that before we drop
+
+433
+00:18:32,640 --> 00:18:34,080
+down the lower time frames so everything
+
+434
+00:18:34,080 --> 00:18:35,960
+I'm saying here I've literally pointed
+
+435
+00:18:35,960 --> 00:18:38,400
+to and referred to what it is in this
+
+436
+00:18:38,400 --> 00:18:39,480
+very video so you don't have to go
+
+437
+00:18:39,480 --> 00:18:41,640
+anywhere else searching for anything
+
+438
+00:18:41,640 --> 00:18:43,400
+it's just a matter of listening to what
+
+439
+00:18:43,400 --> 00:18:46,120
+I'm saying here and then finding it in
+
+440
+00:18:46,120 --> 00:18:48,039
+the chart and also following along in
+
+441
+00:18:48,039 --> 00:18:51,720
+the narrative as why am interested in
+
+442
+00:18:51,720 --> 00:18:54,880
+this very fair value Gap at all because
+
+443
+00:18:54,880 --> 00:18:58,440
+we're in a premium I'm expected this to
+
+444
+00:18:58,440 --> 00:19:01,159
+see this price leg roll over it already
+
+445
+00:19:01,159 --> 00:19:02,679
+broke below it
+
+446
+00:19:02,679 --> 00:19:06,400
+here so it rolls through I'm not
+
+447
+00:19:06,400 --> 00:19:08,600
+interested in selling short
+
+448
+00:19:08,600 --> 00:19:11,880
+there because I know that time is a
+
+449
+00:19:11,880 --> 00:19:13,760
+bigger Factor so when price is running
+
+450
+00:19:13,760 --> 00:19:16,320
+up like this I'm not trying to chase
+
+451
+00:19:16,320 --> 00:19:22,320
+that I'm not trying to be a um an
+
+452
+00:19:22,320 --> 00:19:25,400
+early participant I want to see price
+
+453
+00:19:25,400 --> 00:19:26,880
+get to
+
+454
+00:19:26,880 --> 00:19:30,000
+8:00 8 clock is here so the market
+
+455
+00:19:30,000 --> 00:19:31,960
+trades back down through it again we're
+
+456
+00:19:31,960 --> 00:19:33,919
+not supply and demand so every time you
+
+457
+00:19:33,919 --> 00:19:36,280
+see a little rectangle here the nefy the
+
+458
+00:19:36,280 --> 00:19:38,159
+first the first- time viewer or someone
+
+459
+00:19:38,159 --> 00:19:40,280
+just has a a super superiority complex
+
+460
+00:19:40,280 --> 00:19:41,600
+they'll say that I'm teaching supply and
+
+461
+00:19:41,600 --> 00:19:43,440
+demand it's absolutely not because I'm
+
+462
+00:19:43,440 --> 00:19:45,760
+looking through all of this to go right
+
+463
+00:19:45,760 --> 00:19:48,000
+back to that specific candle right there
+
+464
+00:19:48,000 --> 00:19:51,480
+and its specific price
+
+465
+00:19:51,480 --> 00:19:54,880
+levels it trades up to a here now
+
+466
+00:19:54,880 --> 00:19:56,640
+because of time I'm expecting it to have
+
+467
+00:19:56,640 --> 00:20:00,159
+a better influence over price does it
+
+468
+00:20:00,159 --> 00:20:03,080
+send price lower yes one more time it
+
+469
+00:20:03,080 --> 00:20:04,799
+comes back up and hits it again does it
+
+470
+00:20:04,799 --> 00:20:08,440
+go through it again no it's stopping
+
+471
+00:20:08,440 --> 00:20:09,760
+because it's referring right back to
+
+472
+00:20:09,760 --> 00:20:11,600
+that price point right there so if this
+
+473
+00:20:11,600 --> 00:20:14,440
+is a fair value Gap and I was bullish
+
+474
+00:20:14,440 --> 00:20:15,919
+I'd be interested in buying it when it
+
+475
+00:20:15,919 --> 00:20:18,280
+was going down into it here or if it
+
+476
+00:20:18,280 --> 00:20:20,080
+went down through it and it came back
+
+477
+00:20:20,080 --> 00:20:21,880
+above it now I would treat it as you
+
+478
+00:20:21,880 --> 00:20:25,200
+know a reclaimed discount
+
+479
+00:20:25,200 --> 00:20:27,679
+array I'm looking through these
+
+480
+00:20:27,679 --> 00:20:28,799
+candlesticks
+
+481
+00:20:28,799 --> 00:20:31,000
+to a specific PD array but I'm applying
+
+482
+00:20:31,000 --> 00:20:33,000
+narrative which is a very hard thing to
+
+483
+00:20:33,000 --> 00:20:36,440
+teach because it's learned conceptually
+
+484
+00:20:36,440 --> 00:20:38,320
+by experience seeing over and over and
+
+485
+00:20:38,320 --> 00:20:40,400
+over again that's why I'm trying to tell
+
+486
+00:20:40,400 --> 00:20:41,640
+you that what some of you are asking for
+
+487
+00:20:41,640 --> 00:20:44,200
+is a one shot one kill video where it
+
+488
+00:20:44,200 --> 00:20:45,799
+literally answers all your questions in
+
+489
+00:20:45,799 --> 00:20:48,400
+one visit one sitting one View and it's
+
+490
+00:20:48,400 --> 00:20:52,240
+it nothing is like that okay but uh this
+
+491
+00:20:52,240 --> 00:20:53,640
+approach to using an inversion fair
+
+492
+00:20:53,640 --> 00:20:55,039
+value Gap because otherwise it would be
+
+493
+00:20:55,039 --> 00:20:57,760
+bullish here it's not because we're in a
+
+494
+00:20:57,760 --> 00:21:00,000
+premium
+
+495
+00:21:00,000 --> 00:21:01,480
+I want to be short I want to be looking
+
+496
+00:21:01,480 --> 00:21:03,559
+for shorts because I expect that daily
+
+497
+00:21:03,559 --> 00:21:06,440
+chart that big bullish green candle is
+
+498
+00:21:06,440 --> 00:21:09,240
+going to be redelivered to the downside
+
+499
+00:21:09,240 --> 00:21:11,159
+and the first level I'm looking for is
+
+500
+00:21:11,159 --> 00:21:12,559
+the halfway
+
+501
+00:21:12,559 --> 00:21:17,760
+point and the quadrant the lower
+
+502
+00:21:17,760 --> 00:21:22,440
+25% which is here and then dug into the
+
+503
+00:21:22,440 --> 00:21:25,960
+hourly chart by CB cell sign efficiency
+
+504
+00:21:25,960 --> 00:21:27,240
+which is what I mentioned earlier before
+
+505
+00:21:27,240 --> 00:21:29,600
+we got into this part of this video
+
+506
+00:21:29,600 --> 00:21:30,960
+that's where those two levels came from
+
+507
+00:21:30,960 --> 00:21:33,320
+and I quoted on Twitter before we got
+
+508
+00:21:33,320 --> 00:21:34,520
+down to
+
+509
+00:21:34,520 --> 00:21:36,919
+it the way that this inversion fair
+
+510
+00:21:36,919 --> 00:21:38,240
+valap is being
+
+511
+00:21:38,240 --> 00:21:41,919
+implemented is my
+
+512
+00:21:41,919 --> 00:21:47,080
+model madus madus is a slang or nickname
+
+513
+00:21:47,080 --> 00:21:51,200
+used for the M2 machine gun okay so
+
+514
+00:21:51,200 --> 00:21:53,080
+that's just the way my mind works and
+
+515
+00:21:53,080 --> 00:21:55,919
+the way I kind of like classify things I
+
+516
+00:21:55,919 --> 00:21:59,080
+have 81 different PD arrays and there's
+
+517
+00:21:59,080 --> 00:22:00,679
+several things that I can do with each
+
+518
+00:22:00,679 --> 00:22:03,840
+one of those PD arrays this is simply an
+
+519
+00:22:03,840 --> 00:22:06,880
+inversion fair value Gap how I use that
+
+520
+00:22:06,880 --> 00:22:12,559
+fair value Gap is a model and if we have
+
+521
+00:22:12,559 --> 00:22:15,400
+a inefficiency as outlined here between
+
+522
+00:22:15,400 --> 00:22:16,640
+the
+
+523
+00:22:16,640 --> 00:22:20,720
+daily buy B cell efficiency high and low
+
+524
+00:22:20,720 --> 00:22:22,039
+we're bearish we're looking for lower
+
+525
+00:22:22,039 --> 00:22:24,360
+prices we get this Market structure in
+
+526
+00:22:24,360 --> 00:22:26,559
+agreement and then time of
+
+527
+00:22:26,559 --> 00:22:31,400
+price we're expecting an 8:30 delivery
+
+528
+00:22:31,400 --> 00:22:34,080
+we can get in here and use this and get
+
+529
+00:22:34,080 --> 00:22:37,400
+ahead of yes get ahead of and enter
+
+530
+00:22:37,400 --> 00:22:39,559
+before the news it's like an x-ray view
+
+531
+00:22:39,559 --> 00:22:41,799
+tips your hand or tips its hand to you
+
+532
+00:22:41,799 --> 00:22:42,840
+and tells you this is what it's likeing
+
+533
+00:22:42,840 --> 00:22:46,240
+to do and you have the inefficiency here
+
+534
+00:22:46,240 --> 00:22:47,880
+trades up into it and at the delivery of
+
+535
+00:22:47,880 --> 00:22:51,200
+8:30 news and then we see it run away on
+
+536
+00:22:51,200 --> 00:22:52,880
+the employment
+
+537
+00:22:52,880 --> 00:22:55,120
+numbers trading down
+
+538
+00:22:55,120 --> 00:22:57,960
+into the lower 25% quadrant between
+
+539
+00:22:57,960 --> 00:23:02,320
+between this low and this High lower
+
+540
+00:23:02,320 --> 00:23:05,279
+quarter or quadrant level is here Trad
+
+541
+00:23:05,279 --> 00:23:08,000
+still here and then trades to the 15 175
+
+542
+00:23:08,000 --> 00:23:10,640
+level and then ultimately we seen it go
+
+543
+00:23:10,640 --> 00:23:11,799
+higher from
+
+544
+00:23:11,799 --> 00:23:14,279
+there I'm going to zoom in a little
+
+545
+00:23:14,279 --> 00:23:17,080
+bit there's that
+
+546
+00:23:17,080 --> 00:23:19,760
+Gap so that inversion fair value Gap
+
+547
+00:23:19,760 --> 00:23:21,640
+within the context of expecting it to
+
+548
+00:23:21,640 --> 00:23:22,480
+trade
+
+549
+00:23:22,480 --> 00:23:25,520
+lower best case scenario you know being
+
+550
+00:23:25,520 --> 00:23:29,640
+the low of the daily B so icy for Nasdaq
+
+551
+00:23:29,640 --> 00:23:32,200
+but needing it not to do that to
+
+552
+00:23:32,200 --> 00:23:34,000
+profitability which is first partial
+
+553
+00:23:34,000 --> 00:23:37,400
+would be here at consequent encroachment
+
+554
+00:23:37,400 --> 00:23:39,760
+and you let it run some more to get down
+
+555
+00:23:39,760 --> 00:23:42,760
+to the lower quadrant and they that
+
+556
+00:23:42,760 --> 00:23:44,520
+level you want to take a partial and
+
+557
+00:23:44,520 --> 00:23:47,000
+then if you can get down to another
+
+558
+00:23:47,000 --> 00:23:48,400
+discount array which was in close
+
+559
+00:23:48,400 --> 00:23:50,960
+proximity which is only 10 handles away
+
+560
+00:23:50,960 --> 00:23:53,480
+which was that hourly B Bell and cell
+
+561
+00:23:53,480 --> 00:23:55,600
+deficiencies
+
+562
+00:23:55,600 --> 00:23:58,039
+low on this date and time on on your
+
+563
+00:23:58,039 --> 00:23:59,440
+hourly chart so that's why it's
+
+564
+00:23:59,440 --> 00:24:00,679
+annotated that way you can go back and
+
+565
+00:24:00,679 --> 00:24:02,799
+look at on your own charts I want to
+
+566
+00:24:02,799 --> 00:24:04,880
+take you back up again just know that
+
+567
+00:24:04,880 --> 00:24:06,799
+this is what I'm showing you
+
+568
+00:24:06,799 --> 00:24:11,080
+here this range how I'm employing the
+
+569
+00:24:11,080 --> 00:24:14,520
+inversion fair value Gap there here for
+
+570
+00:24:14,520 --> 00:24:18,960
+myu Mau is a model that you can use a
+
+571
+00:24:18,960 --> 00:24:21,080
+inversion fair value Gap when you are
+
+572
+00:24:21,080 --> 00:24:24,159
+expecting price to run right back down a
+
+573
+00:24:24,159 --> 00:24:26,320
+inefficiency that was buy side and
+
+574
+00:24:26,320 --> 00:24:28,200
+balance sell side in efficiency this can
+
+575
+00:24:28,200 --> 00:24:30,360
+be reversed when you have a sell sign
+
+576
+00:24:30,360 --> 00:24:32,120
+and balance buy side efficiency and
+
+577
+00:24:32,120 --> 00:24:34,120
+you're expecting price to go higher the
+
+578
+00:24:34,120 --> 00:24:36,840
+inversion fair value Gap here would be
+
+579
+00:24:36,840 --> 00:24:40,440
+something after a low and then would you
+
+580
+00:24:40,440 --> 00:24:41,880
+know trade back down to it and then send
+
+581
+00:24:41,880 --> 00:24:43,679
+it higher so everything here is just
+
+582
+00:24:43,679 --> 00:24:44,840
+completely
+
+583
+00:24:44,840 --> 00:24:47,600
+reversed and I know if you're brand new
+
+584
+00:24:47,600 --> 00:24:49,640
+to my stuff I'm sure I'm quite certain
+
+585
+00:24:49,640 --> 00:24:50,919
+you're you're probably confused right
+
+586
+00:24:50,919 --> 00:24:52,760
+now and you have to study but really
+
+587
+00:24:52,760 --> 00:24:54,240
+what I'm saying here
+
+588
+00:24:54,240 --> 00:24:57,480
+is this level here and this level here
+
+589
+00:24:57,480 --> 00:25:00,159
+on the hourly chart is
+
+590
+00:25:00,159 --> 00:25:02,720
+this this One Singular candle and what
+
+591
+00:25:02,720 --> 00:25:04,600
+I'm saying is on Thursday I was
+
+592
+00:25:04,600 --> 00:25:07,200
+anticipating the run down into at least
+
+593
+00:25:07,200 --> 00:25:08,120
+the lower
+
+594
+00:25:08,120 --> 00:25:11,440
+quadrant the lower 25% between
+
+595
+00:25:11,440 --> 00:25:14,399
+this and this which are these levels
+
+596
+00:25:14,399 --> 00:25:16,520
+here respectively this candle's low this
+
+597
+00:25:16,520 --> 00:25:19,120
+candle's high so we have One Singular
+
+598
+00:25:19,120 --> 00:25:21,559
+pass
+
+599
+00:25:22,200 --> 00:25:24,520
+higher we expect lower prices to be
+
+600
+00:25:24,520 --> 00:25:27,279
+delivered the same way just going back
+
+601
+00:25:27,279 --> 00:25:28,840
+down to
+
+602
+00:25:28,840 --> 00:25:32,000
+redeliver over the inefficiency here it
+
+603
+00:25:32,000 --> 00:25:34,279
+was buy side delivery but now it needs
+
+604
+00:25:34,279 --> 00:25:35,640
+sell-side delivery because it's
+
+605
+00:25:35,640 --> 00:25:37,440
+inefficient in that regard because
+
+606
+00:25:37,440 --> 00:25:38,760
+there's no other candle between this
+
+607
+00:25:38,760 --> 00:25:40,840
+candle's low and that candle's High only
+
+608
+00:25:40,840 --> 00:25:43,240
+one candle went higher and that range
+
+609
+00:25:43,240 --> 00:25:45,320
+defined by that candle here this low and
+
+610
+00:25:45,320 --> 00:25:47,480
+that high needs to have efficient
+
+611
+00:25:47,480 --> 00:25:50,159
+delivery that can only happen by having
+
+612
+00:25:50,159 --> 00:25:52,919
+price go back down inside this entire
+
+613
+00:25:52,919 --> 00:25:56,520
+range lower quadrant halfway point if
+
+614
+00:25:56,520 --> 00:25:58,919
+you have a inversion Fair value Gap and
+
+615
+00:25:58,919 --> 00:26:00,279
+you're bearish and you're expecting a
+
+616
+00:26:00,279 --> 00:26:02,320
+news report and it's tipped its hand to
+
+617
+00:26:02,320 --> 00:26:04,520
+you saying okay we are likely to break
+
+618
+00:26:04,520 --> 00:26:05,720
+lower in Market structure and a lower
+
+619
+00:26:05,720 --> 00:26:10,279
+time frames we can anticipate this
+
+620
+00:26:10,640 --> 00:26:13,200
+drop that's occurring in
+
+621
+00:26:13,200 --> 00:26:16,200
+here
+
+622
+00:26:16,919 --> 00:26:19,159
+drop and that's
+
+623
+00:26:19,159 --> 00:26:21,039
+occurring in
+
+624
+00:26:21,039 --> 00:26:24,039
+here
+
+625
+00:26:24,480 --> 00:26:28,399
+drop and zoomed in inside that
+
+626
+00:26:28,399 --> 00:26:31,120
+premium to
+
+627
+00:26:31,159 --> 00:26:33,679
+Discount that's the inversion per you
+
+628
+00:26:33,679 --> 00:26:35,320
+got
+
+629
+00:26:35,320 --> 00:26:37,559
+M second opportunity to get into it
+
+630
+00:26:37,559 --> 00:26:39,520
+again it breaks aggressively
+
+631
+00:26:39,520 --> 00:26:41,240
+inefficiency once more at 8:30
+
+632
+00:26:41,240 --> 00:26:43,960
+employment numbers runs aggressively
+
+633
+00:26:43,960 --> 00:26:45,640
+partial
+
+634
+00:26:45,640 --> 00:26:47,200
+here
+
+635
+00:26:47,200 --> 00:26:50,039
+partial best case scenario would be if
+
+636
+00:26:50,039 --> 00:26:51,640
+it would deliver to the low of the
+
+637
+00:26:51,640 --> 00:26:54,080
+hourly but I mentioned real time I said
+
+638
+00:26:54,080 --> 00:26:56,240
+take your profits don't be greedy and
+
+639
+00:26:56,240 --> 00:26:58,720
+then we seen it
+
+640
+00:26:58,720 --> 00:27:01,320
+go a little bit lower than my objective
+
+641
+00:27:01,320 --> 00:27:03,760
+on that particular day but never got to
+
+642
+00:27:03,760 --> 00:27:08,039
+the low of the daily B cell efficiency
+
+643
+00:27:08,039 --> 00:27:10,520
+being this level
+
+644
+00:27:10,520 --> 00:27:14,440
+here it never got to that level
+
+645
+00:27:14,440 --> 00:27:16,760
+so I'm certain it's a lot for you to
+
+646
+00:27:16,760 --> 00:27:19,240
+digest but every one of my PD arrays you
+
+647
+00:27:19,240 --> 00:27:21,840
+can apply it to specific elements of
+
+648
+00:27:21,840 --> 00:27:23,840
+Market structure and how you anticipate
+
+649
+00:27:23,840 --> 00:27:26,600
+price delivering and you can plug and
+
+650
+00:27:26,600 --> 00:27:30,000
+play each one of these pdas with the
+
+651
+00:27:30,000 --> 00:27:32,760
+expectation that the model will deliver
+
+652
+00:27:32,760 --> 00:27:34,200
+under a
+
+653
+00:27:34,200 --> 00:27:36,880
+specific premise we're
+
+654
+00:27:36,880 --> 00:27:39,399
+expecting this level here to this level
+
+655
+00:27:39,399 --> 00:27:43,000
+here be delivered with downside delivery
+
+656
+00:27:43,000 --> 00:27:45,000
+in our sells side delivery as price was
+
+657
+00:27:45,000 --> 00:27:45,840
+going
+
+658
+00:27:45,840 --> 00:27:48,480
+lower it's not random it's not going to
+
+659
+00:27:48,480 --> 00:27:50,399
+some random level it's going to very
+
+660
+00:27:50,399 --> 00:27:53,080
+specific price levels and if I'm going
+
+661
+00:27:53,080 --> 00:27:55,440
+to use this inversion fair value Gap I
+
+662
+00:27:55,440 --> 00:27:59,240
+can use it in the context of myu modu is
+
+663
+00:27:59,240 --> 00:28:02,559
+simply a model utilizing an inversion
+
+664
+00:28:02,559 --> 00:28:05,960
+fair value Gap so that PD array it's an
+
+665
+00:28:05,960 --> 00:28:08,960
+advanced version or application of
+
+666
+00:28:08,960 --> 00:28:11,760
+inversion fair value Gap but it takes
+
+667
+00:28:11,760 --> 00:28:14,039
+you right back to the core context of
+
+668
+00:28:14,039 --> 00:28:15,600
+where are you in price what's it likely
+
+669
+00:28:15,600 --> 00:28:18,679
+to go to next and are you in a shortterm
+
+670
+00:28:18,679 --> 00:28:20,760
+premium or short-term discount if we're
+
+671
+00:28:20,760 --> 00:28:22,200
+bearish and we're in premium we can
+
+672
+00:28:22,200 --> 00:28:23,880
+anticipate price reaching down into a
+
+673
+00:28:23,880 --> 00:28:27,960
+discount but not some random level very
+
+674
+00:28:27,960 --> 00:28:30,600
+specific levels and it need not go to
+
+675
+00:28:30,600 --> 00:28:31,880
+the best case scenario which would be
+
+676
+00:28:31,880 --> 00:28:35,720
+the low which I still hold true that I I
+
+677
+00:28:35,720 --> 00:28:38,000
+suspect at some point maybe next week
+
+678
+00:28:38,000 --> 00:28:39,320
+that we'll try to reach down here until
+
+679
+00:28:39,320 --> 00:28:41,760
+I'm proven wrong and I'm I'm okay with
+
+680
+00:28:41,760 --> 00:28:43,880
+being proven wrong I'm going to be
+
+681
+00:28:43,880 --> 00:28:46,000
+trading it but the idea is I expect it
+
+682
+00:28:46,000 --> 00:28:47,919
+to trade down here because the E many
+
+683
+00:28:47,919 --> 00:28:49,880
+S&P has already traded it to its
+
+684
+00:28:49,880 --> 00:28:51,360
+respective bid and bell and cellid
+
+685
+00:28:51,360 --> 00:28:54,240
+efficiency for its daily
+
+686
+00:28:56,399 --> 00:28:59,399
+chart
+
+687
+00:28:59,519 --> 00:29:00,880
+all right folks that's it for this one
+
+688
+00:29:00,880 --> 00:29:03,480
+enjoy your weekend thanks for watching
+
+689
+00:29:03,480 --> 00:29:08,480
+until I'll talk to you next time be safe
+
