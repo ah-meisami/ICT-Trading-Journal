@@ -1,0 +1,3924 @@
+1
+00:00:28,840 --> 00:00:30,640
+foreign
+
+2
+00:00:30,640 --> 00:00:34,559
+all right folks welcome back
+
+3
+00:00:34,559 --> 00:00:36,880
+for those that don't know this is me
+
+4
+00:00:36,880 --> 00:00:38,320
+doing a
+
+5
+00:00:38,320 --> 00:00:41,840
+revamp of an old 2014
+
+6
+00:00:41,840 --> 00:00:45,120
+video series i did by the same title
+
+7
+00:00:45,120 --> 00:00:49,600
+mark maker series i did 12 videos
+
+8
+00:00:49,600 --> 00:00:52,320
+in that series and i was long-winded in
+
+9
+00:00:52,320 --> 00:00:53,680
+most of those
+
+10
+00:00:53,680 --> 00:00:57,680
+installments so with the backdrop of
+
+11
+00:00:57,680 --> 00:01:00,800
+all of the supportive studies on this
+
+12
+00:01:00,800 --> 00:01:02,559
+youtube channel
+
+13
+00:01:02,559 --> 00:01:05,359
+it's been my
+
+14
+00:01:06,000 --> 00:01:08,799
+interest to revisit that series and kind
+
+15
+00:01:08,799 --> 00:01:10,640
+of like polish it up a little bit
+
+16
+00:01:10,640 --> 00:01:11,840
+and with that perspective in mind
+
+17
+00:01:11,840 --> 00:01:13,360
+hopefully i'll be able to deliver
+
+18
+00:01:13,360 --> 00:01:14,240
+something that's
+
+19
+00:01:14,240 --> 00:01:16,159
+much more meaningful and impactful to
+
+20
+00:01:16,159 --> 00:01:17,439
+your trading
+
+21
+00:01:17,439 --> 00:01:19,040
+especially for those that have been with
+
+22
+00:01:19,040 --> 00:01:20,479
+me for a long time
+
+23
+00:01:20,479 --> 00:01:23,840
+uh newer students to have acquired over
+
+24
+00:01:23,840 --> 00:01:24,479
+the
+
+25
+00:01:24,479 --> 00:01:28,159
+last six months or so may be
+
+26
+00:01:28,159 --> 00:01:31,600
+impressed by the level of
+
+27
+00:01:31,600 --> 00:01:35,759
+insight that this series will bring them
+
+28
+00:01:35,759 --> 00:01:39,680
+but i also want to begin with something
+
+29
+00:01:39,680 --> 00:01:43,360
+that is important to know
+
+30
+00:01:43,360 --> 00:01:46,960
+there's a lot of market maker
+
+31
+00:01:46,960 --> 00:01:49,920
+buzzwords that are making the rounds on
+
+32
+00:01:49,920 --> 00:01:50,560
+youtube
+
+33
+00:01:50,560 --> 00:01:52,560
+on instagram all over social media
+
+34
+00:01:52,560 --> 00:01:53,759
+facebook
+
+35
+00:01:53,759 --> 00:01:57,280
+telegram everywhere and
+
+36
+00:01:57,280 --> 00:01:59,040
+the bulk of what you're seeing
+
+37
+00:01:59,040 --> 00:02:00,560
+regurgitated
+
+38
+00:02:00,560 --> 00:02:04,560
+actually came from this series here
+
+39
+00:02:04,560 --> 00:02:07,920
+or it came from my 1996 lecture nights
+
+40
+00:02:07,920 --> 00:02:09,199
+which
+
+41
+00:02:09,199 --> 00:02:11,520
+again
+
+42
+00:02:12,560 --> 00:02:15,840
+many people have taken pieces
+
+43
+00:02:15,840 --> 00:02:18,720
+of what i've taught over almost the last
+
+44
+00:02:18,720 --> 00:02:20,959
+three decades
+
+45
+00:02:20,959 --> 00:02:22,239
+and tried to come up with their own
+
+46
+00:02:22,239 --> 00:02:24,160
+little interpretation
+
+47
+00:02:24,160 --> 00:02:29,760
+and all of them have been found wanting
+
+48
+00:02:30,480 --> 00:02:33,599
+it's my goal here to try to
+
+49
+00:02:33,599 --> 00:02:37,360
+present this in a manner that is
+
+50
+00:02:37,360 --> 00:02:40,640
+concise succinct and to the point as
+
+51
+00:02:40,640 --> 00:02:43,760
+best as i possibly can and not
+
+52
+00:02:43,760 --> 00:02:46,560
+try to gloss over too much and make it
+
+53
+00:02:46,560 --> 00:02:48,160
+of no use
+
+54
+00:02:48,160 --> 00:02:51,920
+so while i won't have 12 videos
+
+55
+00:02:51,920 --> 00:02:54,160
+i am going to go through that series and
+
+56
+00:02:54,160 --> 00:02:55,840
+pull out everything and put them
+
+57
+00:02:55,840 --> 00:02:59,440
+in the proper context the proper order
+
+58
+00:02:59,440 --> 00:03:02,159
+so that way everything that should have
+
+59
+00:03:02,159 --> 00:03:02,959
+been
+
+60
+00:03:02,959 --> 00:03:06,000
+understood and more because this is a
+
+61
+00:03:06,000 --> 00:03:08,560
+revamp of it
+
+62
+00:03:08,560 --> 00:03:09,920
+hopefully will be delivered by me in
+
+63
+00:03:09,920 --> 00:03:12,800
+these five videos
+
+64
+00:03:12,800 --> 00:03:16,840
+this first volume is understanding the
+
+65
+00:03:16,840 --> 00:03:19,840
+macro
+
+66
+00:03:22,400 --> 00:03:24,640
+all right before we get into the nuts
+
+67
+00:03:24,640 --> 00:03:27,440
+and bolts of all this
+
+68
+00:03:27,440 --> 00:03:30,159
+who is the market maker now obviously
+
+69
+00:03:30,159 --> 00:03:31,040
+i'm saying that with
+
+70
+00:03:31,040 --> 00:03:34,480
+my tongue and cheek but who is it
+
+71
+00:03:34,480 --> 00:03:37,599
+who is the market maker
+
+72
+00:03:37,920 --> 00:03:39,760
+well the central banks are the producer
+
+73
+00:03:39,760 --> 00:03:41,519
+of currency prices
+
+74
+00:03:41,519 --> 00:03:47,280
+and are the market maker
+
+75
+00:03:47,280 --> 00:03:49,120
+central banks establish and manage a
+
+76
+00:03:49,120 --> 00:03:50,799
+country's currency price
+
+77
+00:03:50,799 --> 00:03:54,080
+at all times both autonomously and
+
+78
+00:03:54,080 --> 00:03:56,640
+manually
+
+79
+00:03:58,400 --> 00:04:00,720
+currency prices are 100 controlled and
+
+80
+00:04:00,720 --> 00:04:01,760
+manipulated
+
+81
+00:04:01,760 --> 00:04:04,640
+by central banks
+
+82
+00:04:05,599 --> 00:04:08,879
+investment bank dealers goldman sachs
+
+83
+00:04:08,879 --> 00:04:12,840
+ubs city or
+
+84
+00:04:12,840 --> 00:04:15,840
+brokers are not
+
+85
+00:04:15,840 --> 00:04:18,478
+market makers now they're commonly
+
+86
+00:04:18,478 --> 00:04:19,600
+calling themselves
+
+87
+00:04:19,600 --> 00:04:21,199
+i'm a market maker i'm an ex-market
+
+88
+00:04:21,199 --> 00:04:22,880
+maker at goldman sachs i'm an ex-market
+
+89
+00:04:22,880 --> 00:04:25,520
+maker at ubs i'm an ex-market maker at
+
+90
+00:04:25,520 --> 00:04:28,800
+credit twist all these guys are dealers
+
+91
+00:04:28,800 --> 00:04:31,040
+okay or ladies indifference through the
+
+92
+00:04:31,040 --> 00:04:33,040
+women
+
+93
+00:04:33,040 --> 00:04:35,040
+they're not market makers okay if we're
+
+94
+00:04:35,040 --> 00:04:36,160
+talking about
+
+95
+00:04:36,160 --> 00:04:39,680
+the currency markets forex the central
+
+96
+00:04:39,680 --> 00:04:40,479
+bank
+
+97
+00:04:40,479 --> 00:04:44,400
+is the market maker everybody deals
+
+98
+00:04:44,400 --> 00:04:47,440
+and trades and exchanges on their
+
+99
+00:04:47,440 --> 00:04:47,919
+product
+
+100
+00:04:47,919 --> 00:04:49,600
+their product is the price of the
+
+101
+00:04:49,600 --> 00:04:53,280
+commodity or currency
+
+102
+00:04:53,280 --> 00:04:56,000
+they make that price buyers and sellers
+
+103
+00:04:56,000 --> 00:04:57,280
+do not make that price
+
+104
+00:04:57,280 --> 00:04:59,919
+we only exchange at the price fee that's
+
+105
+00:04:59,919 --> 00:05:02,560
+given to us
+
+106
+00:05:03,919 --> 00:05:06,400
+dealers and brokers do business with the
+
+107
+00:05:06,400 --> 00:05:08,840
+price fees set and delivered by central
+
+108
+00:05:08,840 --> 00:05:11,840
+banks
+
+109
+00:05:12,960 --> 00:05:16,080
+dealers and or brokers do not set or
+
+110
+00:05:16,080 --> 00:05:19,360
+control currency prices
+
+111
+00:05:21,199 --> 00:05:23,680
+central banks are not following retail
+
+112
+00:05:23,680 --> 00:05:25,039
+indicators or flawed
+
+113
+00:05:25,039 --> 00:05:28,960
+retail logic examples being they do not
+
+114
+00:05:28,960 --> 00:05:31,120
+and the algorithms do not consider why
+
+115
+00:05:31,120 --> 00:05:32,160
+golf
+
+116
+00:05:32,160 --> 00:05:35,520
+harmonic elliott wave vsa or volume
+
+117
+00:05:35,520 --> 00:05:36,880
+spread analysis
+
+118
+00:05:36,880 --> 00:05:39,919
+supply and demand zones etc no matter
+
+119
+00:05:39,919 --> 00:05:41,280
+what it is
+
+120
+00:05:41,280 --> 00:05:45,199
+that you may subscribe to as a trader
+
+121
+00:05:45,199 --> 00:05:48,479
+none of that is considered when the
+
+122
+00:05:48,479 --> 00:05:50,160
+central bank algorithms
+
+123
+00:05:50,160 --> 00:05:53,440
+deliver price reprice or hold in
+
+124
+00:05:53,440 --> 00:05:55,120
+consolidation
+
+125
+00:05:55,120 --> 00:05:58,080
+it's just the facts
+
+126
+00:05:59,039 --> 00:06:00,479
+central banks employ high-tech
+
+127
+00:06:00,479 --> 00:06:02,160
+algorithms to deliver currency price
+
+128
+00:06:02,160 --> 00:06:02,960
+fees
+
+129
+00:06:02,960 --> 00:06:07,199
+and they do not run on supply and demand
+
+130
+00:06:07,199 --> 00:06:09,759
+i'm going to repeat this one central
+
+131
+00:06:09,759 --> 00:06:10,240
+banks
+
+132
+00:06:10,240 --> 00:06:12,400
+employ high-tech algorithms to deliver
+
+133
+00:06:12,400 --> 00:06:14,240
+currency price feeds
+
+134
+00:06:14,240 --> 00:06:18,560
+and they do not not
+
+135
+00:06:18,560 --> 00:06:20,960
+not okay and let me press it so many
+
+136
+00:06:20,960 --> 00:06:21,680
+times
+
+137
+00:06:21,680 --> 00:06:24,479
+it's important you understand this that
+
+138
+00:06:24,479 --> 00:06:26,240
+supply and demand
+
+139
+00:06:26,240 --> 00:06:29,280
+has no bearing on the delivery of
+
+140
+00:06:29,280 --> 00:06:35,840
+currency prices period
+
+141
+00:06:36,080 --> 00:06:41,840
+now with all that said let's dive deep
+
+142
+00:06:46,960 --> 00:06:49,919
+understand the macro now when you're
+
+143
+00:06:49,919 --> 00:06:52,720
+considering market maker concepts
+
+144
+00:06:52,720 --> 00:06:56,080
+real market maker concepts you have to
+
+145
+00:06:56,080 --> 00:06:58,160
+start with quantitative analysis
+
+146
+00:06:58,160 --> 00:06:59,919
+okay a quantitative analysis is
+
+147
+00:06:59,919 --> 00:07:01,280
+something that's
+
+148
+00:07:01,280 --> 00:07:03,919
+statistical it's measurable it's not
+
+149
+00:07:03,919 --> 00:07:05,120
+subjective
+
+150
+00:07:05,120 --> 00:07:07,919
+it's not left for interpretation like
+
+151
+00:07:07,919 --> 00:07:08,960
+looking at a trend
+
+152
+00:07:08,960 --> 00:07:10,800
+is a trend still bullish or is it
+
+153
+00:07:10,800 --> 00:07:12,080
+bearish you ask
+
+154
+00:07:12,080 --> 00:07:13,919
+20 different traders on multiple
+
+155
+00:07:13,919 --> 00:07:15,280
+different time frames
+
+156
+00:07:15,280 --> 00:07:16,479
+they're all going to come with with a
+
+157
+00:07:16,479 --> 00:07:18,160
+different interpretation of whether it's
+
+158
+00:07:18,160 --> 00:07:19,199
+bullish or bearish
+
+159
+00:07:19,199 --> 00:07:21,599
+okay that's subjective that's
+
+160
+00:07:21,599 --> 00:07:22,560
+qualitative
+
+161
+00:07:22,560 --> 00:07:24,960
+okay we'll get into qualitative analysis
+
+162
+00:07:24,960 --> 00:07:25,840
+but for now
+
+163
+00:07:25,840 --> 00:07:27,199
+we have to start with quantitative
+
+164
+00:07:27,199 --> 00:07:28,880
+analysis and that means
+
+165
+00:07:28,880 --> 00:07:31,280
+something that is measurable it's
+
+166
+00:07:31,280 --> 00:07:32,400
+statistical
+
+167
+00:07:32,400 --> 00:07:35,280
+and it's not up for interpretation it's
+
+168
+00:07:35,280 --> 00:07:38,479
+pretty much straightforward
+
+169
+00:07:40,319 --> 00:07:42,960
+when you're doing quantitative analysis
+
+170
+00:07:42,960 --> 00:07:44,560
+you're asking essentially the first
+
+171
+00:07:44,560 --> 00:07:46,080
+question being what should the market be
+
+172
+00:07:46,080 --> 00:07:47,680
+experiencing at the present
+
+173
+00:07:47,680 --> 00:07:48,879
+like right now when you're sitting down
+
+174
+00:07:48,879 --> 00:07:51,280
+in front of your charts what are you
+
+175
+00:07:51,280 --> 00:07:52,879
+expecting
+
+176
+00:07:52,879 --> 00:07:56,000
+price to be experiencing in terms of
+
+177
+00:07:56,000 --> 00:07:58,639
+bullish or bearish is the market bullish
+
+178
+00:07:58,639 --> 00:07:59,520
+or bearish
+
+179
+00:07:59,520 --> 00:08:01,199
+you have to have a way of determining
+
+180
+00:08:01,199 --> 00:08:02,639
+that
+
+181
+00:08:02,639 --> 00:08:04,800
+how do you get that information what
+
+182
+00:08:04,800 --> 00:08:05,840
+derives
+
+183
+00:08:05,840 --> 00:08:08,160
+that answer or whether it's bullish or
+
+184
+00:08:08,160 --> 00:08:09,360
+bearish
+
+185
+00:08:09,360 --> 00:08:12,400
+so where do you find that information
+
+186
+00:08:12,400 --> 00:08:16,160
+well the first is global interest rates
+
+187
+00:08:16,160 --> 00:08:18,720
+now this address here is just an
+
+188
+00:08:18,720 --> 00:08:19,599
+additional link
+
+189
+00:08:19,599 --> 00:08:22,120
+but if you go to
+
+190
+00:08:22,120 --> 00:08:24,479
+www.globalhyphenrates.com
+
+191
+00:08:24,479 --> 00:08:26,879
+it'll take you through very simple
+
+192
+00:08:26,879 --> 00:08:27,840
+prompts on the
+
+193
+00:08:27,840 --> 00:08:30,639
+page that link specifically though you
+
+194
+00:08:30,639 --> 00:08:32,320
+want to bookmark that one
+
+195
+00:08:32,320 --> 00:08:33,440
+okay and whenever you do your
+
+196
+00:08:33,440 --> 00:08:36,719
+quantitative analysis you can refer to
+
+197
+00:08:36,719 --> 00:08:41,839
+the global rates
+
+198
+00:08:41,919 --> 00:08:43,360
+and the other being commitment of
+
+199
+00:08:43,360 --> 00:08:45,680
+traders and you can find that
+
+200
+00:08:45,680 --> 00:08:49,040
+on barchart.com now these are just
+
+201
+00:08:49,040 --> 00:08:50,480
+suggested
+
+202
+00:08:50,480 --> 00:08:53,360
+websites that if you google and you do
+
+203
+00:08:53,360 --> 00:08:54,160
+some
+
+204
+00:08:54,160 --> 00:08:56,959
+your own leg work you may find that
+
+205
+00:08:56,959 --> 00:08:58,080
+there are other
+
+206
+00:08:58,080 --> 00:09:00,880
+websites out there that you're more
+
+207
+00:09:00,880 --> 00:09:02,320
+inclined to
+
+208
+00:09:02,320 --> 00:09:05,600
+use or warm up to these are just simple
+
+209
+00:09:05,600 --> 00:09:08,320
+generic websites that will provide the
+
+210
+00:09:08,320 --> 00:09:09,360
+information for you
+
+211
+00:09:09,360 --> 00:09:11,279
+for free you don't need to subscribe to
+
+212
+00:09:11,279 --> 00:09:12,399
+anybody's service
+
+213
+00:09:12,399 --> 00:09:13,680
+you don't need to be a part of any
+
+214
+00:09:13,680 --> 00:09:16,080
+specific platform this information is
+
+215
+00:09:16,080 --> 00:09:17,519
+100 percent free
+
+216
+00:09:17,519 --> 00:09:19,120
+it's just a click and research and
+
+217
+00:09:19,120 --> 00:09:21,519
+that's it
+
+218
+00:09:21,519 --> 00:09:24,160
+the global interest rates are the
+
+219
+00:09:24,160 --> 00:09:25,519
+quote-unquote
+
+220
+00:09:25,519 --> 00:09:29,200
+fundamental driver that sets the tone
+
+221
+00:09:29,200 --> 00:09:29,600
+for
+
+222
+00:09:29,600 --> 00:09:34,240
+long-term macro price movement
+
+223
+00:09:34,399 --> 00:09:37,040
+the commitment of traders shows you a
+
+224
+00:09:37,040 --> 00:09:38,959
+visual representation
+
+225
+00:09:38,959 --> 00:09:41,040
+of what smart money is doing and how
+
+226
+00:09:41,040 --> 00:09:42,080
+they're positioned
+
+227
+00:09:42,080 --> 00:09:46,320
+periodically now by blending these two
+
+228
+00:09:46,320 --> 00:09:49,839
+elements it gives you a real
+
+229
+00:09:49,839 --> 00:09:53,519
+measurable and quantitative perspective
+
+230
+00:09:53,519 --> 00:09:56,720
+on what smart money is doing or
+
+231
+00:09:56,720 --> 00:09:59,680
+in this case what market makers are
+
+232
+00:09:59,680 --> 00:10:00,480
+interpreting
+
+233
+00:10:00,480 --> 00:10:04,160
+price on a long-term basis
+
+234
+00:10:04,160 --> 00:10:06,399
+that's how you start with the question
+
+235
+00:10:06,399 --> 00:10:08,959
+of what's bullish what's bearish
+
+236
+00:10:08,959 --> 00:10:10,560
+notice i'm not talking about trend lines
+
+237
+00:10:10,560 --> 00:10:12,240
+i'm not talking about moving averages
+
+238
+00:10:12,240 --> 00:10:13,839
+i'm not looking for any of those types
+
+239
+00:10:13,839 --> 00:10:16,079
+of things this is what
+
+240
+00:10:16,079 --> 00:10:17,680
+interbank traders concern themselves
+
+241
+00:10:17,680 --> 00:10:21,839
+with this is what they're looking at
+
+242
+00:10:24,560 --> 00:10:27,519
+how do you plan your analysis well by
+
+243
+00:10:27,519 --> 00:10:29,440
+looking at these two specific
+
+244
+00:10:29,440 --> 00:10:32,000
+points of interest you're going to come
+
+245
+00:10:32,000 --> 00:10:32,720
+up with a buy
+
+246
+00:10:32,720 --> 00:10:36,720
+program or a cell program very simple
+
+247
+00:10:36,720 --> 00:10:38,480
+now what does that really mean though
+
+248
+00:10:38,480 --> 00:10:41,440
+well let's go further
+
+249
+00:10:43,040 --> 00:10:45,920
+when you go to barchart.com we're going
+
+250
+00:10:45,920 --> 00:10:47,200
+to assume that we're going to be pulling
+
+251
+00:10:47,200 --> 00:10:47,839
+up
+
+252
+00:10:47,839 --> 00:10:50,800
+a currency and we'll use japanese yen
+
+253
+00:10:50,800 --> 00:10:52,320
+here as an example
+
+254
+00:10:52,320 --> 00:10:53,760
+you're going to see that they have a
+
+255
+00:10:53,760 --> 00:10:56,160
+select commodity tab when you click that
+
+256
+00:10:56,160 --> 00:10:58,480
+tab the drop down menu will appear you
+
+257
+00:10:58,480 --> 00:11:00,560
+scroll down to currencies and you pick
+
+258
+00:11:00,560 --> 00:11:01,920
+the currency that you're
+
+259
+00:11:01,920 --> 00:11:04,160
+interested in studying in this case
+
+260
+00:11:04,160 --> 00:11:05,279
+we're gonna use
+
+261
+00:11:05,279 --> 00:11:09,440
+japanese yen you click on that
+
+262
+00:11:09,680 --> 00:11:11,839
+your browser will take you to this page
+
+263
+00:11:11,839 --> 00:11:14,399
+here what you're looking for
+
+264
+00:11:14,399 --> 00:11:18,240
+is every one of these particular
+
+265
+00:11:18,240 --> 00:11:21,360
+lines aren't necessarily one that you're
+
+266
+00:11:21,360 --> 00:11:22,720
+going to be
+
+267
+00:11:22,720 --> 00:11:23,839
+picking the top you're going to be
+
+268
+00:11:23,839 --> 00:11:25,519
+looking for the one that has the highest
+
+269
+00:11:25,519 --> 00:11:26,640
+open interest
+
+270
+00:11:26,640 --> 00:11:28,320
+so it's the line directly underneath
+
+271
+00:11:28,320 --> 00:11:30,320
+this one the top one
+
+272
+00:11:30,320 --> 00:11:33,200
+is cash you can't plot the commitment of
+
+273
+00:11:33,200 --> 00:11:34,160
+traders
+
+274
+00:11:34,160 --> 00:11:36,720
+data on a cash chart you got to use a
+
+275
+00:11:36,720 --> 00:11:38,079
+futures chart
+
+276
+00:11:38,079 --> 00:11:40,560
+so the highest open interest rate now is
+
+277
+00:11:40,560 --> 00:11:43,519
+the september contract for 2021
+
+278
+00:11:43,519 --> 00:11:46,560
+and you can see the open interest is 196
+
+279
+00:11:46,560 --> 00:11:49,920
+469 contracts that means that's the open
+
+280
+00:11:49,920 --> 00:11:50,399
+interest
+
+281
+00:11:50,399 --> 00:11:54,320
+or available open interest that's in
+
+282
+00:11:54,320 --> 00:11:56,079
+that particular
+
+283
+00:11:56,079 --> 00:11:59,120
+contract month after september's
+
+284
+00:11:59,120 --> 00:12:00,720
+contract expires
+
+285
+00:12:00,720 --> 00:12:02,639
+because we're talking about futures here
+
+286
+00:12:02,639 --> 00:12:05,040
+it would roll over to december 2021
+
+287
+00:12:05,040 --> 00:12:07,519
+and the open interest would rise from
+
+288
+00:12:07,519 --> 00:12:09,600
+958 to whatever the highest open
+
+289
+00:12:09,600 --> 00:12:10,560
+interest would be
+
+290
+00:12:10,560 --> 00:12:12,880
+before it expires and then once december
+
+291
+00:12:12,880 --> 00:12:14,399
+2021 expires
+
+292
+00:12:14,399 --> 00:12:17,519
+it would roll over to march 2022 where
+
+293
+00:12:17,519 --> 00:12:19,120
+it only has six
+
+294
+00:12:19,120 --> 00:12:21,200
+in the open interest slot now that would
+
+295
+00:12:21,200 --> 00:12:24,320
+only increase
+
+296
+00:12:24,320 --> 00:12:27,360
+considerably after the december contract
+
+297
+00:12:27,360 --> 00:12:30,160
+starts the midway point of its life
+
+298
+00:12:30,160 --> 00:12:32,560
+cycle
+
+299
+00:12:32,639 --> 00:12:34,880
+when you have this page here you would
+
+300
+00:12:34,880 --> 00:12:36,800
+be clicking obviously on the second one
+
+301
+00:12:36,800 --> 00:12:40,480
+which is september 2021
+
+302
+00:12:40,959 --> 00:12:43,519
+once that occurs this is the page it
+
+303
+00:12:43,519 --> 00:12:45,279
+would take you to
+
+304
+00:12:45,279 --> 00:12:47,360
+and look at the upper left hand corner
+
+305
+00:12:47,360 --> 00:12:48,639
+where it says interactive
+
+306
+00:12:48,639 --> 00:12:51,440
+chart you would click that link at this
+
+307
+00:12:51,440 --> 00:12:53,839
+point here
+
+308
+00:12:53,839 --> 00:12:56,240
+and it would give you this chart once
+
+309
+00:12:56,240 --> 00:12:57,519
+you're on this chart
+
+310
+00:12:57,519 --> 00:13:00,079
+you're going to go to the little tab
+
+311
+00:13:00,079 --> 00:13:00,880
+that says
+
+312
+00:13:00,880 --> 00:13:06,079
+plus study when you click on that you're
+
+313
+00:13:06,079 --> 00:13:06,800
+going to
+
+314
+00:13:06,800 --> 00:13:08,959
+see an option to put in an indicator
+
+315
+00:13:08,959 --> 00:13:11,120
+okay when i say that
+
+316
+00:13:11,120 --> 00:13:12,800
+i understand that we're not looking at
+
+317
+00:13:12,800 --> 00:13:15,200
+something like an rsi or a stochastic or
+
+318
+00:13:15,200 --> 00:13:17,200
+a cci
+
+319
+00:13:17,200 --> 00:13:20,240
+none of that stuff is useful okay you
+
+320
+00:13:20,240 --> 00:13:21,839
+don't need any of that
+
+321
+00:13:21,839 --> 00:13:23,279
+but the commitment of traders you're
+
+322
+00:13:23,279 --> 00:13:24,800
+going to type that out commitment
+
+323
+00:13:24,800 --> 00:13:26,399
+traders and by the time you put in
+
+324
+00:13:26,399 --> 00:13:30,320
+com it'll offer that as the option
+
+325
+00:13:30,320 --> 00:13:32,000
+you just click on it and then once you
+
+326
+00:13:32,000 --> 00:13:34,240
+click on it it'll open up this little
+
+327
+00:13:34,240 --> 00:13:35,600
+window
+
+328
+00:13:35,600 --> 00:13:36,639
+you're going to click on the little
+
+329
+00:13:36,639 --> 00:13:38,800
+eyeball next to small specs
+
+330
+00:13:38,800 --> 00:13:41,199
+and that'll put a line through it and
+
+331
+00:13:41,199 --> 00:13:42,000
+then you'll click
+
+332
+00:13:42,000 --> 00:13:46,240
+the add button when you do that
+
+333
+00:13:46,320 --> 00:13:49,360
+you'll get the commitment traders graph
+
+334
+00:13:49,360 --> 00:13:51,199
+applied to your chart it'll post it on
+
+335
+00:13:51,199 --> 00:13:52,560
+the bottom of the chart
+
+336
+00:13:52,560 --> 00:13:54,320
+you can toggle to the top of the chart
+
+337
+00:13:54,320 --> 00:13:55,760
+or leave it at the bottom
+
+338
+00:13:55,760 --> 00:13:57,920
+historically it's always been seen
+
+339
+00:13:57,920 --> 00:13:58,880
+underneath price
+
+340
+00:13:58,880 --> 00:14:02,240
+charts but we'll get to that in a minute
+
+341
+00:14:02,240 --> 00:14:05,240
+the other link i gave you is
+
+342
+00:14:05,240 --> 00:14:06,639
+globalhyphenrates.com
+
+343
+00:14:06,639 --> 00:14:08,320
+and once you go to that website and you
+
+344
+00:14:08,320 --> 00:14:09,760
+click on interest rates and
+
+345
+00:14:09,760 --> 00:14:12,639
+you know the central bank's breakdown or
+
+346
+00:14:12,639 --> 00:14:14,399
+summary of current interest rates
+
+347
+00:14:14,399 --> 00:14:16,160
+page will open up this is basically what
+
+348
+00:14:16,160 --> 00:14:17,519
+it looks like
+
+349
+00:14:17,519 --> 00:14:21,279
+now each one of these columns
+
+350
+00:14:21,279 --> 00:14:23,199
+are active in the way that if you click
+
+351
+00:14:23,199 --> 00:14:25,680
+on it it'll sort it like a spreadsheet
+
+352
+00:14:25,680 --> 00:14:26,959
+now if you click on the country or
+
+353
+00:14:26,959 --> 00:14:29,600
+region it will put it in alphabetical
+
+354
+00:14:29,600 --> 00:14:30,160
+order
+
+355
+00:14:30,160 --> 00:14:32,160
+if you click on current rate it'll do it
+
+356
+00:14:32,160 --> 00:14:34,160
+from high to low or low to high vice
+
+357
+00:14:34,160 --> 00:14:35,360
+versa
+
+358
+00:14:35,360 --> 00:14:37,360
+or if you want to know which one's
+
+359
+00:14:37,360 --> 00:14:38,560
+changing direction
+
+360
+00:14:38,560 --> 00:14:41,440
+for going up or going down you can
+
+361
+00:14:41,440 --> 00:14:42,959
+toggle that and it'll list it
+
+362
+00:14:42,959 --> 00:14:46,399
+by that way as well or you can
+
+363
+00:14:46,399 --> 00:14:48,160
+do a search on how the rate was
+
+364
+00:14:48,160 --> 00:14:50,639
+previously and when the last time that
+
+365
+00:14:50,639 --> 00:14:52,399
+rate was changed at the central bank
+
+366
+00:14:52,399 --> 00:14:53,839
+level
+
+367
+00:14:53,839 --> 00:14:55,279
+for now the only thing i want you to
+
+368
+00:14:55,279 --> 00:14:57,199
+focus on is
+
+369
+00:14:57,199 --> 00:15:00,560
+toggling clicking this
+
+370
+00:15:00,560 --> 00:15:03,839
+and then sorting them by high to low
+
+371
+00:15:03,839 --> 00:15:05,600
+okay so or low to high doesn't make a
+
+372
+00:15:05,600 --> 00:15:06,880
+difference
+
+373
+00:15:06,880 --> 00:15:10,000
+but you want it in a
+
+374
+00:15:10,160 --> 00:15:12,560
+list that increases or decreases so that
+
+375
+00:15:12,560 --> 00:15:14,160
+way you can find things rather
+
+376
+00:15:14,160 --> 00:15:16,560
+quickly now there are some countries in
+
+377
+00:15:16,560 --> 00:15:19,600
+here that i'm not interested in
+
+378
+00:15:19,600 --> 00:15:22,320
+for instance the israeli interest rate
+
+379
+00:15:22,320 --> 00:15:23,440
+i'm not interested in trading that i'm
+
+380
+00:15:23,440 --> 00:15:23,760
+not
+
+381
+00:15:23,760 --> 00:15:26,000
+interested in the polish interest rate
+
+382
+00:15:26,000 --> 00:15:27,040
+i'm not interested
+
+383
+00:15:27,040 --> 00:15:28,959
+in the czech interest rate or the
+
+384
+00:15:28,959 --> 00:15:30,399
+hungarian interest rate
+
+385
+00:15:30,399 --> 00:15:32,800
+what i'm looking for is like the majors
+
+386
+00:15:32,800 --> 00:15:34,480
+like the swiss franc
+
+387
+00:15:34,480 --> 00:15:37,839
+the japanese yen
+
+388
+00:15:37,839 --> 00:15:41,839
+european interest rate from the ecb
+
+389
+00:15:42,800 --> 00:15:46,399
+bridge pound for great britain
+
+390
+00:15:46,399 --> 00:15:48,240
+obviously the fed from united states
+
+391
+00:15:48,240 --> 00:15:50,399
+canada's bank rate new zealand's bank
+
+392
+00:15:50,399 --> 00:15:51,199
+rate
+
+393
+00:15:51,199 --> 00:15:53,600
+so it's basically the majors all right
+
+394
+00:15:53,600 --> 00:15:55,839
+so
+
+395
+00:15:56,320 --> 00:15:58,000
+australia is another one in here it's
+
+396
+00:15:58,000 --> 00:16:00,000
+the australian dollar
+
+397
+00:16:00,000 --> 00:16:01,839
+so you have all the majors in here and
+
+398
+00:16:01,839 --> 00:16:03,360
+what their respective
+
+399
+00:16:03,360 --> 00:16:09,839
+current interest rate is
+
+400
+00:16:11,440 --> 00:16:13,759
+now when you're looking at the interest
+
+401
+00:16:13,759 --> 00:16:15,120
+rates
+
+402
+00:16:15,120 --> 00:16:17,360
+you want to toggle them obviously
+
+403
+00:16:17,360 --> 00:16:19,040
+however you want to sort them
+
+404
+00:16:19,040 --> 00:16:22,079
+you want to sort them by specific
+
+405
+00:16:22,079 --> 00:16:24,880
+country you can click on this and it'll
+
+406
+00:16:24,880 --> 00:16:26,320
+toggle all the
+
+407
+00:16:26,320 --> 00:16:27,920
+countries by alphabetical orders that
+
+408
+00:16:27,920 --> 00:16:29,600
+way you can find the
+
+409
+00:16:29,600 --> 00:16:31,360
+majors that are coupled with the dollar
+
+410
+00:16:31,360 --> 00:16:33,199
+or a cross of your choice
+
+411
+00:16:33,199 --> 00:16:34,800
+quicker that way and then visually go
+
+412
+00:16:34,800 --> 00:16:36,320
+right over to where the interest rate is
+
+413
+00:16:36,320 --> 00:16:38,800
+at the moment
+
+414
+00:16:42,639 --> 00:16:43,680
+now i'm going to talk to you about
+
+415
+00:16:43,680 --> 00:16:46,160
+interest rate differentials
+
+416
+00:16:46,160 --> 00:16:48,079
+what is an interest rate differential
+
+417
+00:16:48,079 --> 00:16:49,839
+well it's the difference obviously
+
+418
+00:16:49,839 --> 00:16:50,560
+between
+
+419
+00:16:50,560 --> 00:16:52,160
+one country's interest rate versus
+
+420
+00:16:52,160 --> 00:16:55,199
+another and why is that important
+
+421
+00:16:55,199 --> 00:16:58,079
+well the importance is that on a central
+
+422
+00:16:58,079 --> 00:16:59,680
+bank level
+
+423
+00:16:59,680 --> 00:17:03,360
+and an interbank level large flows
+
+424
+00:17:03,360 --> 00:17:06,480
+seek yield and that means that they're
+
+425
+00:17:06,480 --> 00:17:07,039
+always
+
+426
+00:17:07,039 --> 00:17:10,400
+looking for a rate of return
+
+427
+00:17:10,400 --> 00:17:13,760
+now would you rather be in a country
+
+428
+00:17:13,760 --> 00:17:16,079
+that has an interest rate of five
+
+429
+00:17:16,079 --> 00:17:17,439
+percent
+
+430
+00:17:17,439 --> 00:17:20,000
+or would you rather be in a country that
+
+431
+00:17:20,000 --> 00:17:21,119
+has an interest rate of
+
+432
+00:17:21,119 --> 00:17:22,880
+two percent in other words you have the
+
+433
+00:17:22,880 --> 00:17:25,359
+ability to make five percent
+
+434
+00:17:25,359 --> 00:17:28,480
+or two percent which one would you put
+
+435
+00:17:28,480 --> 00:17:30,480
+your money in
+
+436
+00:17:30,480 --> 00:17:32,799
+well hopefully you would be considering
+
+437
+00:17:32,799 --> 00:17:34,240
+the five percent
+
+438
+00:17:34,240 --> 00:17:37,760
+well large flows and large
+
+439
+00:17:37,760 --> 00:17:40,400
+interest and yield and speculation they
+
+440
+00:17:40,400 --> 00:17:42,000
+think the same way
+
+441
+00:17:42,000 --> 00:17:43,440
+so how do you get the information on
+
+442
+00:17:43,440 --> 00:17:46,160
+which country has the highest yield this
+
+443
+00:17:46,160 --> 00:17:47,919
+list right here
+
+444
+00:17:47,919 --> 00:17:51,280
+and obviously as a foreign exchange
+
+445
+00:17:51,280 --> 00:17:53,280
+trader that you're aspiring to be or
+
+446
+00:17:53,280 --> 00:17:55,200
+maybe you are you're just not finding
+
+447
+00:17:55,200 --> 00:17:58,799
+consistency this will give you
+
+448
+00:17:58,799 --> 00:18:02,480
+the foundation to finding real markets
+
+449
+00:18:02,480 --> 00:18:02,960
+that are
+
+450
+00:18:02,960 --> 00:18:05,840
+really engineered to go a particular
+
+451
+00:18:05,840 --> 00:18:08,240
+direction
+
+452
+00:18:08,640 --> 00:18:11,039
+but you have to look for something
+
+453
+00:18:11,039 --> 00:18:12,160
+specific
+
+454
+00:18:12,160 --> 00:18:14,880
+and that's the differential so it's not
+
+455
+00:18:14,880 --> 00:18:16,320
+enough to simply look for a
+
+456
+00:18:16,320 --> 00:18:20,640
+high yielding interest rate country
+
+457
+00:18:20,640 --> 00:18:22,400
+you need to find a high interest rate
+
+458
+00:18:22,400 --> 00:18:24,480
+yielding countries currency
+
+459
+00:18:24,480 --> 00:18:29,760
+and couple it with a weak currency
+
+460
+00:18:29,760 --> 00:18:32,320
+for example if you look at japan right
+
+461
+00:18:32,320 --> 00:18:35,280
+here okay the japanese interest rate
+
+462
+00:18:35,280 --> 00:18:37,520
+for the central bank of japan its
+
+463
+00:18:37,520 --> 00:18:39,200
+interest rate is negative
+
+464
+00:18:39,200 --> 00:18:42,240
+point one zero
+
+465
+00:18:42,240 --> 00:18:44,880
+now in this list if we found a currency
+
+466
+00:18:44,880 --> 00:18:46,400
+that has a high
+
+467
+00:18:46,400 --> 00:18:48,640
+yielding interest rate relative to that
+
+468
+00:18:48,640 --> 00:18:50,880
+negative 0.10
+
+469
+00:18:50,880 --> 00:18:53,919
+from japan we'll look at the fed's
+
+470
+00:18:53,919 --> 00:18:56,960
+current interest rate at 0.25 percent
+
+471
+00:18:56,960 --> 00:18:59,200
+so there's a differential between the
+
+472
+00:18:59,200 --> 00:19:00,400
+two
+
+473
+00:19:00,400 --> 00:19:02,880
+the higher interest rate is with the fed
+
+474
+00:19:02,880 --> 00:19:04,320
+or the american dollar
+
+475
+00:19:04,320 --> 00:19:07,600
+versus the japanese yen
+
+476
+00:19:07,600 --> 00:19:10,720
+meaning the differential is positive
+
+477
+00:19:10,720 --> 00:19:15,200
+for dollar and negative for yen
+
+478
+00:19:18,960 --> 00:19:21,360
+now since we have that fundamental
+
+479
+00:19:21,360 --> 00:19:22,960
+backdrop
+
+480
+00:19:22,960 --> 00:19:25,760
+on the interest rate front we know now
+
+481
+00:19:25,760 --> 00:19:27,440
+we can go into
+
+482
+00:19:27,440 --> 00:19:29,919
+the commitment of traders chart and
+
+483
+00:19:29,919 --> 00:19:32,160
+we're looking at the dollar index now
+
+484
+00:19:32,160 --> 00:19:35,679
+typically i don't really like to put
+
+485
+00:19:35,679 --> 00:19:38,640
+the commitment traders graph on the
+
+486
+00:19:38,640 --> 00:19:39,840
+dollar index
+
+487
+00:19:39,840 --> 00:19:42,240
+and the reason why is because many times
+
+488
+00:19:42,240 --> 00:19:43,039
+it could look
+
+489
+00:19:43,039 --> 00:19:46,080
+like this where it doesn't really give
+
+490
+00:19:46,080 --> 00:19:47,520
+you a whole lot of information in this
+
+491
+00:19:47,520 --> 00:19:49,120
+format now there's a way to
+
+492
+00:19:49,120 --> 00:19:52,480
+obviously change this and draw more
+
+493
+00:19:52,480 --> 00:19:54,400
+information from it but majority time it
+
+494
+00:19:54,400 --> 00:19:55,200
+looks like this
+
+495
+00:19:55,200 --> 00:19:57,120
+and it won't give you the movement above
+
+496
+00:19:57,120 --> 00:19:59,360
+the zero basis line now the zero basis
+
+497
+00:19:59,360 --> 00:20:00,160
+line
+
+498
+00:20:00,160 --> 00:20:02,400
+what we're interested in is the red line
+
+499
+00:20:02,400 --> 00:20:04,080
+that's the commercials the commercials
+
+500
+00:20:04,080 --> 00:20:04,640
+we'll just
+
+501
+00:20:04,640 --> 00:20:08,000
+call them the central banks okay
+
+502
+00:20:08,000 --> 00:20:10,320
+when they go above the zero line that
+
+503
+00:20:10,320 --> 00:20:11,520
+doesn't necessarily mean
+
+504
+00:20:11,520 --> 00:20:14,880
+it's a buy and
+
+505
+00:20:14,880 --> 00:20:17,600
+just because they're below the zero
+
+506
+00:20:17,600 --> 00:20:18,480
+basis line
+
+507
+00:20:18,480 --> 00:20:20,720
+doesn't mean that the dollar index is
+
+508
+00:20:20,720 --> 00:20:22,320
+going to go down
+
+509
+00:20:22,320 --> 00:20:24,480
+what we're looking for is a combination
+
+510
+00:20:24,480 --> 00:20:27,280
+of interest rate differential
+
+511
+00:20:27,280 --> 00:20:30,960
+and the highest
+
+512
+00:20:30,960 --> 00:20:34,000
+long position net long or
+
+513
+00:20:34,000 --> 00:20:36,880
+lowest net short position held by the
+
+514
+00:20:36,880 --> 00:20:38,880
+commercials
+
+515
+00:20:38,880 --> 00:20:41,120
+now since we're looking at the dollar
+
+516
+00:20:41,120 --> 00:20:43,360
+index and we're thinking in terms of it
+
+517
+00:20:43,360 --> 00:20:44,080
+being a
+
+518
+00:20:44,080 --> 00:20:47,120
+higher interest rate which is
+
+519
+00:20:47,120 --> 00:20:49,440
+you know it's really not that high of an
+
+520
+00:20:49,440 --> 00:20:50,320
+interest rate it's only a quarter
+
+521
+00:20:50,320 --> 00:20:50,960
+percent
+
+522
+00:20:50,960 --> 00:20:53,280
+but in relationship and contrast to the
+
+523
+00:20:53,280 --> 00:20:55,360
+rate of the bank of japan
+
+524
+00:20:55,360 --> 00:20:59,760
+being negative point one zero
+
+525
+00:20:59,760 --> 00:21:03,200
+dollar has the better interest rate so
+
+526
+00:21:03,200 --> 00:21:04,799
+what we're looking for is a time when
+
+527
+00:21:04,799 --> 00:21:06,559
+the dollar has
+
+528
+00:21:06,559 --> 00:21:08,880
+the commercials being above the zero
+
+529
+00:21:08,880 --> 00:21:10,159
+line
+
+530
+00:21:10,159 --> 00:21:12,159
+we see that here in the latter portions
+
+531
+00:21:12,159 --> 00:21:14,240
+of 2020
+
+532
+00:21:14,240 --> 00:21:17,120
+in december into january notice that the
+
+533
+00:21:17,120 --> 00:21:20,240
+red line is higher than it's ever been
+
+534
+00:21:20,240 --> 00:21:22,720
+in the past few years so they're net
+
+535
+00:21:22,720 --> 00:21:23,520
+long here
+
+536
+00:21:23,520 --> 00:21:25,200
+higher than they have been in recent
+
+537
+00:21:25,200 --> 00:21:27,520
+time at this moment
+
+538
+00:21:27,520 --> 00:21:29,919
+in the chart now this by itself is
+
+539
+00:21:29,919 --> 00:21:30,799
+bullish
+
+540
+00:21:30,799 --> 00:21:33,200
+only if we see the opposite with the
+
+541
+00:21:33,200 --> 00:21:34,240
+japanese yen
+
+542
+00:21:34,240 --> 00:21:35,280
+because remember what we're doing is
+
+543
+00:21:35,280 --> 00:21:37,760
+we're matching up a strong fundamental
+
+544
+00:21:37,760 --> 00:21:40,880
+interest rate differential against
+
+545
+00:21:40,880 --> 00:21:44,880
+a weak interest rate differential
+
+546
+00:21:44,880 --> 00:21:47,919
+that being dollar versus yen so if we
+
+547
+00:21:47,919 --> 00:21:50,880
+take a look at the yen
+
+548
+00:21:52,960 --> 00:21:55,520
+you can see as we crossing from december
+
+549
+00:21:55,520 --> 00:21:58,080
+into january 2021
+
+550
+00:21:58,080 --> 00:22:00,400
+the commercials have never been this net
+
+551
+00:22:00,400 --> 00:22:02,159
+short in order they're thinking that
+
+552
+00:22:02,159 --> 00:22:04,400
+it's overbought and it's likely to go
+
+553
+00:22:04,400 --> 00:22:07,760
+down at this point right there
+
+554
+00:22:07,760 --> 00:22:10,960
+so anytime in the past in this chart
+
+555
+00:22:10,960 --> 00:22:13,039
+they've never been as bearish or below
+
+556
+00:22:13,039 --> 00:22:14,320
+the zero line
+
+557
+00:22:14,320 --> 00:22:18,240
+as they were right here and
+
+558
+00:22:18,240 --> 00:22:20,320
+by itself it doesn't mean anything you
+
+559
+00:22:20,320 --> 00:22:21,280
+want to see a
+
+560
+00:22:21,280 --> 00:22:23,360
+break in market structure and if you
+
+561
+00:22:23,360 --> 00:22:24,880
+look at this swing low right there
+
+562
+00:22:24,880 --> 00:22:26,559
+you see a low with a higher load to the
+
+563
+00:22:26,559 --> 00:22:28,799
+left and a higher load to the right
+
+564
+00:22:28,799 --> 00:22:30,080
+many of you to understand market
+
+565
+00:22:30,080 --> 00:22:31,760
+structure would be looking at this low
+
+566
+00:22:31,760 --> 00:22:33,039
+being broken and that's the market
+
+567
+00:22:33,039 --> 00:22:33,919
+structure break
+
+568
+00:22:33,919 --> 00:22:36,799
+for you that's not what it is for me
+
+569
+00:22:36,799 --> 00:22:37,679
+this is a
+
+570
+00:22:37,679 --> 00:22:40,400
+swing low the highest of all these
+
+571
+00:22:40,400 --> 00:22:40,960
+candles
+
+572
+00:22:40,960 --> 00:22:44,880
+up here until it finally broke down this
+
+573
+00:22:44,880 --> 00:22:47,679
+being broken there is a market structure
+
+574
+00:22:47,679 --> 00:22:51,120
+shift or break from me
+
+575
+00:22:52,159 --> 00:22:55,600
+once this occurs then all of the
+
+576
+00:22:55,600 --> 00:22:57,360
+understanding of this outline for you
+
+577
+00:22:57,360 --> 00:22:58,159
+where
+
+578
+00:22:58,159 --> 00:23:01,600
+it's bearish for yen bullish
+
+579
+00:23:01,600 --> 00:23:03,600
+for dollar and the interest rate
+
+580
+00:23:03,600 --> 00:23:06,480
+differential will now kick in
+
+581
+00:23:06,480 --> 00:23:09,280
+then the algorithms will start to
+
+582
+00:23:09,280 --> 00:23:10,480
+reprice
+
+583
+00:23:10,480 --> 00:23:13,280
+yen lower and dollar higher or
+
+584
+00:23:13,280 --> 00:23:14,720
+consolidate dollar
+
+585
+00:23:14,720 --> 00:23:16,400
+presently we've been seeing dollar
+
+586
+00:23:16,400 --> 00:23:19,039
+consolidated but yen has been allowed to
+
+587
+00:23:19,039 --> 00:23:23,840
+reprice lower
+
+588
+00:23:25,520 --> 00:23:29,039
+so how's that translate to a 4x chart
+
+589
+00:23:29,039 --> 00:23:32,799
+well here we have the dollar yen because
+
+590
+00:23:32,799 --> 00:23:34,320
+when we're pairing the weaker against
+
+591
+00:23:34,320 --> 00:23:37,120
+the stronger using these differentials
+
+592
+00:23:37,120 --> 00:23:41,200
+the two currencies are dollar and yen
+
+593
+00:23:41,200 --> 00:23:44,320
+so the pair name is dollar yen
+
+594
+00:23:44,320 --> 00:23:45,679
+and that's what we're employing here for
+
+595
+00:23:45,679 --> 00:23:47,840
+the charting purposes the chart is
+
+596
+00:23:47,840 --> 00:23:48,640
+plotted
+
+597
+00:23:48,640 --> 00:23:50,640
+on the basis of us dollars versus
+
+598
+00:23:50,640 --> 00:23:51,919
+japanese yen
+
+599
+00:23:51,919 --> 00:23:54,720
+and we're using the stronger fed rate
+
+600
+00:23:54,720 --> 00:23:56,080
+versus the weaker
+
+601
+00:23:56,080 --> 00:24:00,400
+japanese rate so this translates into
+
+602
+00:24:00,400 --> 00:24:02,400
+expectations that it would be bullish
+
+603
+00:24:02,400 --> 00:24:04,480
+for this chart because dollar should be
+
+604
+00:24:04,480 --> 00:24:05,200
+going up
+
+605
+00:24:05,200 --> 00:24:08,320
+while yen drops and it would be
+
+606
+00:24:08,320 --> 00:24:11,679
+basically bearish yen thus
+
+607
+00:24:11,679 --> 00:24:14,080
+dollar yen should be expected to rally
+
+608
+00:24:14,080 --> 00:24:14,799
+higher
+
+609
+00:24:14,799 --> 00:24:17,520
+and we obviously see that here here's
+
+610
+00:24:17,520 --> 00:24:18,000
+december
+
+611
+00:24:18,000 --> 00:24:22,080
+crossing into january short term high
+
+612
+00:24:22,080 --> 00:24:23,840
+broken so then we have a break in market
+
+613
+00:24:23,840 --> 00:24:26,400
+structure now the algorithm will reprice
+
+614
+00:24:26,400 --> 00:24:29,360
+dollar higher against yen and that's
+
+615
+00:24:29,360 --> 00:24:30,320
+what you see here
+
+616
+00:24:30,320 --> 00:24:32,240
+now this is not a small move folks this
+
+617
+00:24:32,240 --> 00:24:34,080
+is pretty significant
+
+618
+00:24:34,080 --> 00:24:37,200
+but this in itself is the basis to
+
+619
+00:24:37,200 --> 00:24:39,360
+understanding how to find
+
+620
+00:24:39,360 --> 00:24:41,840
+markets that should be moving in one
+
+621
+00:24:41,840 --> 00:24:42,799
+direction
+
+622
+00:24:42,799 --> 00:24:44,960
+but you're doing it in a way that is
+
+623
+00:24:44,960 --> 00:24:47,440
+done like an interbank trader
+
+624
+00:24:47,440 --> 00:24:49,760
+it's not some willy-nilly guy that puts
+
+625
+00:24:49,760 --> 00:24:50,640
+tdi
+
+626
+00:24:50,640 --> 00:24:53,279
+indicators on his chart calling all
+
+627
+00:24:53,279 --> 00:24:54,880
+kinds of moving averages
+
+628
+00:24:54,880 --> 00:24:58,559
+and chasing price we're looking for
+
+629
+00:24:58,559 --> 00:25:02,159
+real measurable and quantitative means
+
+630
+00:25:02,159 --> 00:25:03,919
+of determining what these markets are
+
+631
+00:25:03,919 --> 00:25:06,480
+going to do it's not hypothetical
+
+632
+00:25:06,480 --> 00:25:09,760
+it's not subjective it's
+
+633
+00:25:09,760 --> 00:25:11,760
+very specific things that you're looking
+
+634
+00:25:11,760 --> 00:25:12,880
+for
+
+635
+00:25:12,880 --> 00:25:15,200
+and you go in looking for these types of
+
+636
+00:25:15,200 --> 00:25:16,320
+moves to be
+
+637
+00:25:16,320 --> 00:25:18,320
+the foundation to majority of your
+
+638
+00:25:18,320 --> 00:25:20,080
+trades now if you trade in this
+
+639
+00:25:20,080 --> 00:25:20,960
+direction
+
+640
+00:25:20,960 --> 00:25:22,400
+and you're buying you can be a
+
+641
+00:25:22,400 --> 00:25:24,480
+short-term trader being a buyer you can
+
+642
+00:25:24,480 --> 00:25:25,520
+be a day trader
+
+643
+00:25:25,520 --> 00:25:27,600
+you can be a scalper you can be a
+
+644
+00:25:27,600 --> 00:25:28,880
+position trader
+
+645
+00:25:28,880 --> 00:25:32,240
+swing trader every facet of
+
+646
+00:25:32,240 --> 00:25:34,559
+trading disciplines can be employed by
+
+647
+00:25:34,559 --> 00:25:35,919
+being bullish on
+
+648
+00:25:35,919 --> 00:25:43,840
+dollar yen
+
+649
+00:25:44,320 --> 00:25:45,840
+okay now we're going to be looking at
+
+650
+00:25:45,840 --> 00:25:48,000
+the interest rate differential
+
+651
+00:25:48,000 --> 00:25:50,559
+in the cad yen this is going to be a
+
+652
+00:25:50,559 --> 00:25:51,919
+case study for it
+
+653
+00:25:51,919 --> 00:25:53,840
+so we're going to be looking again at
+
+654
+00:25:53,840 --> 00:25:55,039
+the japanese yen
+
+655
+00:25:55,039 --> 00:25:59,200
+which is a weak interest rate negative
+
+656
+00:25:59,200 --> 00:26:02,320
+0.10 and the canadian dollar has a
+
+657
+00:26:02,320 --> 00:26:05,760
+interest rate the same of what we
+
+658
+00:26:05,760 --> 00:26:08,000
+referred to in the dollar index it has
+
+659
+00:26:08,000 --> 00:26:09,679
+the same rate
+
+660
+00:26:09,679 --> 00:26:12,640
+so right away you should know that it
+
+661
+00:26:12,640 --> 00:26:15,200
+should be bullish canadian dollar
+
+662
+00:26:15,200 --> 00:26:17,679
+bearish japanese yen but we have to go
+
+663
+00:26:17,679 --> 00:26:19,120
+behind the scenes and go do a
+
+664
+00:26:19,120 --> 00:26:20,159
+quantitative
+
+665
+00:26:20,159 --> 00:26:23,760
+analysis on what the actual positions
+
+666
+00:26:23,760 --> 00:26:26,400
+are by the smart money because the
+
+667
+00:26:26,400 --> 00:26:27,919
+commitment traders gives us a graphic
+
+668
+00:26:27,919 --> 00:26:28,799
+depiction
+
+669
+00:26:28,799 --> 00:26:30,960
+of their real trading of their real
+
+670
+00:26:30,960 --> 00:26:32,000
+positions
+
+671
+00:26:32,000 --> 00:26:34,880
+it's not just well this should be
+
+672
+00:26:34,880 --> 00:26:36,000
+bullish
+
+673
+00:26:36,000 --> 00:26:38,240
+or this should be bearish okay that's
+
+674
+00:26:38,240 --> 00:26:39,440
+the
+
+675
+00:26:39,440 --> 00:26:42,320
+precursor the interest rate differential
+
+676
+00:26:42,320 --> 00:26:43,760
+is the precursor
+
+677
+00:26:43,760 --> 00:26:45,200
+it doesn't mean just because one
+
+678
+00:26:45,200 --> 00:26:47,120
+interest rate is higher than the other
+
+679
+00:26:47,120 --> 00:26:48,960
+that the chart is going to be anytime
+
+680
+00:26:48,960 --> 00:26:50,240
+you sit down in front of it
+
+681
+00:26:50,240 --> 00:26:52,000
+it's a good buy or a good sell relative
+
+682
+00:26:52,000 --> 00:26:53,520
+to that differential
+
+683
+00:26:53,520 --> 00:26:56,640
+you need to know that that is just the
+
+684
+00:26:56,640 --> 00:26:59,679
+fundamental backdrop or underpinnings in
+
+685
+00:26:59,679 --> 00:27:00,880
+the marketplace
+
+686
+00:27:00,880 --> 00:27:02,720
+then you have to wait for smart money to
+
+687
+00:27:02,720 --> 00:27:04,480
+position themselves
+
+688
+00:27:04,480 --> 00:27:06,640
+then once that's there the algorithm
+
+689
+00:27:06,640 --> 00:27:09,360
+will reprice
+
+690
+00:27:13,760 --> 00:27:15,200
+all right we're looking at the canadian
+
+691
+00:27:15,200 --> 00:27:16,880
+dollar futures market this is the
+
+692
+00:27:16,880 --> 00:27:19,200
+september 2021 contract
+
+693
+00:27:19,200 --> 00:27:22,159
+on barchart.com and this is the symbol
+
+694
+00:27:22,159 --> 00:27:23,679
+you would use to see it
+
+695
+00:27:23,679 --> 00:27:26,240
+okay and plotting the commitment of
+
+696
+00:27:26,240 --> 00:27:27,679
+traders
+
+697
+00:27:27,679 --> 00:27:32,200
+now if you recall back on the
+
+698
+00:27:32,200 --> 00:27:35,600
+globalrates.com or globalhyphenrates.com
+
+699
+00:27:35,600 --> 00:27:38,080
+website when we were looking at canadian
+
+700
+00:27:38,080 --> 00:27:39,440
+dollar you probably didn't
+
+701
+00:27:39,440 --> 00:27:41,679
+notice it since i didn't mention it i
+
+702
+00:27:41,679 --> 00:27:43,039
+apologize but if you
+
+703
+00:27:43,039 --> 00:27:45,440
+go back to that list or rewind the video
+
+704
+00:27:45,440 --> 00:27:47,279
+rewatch it or whatever
+
+705
+00:27:47,279 --> 00:27:50,480
+you'll see that in march of 2020
+
+706
+00:27:50,480 --> 00:27:53,919
+it showed that it dropped
+
+707
+00:27:53,919 --> 00:27:58,159
+about half a percent from 0.75
+
+708
+00:27:58,159 --> 00:28:01,600
+down to 0.25 percent so it's a quarter
+
+709
+00:28:01,600 --> 00:28:02,000
+percent
+
+710
+00:28:02,000 --> 00:28:05,120
+from three quarters of percent so
+
+711
+00:28:05,120 --> 00:28:07,120
+the interest rate actually dropped a
+
+712
+00:28:07,120 --> 00:28:08,240
+half percent
+
+713
+00:28:08,240 --> 00:28:12,799
+in march of 2020 just from
+
+714
+00:28:12,799 --> 00:28:15,919
+looking at it from face value some would
+
+715
+00:28:15,919 --> 00:28:17,360
+say oh that's not good
+
+716
+00:28:17,360 --> 00:28:19,840
+because the interest rates are dropping
+
+717
+00:28:19,840 --> 00:28:21,200
+it doesn't make a difference here
+
+718
+00:28:21,200 --> 00:28:22,320
+because what we're looking at is the
+
+719
+00:28:22,320 --> 00:28:23,919
+differential
+
+720
+00:28:23,919 --> 00:28:28,840
+0.25 is still better than negative 0.10
+
+721
+00:28:28,840 --> 00:28:32,960
+so when we look at march here
+
+722
+00:28:32,960 --> 00:28:37,039
+this deep dive down in price
+
+723
+00:28:37,039 --> 00:28:39,840
+it happens around the same time that the
+
+724
+00:28:39,840 --> 00:28:41,840
+interest rate announcement comes out
+
+725
+00:28:41,840 --> 00:28:43,279
+and even though the interest rate
+
+726
+00:28:43,279 --> 00:28:45,360
+dropped a half a percent
+
+727
+00:28:45,360 --> 00:28:47,760
+it's still a positive interest rate
+
+728
+00:28:47,760 --> 00:28:49,440
+versus a negative interest rate that's
+
+729
+00:28:49,440 --> 00:28:51,279
+seen in japan
+
+730
+00:28:51,279 --> 00:28:54,080
+so right in here when price is
+
+731
+00:28:54,080 --> 00:28:56,960
+consolidating look what's occurring here
+
+732
+00:28:56,960 --> 00:28:59,760
+we have a big buildup of net long
+
+733
+00:28:59,760 --> 00:29:00,880
+positions by the commercials they're
+
+734
+00:29:00,880 --> 00:29:02,720
+above the zero line so they're bullish
+
+735
+00:29:02,720 --> 00:29:05,840
+okay so they're bullish at the time
+
+736
+00:29:05,840 --> 00:29:08,960
+when the interest rate differential is
+
+737
+00:29:08,960 --> 00:29:13,840
+positive for canadian negative for yen
+
+738
+00:29:14,720 --> 00:29:18,960
+later on as we get into the end of 2020
+
+739
+00:29:18,960 --> 00:29:22,240
+we move from bullish to negative below
+
+740
+00:29:22,240 --> 00:29:23,520
+the zero level
+
+741
+00:29:23,520 --> 00:29:26,880
+this swing down doesn't change it being
+
+742
+00:29:26,880 --> 00:29:27,520
+bullish
+
+743
+00:29:27,520 --> 00:29:28,960
+it just means that we're in a strong
+
+744
+00:29:28,960 --> 00:29:31,279
+trend and these relative equal highs up
+
+745
+00:29:31,279 --> 00:29:32,240
+here
+
+746
+00:29:32,240 --> 00:29:33,760
+and some of you that are new to think
+
+747
+00:29:33,760 --> 00:29:36,320
+that this isn't equal it's relative
+
+748
+00:29:36,320 --> 00:29:39,760
+okay it's we'd look for this to be taken
+
+749
+00:29:39,760 --> 00:29:40,240
+out
+
+750
+00:29:40,240 --> 00:29:41,840
+okay in other words there's a lot of buy
+
+751
+00:29:41,840 --> 00:29:43,520
+stops up there just like this
+
+752
+00:29:43,520 --> 00:29:45,360
+is relatively equal highs but it didn't
+
+753
+00:29:45,360 --> 00:29:46,559
+take long for it to get
+
+754
+00:29:46,559 --> 00:29:48,880
+above that there but from a long-term
+
+755
+00:29:48,880 --> 00:29:49,840
+perspective and this
+
+756
+00:29:49,840 --> 00:29:53,039
+we're focusing on this high here
+
+757
+00:29:53,039 --> 00:29:54,480
+should be challenged and we've seen it
+
+758
+00:29:54,480 --> 00:29:56,480
+here
+
+759
+00:29:56,480 --> 00:29:58,399
+now i know some of you may be new to me
+
+760
+00:29:58,399 --> 00:29:59,840
+and this might seem like well this is
+
+761
+00:29:59,840 --> 00:30:01,360
+obvious to talk about it in hindsight
+
+762
+00:30:01,360 --> 00:30:03,360
+but i promise you
+
+763
+00:30:03,360 --> 00:30:05,919
+this stuff repeats all the time every
+
+764
+00:30:05,919 --> 00:30:06,640
+three months
+
+765
+00:30:06,640 --> 00:30:08,880
+every six months every nine months every
+
+766
+00:30:08,880 --> 00:30:10,240
+year okay
+
+767
+00:30:10,240 --> 00:30:13,679
+it works all the time but we're in
+
+768
+00:30:13,679 --> 00:30:17,360
+a year that followed a really
+
+769
+00:30:17,360 --> 00:30:20,480
+weird year because of all the illness
+
+770
+00:30:20,480 --> 00:30:22,080
+related things and i'm not going to say
+
+771
+00:30:22,080 --> 00:30:23,679
+anything more than that
+
+772
+00:30:23,679 --> 00:30:27,360
+but even with that this information
+
+773
+00:30:27,360 --> 00:30:28,320
+still
+
+774
+00:30:28,320 --> 00:30:31,279
+fairs out moves so we have a net long
+
+775
+00:30:31,279 --> 00:30:32,559
+position here
+
+776
+00:30:32,559 --> 00:30:35,279
+that's bullish at a time when the
+
+777
+00:30:35,279 --> 00:30:37,039
+interest rate has dropped
+
+778
+00:30:37,039 --> 00:30:41,840
+so since 2016 the negative rate on japan
+
+779
+00:30:41,840 --> 00:30:45,279
+hasn't been changed so we had a change
+
+780
+00:30:45,279 --> 00:30:48,000
+in the interest rate on the
+
+781
+00:30:48,000 --> 00:30:51,200
+looney or the
+
+782
+00:30:51,200 --> 00:30:54,240
+canadian dollar so that rate
+
+783
+00:30:54,240 --> 00:30:56,000
+dropped a half percent but still
+
+784
+00:30:56,000 --> 00:30:57,760
+remained positive
+
+785
+00:30:57,760 --> 00:31:01,039
+rate in contrast to what japan's rate is
+
+786
+00:31:01,039 --> 00:31:04,320
+negative 0.10
+
+787
+00:31:04,320 --> 00:31:06,880
+so we have the real positioning of the
+
+788
+00:31:06,880 --> 00:31:08,640
+smart money being bullish
+
+789
+00:31:08,640 --> 00:31:10,399
+at a time after the interest rate
+
+790
+00:31:10,399 --> 00:31:12,080
+announcement
+
+791
+00:31:12,080 --> 00:31:14,880
+and even with this drop down below the
+
+792
+00:31:14,880 --> 00:31:16,240
+zero line here
+
+793
+00:31:16,240 --> 00:31:18,399
+all that indicates is we're in a strong
+
+794
+00:31:18,399 --> 00:31:20,000
+trend and now they're just hedging
+
+795
+00:31:20,000 --> 00:31:23,039
+into until we get to this really extreme
+
+796
+00:31:23,039 --> 00:31:23,360
+net
+
+797
+00:31:23,360 --> 00:31:26,159
+short position here where that's where
+
+798
+00:31:26,159 --> 00:31:28,159
+the market tops out
+
+799
+00:31:28,159 --> 00:31:31,760
+after it runs this high and it runs the
+
+800
+00:31:31,760 --> 00:31:33,440
+end of its seasonal tendency and i will
+
+801
+00:31:33,440 --> 00:31:34,960
+count you to go back through
+
+802
+00:31:34,960 --> 00:31:36,720
+recent videos and again the time of this
+
+803
+00:31:36,720 --> 00:31:38,080
+recording
+
+804
+00:31:38,080 --> 00:31:42,399
+is july 26 2021
+
+805
+00:31:42,399 --> 00:31:45,360
+so in recent weeks or within a month or
+
+806
+00:31:45,360 --> 00:31:46,159
+so
+
+807
+00:31:46,159 --> 00:31:50,480
+i taught a lesson on seasonal tendencies
+
+808
+00:31:50,480 --> 00:31:52,799
+and actually talk about canadian dollar
+
+809
+00:31:52,799 --> 00:31:54,320
+and how the seasonal tendency for
+
+810
+00:31:54,320 --> 00:31:55,840
+canadian dollar
+
+811
+00:31:55,840 --> 00:31:58,960
+is specific around
+
+812
+00:31:58,960 --> 00:32:01,760
+a time of year and if you look at what
+
+813
+00:32:01,760 --> 00:32:03,679
+we see here
+
+814
+00:32:03,679 --> 00:32:06,080
+it's delivered exactly like i outlined
+
+815
+00:32:06,080 --> 00:32:07,440
+even in that video there
+
+816
+00:32:07,440 --> 00:32:09,039
+but that's for another time another
+
+817
+00:32:09,039 --> 00:32:11,440
+discussion let's move over to
+
+818
+00:32:11,440 --> 00:32:13,039
+the japanese yen again we've already
+
+819
+00:32:13,039 --> 00:32:14,640
+seen the chart
+
+820
+00:32:14,640 --> 00:32:17,840
+but we're referring to it again
+
+821
+00:32:19,200 --> 00:32:22,240
+so we're bearish here
+
+822
+00:32:22,240 --> 00:32:25,360
+and just crossing over doesn't change it
+
+823
+00:32:25,360 --> 00:32:26,799
+from being bearish to bullish it just
+
+824
+00:32:26,799 --> 00:32:27,440
+means that
+
+825
+00:32:27,440 --> 00:32:29,440
+the trend is strong and now they're
+
+826
+00:32:29,440 --> 00:32:31,519
+hedging in
+
+827
+00:32:31,519 --> 00:32:33,840
+as it's dropping down they're buying
+
+828
+00:32:33,840 --> 00:32:35,600
+into those lower lows because they sold
+
+829
+00:32:35,600 --> 00:32:36,480
+short up here
+
+830
+00:32:36,480 --> 00:32:38,000
+and to get out of the short how you have
+
+831
+00:32:38,000 --> 00:32:40,480
+to get out of it you have to buy it back
+
+832
+00:32:40,480 --> 00:32:42,159
+and that's all we're seeing here is the
+
+833
+00:32:42,159 --> 00:32:44,159
+smart money is buying back their heavy
+
+834
+00:32:44,159 --> 00:32:46,640
+net short positions from up here so
+
+835
+00:32:46,640 --> 00:32:47,679
+let's take a look at what that
+
+836
+00:32:47,679 --> 00:32:48,960
+translates to
+
+837
+00:32:48,960 --> 00:32:52,159
+in terms of a forex chart so the
+
+838
+00:32:52,159 --> 00:32:54,840
+interest rate differential on cad
+
+839
+00:32:54,840 --> 00:32:57,760
+yen is seen here so in november the
+
+840
+00:32:57,760 --> 00:32:58,880
+summer time period
+
+841
+00:32:58,880 --> 00:33:00,559
+you can see a market structure break
+
+842
+00:33:00,559 --> 00:33:02,720
+here it comes back down and starts to
+
+843
+00:33:02,720 --> 00:33:03,679
+rally up
+
+844
+00:33:03,679 --> 00:33:06,159
+and follows that underlyingly bullish
+
+845
+00:33:06,159 --> 00:33:07,519
+canadian dollar
+
+846
+00:33:07,519 --> 00:33:09,679
+bearish japanese yen and the market
+
+847
+00:33:09,679 --> 00:33:11,840
+rallies up
+
+848
+00:33:11,840 --> 00:33:16,080
+and has a significant price run of over
+
+849
+00:33:16,080 --> 00:33:19,039
+1200 points
+
+850
+00:33:19,519 --> 00:33:22,880
+so that's a significant run in price
+
+851
+00:33:22,880 --> 00:33:24,960
+so you can be again in any of this run
+
+852
+00:33:24,960 --> 00:33:26,880
+up here you could be a day trader
+
+853
+00:33:26,880 --> 00:33:28,880
+you can be a short-term trader you can
+
+854
+00:33:28,880 --> 00:33:31,200
+be a swing trader a position trader
+
+855
+00:33:31,200 --> 00:33:34,320
+but these large moves are what the
+
+856
+00:33:34,320 --> 00:33:35,360
+interbank traders
+
+857
+00:33:35,360 --> 00:33:37,840
+from the central bank level okay there
+
+858
+00:33:37,840 --> 00:33:39,039
+will be people that say
+
+859
+00:33:39,039 --> 00:33:42,640
+central banks don't trade no
+
+860
+00:33:42,640 --> 00:33:45,120
+they employ people to trade for them
+
+861
+00:33:45,120 --> 00:33:46,480
+they speculate
+
+862
+00:33:46,480 --> 00:33:48,159
+they're trying to make money in every
+
+863
+00:33:48,159 --> 00:33:50,080
+avenue okay they have their tentacles in
+
+864
+00:33:50,080 --> 00:33:53,600
+everything okay so it's not a stretch of
+
+865
+00:33:53,600 --> 00:33:54,720
+the imagination
+
+866
+00:33:54,720 --> 00:33:56,480
+to if they're going to control price and
+
+867
+00:33:56,480 --> 00:33:58,480
+they basically run
+
+868
+00:33:58,480 --> 00:34:01,200
+the whole store
+
+869
+00:34:01,519 --> 00:34:04,640
+who's going to police them
+
+870
+00:34:05,120 --> 00:34:07,679
+no bun there's never been an audit on
+
+871
+00:34:07,679 --> 00:34:09,280
+any central bank
+
+872
+00:34:09,280 --> 00:34:10,560
+you're never going to tell them they can
+
+873
+00:34:10,560 --> 00:34:12,320
+or can't do something
+
+874
+00:34:12,320 --> 00:34:14,000
+it's their game it's their role it's
+
+875
+00:34:14,000 --> 00:34:15,679
+their casino and they can do whatever
+
+876
+00:34:15,679 --> 00:34:16,960
+they want
+
+877
+00:34:16,960 --> 00:34:19,359
+and if they control it they have the
+
+878
+00:34:19,359 --> 00:34:20,000
+inside edge
+
+879
+00:34:20,000 --> 00:34:23,280
+they have the advantage okay so you can
+
+880
+00:34:23,280 --> 00:34:23,839
+be mad
+
+881
+00:34:23,839 --> 00:34:26,960
+you can fold your arms and hiss and
+
+882
+00:34:26,960 --> 00:34:29,599
+say this is unfair or you can say well
+
+883
+00:34:29,599 --> 00:34:31,520
+this is how they do it
+
+884
+00:34:31,520 --> 00:34:34,000
+and i'm going to operate like this this
+
+885
+00:34:34,000 --> 00:34:35,520
+is the closest that you're going to get
+
+886
+00:34:35,520 --> 00:34:36,879
+to it
+
+887
+00:34:36,879 --> 00:34:40,239
+and it works it's
+
+888
+00:34:40,239 --> 00:34:42,879
+extremely powerful information the
+
+889
+00:34:42,879 --> 00:34:44,399
+insight that it gives you
+
+890
+00:34:44,399 --> 00:34:46,639
+really puts you on the right side of the
+
+891
+00:34:46,639 --> 00:34:48,239
+marketplace and it's not just
+
+892
+00:34:48,239 --> 00:34:51,760
+a one-day bias it's
+
+893
+00:34:51,760 --> 00:34:54,719
+long-term now i don't get in positions
+
+894
+00:34:54,719 --> 00:34:56,239
+and hold them
+
+895
+00:34:56,239 --> 00:35:00,079
+from a low like in november
+
+896
+00:35:00,079 --> 00:35:03,040
+2020 all the way up to a high of june i
+
+897
+00:35:03,040 --> 00:35:04,400
+don't trade that way
+
+898
+00:35:04,400 --> 00:35:06,800
+and the reason why is i don't have the
+
+899
+00:35:06,800 --> 00:35:07,520
+patience
+
+900
+00:35:07,520 --> 00:35:09,760
+to do that because i'm like a dog
+
+901
+00:35:09,760 --> 00:35:11,040
+chasing cars
+
+902
+00:35:11,040 --> 00:35:13,040
+i can see a one-minute chart a
+
+903
+00:35:13,040 --> 00:35:14,560
+five-minute chart a 15-minute chart a
+
+904
+00:35:14,560 --> 00:35:16,880
+one-hour chart and see
+
+905
+00:35:16,880 --> 00:35:20,160
+dozens of trades all week long and if i
+
+906
+00:35:20,160 --> 00:35:21,599
+have a trade on
+
+907
+00:35:21,599 --> 00:35:26,320
+like this my personality is short term
+
+908
+00:35:26,320 --> 00:35:30,000
+specialized in doing in and out surgical
+
+909
+00:35:30,000 --> 00:35:31,920
+strikes that because i can change my
+
+910
+00:35:31,920 --> 00:35:33,359
+mind a lot
+
+911
+00:35:33,359 --> 00:35:35,760
+and i'm not saying that's a good thing
+
+912
+00:35:35,760 --> 00:35:39,920
+i'm just saying i've matched my personal
+
+913
+00:35:40,160 --> 00:35:43,599
+personality with a mode of trading that
+
+914
+00:35:43,599 --> 00:35:44,000
+fits
+
+915
+00:35:44,000 --> 00:35:46,240
+and suits me which is crucial for your
+
+916
+00:35:46,240 --> 00:35:47,119
+trading
+
+917
+00:35:47,119 --> 00:35:50,320
+but don't let that be an invitation for
+
+918
+00:35:50,320 --> 00:35:51,119
+you to mimic
+
+919
+00:35:51,119 --> 00:35:54,400
+me because some of you may be excellent
+
+920
+00:35:54,400 --> 00:35:58,560
+long-term position traders that you're
+
+921
+00:35:58,560 --> 00:36:00,400
+very committed to an idea and it takes a
+
+922
+00:36:00,400 --> 00:36:01,839
+lot for you to change your mind that's
+
+923
+00:36:01,839 --> 00:36:02,640
+the personality
+
+924
+00:36:02,640 --> 00:36:04,240
+characteristic that's meant for
+
+925
+00:36:04,240 --> 00:36:06,079
+long-term position training
+
+926
+00:36:06,079 --> 00:36:07,839
+but if you don't have those
+
+927
+00:36:07,839 --> 00:36:09,280
+characteristics and you're trying to do
+
+928
+00:36:09,280 --> 00:36:10,240
+it
+
+929
+00:36:10,240 --> 00:36:13,520
+it's like it's very miserable because
+
+930
+00:36:13,520 --> 00:36:16,240
+you're gonna feel like you can't you
+
+931
+00:36:16,240 --> 00:36:17,040
+can't do it
+
+932
+00:36:17,040 --> 00:36:18,400
+okay you're gonna be wanting to change
+
+933
+00:36:18,400 --> 00:36:19,839
+your mind all the time every little
+
+934
+00:36:19,839 --> 00:36:20,880
+fluctuation is gonna make you wanna
+
+935
+00:36:20,880 --> 00:36:22,640
+change your mind to get out of the trade
+
+936
+00:36:22,640 --> 00:36:26,160
+and a swing trader has a little bit
+
+937
+00:36:26,160 --> 00:36:29,520
+less patience than a position trader
+
+938
+00:36:29,520 --> 00:36:31,520
+but more patients than a short-term
+
+939
+00:36:31,520 --> 00:36:33,920
+trader day trader or scalper
+
+940
+00:36:33,920 --> 00:36:35,599
+and some of you have those
+
+941
+00:36:35,599 --> 00:36:37,920
+characteristics and
+
+942
+00:36:37,920 --> 00:36:40,079
+others are thinking well you know i like
+
+943
+00:36:40,079 --> 00:36:41,040
+to be in for
+
+944
+00:36:41,040 --> 00:36:43,440
+a week maybe three or four days and then
+
+945
+00:36:43,440 --> 00:36:46,560
+get out that's short-term trader
+
+946
+00:36:46,560 --> 00:36:50,240
+if you have less patience than that
+
+947
+00:36:50,240 --> 00:36:51,920
+you're probably a day trader at heart
+
+948
+00:36:51,920 --> 00:36:53,520
+and the way you would use this
+
+949
+00:36:53,520 --> 00:36:54,160
+information
+
+950
+00:36:54,160 --> 00:36:56,800
+is from the crossover here when we had a
+
+951
+00:36:56,800 --> 00:36:58,079
+market structure break
+
+952
+00:36:58,079 --> 00:37:00,000
+and it starts to rally again every
+
+953
+00:37:00,000 --> 00:37:01,440
+bullish day in here is a day where
+
+954
+00:37:01,440 --> 00:37:04,000
+you're trying to capture
+
+955
+00:37:04,000 --> 00:37:07,040
+intraday price moves a day trade
+
+956
+00:37:07,040 --> 00:37:10,720
+and down days may be a day that you take
+
+957
+00:37:10,720 --> 00:37:12,480
+a loss or you sit on your hands and wait
+
+958
+00:37:12,480 --> 00:37:14,160
+for a new setup
+
+959
+00:37:14,160 --> 00:37:17,200
+and scalping you would
+
+960
+00:37:17,200 --> 00:37:19,599
+put more on your trades that were in the
+
+961
+00:37:19,599 --> 00:37:21,200
+bullish side of things
+
+962
+00:37:21,200 --> 00:37:24,320
+and trade a whole lot less leverage when
+
+963
+00:37:24,320 --> 00:37:25,200
+you're shorting
+
+964
+00:37:25,200 --> 00:37:28,480
+in a move that's fundamentally
+
+965
+00:37:28,480 --> 00:37:30,880
+driven like this i'm not saying you
+
+966
+00:37:30,880 --> 00:37:32,560
+can't make money shorting in moves
+
+967
+00:37:32,560 --> 00:37:34,400
+that run up like this but my question is
+
+968
+00:37:34,400 --> 00:37:36,560
+why would you want to do that
+
+969
+00:37:36,560 --> 00:37:38,320
+when everything is predisposed to go
+
+970
+00:37:38,320 --> 00:37:39,760
+higher
+
+971
+00:37:39,760 --> 00:37:42,160
+okay so hopefully this first installment
+
+972
+00:37:42,160 --> 00:37:44,000
+has got your gears turning
+
+973
+00:37:44,000 --> 00:37:46,400
+and it gives you a little bit of clarity
+
+974
+00:37:46,400 --> 00:37:47,040
+about
+
+975
+00:37:47,040 --> 00:37:48,800
+the mystery that makes these markets
+
+976
+00:37:48,800 --> 00:37:50,240
+move around
+
+977
+00:37:50,240 --> 00:37:51,520
+we're going to dive a little bit deeper
+
+978
+00:37:51,520 --> 00:37:53,760
+into what makes these things
+
+979
+00:37:53,760 --> 00:37:55,680
+gyrate and go to where they want to
+
+980
+00:37:55,680 --> 00:37:56,960
+eventually get to
+
+981
+00:37:56,960 --> 00:38:02,000
+in volume 2 until then be safe
+

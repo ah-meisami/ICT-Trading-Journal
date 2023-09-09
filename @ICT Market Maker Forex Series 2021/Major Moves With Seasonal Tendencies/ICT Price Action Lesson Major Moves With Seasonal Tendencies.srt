@@ -1,0 +1,6676 @@
+1
+00:00:28,480 --> 00:00:29,599
+alright folks welcome back
+
+2
+00:00:29,599 --> 00:00:33,280
+this is a new year and some
+
+3
+00:00:33,280 --> 00:00:35,440
+new discussions we're going to talk
+
+4
+00:00:35,440 --> 00:00:37,120
+about major moves with seasonal
+
+5
+00:00:37,120 --> 00:00:38,800
+tendencies now i'm going to talk about
+
+6
+00:00:38,800 --> 00:00:40,320
+specifically
+
+7
+00:00:40,320 --> 00:00:43,520
+commodities in this lecture now it's
+
+8
+00:00:43,520 --> 00:00:44,800
+important to know that
+
+9
+00:00:44,800 --> 00:00:46,719
+if some of you are hardline crypto
+
+10
+00:00:46,719 --> 00:00:48,320
+traders or
+
+11
+00:00:48,320 --> 00:00:51,440
+forex traders there are seasonal
+
+12
+00:00:51,440 --> 00:00:52,399
+tendencies
+
+13
+00:00:52,399 --> 00:00:55,039
+in forex there are seasonal tendencies
+
+14
+00:00:55,039 --> 00:00:55,760
+in
+
+15
+00:00:55,760 --> 00:00:57,360
+the dollar index there's seasonal
+
+16
+00:00:57,360 --> 00:00:59,199
+tendencies in stocks
+
+17
+00:00:59,199 --> 00:01:02,640
+so try not to read so much
+
+18
+00:01:02,640 --> 00:01:06,400
+into this lesson and think of it as only
+
+19
+00:01:06,400 --> 00:01:08,000
+applying to the markets i'm going to
+
+20
+00:01:08,000 --> 00:01:09,119
+refer to
+
+21
+00:01:09,119 --> 00:01:13,360
+in its delivery okay so
+
+22
+00:01:13,360 --> 00:01:16,080
+understand a seasonal tendency is a road
+
+23
+00:01:16,080 --> 00:01:16,880
+map it's a
+
+24
+00:01:16,880 --> 00:01:18,960
+generalization of what has happened in
+
+25
+00:01:18,960 --> 00:01:20,240
+the past
+
+26
+00:01:20,240 --> 00:01:23,840
+and if there is some measure of
+
+27
+00:01:23,840 --> 00:01:26,560
+repeating phenomenon okay in other words
+
+28
+00:01:26,560 --> 00:01:28,240
+if
+
+29
+00:01:28,240 --> 00:01:31,360
+we think that the market is going to go
+
+30
+00:01:31,360 --> 00:01:33,360
+up at a particular time of the year
+
+31
+00:01:33,360 --> 00:01:35,600
+to a specific time of the year and we
+
+32
+00:01:35,600 --> 00:01:36,799
+measure it over
+
+33
+00:01:36,799 --> 00:01:39,040
+the last five years over the last 10
+
+34
+00:01:39,040 --> 00:01:40,960
+years the last 15 years the last 20 and
+
+35
+00:01:40,960 --> 00:01:42,640
+25 years
+
+36
+00:01:42,640 --> 00:01:45,360
+there are services out there and i'll
+
+37
+00:01:45,360 --> 00:01:46,399
+turn you on to one
+
+38
+00:01:46,399 --> 00:01:49,520
+in this teaching that i have a lot of
+
+39
+00:01:49,520 --> 00:01:52,799
+faith in myself personally
+
+40
+00:01:52,840 --> 00:01:55,759
+but it's important to note that and i'm
+
+41
+00:01:55,759 --> 00:01:56,079
+not
+
+42
+00:01:56,079 --> 00:01:59,040
+saying this is going to be the case
+
+43
+00:01:59,040 --> 00:02:00,320
+every single time you look at the
+
+44
+00:02:00,320 --> 00:02:01,200
+marketplace
+
+45
+00:02:01,200 --> 00:02:03,920
+there are some certain caveats that have
+
+46
+00:02:03,920 --> 00:02:05,520
+to be considered
+
+47
+00:02:05,520 --> 00:02:07,520
+and i'll briefly discuss those as we go
+
+48
+00:02:07,520 --> 00:02:08,720
+along but i'm going to try to keep this
+
+49
+00:02:08,720 --> 00:02:09,598
+video short
+
+50
+00:02:09,598 --> 00:02:10,878
+because i know some of you have very
+
+51
+00:02:10,878 --> 00:02:12,400
+short attention spans when it comes to
+
+52
+00:02:12,400 --> 00:02:13,760
+my lectures because
+
+53
+00:02:13,760 --> 00:02:15,760
+i think i'm talking too much but i'm
+
+54
+00:02:15,760 --> 00:02:17,840
+just trying to give you an extra value
+
+55
+00:02:17,840 --> 00:02:20,080
+and insights that you would otherwise
+
+56
+00:02:20,080 --> 00:02:23,120
+have to pay for elsewhere
+
+57
+00:02:23,120 --> 00:02:26,720
+so let's take a look at a
+
+58
+00:02:26,720 --> 00:02:30,160
+dollar index chart to begin with
+
+59
+00:02:30,160 --> 00:02:31,680
+all right so we're looking at the dollar
+
+60
+00:02:31,680 --> 00:02:34,400
+index and i'm using tradingview.com
+
+61
+00:02:34,400 --> 00:02:36,800
+all right so you can find this
+
+62
+00:02:36,800 --> 00:02:38,239
+information yourself you can go pull up
+
+63
+00:02:38,239 --> 00:02:39,200
+your own version
+
+64
+00:02:39,200 --> 00:02:41,040
+of this chart and take a look at the
+
+65
+00:02:41,040 --> 00:02:43,040
+things i'm referring to here
+
+66
+00:02:43,040 --> 00:02:46,160
+and it should be on par with what i'm
+
+67
+00:02:46,160 --> 00:02:47,200
+showing
+
+68
+00:02:47,200 --> 00:02:49,200
+in my charts now i'm going to refrain
+
+69
+00:02:49,200 --> 00:02:50,319
+from showing any kind of real
+
+70
+00:02:50,319 --> 00:02:51,840
+annotations until we get to the very
+
+71
+00:02:51,840 --> 00:02:53,120
+specific market
+
+72
+00:02:53,120 --> 00:02:56,319
+i want to talk about but i'm going to
+
+73
+00:02:56,319 --> 00:02:58,000
+talk about a few of them
+
+74
+00:02:58,000 --> 00:03:01,040
+and review some of the
+
+75
+00:03:01,040 --> 00:03:04,080
+potential opportunities that make their
+
+76
+00:03:04,080 --> 00:03:04,560
+sales
+
+77
+00:03:04,560 --> 00:03:08,640
+available each year in these markets
+
+78
+00:03:08,640 --> 00:03:11,840
+so i've always begin my
+
+79
+00:03:11,840 --> 00:03:14,319
+analysis with the dollar index okay and
+
+80
+00:03:14,319 --> 00:03:16,000
+the reason why i do that
+
+81
+00:03:16,000 --> 00:03:17,920
+is because i want to know if we are on a
+
+82
+00:03:17,920 --> 00:03:20,400
+risk on or risk off environment now risk
+
+83
+00:03:20,400 --> 00:03:21,440
+on
+
+84
+00:03:21,440 --> 00:03:23,840
+would be where the market has the dollar
+
+85
+00:03:23,840 --> 00:03:25,920
+index going lower
+
+86
+00:03:25,920 --> 00:03:28,640
+as we see here around july of 2020 to
+
+87
+00:03:28,640 --> 00:03:29,840
+present
+
+88
+00:03:29,840 --> 00:03:33,360
+and that would allow or permit the
+
+89
+00:03:33,360 --> 00:03:36,799
+likelihood of markets to rally or go
+
+90
+00:03:36,799 --> 00:03:39,200
+higher and that being like
+
+91
+00:03:39,200 --> 00:03:42,000
+foreign currency against the dollar and
+
+92
+00:03:42,000 --> 00:03:42,959
+also
+
+93
+00:03:42,959 --> 00:03:45,120
+commodities because if the dollar is
+
+94
+00:03:45,120 --> 00:03:46,879
+going lower that is more or less
+
+95
+00:03:46,879 --> 00:03:48,720
+inflationary
+
+96
+00:03:48,720 --> 00:03:50,879
+for commodity prices so they're going to
+
+97
+00:03:50,879 --> 00:03:53,200
+see a an appreciation in
+
+98
+00:03:53,200 --> 00:03:57,040
+the cost of producing and or purchasing
+
+99
+00:03:57,040 --> 00:04:01,120
+commodities so if we can just simply
+
+100
+00:04:01,120 --> 00:04:02,959
+understand that going forward everything
+
+101
+00:04:02,959 --> 00:04:04,560
+in this teaching
+
+102
+00:04:04,560 --> 00:04:07,599
+will be very easy to follow along if
+
+103
+00:04:07,599 --> 00:04:09,439
+you're someone that's new to my channel
+
+104
+00:04:09,439 --> 00:04:11,200
+or new to commodities or trading in
+
+105
+00:04:11,200 --> 00:04:12,480
+general
+
+106
+00:04:12,480 --> 00:04:13,599
+you're probably going to want to watch
+
+107
+00:04:13,599 --> 00:04:16,160
+other video series on this
+
+108
+00:04:16,160 --> 00:04:17,839
+youtube channel and it'll help fill in
+
+109
+00:04:17,839 --> 00:04:19,839
+some of the gaps i'm certain that you
+
+110
+00:04:19,839 --> 00:04:23,360
+have watching this if
+
+111
+00:04:23,360 --> 00:04:26,560
+the dollar index is going higher that's
+
+112
+00:04:26,560 --> 00:04:28,479
+going to be deflationary for
+
+113
+00:04:28,479 --> 00:04:30,880
+commodity prices and also for foreign
+
+114
+00:04:30,880 --> 00:04:31,680
+currencies
+
+115
+00:04:31,680 --> 00:04:32,880
+they're going to go lower in
+
+116
+00:04:32,880 --> 00:04:34,800
+relationship to the higher prices in
+
+117
+00:04:34,800 --> 00:04:35,680
+dollar
+
+118
+00:04:35,680 --> 00:04:39,199
+now if we have that risk on risk off
+
+119
+00:04:39,199 --> 00:04:39,919
+scenario
+
+120
+00:04:39,919 --> 00:04:42,080
+in mind when dollar is going lower
+
+121
+00:04:42,080 --> 00:04:44,080
+that's risk on
+
+122
+00:04:44,080 --> 00:04:46,720
+when dollars going higher that's risk
+
+123
+00:04:46,720 --> 00:04:49,040
+off
+
+124
+00:04:49,520 --> 00:04:52,880
+if we have this period of time
+
+125
+00:04:52,880 --> 00:04:55,919
+when the market is clearly indicating
+
+126
+00:04:55,919 --> 00:04:58,000
+that the dollar wants to go lower
+
+127
+00:04:58,000 --> 00:05:01,039
+that means we are on the watch for
+
+128
+00:05:01,039 --> 00:05:04,240
+big moves on the upside okay really big
+
+129
+00:05:04,240 --> 00:05:06,080
+moves
+
+130
+00:05:06,080 --> 00:05:09,520
+one such big move this year was the
+
+131
+00:05:09,520 --> 00:05:10,000
+soybean
+
+132
+00:05:10,000 --> 00:05:12,240
+market and i've been very vocal about
+
+133
+00:05:12,240 --> 00:05:14,000
+that my students know about that
+
+134
+00:05:14,000 --> 00:05:18,160
+and i've also tipped the community off
+
+135
+00:05:18,160 --> 00:05:20,880
+in my youtube channel and if you look at
+
+136
+00:05:20,880 --> 00:05:21,919
+that over here
+
+137
+00:05:21,919 --> 00:05:23,360
+i have a bunch of things that i've
+
+138
+00:05:23,360 --> 00:05:25,360
+shared publicly here now when i look at
+
+139
+00:05:25,360 --> 00:05:27,520
+this
+
+140
+00:05:27,520 --> 00:05:29,039
+i can see that it doesn't really give me
+
+141
+00:05:29,039 --> 00:05:31,280
+a specific date and i'm actually
+
+142
+00:05:31,280 --> 00:05:32,800
+learning something as i do this video
+
+143
+00:05:32,800 --> 00:05:34,240
+with you right now
+
+144
+00:05:34,240 --> 00:05:37,520
+i'm going to include the actual date
+
+145
+00:05:37,520 --> 00:05:41,120
+that i posted okay so i wish it would
+
+146
+00:05:41,120 --> 00:05:42,880
+have given me a specific date but
+
+147
+00:05:42,880 --> 00:05:46,000
+nonetheless it is what it is
+
+148
+00:05:46,000 --> 00:05:49,680
+the uh the thumbs up that's highlighted
+
+149
+00:05:49,680 --> 00:05:50,400
+here
+
+150
+00:05:50,400 --> 00:05:53,199
+just so you guys know i like to post the
+
+151
+00:05:53,199 --> 00:05:53,840
+comment
+
+152
+00:05:53,840 --> 00:05:55,759
+and then i wait for the first thumbs up
+
+153
+00:05:55,759 --> 00:05:57,759
+and i'm usually the second thumbs up
+
+154
+00:05:57,759 --> 00:05:59,680
+because it's my way of checking to make
+
+155
+00:05:59,680 --> 00:06:00,960
+sure that it's
+
+156
+00:06:00,960 --> 00:06:03,120
+viewable on your end because i've had
+
+157
+00:06:03,120 --> 00:06:06,160
+members in the past say i can't see my
+
+158
+00:06:06,160 --> 00:06:07,919
+post or you know the posts i make to the
+
+159
+00:06:07,919 --> 00:06:09,759
+community tab they don't
+
+160
+00:06:09,759 --> 00:06:10,800
+they're saying they didn't see it or
+
+161
+00:06:10,800 --> 00:06:12,880
+they did say they couldn't see it so i
+
+162
+00:06:12,880 --> 00:06:14,479
+usually wait for someone to do a thumbs
+
+163
+00:06:14,479 --> 00:06:14,960
+up
+
+164
+00:06:14,960 --> 00:06:17,280
+that means it's visible on urine as the
+
+165
+00:06:17,280 --> 00:06:18,880
+audience and then i'm typically the
+
+166
+00:06:18,880 --> 00:06:20,560
+second thumbs up
+
+167
+00:06:20,560 --> 00:06:22,560
+so it's not me being conceited or loving
+
+168
+00:06:22,560 --> 00:06:23,759
+myself it's just
+
+169
+00:06:23,759 --> 00:06:26,240
+a way for me to know that okay that post
+
+170
+00:06:26,240 --> 00:06:26,880
+has been seen
+
+171
+00:06:26,880 --> 00:06:29,600
+it's public now and i can leave youtube
+
+172
+00:06:29,600 --> 00:06:30,400
+and go about my
+
+173
+00:06:30,400 --> 00:06:33,600
+business somewhere else but
+
+174
+00:06:33,600 --> 00:06:36,080
+if you look at about a month ago i
+
+175
+00:06:36,080 --> 00:06:36,960
+mentioned
+
+176
+00:06:36,960 --> 00:06:38,479
+that if you take a look at the grain
+
+177
+00:06:38,479 --> 00:06:41,360
+reports soybeans as i stated since june
+
+178
+00:06:41,360 --> 00:06:42,639
+of 2020
+
+179
+00:06:42,639 --> 00:06:44,240
+was poised to continue to rally into
+
+180
+00:06:44,240 --> 00:06:48,240
+2021 and i state here
+
+181
+00:06:48,240 --> 00:06:49,919
+corn will be next now notice there's no
+
+182
+00:06:49,919 --> 00:06:51,440
+edit here like you see here there's an
+
+183
+00:06:51,440 --> 00:06:51,919
+edit
+
+184
+00:06:51,919 --> 00:06:53,599
+it means i want to not change a typo or
+
+185
+00:06:53,599 --> 00:06:55,360
+something like that
+
+186
+00:06:55,360 --> 00:06:57,759
+here i'm telling you specifically a
+
+187
+00:06:57,759 --> 00:06:59,440
+month ago that corn
+
+188
+00:06:59,440 --> 00:07:01,680
+is going to be the next big rally okay
+
+189
+00:07:01,680 --> 00:07:03,520
+it's going to go up
+
+190
+00:07:03,520 --> 00:07:05,840
+why well if you look at here i'm telling
+
+191
+00:07:05,840 --> 00:07:07,360
+you that china's buying everything it
+
+192
+00:07:07,360 --> 00:07:08,319
+can
+
+193
+00:07:08,319 --> 00:07:09,599
+and i give you the reasons i'm not going
+
+194
+00:07:09,599 --> 00:07:12,080
+to read it you can see it here
+
+195
+00:07:12,080 --> 00:07:16,160
+but i also talked about bitcoin and i
+
+196
+00:07:16,160 --> 00:07:17,360
+called 20 000
+
+197
+00:07:17,360 --> 00:07:20,479
+before christmas and when i was on
+
+198
+00:07:20,479 --> 00:07:22,400
+twitter which i'm not now i also posted
+
+199
+00:07:22,400 --> 00:07:23,840
+in july of
+
+200
+00:07:23,840 --> 00:07:27,199
+2020 i stated that i felt that
+
+201
+00:07:27,199 --> 00:07:30,560
+we would see bitcoin 30 000
+
+202
+00:07:30,560 --> 00:07:33,599
+by the end of the year going into 2021 i
+
+203
+00:07:33,599 --> 00:07:35,680
+was off by one day
+
+204
+00:07:35,680 --> 00:07:40,000
+so sorry the
+
+205
+00:07:40,000 --> 00:07:41,840
+next level i called for bitcoin and i'll
+
+206
+00:07:41,840 --> 00:07:43,440
+let you scroll so you can find this on
+
+207
+00:07:43,440 --> 00:07:44,560
+your own
+
+208
+00:07:44,560 --> 00:07:46,560
+i called forty thousand and went to like
+
+209
+00:07:46,560 --> 00:07:48,800
+forty two thousand something
+
+210
+00:07:48,800 --> 00:07:51,039
+and then it has recently uh had some
+
+211
+00:07:51,039 --> 00:07:52,400
+difficulties
+
+212
+00:07:52,400 --> 00:07:55,840
+so i'm making calls here
+
+213
+00:07:55,840 --> 00:07:57,599
+publicly because i've had people in the
+
+214
+00:07:57,599 --> 00:07:59,759
+past
+
+215
+00:07:59,759 --> 00:08:01,440
+make some derogatory comments about how
+
+216
+00:08:01,440 --> 00:08:02,720
+i don't really put my neck out on the
+
+217
+00:08:02,720 --> 00:08:04,160
+line say this is what i think is going
+
+218
+00:08:04,160 --> 00:08:04,960
+to happen
+
+219
+00:08:04,960 --> 00:08:07,360
+and i used to do that a lot on twitter
+
+220
+00:08:07,360 --> 00:08:08,960
+but i don't have twitter anymore so this
+
+221
+00:08:08,960 --> 00:08:10,319
+has replaced my twitter
+
+222
+00:08:10,319 --> 00:08:12,960
+and you can follow along and see what
+
+223
+00:08:12,960 --> 00:08:13,360
+i'm
+
+224
+00:08:13,360 --> 00:08:15,599
+suggesting in my expectation i don't do
+
+225
+00:08:15,599 --> 00:08:16,879
+everything
+
+226
+00:08:16,879 --> 00:08:19,120
+but i toss out once in a while something
+
+227
+00:08:19,120 --> 00:08:20,080
+for you guys to
+
+228
+00:08:20,080 --> 00:08:22,160
+study and we're going to take a look at
+
+229
+00:08:22,160 --> 00:08:23,360
+the corn market
+
+230
+00:08:23,360 --> 00:08:25,520
+here in relationship to the soybean
+
+231
+00:08:25,520 --> 00:08:26,479
+market
+
+232
+00:08:26,479 --> 00:08:30,720
+and we're going to use that dollar
+
+233
+00:08:30,720 --> 00:08:33,760
+bearishness from july as a
+
+234
+00:08:33,760 --> 00:08:37,599
+context to anticipating higher prices on
+
+235
+00:08:37,599 --> 00:08:39,120
+every market i'm going to cover in this
+
+236
+00:08:39,120 --> 00:08:41,360
+teaching so let's move on over to
+
+237
+00:08:41,360 --> 00:08:43,360
+soybeans first all right so here's the
+
+238
+00:08:43,360 --> 00:08:44,880
+soybean market and
+
+239
+00:08:44,880 --> 00:08:48,560
+in june of this past year
+
+240
+00:08:48,560 --> 00:08:50,480
+i was warming all my students up to the
+
+241
+00:08:50,480 --> 00:08:51,839
+idea that we were going to
+
+242
+00:08:51,839 --> 00:08:53,519
+eventually make a run above these highs
+
+243
+00:08:53,519 --> 00:08:55,519
+here and that we would have a
+
+244
+00:08:55,519 --> 00:08:58,240
+pretty big bull market going into the
+
+245
+00:08:58,240 --> 00:09:00,080
+commodity market because of the dollar
+
+246
+00:09:00,080 --> 00:09:01,600
+index being bearish
+
+247
+00:09:01,600 --> 00:09:02,959
+now some of you that are in my
+
+248
+00:09:02,959 --> 00:09:04,560
+mentorship are getting really nervous
+
+249
+00:09:04,560 --> 00:09:05,920
+right now because you're thinking i'm
+
+250
+00:09:05,920 --> 00:09:07,360
+teaching mentorship
+
+251
+00:09:07,360 --> 00:09:09,120
+when all i'm doing is talking about what
+
+252
+00:09:09,120 --> 00:09:11,440
+you've experienced before it happened
+
+253
+00:09:11,440 --> 00:09:14,240
+so please don't send me emails okay i
+
+254
+00:09:14,240 --> 00:09:15,839
+know some of you are highly protective
+
+255
+00:09:15,839 --> 00:09:17,360
+and i love you all for that
+
+256
+00:09:17,360 --> 00:09:19,519
+but i want to kind of teach something
+
+257
+00:09:19,519 --> 00:09:20,800
+broad brush
+
+258
+00:09:20,800 --> 00:09:23,920
+and i'm really not doing harm
+
+259
+00:09:23,920 --> 00:09:28,240
+to what you are participating in so just
+
+260
+00:09:28,240 --> 00:09:30,720
+give me the liberty here to be able to
+
+261
+00:09:30,720 --> 00:09:31,680
+be a teacher
+
+262
+00:09:31,680 --> 00:09:34,640
+outside of mentorship too because it's
+
+263
+00:09:34,640 --> 00:09:36,800
+why this channel exists
+
+264
+00:09:36,800 --> 00:09:39,839
+the there is no mentorship joining now
+
+265
+00:09:39,839 --> 00:09:40,560
+by the way
+
+266
+00:09:40,560 --> 00:09:42,880
+so we have closed the doors do not send
+
+267
+00:09:42,880 --> 00:09:44,240
+me emails
+
+268
+00:09:44,240 --> 00:09:46,160
+and it is what it is this is not a sales
+
+269
+00:09:46,160 --> 00:09:48,240
+pitch it's not meant for you hey come in
+
+270
+00:09:48,240 --> 00:09:49,839
+and join learn how to do this
+
+271
+00:09:49,839 --> 00:09:51,760
+everyone that's already emailed me if
+
+272
+00:09:51,760 --> 00:09:53,680
+you've emailed me and we haven't got to
+
+273
+00:09:53,680 --> 00:09:54,080
+yet
+
+274
+00:09:54,080 --> 00:09:56,240
+that's fine we'll get to you and we'll
+
+275
+00:09:56,240 --> 00:09:58,240
+consider you but anyone new
+
+276
+00:09:58,240 --> 00:10:00,320
+we're not taking anybody else in so it's
+
+277
+00:10:00,320 --> 00:10:02,160
+too many people it is what it is
+
+278
+00:10:02,160 --> 00:10:06,000
+and we're done but
+
+279
+00:10:06,000 --> 00:10:07,839
+if you look at what has transpired since
+
+280
+00:10:07,839 --> 00:10:09,440
+june of last year we've had this
+
+281
+00:10:09,440 --> 00:10:11,279
+extremely
+
+282
+00:10:11,279 --> 00:10:14,640
+handsome price run on soybeans
+
+283
+00:10:14,640 --> 00:10:18,160
+so if you were to use the
+
+284
+00:10:18,160 --> 00:10:21,040
+we'll say eight dollars and 80 cents a
+
+285
+00:10:21,040 --> 00:10:21,839
+bushel
+
+286
+00:10:21,839 --> 00:10:23,680
+okay right in here you're not getting
+
+287
+00:10:23,680 --> 00:10:25,200
+the best entry here not getting the best
+
+288
+00:10:25,200 --> 00:10:26,000
+entry here
+
+289
+00:10:26,000 --> 00:10:29,920
+but from 880 up to 1080 that's 10 000
+
+290
+00:10:29,920 --> 00:10:32,800
+per contract okay that's twenty thousand
+
+291
+00:10:32,800 --> 00:10:34,560
+dollars if it goes to twelve eighty
+
+292
+00:10:34,560 --> 00:10:38,240
+and if it goes to fourteen eighty
+
+293
+00:10:38,240 --> 00:10:41,760
+that's another ten thousand dollars
+
+294
+00:10:43,200 --> 00:10:47,760
+how many bitcoin moves
+
+295
+00:10:47,760 --> 00:10:49,200
+have you seen in your lifetime as a
+
+296
+00:10:49,200 --> 00:10:51,040
+crypto trader
+
+297
+00:10:51,040 --> 00:10:53,440
+the one we just recently seen and the
+
+298
+00:10:53,440 --> 00:10:55,839
+big run up in 2017 right
+
+299
+00:10:55,839 --> 00:11:00,560
+i called 2017 and i called the top then
+
+300
+00:11:00,560 --> 00:11:03,279
+i mentioned many times that you know new
+
+301
+00:11:03,279 --> 00:11:04,079
+traders that
+
+302
+00:11:04,079 --> 00:11:07,360
+got exposed to crypto feels like that's
+
+303
+00:11:07,360 --> 00:11:08,880
+the only market
+
+304
+00:11:08,880 --> 00:11:11,279
+that uh traders could have gotten
+
+305
+00:11:11,279 --> 00:11:12,720
+wealthy on
+
+306
+00:11:12,720 --> 00:11:15,920
+and i kind of taught this back in 2017
+
+307
+00:11:15,920 --> 00:11:19,519
+and in 2018 and 2019 every time i get a
+
+308
+00:11:19,519 --> 00:11:21,120
+new student that the first question
+
+309
+00:11:21,120 --> 00:11:22,320
+comes to mind is
+
+310
+00:11:22,320 --> 00:11:24,800
+you know do you regret missing bitcoin
+
+311
+00:11:24,800 --> 00:11:26,560
+because i've been very public and state
+
+312
+00:11:26,560 --> 00:11:27,440
+that i don't
+
+313
+00:11:27,440 --> 00:11:30,560
+trade crypto i didn't trade bitcoin but
+
+314
+00:11:30,560 --> 00:11:33,040
+whenever i make my calls public you know
+
+315
+00:11:33,040 --> 00:11:34,560
+obviously it comes with
+
+316
+00:11:34,560 --> 00:11:37,839
+a great deal of kickback if
+
+317
+00:11:37,839 --> 00:11:40,079
+if it opposes the view of a certain
+
+318
+00:11:40,079 --> 00:11:40,880
+group of my
+
+319
+00:11:40,880 --> 00:11:42,800
+audience members i don't do this to
+
+320
+00:11:42,800 --> 00:11:44,320
+upset anyone purposely
+
+321
+00:11:44,320 --> 00:11:47,360
+but you know i get more requests for me
+
+322
+00:11:47,360 --> 00:11:49,519
+sharing what i think is going to happen
+
+323
+00:11:49,519 --> 00:11:51,360
+than people coming back and saying i
+
+324
+00:11:51,360 --> 00:11:53,120
+really wish you wouldn't have said that
+
+325
+00:11:53,120 --> 00:11:57,360
+so i try to be as open as i possibly can
+
+326
+00:11:57,360 --> 00:11:58,959
+and tell you what i think is going to
+
+327
+00:11:58,959 --> 00:12:00,160
+happen where i think it's going to go
+
+328
+00:12:00,160 --> 00:12:00,800
+and
+
+329
+00:12:00,800 --> 00:12:02,560
+for the most part why i think it's going
+
+330
+00:12:02,560 --> 00:12:04,000
+to go there
+
+331
+00:12:04,000 --> 00:12:06,880
+and every call that i've made publicly
+
+332
+00:12:06,880 --> 00:12:08,560
+you're welcome to look at and weigh in
+
+333
+00:12:08,560 --> 00:12:09,760
+the balances
+
+334
+00:12:09,760 --> 00:12:14,399
+but these are big moves that take place
+
+335
+00:12:14,399 --> 00:12:16,800
+in the commodity market and you don't
+
+336
+00:12:16,800 --> 00:12:19,920
+need a bitcoin move
+
+337
+00:12:19,920 --> 00:12:23,040
+to define wealth because
+
+338
+00:12:23,040 --> 00:12:26,560
+what you see here can be the same thing
+
+339
+00:12:26,560 --> 00:12:30,639
+if not more than what you saw in bitcoin
+
+340
+00:12:30,639 --> 00:12:35,440
+this past what seven months
+
+341
+00:12:35,440 --> 00:12:38,800
+or yeah six or seven months so the same
+
+342
+00:12:38,800 --> 00:12:40,560
+amount of money that one could have made
+
+343
+00:12:40,560 --> 00:12:42,160
+in that bitcoin run
+
+344
+00:12:42,160 --> 00:12:44,880
+you could do in this right here and i
+
+345
+00:12:44,880 --> 00:12:46,959
+stated this very market
+
+346
+00:12:46,959 --> 00:12:49,680
+when i was making the case and argument
+
+347
+00:12:49,680 --> 00:12:52,160
+with the crypto traders that were saying
+
+348
+00:12:52,160 --> 00:12:55,040
+i should be uh regretting not being a
+
+349
+00:12:55,040 --> 00:12:56,079
+part of the largest
+
+350
+00:12:56,079 --> 00:12:58,959
+bull market in history well there's
+
+351
+00:12:58,959 --> 00:13:00,320
+always a big bull market
+
+352
+00:13:00,320 --> 00:13:02,399
+there's always a big mega trade okay
+
+353
+00:13:02,399 --> 00:13:04,480
+every year the markets create them
+
+354
+00:13:04,480 --> 00:13:07,760
+and i tried to state this before that
+
+355
+00:13:07,760 --> 00:13:11,440
+i have tools that help me fare those out
+
+356
+00:13:11,440 --> 00:13:14,079
+and one of the things that i look for is
+
+357
+00:13:14,079 --> 00:13:15,680
+a seasonal tendency
+
+358
+00:13:15,680 --> 00:13:17,760
+if a seasonal tendency indicates that
+
+359
+00:13:17,760 --> 00:13:19,120
+the market's likely to go
+
+360
+00:13:19,120 --> 00:13:22,639
+up by itself doesn't mean anything
+
+361
+00:13:22,639 --> 00:13:24,320
+but if we can find a time when the
+
+362
+00:13:24,320 --> 00:13:26,320
+market is bullish
+
+363
+00:13:26,320 --> 00:13:29,120
+and a seasonal tenancy is suggesting
+
+364
+00:13:29,120 --> 00:13:29,440
+that
+
+365
+00:13:29,440 --> 00:13:32,560
+historically it usually goes up
+
+366
+00:13:32,560 --> 00:13:34,639
+then we have something to work with and
+
+367
+00:13:34,639 --> 00:13:35,920
+then it's a matter of just waiting for
+
+368
+00:13:35,920 --> 00:13:37,519
+market structure to get in sync with
+
+369
+00:13:37,519 --> 00:13:38,639
+those two
+
+370
+00:13:38,639 --> 00:13:42,079
+underlying premise if the market is
+
+371
+00:13:42,079 --> 00:13:43,199
+bullish
+
+372
+00:13:43,199 --> 00:13:44,800
+and the market is showing a bullish
+
+373
+00:13:44,800 --> 00:13:47,279
+seasonal tendency
+
+374
+00:13:47,279 --> 00:13:49,279
+we wait for the market to give us a
+
+375
+00:13:49,279 --> 00:13:51,920
+bullish market structure
+
+376
+00:13:51,920 --> 00:13:54,320
+so we have multiple things in here and
+
+377
+00:13:54,320 --> 00:13:56,320
+i've talked about soybeans before
+
+378
+00:13:56,320 --> 00:13:59,120
+so i'm not going to try to redo that
+
+379
+00:13:59,120 --> 00:14:00,800
+here and waste time
+
+380
+00:14:00,800 --> 00:14:03,920
+but we we see markets making runs like
+
+381
+00:14:03,920 --> 00:14:06,079
+this a lot in hindsight but it's all
+
+382
+00:14:06,079 --> 00:14:07,199
+together something different when you're
+
+383
+00:14:07,199 --> 00:14:08,560
+able to see it
+
+384
+00:14:08,560 --> 00:14:11,440
+outline it before it happens and call it
+
+385
+00:14:11,440 --> 00:14:12,000
+with
+
+386
+00:14:12,000 --> 00:14:14,399
+you know a large degree of appreciation
+
+387
+00:14:14,399 --> 00:14:15,440
+on the upside
+
+388
+00:14:15,440 --> 00:14:18,480
+so we're seeing a huge amount of
+
+389
+00:14:18,480 --> 00:14:19,360
+potential
+
+390
+00:14:19,360 --> 00:14:22,399
+price run that would otherwise
+
+391
+00:14:22,399 --> 00:14:25,760
+be either ignored
+
+392
+00:14:25,760 --> 00:14:28,959
+or not expected
+
+393
+00:14:28,959 --> 00:14:30,480
+there's a lot of people on youtube that
+
+394
+00:14:30,480 --> 00:14:32,399
+are claiming they got the signals at
+
+395
+00:14:32,399 --> 00:14:32,959
+work
+
+396
+00:14:32,959 --> 00:14:34,880
+they got the the calls that make the
+
+397
+00:14:34,880 --> 00:14:36,399
+money they got this and they got that
+
+398
+00:14:36,399 --> 00:14:37,680
+and they're pointing to these tiny
+
+399
+00:14:37,680 --> 00:14:39,600
+little itty bitty fluctuations in the
+
+400
+00:14:39,600 --> 00:14:40,800
+marketplace
+
+401
+00:14:40,800 --> 00:14:44,079
+tiny little fluctuations and i outline
+
+402
+00:14:44,079 --> 00:14:45,519
+for free give it to you on a silver
+
+403
+00:14:45,519 --> 00:14:47,920
+platter
+
+404
+00:14:48,639 --> 00:14:52,399
+30 000 points in bitcoin
+
+405
+00:14:52,399 --> 00:14:56,160
+publicly given to you if
+
+406
+00:14:56,160 --> 00:14:58,880
+you look at the soybean market i showed
+
+407
+00:14:58,880 --> 00:15:00,560
+you that one as well
+
+408
+00:15:00,560 --> 00:15:02,880
+and a month ago i tipped you off with
+
+409
+00:15:02,880 --> 00:15:03,680
+corn
+
+410
+00:15:03,680 --> 00:15:06,720
+so let's take a look at corn
+
+411
+00:15:09,440 --> 00:15:12,560
+all right i'm gonna go to corn and
+
+412
+00:15:12,560 --> 00:15:14,800
+we'll use the nearby contract which is
+
+413
+00:15:14,800 --> 00:15:17,440
+march 2021.
+
+414
+00:15:17,440 --> 00:15:21,440
+okay so here you go a month ago
+
+415
+00:15:21,440 --> 00:15:25,440
+right there okay
+
+416
+00:15:25,440 --> 00:15:29,199
+corn gonna go higher
+
+417
+00:15:29,199 --> 00:15:31,680
+it's gonna be the next big move that's
+
+418
+00:15:31,680 --> 00:15:33,120
+in the community tab on my youtube
+
+419
+00:15:33,120 --> 00:15:34,079
+channel
+
+420
+00:15:34,079 --> 00:15:37,279
+unedited okay i got
+
+421
+00:15:37,279 --> 00:15:39,440
+a lot of flack from people saying that
+
+422
+00:15:39,440 --> 00:15:41,680
+i've used
+
+423
+00:15:41,680 --> 00:15:45,839
+rented servers that i've done fraud
+
+424
+00:15:45,839 --> 00:15:49,199
+that i cheat people i lie to people
+
+425
+00:15:49,199 --> 00:15:50,639
+i give them a false impression that i
+
+426
+00:15:50,639 --> 00:15:52,800
+can trade and
+
+427
+00:15:52,800 --> 00:15:54,639
+nobody's ever seen me call markets
+
+428
+00:15:54,639 --> 00:15:56,959
+before it happens and it's just
+
+429
+00:15:56,959 --> 00:15:59,759
+that still finds its way in discussions
+
+430
+00:15:59,759 --> 00:16:02,000
+in certain corners on the internet
+
+431
+00:16:02,000 --> 00:16:04,880
+and i have been giving you million
+
+432
+00:16:04,880 --> 00:16:06,160
+dollar maker
+
+433
+00:16:06,160 --> 00:16:10,399
+moves okay i'm giving you the big moves
+
+434
+00:16:10,399 --> 00:16:12,480
+because i can and i'm sharing them
+
+435
+00:16:12,480 --> 00:16:14,399
+publicly i'm not selling them i'm not
+
+436
+00:16:14,399 --> 00:16:15,199
+making you
+
+437
+00:16:15,199 --> 00:16:18,240
+come into my mentorship to get them
+
+438
+00:16:18,240 --> 00:16:21,040
+i'm giving you for free because i can
+
+439
+00:16:21,040 --> 00:16:22,880
+afford to do that
+
+440
+00:16:22,880 --> 00:16:24,880
+i don't need to have people pay me for
+
+441
+00:16:24,880 --> 00:16:26,480
+signals
+
+442
+00:16:26,480 --> 00:16:28,240
+i'm interested in teaching you how to
+
+443
+00:16:28,240 --> 00:16:29,759
+find these things
+
+444
+00:16:29,759 --> 00:16:32,320
+and honestly everything on this youtube
+
+445
+00:16:32,320 --> 00:16:33,519
+channel
+
+446
+00:16:33,519 --> 00:16:36,480
+shows you how to find these moves but
+
+447
+00:16:36,480 --> 00:16:37,759
+you don't want to listen
+
+448
+00:16:37,759 --> 00:16:39,759
+to the discussions and the lecture
+
+449
+00:16:39,759 --> 00:16:41,839
+points that are boring
+
+450
+00:16:41,839 --> 00:16:45,360
+and it's one thing to see people
+
+451
+00:16:45,360 --> 00:16:48,079
+go out and take my content and just give
+
+452
+00:16:48,079 --> 00:16:48,560
+me some
+
+453
+00:16:48,560 --> 00:16:50,399
+latitude here i gotta make this point
+
+454
+00:16:50,399 --> 00:16:51,839
+there's a lot of people out here taking
+
+455
+00:16:51,839 --> 00:16:53,600
+my stuff and making youtube videos about
+
+456
+00:16:53,600 --> 00:16:54,320
+it because
+
+457
+00:16:54,320 --> 00:16:56,320
+times are tough right now and they want
+
+458
+00:16:56,320 --> 00:16:57,519
+to try to get a group
+
+459
+00:16:57,519 --> 00:16:59,120
+get over a thousand subscribers since
+
+460
+00:16:59,120 --> 00:17:02,079
+they start making some ad revenue
+
+461
+00:17:02,079 --> 00:17:03,519
+because they need a hustle because
+
+462
+00:17:03,519 --> 00:17:05,119
+either they lost their job or they're
+
+463
+00:17:05,119 --> 00:17:06,640
+paranoid because everything is going on
+
+464
+00:17:06,640 --> 00:17:08,559
+this year or in past year rather
+
+465
+00:17:08,559 --> 00:17:10,400
+and they need to make money i understand
+
+466
+00:17:10,400 --> 00:17:11,760
+that okay
+
+467
+00:17:11,760 --> 00:17:14,640
+but when you are trying to teach
+
+468
+00:17:14,640 --> 00:17:17,119
+something that you don't know
+
+469
+00:17:17,119 --> 00:17:19,919
+you're doing more harm to the audience
+
+470
+00:17:19,919 --> 00:17:21,760
+and
+
+471
+00:17:21,760 --> 00:17:24,559
+if you think you know what i can do and
+
+472
+00:17:24,559 --> 00:17:26,079
+what i teach
+
+473
+00:17:26,079 --> 00:17:27,599
+then you should be able to pull out
+
+474
+00:17:27,599 --> 00:17:29,919
+these market moves before they happen to
+
+475
+00:17:29,919 --> 00:17:32,400
+not talk about them in hindsight that's
+
+476
+00:17:32,400 --> 00:17:33,919
+the difference between me
+
+477
+00:17:33,919 --> 00:17:36,480
+everybody says oh ict's a scalper he's
+
+478
+00:17:36,480 --> 00:17:37,760
+an intraday trader
+
+479
+00:17:37,760 --> 00:17:40,720
+he's mr 10 pips 20 pips no but i can do
+
+480
+00:17:40,720 --> 00:17:42,000
+more with that type of trading than
+
+481
+00:17:42,000 --> 00:17:43,039
+anybody else
+
+482
+00:17:43,039 --> 00:17:45,520
+that's trading these larger big position
+
+483
+00:17:45,520 --> 00:17:46,880
+trade swings
+
+484
+00:17:46,880 --> 00:17:49,919
+because i can parlay that up and have
+
+485
+00:17:49,919 --> 00:17:53,360
+velocity behind the equity
+
+486
+00:17:53,360 --> 00:17:56,160
+but you don't need to trade a lot if you
+
+487
+00:17:56,160 --> 00:17:57,600
+listen to what i teach
+
+488
+00:17:57,600 --> 00:17:59,679
+you can sit back and be very passive in
+
+489
+00:17:59,679 --> 00:18:00,799
+investment
+
+490
+00:18:00,799 --> 00:18:02,960
+and capture these big moves we're going
+
+491
+00:18:02,960 --> 00:18:04,559
+to assume that you were in here
+
+492
+00:18:04,559 --> 00:18:08,240
+around that 4.20 cents a bushel
+
+493
+00:18:08,240 --> 00:18:11,440
+and went above today 5.20
+
+494
+00:18:11,440 --> 00:18:14,000
+a bushel that is a five thousand dollar
+
+495
+00:18:14,000 --> 00:18:16,799
+price move per contract
+
+496
+00:18:16,799 --> 00:18:19,840
+now it took a month to get it
+
+497
+00:18:19,840 --> 00:18:21,919
+but if you would have had say i don't
+
+498
+00:18:21,919 --> 00:18:22,960
+know
+
+499
+00:18:22,960 --> 00:18:26,320
+ten call options you wouldn't had the
+
+500
+00:18:26,320 --> 00:18:27,679
+full
+
+501
+00:18:27,679 --> 00:18:31,039
+exposure required for margin
+
+502
+00:18:31,039 --> 00:18:33,360
+to do the trade you could have done some
+
+503
+00:18:33,360 --> 00:18:34,480
+call options
+
+504
+00:18:34,480 --> 00:18:35,840
+and whatever you paid for the option
+
+505
+00:18:35,840 --> 00:18:37,600
+that would be the amount of risk
+
+506
+00:18:37,600 --> 00:18:39,520
+total plus commission that you would
+
+507
+00:18:39,520 --> 00:18:41,200
+have looked at
+
+508
+00:18:41,200 --> 00:18:44,799
+as incurred risk
+
+509
+00:18:46,240 --> 00:18:49,039
+five grand for a month some of you
+
+510
+00:18:49,039 --> 00:18:50,559
+probably don't make that in a month
+
+511
+00:18:50,559 --> 00:18:52,960
+i know when i was working as a younger
+
+512
+00:18:52,960 --> 00:18:53,600
+man
+
+513
+00:18:53,600 --> 00:18:56,160
+i wasn't making that much money you know
+
+514
+00:18:56,160 --> 00:18:57,280
+we're talking about
+
+515
+00:18:57,280 --> 00:19:00,480
+back in the 80s but uh
+
+516
+00:19:00,480 --> 00:19:03,919
+1980s it's it sounds funny to say it
+
+517
+00:19:03,919 --> 00:19:04,480
+like that
+
+518
+00:19:04,480 --> 00:19:06,559
+and i'm laughing because i think about
+
+519
+00:19:06,559 --> 00:19:07,679
+how my son was
+
+520
+00:19:07,679 --> 00:19:08,960
+asking me earlier before i made this
+
+521
+00:19:08,960 --> 00:19:11,120
+video he asked me to take his dad
+
+522
+00:19:11,120 --> 00:19:13,840
+um what cool cars were there back in the
+
+523
+00:19:13,840 --> 00:19:15,280
+1900s
+
+524
+00:19:15,280 --> 00:19:17,120
+and he did to hear him say it that way
+
+525
+00:19:17,120 --> 00:19:19,200
+made it sound like i'm even older than i
+
+526
+00:19:19,200 --> 00:19:20,320
+really am
+
+527
+00:19:20,320 --> 00:19:24,799
+but the the idea of
+
+528
+00:19:24,799 --> 00:19:28,160
+looking for these types of price moves
+
+529
+00:19:28,160 --> 00:19:32,559
+and seeing how much is available
+
+530
+00:19:32,559 --> 00:19:35,840
+on one position okay if you can find
+
+531
+00:19:35,840 --> 00:19:37,679
+trades like this
+
+532
+00:19:37,679 --> 00:19:40,080
+and it can present moves like this or
+
+533
+00:19:40,080 --> 00:19:43,520
+like what i showed in the soybean market
+
+534
+00:19:43,520 --> 00:19:45,600
+those types of moves if you can find
+
+535
+00:19:45,600 --> 00:19:47,039
+them and fair them out
+
+536
+00:19:47,039 --> 00:19:50,080
+over time they can make
+
+537
+00:19:50,080 --> 00:19:54,160
+you wealthy now the problem is this
+
+538
+00:19:54,160 --> 00:19:55,840
+like it was for me when i first started
+
+539
+00:19:55,840 --> 00:19:57,200
+in 1992
+
+540
+00:19:57,200 --> 00:20:00,640
+i read a book ken roberts
+
+541
+00:20:00,640 --> 00:20:02,159
+his commodity course and you all
+
+542
+00:20:02,159 --> 00:20:03,840
+probably heard us enough i'm not gonna
+
+543
+00:20:03,840 --> 00:20:06,559
+you know beat it up you know even more
+
+544
+00:20:06,559 --> 00:20:07,600
+but
+
+545
+00:20:07,600 --> 00:20:09,200
+i felt that i was going to be one of
+
+546
+00:20:09,200 --> 00:20:10,960
+those success stories
+
+547
+00:20:10,960 --> 00:20:13,039
+and i was going to make a fortune in my
+
+548
+00:20:13,039 --> 00:20:14,559
+first year
+
+549
+00:20:14,559 --> 00:20:16,000
+and i was going to do everything in the
+
+550
+00:20:16,000 --> 00:20:18,320
+book that said and in my first trade i
+
+551
+00:20:18,320 --> 00:20:18,960
+lost 50
+
+552
+00:20:18,960 --> 00:20:21,039
+of the account i've made no bones about
+
+553
+00:20:21,039 --> 00:20:23,520
+it it is what it is
+
+554
+00:20:23,520 --> 00:20:26,559
+and even my students that first come to
+
+555
+00:20:26,559 --> 00:20:27,440
+my youtube channel
+
+556
+00:20:27,440 --> 00:20:30,480
+or they traded other markets and they've
+
+557
+00:20:30,480 --> 00:20:33,200
+tasted pain and loss because they don't
+
+558
+00:20:33,200 --> 00:20:35,280
+really know what they're doing
+
+559
+00:20:35,280 --> 00:20:37,360
+then they see what i do in these videos
+
+560
+00:20:37,360 --> 00:20:38,559
+and
+
+561
+00:20:38,559 --> 00:20:40,640
+it opens their eyes to what they did not
+
+562
+00:20:40,640 --> 00:20:42,960
+know and they can go into
+
+563
+00:20:42,960 --> 00:20:45,120
+old data and say wow i can really see
+
+564
+00:20:45,120 --> 00:20:46,799
+this is making perfect sense
+
+565
+00:20:46,799 --> 00:20:47,919
+that's the difference between
+
+566
+00:20:47,919 --> 00:20:49,919
+understanding what the markets really do
+
+567
+00:20:49,919 --> 00:20:51,760
+versus what the markets did and let's
+
+568
+00:20:51,760 --> 00:20:53,039
+write a book about it
+
+569
+00:20:53,039 --> 00:20:55,600
+you know it doesn't work it doesn't help
+
+570
+00:20:55,600 --> 00:20:56,240
+okay
+
+571
+00:20:56,240 --> 00:20:58,480
+if all these books were able to help
+
+572
+00:20:58,480 --> 00:21:00,400
+people make money
+
+573
+00:21:00,400 --> 00:21:01,679
+then they wouldn't need to make more
+
+574
+00:21:01,679 --> 00:21:04,480
+books the the people that made books 100
+
+575
+00:21:04,480 --> 00:21:05,760
+years ago
+
+576
+00:21:05,760 --> 00:21:07,360
+would have been enough there would be no
+
+577
+00:21:07,360 --> 00:21:08,799
+reason to make another book
+
+578
+00:21:08,799 --> 00:21:11,520
+so it's this trap that you all follow
+
+579
+00:21:11,520 --> 00:21:12,960
+and i did it too
+
+580
+00:21:12,960 --> 00:21:16,400
+trust me i did it i wasted a fortune on
+
+581
+00:21:16,400 --> 00:21:18,000
+buying books and courses when i first
+
+582
+00:21:18,000 --> 00:21:18,799
+started
+
+583
+00:21:18,799 --> 00:21:22,240
+and honestly none of that crap worked
+
+584
+00:21:22,240 --> 00:21:25,280
+none of it it caused me to lose more and
+
+585
+00:21:25,280 --> 00:21:27,919
+feel even more insecure about myself
+
+586
+00:21:27,919 --> 00:21:31,120
+and it it was like an endless circle of
+
+587
+00:21:31,120 --> 00:21:33,120
+always learning but never coming to the
+
+588
+00:21:33,120 --> 00:21:35,440
+truth
+
+589
+00:21:35,520 --> 00:21:38,240
+when i got exposed to how the markets
+
+590
+00:21:38,240 --> 00:21:38,960
+really
+
+591
+00:21:38,960 --> 00:21:42,080
+book it changed everything
+
+592
+00:21:42,080 --> 00:21:44,240
+and i went back in and turned everything
+
+593
+00:21:44,240 --> 00:21:45,679
+else upside down
+
+594
+00:21:45,679 --> 00:21:48,720
+and it started working
+
+595
+00:21:49,360 --> 00:21:51,280
+these ideas here i'm just going to make
+
+596
+00:21:51,280 --> 00:21:53,440
+it very easy for you
+
+597
+00:21:53,440 --> 00:21:56,880
+if you go to amazon
+
+598
+00:21:56,880 --> 00:21:59,200
+and you buy the book how many million
+
+599
+00:21:59,200 --> 00:22:00,720
+dollar trading commodities last year by
+
+600
+00:22:00,720 --> 00:22:02,000
+larry williams
+
+601
+00:22:02,000 --> 00:22:04,320
+okay let's go over to amazon and i'll
+
+602
+00:22:04,320 --> 00:22:05,039
+show you what that
+
+603
+00:22:05,039 --> 00:22:07,280
+looks like all right so here's the book
+
+604
+00:22:07,280 --> 00:22:08,720
+i'm talking about and you've heard me
+
+605
+00:22:08,720 --> 00:22:09,840
+mention this before
+
+606
+00:22:09,840 --> 00:22:12,159
+so this is where you can go and get it
+
+607
+00:22:12,159 --> 00:22:14,159
+notice that i'm not giving you a link
+
+608
+00:22:14,159 --> 00:22:16,159
+i'm not doing an affiliate program i'm
+
+609
+00:22:16,159 --> 00:22:17,679
+not trying to get paid for you making a
+
+610
+00:22:17,679 --> 00:22:18,720
+purchase
+
+611
+00:22:18,720 --> 00:22:20,000
+i'm just freely giving you the
+
+612
+00:22:20,000 --> 00:22:22,159
+information if you don't want to buy the
+
+613
+00:22:22,159 --> 00:22:22,880
+book
+
+614
+00:22:22,880 --> 00:22:25,760
+then don't buy the book but this book
+
+615
+00:22:25,760 --> 00:22:27,200
+was one of the first
+
+616
+00:22:27,200 --> 00:22:30,480
+books that i bought that made sense
+
+617
+00:22:30,480 --> 00:22:34,320
+and made me money so
+
+618
+00:22:34,320 --> 00:22:36,559
+the things i like about this book and
+
+619
+00:22:36,559 --> 00:22:39,280
+let's see if it can pull it up
+
+620
+00:22:39,280 --> 00:22:42,400
+here table contents this chapter here
+
+621
+00:22:42,400 --> 00:22:43,360
+chapter four
+
+622
+00:22:43,360 --> 00:22:45,039
+where he says my million dollar
+
+623
+00:22:45,039 --> 00:22:46,720
+fundamental system
+
+624
+00:22:46,720 --> 00:22:50,559
+and going into
+
+625
+00:22:50,559 --> 00:22:54,080
+this area here he basically covers
+
+626
+00:22:54,080 --> 00:22:57,679
+all of the most important things
+
+627
+00:22:57,679 --> 00:23:00,640
+that make commodity markets move on a
+
+628
+00:23:00,640 --> 00:23:02,240
+large scale
+
+629
+00:23:02,240 --> 00:23:04,960
+okay so all of these things here chapter
+
+630
+00:23:04,960 --> 00:23:06,000
+four
+
+631
+00:23:06,000 --> 00:23:09,520
+that to me is
+
+632
+00:23:09,520 --> 00:23:13,520
+the real shining chapter in it
+
+633
+00:23:13,520 --> 00:23:14,960
+doesn't mean that there's other parts in
+
+634
+00:23:14,960 --> 00:23:17,840
+this book that isn't interesting or
+
+635
+00:23:17,840 --> 00:23:20,320
+noteworthy but there are things like he
+
+636
+00:23:20,320 --> 00:23:21,360
+talks about the
+
+637
+00:23:21,360 --> 00:23:23,360
+phases of the moon and the influence of
+
+638
+00:23:23,360 --> 00:23:24,480
+buying and selling on that i don't
+
+639
+00:23:24,480 --> 00:23:26,080
+subscribe to any of that
+
+640
+00:23:26,080 --> 00:23:27,919
+but i'm not here to beat him up because
+
+641
+00:23:27,919 --> 00:23:29,280
+he was my first mentor
+
+642
+00:23:29,280 --> 00:23:32,000
+so i'm not trying to say that ken
+
+643
+00:23:32,000 --> 00:23:33,520
+roberts wasn't a mentor because he was a
+
+644
+00:23:33,520 --> 00:23:35,600
+mentor because
+
+645
+00:23:35,600 --> 00:23:37,280
+you know that was the very first book i
+
+646
+00:23:37,280 --> 00:23:39,120
+read but it lost money
+
+647
+00:23:39,120 --> 00:23:41,760
+everything i did with it was completely
+
+648
+00:23:41,760 --> 00:23:43,200
+i abandoned everything i learned from
+
+649
+00:23:43,200 --> 00:23:43,919
+him
+
+650
+00:23:43,919 --> 00:23:46,320
+and the next mentor i had was larry
+
+651
+00:23:46,320 --> 00:23:47,200
+williams
+
+652
+00:23:47,200 --> 00:23:50,240
+and this book was highly influential now
+
+653
+00:23:50,240 --> 00:23:53,360
+if you go through this book
+
+654
+00:23:53,360 --> 00:23:55,600
+you will see the effects and the
+
+655
+00:23:55,600 --> 00:23:57,279
+impression that larry
+
+656
+00:23:57,279 --> 00:24:02,159
+had on me and you can also see
+
+657
+00:24:02,159 --> 00:24:05,360
+i amped up especially if you're in uh
+
+658
+00:24:05,360 --> 00:24:08,480
+the mentorship level stuff um
+
+659
+00:24:08,480 --> 00:24:09,679
+and again i hate to say it that way
+
+660
+00:24:09,679 --> 00:24:10,880
+because it sounds like i'm dang i don't
+
+661
+00:24:10,880 --> 00:24:11,679
+want anyone
+
+662
+00:24:11,679 --> 00:24:13,120
+asking to join because i'm not taking
+
+663
+00:24:13,120 --> 00:24:15,440
+anyone new i have to keep putting that
+
+664
+00:24:15,440 --> 00:24:16,840
+in there i'm sorry
+
+665
+00:24:16,840 --> 00:24:19,600
+but if the students that
+
+666
+00:24:19,600 --> 00:24:21,679
+like who we were all in a big room okay
+
+667
+00:24:21,679 --> 00:24:23,279
+we were all like at a
+
+668
+00:24:23,279 --> 00:24:25,840
+a live seminar and i said okay who's
+
+669
+00:24:25,840 --> 00:24:28,000
+here that's in mentorship
+
+670
+00:24:28,000 --> 00:24:30,159
+raise your hand and you'd see whatever
+
+671
+00:24:30,159 --> 00:24:31,440
+you know number of people would be there
+
+672
+00:24:31,440 --> 00:24:32,320
+to raise their hand
+
+673
+00:24:32,320 --> 00:24:34,080
+and i'd say okay who has gone through
+
+674
+00:24:34,080 --> 00:24:36,480
+this book i'm talking about here
+
+675
+00:24:36,480 --> 00:24:38,240
+and they would raise their hand and then
+
+676
+00:24:38,240 --> 00:24:39,600
+i'd say okay now raise your hand
+
+677
+00:24:39,600 --> 00:24:43,360
+if you've seen me amplify and fill in a
+
+678
+00:24:43,360 --> 00:24:45,440
+lot of the things for precision
+
+679
+00:24:45,440 --> 00:24:48,880
+based rules with this information
+
+680
+00:24:48,880 --> 00:24:50,720
+because this was the foundation i
+
+681
+00:24:50,720 --> 00:24:52,799
+started with
+
+682
+00:24:52,799 --> 00:24:55,919
+i started with this and i built on it
+
+683
+00:24:55,919 --> 00:24:58,960
+and i built on it and built on it and
+
+684
+00:24:58,960 --> 00:25:02,080
+it just further solidifies the
+
+685
+00:25:02,080 --> 00:25:04,640
+importance of having a solid foundation
+
+686
+00:25:04,640 --> 00:25:06,480
+if you're going into this with like
+
+687
+00:25:06,480 --> 00:25:07,919
+elliott wave
+
+688
+00:25:07,919 --> 00:25:11,679
+okay or harmonic patterns
+
+689
+00:25:11,679 --> 00:25:15,279
+you that is a
+
+690
+00:25:15,279 --> 00:25:18,559
+niche it's a gimmick
+
+691
+00:25:18,559 --> 00:25:22,400
+it's a stylized
+
+692
+00:25:22,400 --> 00:25:26,320
+perception it's not objective it's not
+
+693
+00:25:26,320 --> 00:25:30,640
+it's subjective this chapter four
+
+694
+00:25:30,640 --> 00:25:33,679
+that is objective okay and then
+
+695
+00:25:33,679 --> 00:25:35,120
+if you read it you'll you'll know
+
+696
+00:25:35,120 --> 00:25:36,960
+exactly what i'm referring to what makes
+
+697
+00:25:36,960 --> 00:25:37,679
+it objective
+
+698
+00:25:37,679 --> 00:25:41,120
+it's rooted in real
+
+699
+00:25:41,120 --> 00:25:44,960
+market truths that are either present in
+
+700
+00:25:44,960 --> 00:25:47,360
+the marketplace or they're not
+
+701
+00:25:47,360 --> 00:25:50,400
+it's binary whereas if we had a
+
+702
+00:25:50,400 --> 00:25:51,760
+collection of people that traded
+
+703
+00:25:51,760 --> 00:25:52,640
+harmonic
+
+704
+00:25:52,640 --> 00:25:54,720
+patterns or if we had a collection of
+
+705
+00:25:54,720 --> 00:25:57,600
+people that traded elliot wave
+
+706
+00:25:57,600 --> 00:25:59,600
+they would have a difference of opinion
+
+707
+00:25:59,600 --> 00:26:00,799
+i'm certain of it
+
+708
+00:26:00,799 --> 00:26:03,520
+if we were giving them the same market
+
+709
+00:26:03,520 --> 00:26:04,400
+and
+
+710
+00:26:04,400 --> 00:26:10,080
+that is what highlights the
+
+711
+00:26:10,080 --> 00:26:12,960
+in my mind the lunacy in following that
+
+712
+00:26:12,960 --> 00:26:14,000
+kind of stuff
+
+713
+00:26:14,000 --> 00:26:16,159
+and don't get me wrong i wasted years
+
+714
+00:26:16,159 --> 00:26:17,600
+doing both of those things
+
+715
+00:26:17,600 --> 00:26:20,640
+okay i know about both of them it isn't
+
+716
+00:26:20,640 --> 00:26:22,080
+like i read a book and
+
+717
+00:26:22,080 --> 00:26:24,000
+you know i never dabbled in it i did all
+
+718
+00:26:24,000 --> 00:26:25,840
+that stuff i've done point-and-figure
+
+719
+00:26:25,840 --> 00:26:26,720
+charts
+
+720
+00:26:26,720 --> 00:26:28,799
+i've done everything i've done
+
+721
+00:26:28,799 --> 00:26:29,760
+everything out there
+
+722
+00:26:29,760 --> 00:26:33,760
+for as far as trading goes and honestly
+
+723
+00:26:33,760 --> 00:26:37,120
+all of it is flawed because it doesn't
+
+724
+00:26:37,120 --> 00:26:40,159
+start on the basis of having
+
+725
+00:26:40,159 --> 00:26:44,080
+real logic behind it it's based on a
+
+726
+00:26:44,080 --> 00:26:44,640
+pattern
+
+727
+00:26:44,640 --> 00:26:46,799
+by itself they go in looking for
+
+728
+00:26:46,799 --> 00:26:48,960
+patterns or wave counts
+
+729
+00:26:48,960 --> 00:26:51,120
+versus understanding what it is that
+
+730
+00:26:51,120 --> 00:26:53,279
+sets the market up for a move higher or
+
+731
+00:26:53,279 --> 00:26:53,840
+lower
+
+732
+00:26:53,840 --> 00:26:57,279
+and where it should draw to now
+
+733
+00:26:57,279 --> 00:26:59,840
+larry doesn't do that but larry gives
+
+734
+00:26:59,840 --> 00:27:00,960
+you
+
+735
+00:27:00,960 --> 00:27:03,919
+the three primary rules and tools that
+
+736
+00:27:03,919 --> 00:27:05,760
+he looks for that sets up these big
+
+737
+00:27:05,760 --> 00:27:07,679
+million dollar maker
+
+738
+00:27:07,679 --> 00:27:08,799
+well i shouldn't say a million dollar
+
+739
+00:27:08,799 --> 00:27:11,600
+maker but uh fortune makers
+
+740
+00:27:11,600 --> 00:27:14,480
+okay um what's a fortune to me you know
+
+741
+00:27:14,480 --> 00:27:16,320
+if it makes
+
+742
+00:27:16,320 --> 00:27:17,919
+fifty thousand dollars yeah that's a
+
+743
+00:27:17,919 --> 00:27:20,240
+small fortune you know i don't look at
+
+744
+00:27:20,240 --> 00:27:21,360
+for fifty thousand dollars
+
+745
+00:27:21,360 --> 00:27:24,320
+the same way i did when i was in 1992
+
+746
+00:27:24,320 --> 00:27:25,279
+but
+
+747
+00:27:25,279 --> 00:27:26,640
+you know if i lost fifty thousand
+
+748
+00:27:26,640 --> 00:27:29,279
+dollars i'd you know i'd want it back
+
+749
+00:27:29,279 --> 00:27:31,360
+you know it's it's a meaningful amount
+
+750
+00:27:31,360 --> 00:27:33,120
+of money to me
+
+751
+00:27:33,120 --> 00:27:34,799
+and to most of you listening that's
+
+752
+00:27:34,799 --> 00:27:36,399
+probably a significant amount of money
+
+753
+00:27:36,399 --> 00:27:37,279
+as well
+
+754
+00:27:37,279 --> 00:27:38,960
+especially if you're a new student and
+
+755
+00:27:38,960 --> 00:27:40,320
+or never traded
+
+756
+00:27:40,320 --> 00:27:42,559
+profitably you would love to have that
+
+757
+00:27:42,559 --> 00:27:43,679
+type of windfall
+
+758
+00:27:43,679 --> 00:27:47,039
+victory in trading if you're looking for
+
+759
+00:27:47,039 --> 00:27:48,000
+a book
+
+760
+00:27:48,000 --> 00:27:51,120
+to give you a real solid foundation to
+
+761
+00:27:51,120 --> 00:27:51,760
+understand
+
+762
+00:27:51,760 --> 00:27:55,520
+why a market should go up or go down
+
+763
+00:27:55,520 --> 00:27:58,000
+this chapter right here in this very
+
+764
+00:27:58,000 --> 00:27:58,960
+book
+
+765
+00:27:58,960 --> 00:28:02,080
+i think that you should subscribe
+
+766
+00:28:02,080 --> 00:28:05,120
+to what's being shown in that chapter
+
+767
+00:28:05,120 --> 00:28:07,440
+i don't get anything for this i don't
+
+768
+00:28:07,440 --> 00:28:08,799
+get a kickback
+
+769
+00:28:08,799 --> 00:28:12,640
+larry doesn't know i'm even doing it and
+
+770
+00:28:12,640 --> 00:28:15,279
+i mean it i've said this book many times
+
+771
+00:28:15,279 --> 00:28:17,360
+over the last
+
+772
+00:28:17,360 --> 00:28:20,159
+10 years or 11 years now talking about
+
+773
+00:28:20,159 --> 00:28:21,520
+things from
+
+774
+00:28:21,520 --> 00:28:23,760
+you know books that were influential or
+
+775
+00:28:23,760 --> 00:28:25,520
+books that were
+
+776
+00:28:25,520 --> 00:28:28,720
+worth your time reading this is a 1970s
+
+777
+00:28:28,720 --> 00:28:29,640
+book
+
+778
+00:28:29,640 --> 00:28:32,080
+1970s i was a child at the time when
+
+779
+00:28:32,080 --> 00:28:33,279
+this was
+
+780
+00:28:33,279 --> 00:28:37,200
+published and put in print
+
+781
+00:28:37,200 --> 00:28:40,159
+and it's still effective today why
+
+782
+00:28:40,159 --> 00:28:41,279
+because
+
+783
+00:28:41,279 --> 00:28:44,320
+it's rooted on things that work
+
+784
+00:28:44,320 --> 00:28:46,720
+and the man made money with it not a
+
+785
+00:28:46,720 --> 00:28:47,919
+little bit of money he made a million
+
+786
+00:28:47,919 --> 00:28:49,200
+dollars
+
+787
+00:28:49,200 --> 00:28:51,120
+and then he did it again in 1987 for
+
+788
+00:28:51,120 --> 00:28:52,399
+people that doubted him didn't believe
+
+789
+00:28:52,399 --> 00:28:53,039
+he
+
+790
+00:28:53,039 --> 00:28:54,799
+really made money with it and he won the
+
+791
+00:28:54,799 --> 00:28:57,039
+world's cup robbins contest
+
+792
+00:28:57,039 --> 00:28:59,120
+for futures trading in 1987 and still
+
+793
+00:28:59,120 --> 00:29:01,120
+holds 11 000
+
+794
+00:29:01,120 --> 00:29:04,320
+as the highest percentage gain in that
+
+795
+00:29:04,320 --> 00:29:08,720
+contest history so
+
+796
+00:29:08,720 --> 00:29:11,200
+if you take this information and go back
+
+797
+00:29:11,200 --> 00:29:13,840
+into
+
+798
+00:29:13,919 --> 00:29:17,039
+a market like this you'll see
+
+799
+00:29:17,039 --> 00:29:19,200
+a lot of those things that he's teaching
+
+800
+00:29:19,200 --> 00:29:21,120
+exist in this market here
+
+801
+00:29:21,120 --> 00:29:22,880
+okay and before we had this big
+
+802
+00:29:22,880 --> 00:29:25,440
+extrapolated price move here
+
+803
+00:29:25,440 --> 00:29:28,880
+i told you in my community tab on my
+
+804
+00:29:28,880 --> 00:29:31,520
+youtube channel
+
+805
+00:29:31,840 --> 00:29:36,080
+right here a month ago corn will be next
+
+806
+00:29:36,080 --> 00:29:37,120
+and i'll give you the fundamental
+
+807
+00:29:37,120 --> 00:29:39,440
+reasons why okay
+
+808
+00:29:39,440 --> 00:29:42,399
+so uh when it comes to fundamental data
+
+809
+00:29:42,399 --> 00:29:44,399
+i do consider it when it comes to
+
+810
+00:29:44,399 --> 00:29:47,840
+livestock like feeder cattle live cattle
+
+811
+00:29:47,840 --> 00:29:50,240
+lean hogs they're all commodity markets
+
+812
+00:29:50,240 --> 00:29:51,440
+i look at it
+
+813
+00:29:51,440 --> 00:29:54,480
+in regards to the grain reports apart
+
+814
+00:29:54,480 --> 00:29:55,360
+from that
+
+815
+00:29:55,360 --> 00:29:58,000
+i do not consider fundamental data at
+
+816
+00:29:58,000 --> 00:29:58,720
+all
+
+817
+00:29:58,720 --> 00:30:01,600
+but if i'm trading agricultural markets
+
+818
+00:30:01,600 --> 00:30:03,200
+which are commodity markets as i just
+
+819
+00:30:03,200 --> 00:30:04,960
+mentioned
+
+820
+00:30:04,960 --> 00:30:06,880
+then i'm going to consider it and other
+
+821
+00:30:06,880 --> 00:30:08,960
+markets like the food groups like
+
+822
+00:30:08,960 --> 00:30:14,240
+coffee cocoa and sugar if we go into
+
+823
+00:30:14,240 --> 00:30:15,919
+if we look at coffee this is kind of
+
+824
+00:30:15,919 --> 00:30:18,080
+like the the heart of the teaching here
+
+825
+00:30:18,080 --> 00:30:19,679
+today
+
+826
+00:30:19,679 --> 00:30:23,360
+if you look at this price fractal it is
+
+827
+00:30:23,360 --> 00:30:25,919
+something that i have taught many times
+
+828
+00:30:25,919 --> 00:30:28,240
+with the medium of 4x
+
+829
+00:30:28,240 --> 00:30:29,600
+and i'll give you a minute pause the
+
+830
+00:30:29,600 --> 00:30:31,679
+video before i put the annotations up
+
+831
+00:30:31,679 --> 00:30:33,520
+but try to look at what you think you
+
+832
+00:30:33,520 --> 00:30:36,240
+see in this price action
+
+833
+00:30:36,240 --> 00:30:37,760
+and then when you're ready unpause the
+
+834
+00:30:37,760 --> 00:30:39,360
+video and you'll see my annotations in
+
+835
+00:30:39,360 --> 00:30:42,559
+the discussion going forward
+
+836
+00:30:44,960 --> 00:30:48,799
+okay we're going to add annotations now
+
+837
+00:30:49,120 --> 00:30:51,520
+all right so we are looking at coffee
+
+838
+00:30:51,520 --> 00:30:55,039
+okay and there is a seasonal tendency
+
+839
+00:30:55,039 --> 00:30:58,000
+for coffee to rally about the second
+
+840
+00:30:58,000 --> 00:30:59,760
+week or third week of july
+
+841
+00:30:59,760 --> 00:31:03,360
+i want you to consider the likelihood of
+
+842
+00:31:03,360 --> 00:31:06,480
+mid-july being a seasonal tendency for
+
+843
+00:31:06,480 --> 00:31:09,600
+coffee to go higher
+
+844
+00:31:09,600 --> 00:31:11,519
+now think about what i showed you on the
+
+845
+00:31:11,519 --> 00:31:12,880
+dollar index
+
+846
+00:31:12,880 --> 00:31:15,120
+in july it was going lower it created an
+
+847
+00:31:15,120 --> 00:31:16,000
+important high and
+
+848
+00:31:16,000 --> 00:31:19,039
+just fell out of bed went lower
+
+849
+00:31:19,039 --> 00:31:21,279
+that again sets the stage for markets to
+
+850
+00:31:21,279 --> 00:31:22,080
+go higher
+
+851
+00:31:22,080 --> 00:31:24,559
+in the commodity market just like it
+
+852
+00:31:24,559 --> 00:31:25,360
+does in
+
+853
+00:31:25,360 --> 00:31:30,000
+forex so from having a macro perspective
+
+854
+00:31:30,000 --> 00:31:32,880
+and looking at things seasonally
+
+855
+00:31:32,880 --> 00:31:35,679
+blending those things together
+
+856
+00:31:35,679 --> 00:31:38,320
+it gives us framework to find really big
+
+857
+00:31:38,320 --> 00:31:38,960
+moves
+
+858
+00:31:38,960 --> 00:31:41,279
+you don't have to be an intraday trader
+
+859
+00:31:41,279 --> 00:31:42,960
+you don't have to worry about the power
+
+860
+00:31:42,960 --> 00:31:43,760
+3
+
+861
+00:31:43,760 --> 00:31:46,240
+on a daily candle if you don't have time
+
+862
+00:31:46,240 --> 00:31:47,039
+to do that
+
+863
+00:31:47,039 --> 00:31:49,200
+if you don't have the life framework
+
+864
+00:31:49,200 --> 00:31:51,440
+that promotes that type of trading
+
+865
+00:31:51,440 --> 00:31:53,679
+you don't need to do it don't feel like
+
+866
+00:31:53,679 --> 00:31:54,559
+you have to be
+
+867
+00:31:54,559 --> 00:31:56,960
+an intraday trader don't feel that you
+
+868
+00:31:56,960 --> 00:31:58,799
+have to be a short-term trader
+
+869
+00:31:58,799 --> 00:32:00,320
+if you look at these types of price
+
+870
+00:32:00,320 --> 00:32:01,760
+moves and you think well you know i
+
+871
+00:32:01,760 --> 00:32:02,799
+could be a participant in something like
+
+872
+00:32:02,799 --> 00:32:03,919
+that that makes sense
+
+873
+00:32:03,919 --> 00:32:05,760
+i don't want to have to be relying on
+
+874
+00:32:05,760 --> 00:32:06,960
+making a decision
+
+875
+00:32:06,960 --> 00:32:08,799
+each day buying and selling buying and
+
+876
+00:32:08,799 --> 00:32:10,640
+selling because that takes a certain
+
+877
+00:32:10,640 --> 00:32:13,519
+type of personality that isn't really
+
+878
+00:32:13,519 --> 00:32:16,559
+everyone's cup of tea now
+
+879
+00:32:16,559 --> 00:32:18,960
+i started with this type of trading
+
+880
+00:32:18,960 --> 00:32:20,480
+swing trade position trading
+
+881
+00:32:20,480 --> 00:32:23,039
+i started that way and it was like
+
+882
+00:32:23,039 --> 00:32:24,320
+pulling teeth
+
+883
+00:32:24,320 --> 00:32:26,399
+i just couldn't endure it i didn't want
+
+884
+00:32:26,399 --> 00:32:28,880
+to deal with it it was too slow
+
+885
+00:32:28,880 --> 00:32:31,519
+doesn't mean i can't do it technically
+
+886
+00:32:31,519 --> 00:32:33,039
+it just means i can't
+
+887
+00:32:33,039 --> 00:32:34,720
+submit to it from a personality
+
+888
+00:32:34,720 --> 00:32:36,559
+standpoint
+
+889
+00:32:36,559 --> 00:32:40,399
+but the analysis concepts that i use
+
+890
+00:32:40,399 --> 00:32:43,200
+this helps me frame every type of trade
+
+891
+00:32:43,200 --> 00:32:44,960
+that i'm comfortable with which is
+
+892
+00:32:44,960 --> 00:32:47,360
+day trading intraday and short term
+
+893
+00:32:47,360 --> 00:32:48,000
+that's my
+
+894
+00:32:48,000 --> 00:32:50,640
+forte that's where i excel and i can
+
+895
+00:32:50,640 --> 00:32:53,279
+find lots of those types of day trades
+
+896
+00:32:53,279 --> 00:32:55,120
+short term trades or swing trades
+
+897
+00:32:55,120 --> 00:32:56,640
+intraday in the
+
+898
+00:32:56,640 --> 00:32:58,720
+overall price model that's being shown
+
+899
+00:32:58,720 --> 00:33:01,200
+here now what am i actually showing here
+
+900
+00:33:01,200 --> 00:33:04,159
+well if you look at the relative equal
+
+901
+00:33:04,159 --> 00:33:05,360
+highs over here
+
+902
+00:33:05,360 --> 00:33:06,720
+you know this is a buy side liquidity
+
+903
+00:33:06,720 --> 00:33:08,399
+pool and the market will likely want to
+
+904
+00:33:08,399 --> 00:33:10,559
+go back to that point we also have a
+
+905
+00:33:10,559 --> 00:33:11,519
+consolidation
+
+906
+00:33:11,519 --> 00:33:13,519
+that leaves the consolidation comes back
+
+907
+00:33:13,519 --> 00:33:15,440
+up to the consolidation in here
+
+908
+00:33:15,440 --> 00:33:18,000
+and drops lower and another level of
+
+909
+00:33:18,000 --> 00:33:18,960
+decline
+
+910
+00:33:18,960 --> 00:33:22,080
+hits a important level 100 and in
+
+911
+00:33:22,080 --> 00:33:22,960
+rallies
+
+912
+00:33:22,960 --> 00:33:25,519
+it breaks a short term high here so we
+
+913
+00:33:25,519 --> 00:33:27,679
+have a shift in market structure
+
+914
+00:33:27,679 --> 00:33:29,760
+so when the market comes back down into
+
+915
+00:33:29,760 --> 00:33:31,519
+a bullish order block which is this down
+
+916
+00:33:31,519 --> 00:33:33,360
+close candle right there
+
+917
+00:33:33,360 --> 00:33:35,600
+we have an optimal trade entry so we're
+
+918
+00:33:35,600 --> 00:33:38,159
+using the lowest low to the highest high
+
+919
+00:33:38,159 --> 00:33:40,559
+projecting that up that gives us two and
+
+920
+00:33:40,559 --> 00:33:41,840
+a half
+
+921
+00:33:41,840 --> 00:33:44,960
+standard deviations and above the buy
+
+922
+00:33:44,960 --> 00:33:46,000
+side liquidity pool
+
+923
+00:33:46,000 --> 00:33:49,440
+so that means about one dollar and 34
+
+924
+00:33:49,440 --> 00:33:52,960
+cents per pound
+
+925
+00:33:52,960 --> 00:33:55,360
+for coffee as an upside objective back
+
+926
+00:33:55,360 --> 00:33:56,559
+here
+
+927
+00:33:56,559 --> 00:33:59,919
+in july mid july when the seasonal
+
+928
+00:33:59,919 --> 00:34:01,279
+tendency for
+
+929
+00:34:01,279 --> 00:34:04,399
+coffee is bullish the market rallies up
+
+930
+00:34:04,399 --> 00:34:07,279
+it touches these relative equal highs
+
+931
+00:34:07,279 --> 00:34:08,719
+sells off a little bit goes back into a
+
+932
+00:34:08,719 --> 00:34:09,918
+bullish order block
+
+933
+00:34:09,918 --> 00:34:11,918
+here and we have another optimal trade
+
+934
+00:34:11,918 --> 00:34:13,918
+entry that sends it up again
+
+935
+00:34:13,918 --> 00:34:17,760
+to a target above the buy side liquidity
+
+936
+00:34:17,760 --> 00:34:21,119
+pull resting at relative equal highs
+
+937
+00:34:21,119 --> 00:34:22,719
+so if you look at the total range i'm
+
+938
+00:34:22,719 --> 00:34:25,679
+going to take this off here
+
+939
+00:34:25,679 --> 00:34:29,440
+if you look at the total range from this
+
+940
+00:34:29,440 --> 00:34:31,839
+run here to here you can't say that you
+
+941
+00:34:31,839 --> 00:34:33,599
+would be a buyer here but you can assume
+
+942
+00:34:33,599 --> 00:34:34,159
+that you're
+
+943
+00:34:34,159 --> 00:34:36,239
+close to this area here not at this very
+
+944
+00:34:36,239 --> 00:34:37,520
+low at 101
+
+945
+00:34:37,520 --> 00:34:40,000
+which is the best case area for a low
+
+946
+00:34:40,000 --> 00:34:41,520
+and the best case area
+
+947
+00:34:41,520 --> 00:34:47,280
+for an extra high is the 135.65
+
+948
+00:34:47,280 --> 00:34:49,839
+so inside this range the best case which
+
+949
+00:34:49,839 --> 00:34:51,119
+is impossible
+
+950
+00:34:51,119 --> 00:34:55,520
+would be 34.65
+
+951
+00:34:55,520 --> 00:35:00,000
+handles okay or 375 dollars
+
+952
+00:35:00,000 --> 00:35:03,280
+times 34.6 because the point value for
+
+953
+00:35:03,280 --> 00:35:06,480
+coffee is 3.75 cents per point and every
+
+954
+00:35:06,480 --> 00:35:07,599
+handle
+
+955
+00:35:07,599 --> 00:35:09,760
+and what's a handle from like for
+
+956
+00:35:09,760 --> 00:35:11,599
+instance 134
+
+957
+00:35:11,599 --> 00:35:14,560
+to 135 that's one full handle that would
+
+958
+00:35:14,560 --> 00:35:15,760
+be represented by
+
+959
+00:35:15,760 --> 00:35:18,880
+375 that's
+
+960
+00:35:18,880 --> 00:35:22,560
+100 points or one handle price move
+
+961
+00:35:22,560 --> 00:35:24,720
+in this case the price moved twelve
+
+962
+00:35:24,720 --> 00:35:26,000
+thousand nine hundred ninety three
+
+963
+00:35:26,000 --> 00:35:27,200
+dollars and seventy five cents per
+
+964
+00:35:27,200 --> 00:35:28,320
+contract
+
+965
+00:35:28,320 --> 00:35:31,680
+from here to here
+
+966
+00:35:31,680 --> 00:35:35,359
+all of this is a market maker buy model
+
+967
+00:35:35,359 --> 00:35:39,040
+with a seasonal tenancy mid july with
+
+968
+00:35:39,040 --> 00:35:42,640
+the dollar index selling off in july
+
+969
+00:35:42,640 --> 00:35:45,040
+which we were looking for ourselves as
+
+970
+00:35:45,040 --> 00:35:46,240
+my group was
+
+971
+00:35:46,240 --> 00:35:48,640
+following along and this type of price
+
+972
+00:35:48,640 --> 00:35:49,599
+move here
+
+973
+00:35:49,599 --> 00:35:53,119
+is what i teach i teach these types of
+
+974
+00:35:53,119 --> 00:35:54,079
+moves
+
+975
+00:35:54,079 --> 00:35:57,119
+i don't say buy here sell there but i
+
+976
+00:35:57,119 --> 00:35:59,520
+guide you in every year i take my
+
+977
+00:35:59,520 --> 00:36:01,359
+students back in and say okay
+
+978
+00:36:01,359 --> 00:36:03,119
+this is the seasonal tendency this is
+
+979
+00:36:03,119 --> 00:36:04,560
+what we were looking for this is what we
+
+980
+00:36:04,560 --> 00:36:06,400
+called in dollar index that sets the
+
+981
+00:36:06,400 --> 00:36:08,320
+tone for all these other markets
+
+982
+00:36:08,320 --> 00:36:11,520
+i point to the markets to have these
+
+983
+00:36:11,520 --> 00:36:14,640
+potential extrapolated price moves
+
+984
+00:36:14,640 --> 00:36:16,880
+and we've looked at corn there's five
+
+985
+00:36:16,880 --> 00:36:17,839
+thousand dollars
+
+986
+00:36:17,839 --> 00:36:20,000
+we looked at soybeans twenty thirty
+
+987
+00:36:20,000 --> 00:36:22,000
+thousand dollars there
+
+988
+00:36:22,000 --> 00:36:25,359
+we have bitcoin thirty 000
+
+989
+00:36:25,359 --> 00:36:26,880
+points i'm not sure what that would
+
+990
+00:36:26,880 --> 00:36:29,359
+equate to you in terms of dollars
+
+991
+00:36:29,359 --> 00:36:33,040
+but these are moves
+
+992
+00:36:33,040 --> 00:36:35,920
+that are not small they're very
+
+993
+00:36:35,920 --> 00:36:36,880
+significant
+
+994
+00:36:36,880 --> 00:36:40,720
+they're major moves and if your tools
+
+995
+00:36:40,720 --> 00:36:42,480
+can help you fared out these types of
+
+996
+00:36:42,480 --> 00:36:44,320
+price action moves
+
+997
+00:36:44,320 --> 00:36:47,839
+every single year this is where
+
+998
+00:36:47,839 --> 00:36:50,560
+the majority of your focus should be but
+
+999
+00:36:50,560 --> 00:36:51,520
+you will not
+
+1000
+00:36:51,520 --> 00:36:54,480
+find them if you're just lazily going
+
+1001
+00:36:54,480 --> 00:36:57,040
+through the charts looking for
+
+1002
+00:36:57,040 --> 00:36:59,599
+any old pattern for the pattern's sake
+
+1003
+00:36:59,599 --> 00:37:01,839
+you have to have the logic behind it
+
+1004
+00:37:01,839 --> 00:37:03,200
+so notice what i've combined here i've
+
+1005
+00:37:03,200 --> 00:37:05,359
+combined a market maker by model
+
+1006
+00:37:05,359 --> 00:37:06,880
+which is what i teach even on this
+
+1007
+00:37:06,880 --> 00:37:10,240
+youtube channel for free
+
+1008
+00:37:10,240 --> 00:37:13,520
+big round number one dollar per pound
+
+1009
+00:37:13,520 --> 00:37:15,040
+for coffee and i'll let you go out to
+
+1010
+00:37:15,040 --> 00:37:16,560
+the higher time frame charts you can do
+
+1011
+00:37:16,560 --> 00:37:17,680
+that on your own
+
+1012
+00:37:17,680 --> 00:37:19,920
+and see what one dollar mark looks like
+
+1013
+00:37:19,920 --> 00:37:21,040
+in hindsight
+
+1014
+00:37:21,040 --> 00:37:23,920
+and so you can see a big support level
+
+1015
+00:37:23,920 --> 00:37:25,200
+around there
+
+1016
+00:37:25,200 --> 00:37:29,040
+and also if you use the
+
+1017
+00:37:29,520 --> 00:37:33,520
+kc well let's just do it
+
+1018
+00:37:34,839 --> 00:37:37,760
+kc and then use the front
+
+1019
+00:37:37,760 --> 00:37:41,440
+current month use this on kc number one
+
+1020
+00:37:41,440 --> 00:37:44,480
+exclamation you click on that and you'll
+
+1021
+00:37:44,480 --> 00:37:45,920
+see that we have
+
+1022
+00:37:45,920 --> 00:37:48,880
+this down closed candle prior to this
+
+1023
+00:37:48,880 --> 00:37:49,599
+run up
+
+1024
+00:37:49,599 --> 00:37:53,520
+there's your order block all it's done
+
+1025
+00:37:53,520 --> 00:37:56,800
+was worked off of that
+
+1026
+00:37:56,800 --> 00:37:59,040
+went right into it here and created your
+
+1027
+00:37:59,040 --> 00:38:01,599
+optimal trade entry
+
+1028
+00:38:01,599 --> 00:38:04,720
+and then rallied now you have to use
+
+1029
+00:38:04,720 --> 00:38:08,480
+the trading month's contract
+
+1030
+00:38:08,480 --> 00:38:10,000
+when you're looking at commodities
+
+1031
+00:38:10,000 --> 00:38:11,760
+whereas this is just a
+
+1032
+00:38:11,760 --> 00:38:15,040
+a cumulative chart of
+
+1033
+00:38:15,040 --> 00:38:18,160
+all of the nearby current front month
+
+1034
+00:38:18,160 --> 00:38:20,400
+contracts right now the front contract
+
+1035
+00:38:20,400 --> 00:38:21,359
+month for
+
+1036
+00:38:21,359 --> 00:38:26,079
+coffee is march 2021 prior to march 21
+
+1037
+00:38:26,079 --> 00:38:28,960
+it was december 2020 and prior to that
+
+1038
+00:38:28,960 --> 00:38:30,560
+it was september 2020
+
+1039
+00:38:30,560 --> 00:38:32,160
+so these contracts expire in the
+
+1040
+00:38:32,160 --> 00:38:34,320
+commodity market forex you don't have
+
+1041
+00:38:34,320 --> 00:38:35,200
+that issue
+
+1042
+00:38:35,200 --> 00:38:37,760
+okay but in futures or if you're trading
+
+1043
+00:38:37,760 --> 00:38:38,800
+commodity markets
+
+1044
+00:38:38,800 --> 00:38:40,640
+you have to be aware of that so if
+
+1045
+00:38:40,640 --> 00:38:42,320
+you're looking at over here we don't
+
+1046
+00:38:42,320 --> 00:38:43,520
+have those
+
+1047
+00:38:43,520 --> 00:38:46,320
+pretty easy to see relative equal highs
+
+1048
+00:38:46,320 --> 00:38:47,200
+like we see
+
+1049
+00:38:47,200 --> 00:38:50,560
+in the march contract
+
+1050
+00:38:54,640 --> 00:38:58,240
+here see that so
+
+1051
+00:38:58,240 --> 00:39:00,079
+you have to look at what's available in
+
+1052
+00:39:00,079 --> 00:39:01,280
+the price action
+
+1053
+00:39:01,280 --> 00:39:03,359
+but you all know the market make or buy
+
+1054
+00:39:03,359 --> 00:39:04,320
+model
+
+1055
+00:39:04,320 --> 00:39:05,839
+you understand the optimal trade entry
+
+1056
+00:39:05,839 --> 00:39:07,920
+because that's the flagship pattern here
+
+1057
+00:39:07,920 --> 00:39:09,920
+in this channel and you understand order
+
+1058
+00:39:09,920 --> 00:39:11,040
+blocks because i've introduced them
+
+1059
+00:39:11,040 --> 00:39:12,880
+publicly here
+
+1060
+00:39:12,880 --> 00:39:16,160
+and we know that a run on relative equal
+
+1061
+00:39:16,160 --> 00:39:18,800
+highs is the draw on liquidity that's a
+
+1062
+00:39:18,800 --> 00:39:21,680
+standard procedure that i've taught very
+
+1063
+00:39:21,680 --> 00:39:22,960
+publicly here
+
+1064
+00:39:22,960 --> 00:39:25,119
+on this channel and it's caught fire and
+
+1065
+00:39:25,119 --> 00:39:26,640
+everybody's talking about it now
+
+1066
+00:39:26,640 --> 00:39:28,560
+that's wonderful i just wish that the
+
+1067
+00:39:28,560 --> 00:39:29,920
+folks that were doing that
+
+1068
+00:39:29,920 --> 00:39:32,160
+would just make a reference and say hey
+
+1069
+00:39:32,160 --> 00:39:34,400
+look you know i picked this up from
+
+1070
+00:39:34,400 --> 00:39:36,640
+ict and you'll get more respect for me
+
+1071
+00:39:36,640 --> 00:39:37,440
+by doing that
+
+1072
+00:39:37,440 --> 00:39:38,800
+it doesn't mean go and take everything i
+
+1073
+00:39:38,800 --> 00:39:40,960
+have and teach it all over again but i
+
+1074
+00:39:40,960 --> 00:39:42,960
+know that this was going to be popular
+
+1075
+00:39:42,960 --> 00:39:44,240
+when i gave it out
+
+1076
+00:39:44,240 --> 00:39:46,400
+and it's just unfortunate a lot of
+
+1077
+00:39:46,400 --> 00:39:47,440
+people trying to
+
+1078
+00:39:47,440 --> 00:39:49,920
+glory hound and take credit for
+
+1079
+00:39:49,920 --> 00:39:51,280
+something they didn't earn
+
+1080
+00:39:51,280 --> 00:39:54,960
+or work for so these are pretty big
+
+1081
+00:39:54,960 --> 00:39:56,000
+moves
+
+1082
+00:39:56,000 --> 00:39:59,119
+and every single year we have these
+
+1083
+00:39:59,119 --> 00:40:00,240
+types of moves
+
+1084
+00:40:00,240 --> 00:40:01,599
+so you don't need one of these types of
+
+1085
+00:40:01,599 --> 00:40:03,440
+moves okay
+
+1086
+00:40:03,440 --> 00:40:08,000
+i mean people waited around for years
+
+1087
+00:40:08,000 --> 00:40:11,839
+for this to occur
+
+1088
+00:40:12,720 --> 00:40:16,240
+in here i called six thousand to twenty
+
+1089
+00:40:16,240 --> 00:40:18,000
+and then changed gears before twenty
+
+1090
+00:40:18,000 --> 00:40:19,359
+and said no it's not going to go so at
+
+1091
+00:40:19,359 --> 00:40:21,200
+nineteen seven i said it's gonna go to
+
+1092
+00:40:21,200 --> 00:40:24,079
+six thousand and then from when we got
+
+1093
+00:40:24,079 --> 00:40:25,119
+to six thousand i said it's going to go
+
+1094
+00:40:25,119 --> 00:40:25,920
+to 3 000
+
+1095
+00:40:25,920 --> 00:40:28,160
+and i failed to be accurate there it
+
+1096
+00:40:28,160 --> 00:40:30,000
+went to like 3 400
+
+1097
+00:40:30,000 --> 00:40:32,160
+or 32 i can't remember recall exactly
+
+1098
+00:40:32,160 --> 00:40:33,200
+where it was but
+
+1099
+00:40:33,200 --> 00:40:35,440
+the point is is it eventually dropped
+
+1100
+00:40:35,440 --> 00:40:36,319
+down to um
+
+1101
+00:40:36,319 --> 00:40:39,680
+something in here i'm not sure exactly
+
+1102
+00:40:39,680 --> 00:40:42,240
+what the low was
+
+1103
+00:40:42,240 --> 00:40:45,680
+yeah 32 something or 31
+
+1104
+00:40:45,680 --> 00:40:48,960
+and 31 22 in there
+
+1105
+00:40:48,960 --> 00:40:51,319
+and then we had this little run here in
+
+1106
+00:40:51,319 --> 00:40:52,720
+2019
+
+1107
+00:40:52,720 --> 00:40:53,760
+and everybody thought that was going to
+
+1108
+00:40:53,760 --> 00:40:55,280
+run above here and i was like no i don't
+
+1109
+00:40:55,280 --> 00:40:56,480
+think it's going to happen
+
+1110
+00:40:56,480 --> 00:41:01,200
+and we tanked here during the pandemic
+
+1111
+00:41:01,200 --> 00:41:04,720
+and then that extreme set the stage for
+
+1112
+00:41:04,720 --> 00:41:07,680
+the low and then from that point all the
+
+1113
+00:41:07,680 --> 00:41:10,800
+way up to where we went to 42 something
+
+1114
+00:41:10,800 --> 00:41:21,839
+where is it at 40.
+
+1115
+00:41:22,240 --> 00:41:25,599
+42 000 and that was it
+
+1116
+00:41:25,599 --> 00:41:28,560
+and then we fell out of bed so it
+
+1117
+00:41:28,560 --> 00:41:29,280
+dropped 10
+
+1118
+00:41:29,280 --> 00:41:34,800
+000 points in short order
+
+1119
+00:41:34,800 --> 00:41:37,920
+in here does it want to go lower
+
+1120
+00:41:37,920 --> 00:41:40,079
+i don't know to me it doesn't have a
+
+1121
+00:41:40,079 --> 00:41:41,920
+seasonal tendency yet
+
+1122
+00:41:41,920 --> 00:41:45,040
+so it doesn't fit this discussion but
+
+1123
+00:41:45,040 --> 00:41:47,040
+i'm trying to draw a contrast and please
+
+1124
+00:41:47,040 --> 00:41:49,119
+don't take this as me kicking
+
+1125
+00:41:49,119 --> 00:41:51,599
+sand in the face of crypto traders okay
+
+1126
+00:41:51,599 --> 00:41:52,800
+i'm not doing that i've done it in the
+
+1127
+00:41:52,800 --> 00:41:53,680
+past
+
+1128
+00:41:53,680 --> 00:41:55,839
+okay i'm not i'm not trying to say it i
+
+1129
+00:41:55,839 --> 00:41:57,760
+didn't do that in the past because i did
+
+1130
+00:41:57,760 --> 00:42:02,319
+but all i'm trying to remind you is that
+
+1131
+00:42:02,319 --> 00:42:04,400
+big market moves weren't invented by
+
+1132
+00:42:04,400 --> 00:42:05,520
+crypto
+
+1133
+00:42:05,520 --> 00:42:08,480
+okay there are fortune making moves
+
+1134
+00:42:08,480 --> 00:42:09,119
+occurring
+
+1135
+00:42:09,119 --> 00:42:11,359
+every single year for those individuals
+
+1136
+00:42:11,359 --> 00:42:12,720
+that know how to find them
+
+1137
+00:42:12,720 --> 00:42:16,000
+and that's why people like myself
+
+1138
+00:42:16,000 --> 00:42:19,040
+used to have a lot of fun reading
+
+1139
+00:42:19,040 --> 00:42:21,200
+people saying that you know everybody
+
+1140
+00:42:21,200 --> 00:42:23,040
+else that isn't trading crypto
+
+1141
+00:42:23,040 --> 00:42:25,520
+can't catch big huge windfall price
+
+1142
+00:42:25,520 --> 00:42:26,400
+moves like
+
+1143
+00:42:26,400 --> 00:42:29,839
+it created in 2017 2019 and now
+
+1144
+00:42:29,839 --> 00:42:31,839
+obviously what was seen in 2020 going
+
+1145
+00:42:31,839 --> 00:42:32,480
+into
+
+1146
+00:42:32,480 --> 00:42:36,480
+2021 there's a way to find these big
+
+1147
+00:42:36,480 --> 00:42:37,520
+moves
+
+1148
+00:42:37,520 --> 00:42:40,160
+and i gave you the foundation that i
+
+1149
+00:42:40,160 --> 00:42:41,520
+started with
+
+1150
+00:42:41,520 --> 00:42:44,560
+now that's not all that i do i've put a
+
+1151
+00:42:44,560 --> 00:42:46,240
+lot of structure on top of that
+
+1152
+00:42:46,240 --> 00:42:47,359
+foundation
+
+1153
+00:42:47,359 --> 00:42:50,480
+that's unique to me
+
+1154
+00:42:50,480 --> 00:42:52,960
+it's not white cough okay it's not
+
+1155
+00:42:52,960 --> 00:42:54,480
+supply and demand it's not all those
+
+1156
+00:42:54,480 --> 00:42:56,480
+things that people like to say it is
+
+1157
+00:42:56,480 --> 00:42:58,800
+because they want to use those those
+
+1158
+00:42:58,800 --> 00:43:00,400
+name tags when they're teaching my
+
+1159
+00:43:00,400 --> 00:43:01,440
+content
+
+1160
+00:43:01,440 --> 00:43:03,040
+and you hear them say order block you
+
+1161
+00:43:03,040 --> 00:43:05,119
+hear them say breaker those are terms
+
+1162
+00:43:05,119 --> 00:43:08,079
+i invented i invented those terms
+
+1163
+00:43:08,079 --> 00:43:10,400
+they're they're coined by me
+
+1164
+00:43:10,400 --> 00:43:12,640
+so when i hear them and if my students
+
+1165
+00:43:12,640 --> 00:43:13,520
+hear them
+
+1166
+00:43:13,520 --> 00:43:15,599
+right away you know you just know that
+
+1167
+00:43:15,599 --> 00:43:17,440
+this is a derivative of
+
+1168
+00:43:17,440 --> 00:43:20,079
+what i have been teaching and it's just
+
+1169
+00:43:20,079 --> 00:43:21,280
+it's offensive
+
+1170
+00:43:21,280 --> 00:43:23,599
+to see people do that and not give
+
+1171
+00:43:23,599 --> 00:43:24,720
+credit where it's due
+
+1172
+00:43:24,720 --> 00:43:26,720
+because you didn't endure all the
+
+1173
+00:43:26,720 --> 00:43:27,920
+hardships
+
+1174
+00:43:27,920 --> 00:43:32,160
+all the pain the loss monetarily family
+
+1175
+00:43:32,160 --> 00:43:35,359
+friends everything insanity in many
+
+1176
+00:43:35,359 --> 00:43:40,400
+instances to get this so
+
+1177
+00:43:40,400 --> 00:43:43,920
+hopefully you can now think about
+
+1178
+00:43:43,920 --> 00:43:46,079
+how seasonal tendencies and i gave you
+
+1179
+00:43:46,079 --> 00:43:47,040
+one in this
+
+1180
+00:43:47,040 --> 00:43:51,359
+lesson here coffee is one
+
+1181
+00:43:51,359 --> 00:43:52,720
+that if you go back and look at your
+
+1182
+00:43:52,720 --> 00:43:54,079
+data now here's what's going to happen
+
+1183
+00:43:54,079 --> 00:43:55,920
+i'm already going to predict this okay
+
+1184
+00:43:55,920 --> 00:43:57,920
+you're going to hear in certain circles
+
+1185
+00:43:57,920 --> 00:43:59,520
+if you are part of
+
+1186
+00:43:59,520 --> 00:44:03,200
+one that has the
+
+1187
+00:44:03,200 --> 00:44:05,839
+conversation of ict coming up once in a
+
+1188
+00:44:05,839 --> 00:44:06,640
+while
+
+1189
+00:44:06,640 --> 00:44:07,839
+they're going to go into the charts and
+
+1190
+00:44:07,839 --> 00:44:09,359
+they're going to look for times where in
+
+1191
+00:44:09,359 --> 00:44:10,880
+july mid july
+
+1192
+00:44:10,880 --> 00:44:12,800
+coffee didn't go up it's going to go
+
+1193
+00:44:12,800 --> 00:44:14,240
+down well you got to look at what the
+
+1194
+00:44:14,240 --> 00:44:16,480
+market's been doing
+
+1195
+00:44:16,480 --> 00:44:19,920
+ahead of july if it's bullish going into
+
+1196
+00:44:19,920 --> 00:44:21,440
+july that's your
+
+1197
+00:44:21,440 --> 00:44:23,119
+indication that this is a good strong
+
+1198
+00:44:23,119 --> 00:44:25,839
+seasonal tendency for coffee
+
+1199
+00:44:25,839 --> 00:44:28,880
+and there are times where
+
+1200
+00:44:28,880 --> 00:44:32,000
+if you look at coffee
+
+1201
+00:44:32,640 --> 00:44:33,760
+and some of you're like i ain't never
+
+1202
+00:44:33,760 --> 00:44:35,119
+trading coffee why is this guy keep
+
+1203
+00:44:35,119 --> 00:44:35,760
+talking about this
+
+1204
+00:44:35,760 --> 00:44:40,720
+this market if you look at coffee on a
+
+1205
+00:44:40,720 --> 00:44:44,319
+i'll do a weekly chart okay
+
+1206
+00:44:44,319 --> 00:44:46,720
+and you can see we've had some spikes
+
+1207
+00:44:46,720 --> 00:44:47,599
+and such
+
+1208
+00:44:47,599 --> 00:44:49,760
+okay but you want to study go back as
+
+1209
+00:44:49,760 --> 00:44:51,520
+far as the data will permit it
+
+1210
+00:44:51,520 --> 00:44:54,319
+but looking at all this right here is
+
+1211
+00:44:54,319 --> 00:44:56,480
+this market bullish or bearish
+
+1212
+00:44:56,480 --> 00:44:58,960
+it's obviously bearish so are you going
+
+1213
+00:44:58,960 --> 00:44:59,520
+to be
+
+1214
+00:44:59,520 --> 00:45:02,960
+likely to anticipate a mid-july
+
+1215
+00:45:02,960 --> 00:45:05,599
+run higher in coffee in this instance
+
+1216
+00:45:05,599 --> 00:45:06,319
+here's the thing
+
+1217
+00:45:06,319 --> 00:45:08,400
+it can happen but it's most likely not
+
+1218
+00:45:08,400 --> 00:45:09,599
+going to happen
+
+1219
+00:45:09,599 --> 00:45:12,000
+okay is that very clear for you if the
+
+1220
+00:45:12,000 --> 00:45:14,480
+market's bullish
+
+1221
+00:45:14,480 --> 00:45:19,040
+like it's been here then in july
+
+1222
+00:45:19,040 --> 00:45:20,800
+there you go there's july right there
+
+1223
+00:45:20,800 --> 00:45:22,480
+it's going to run higher
+
+1224
+00:45:22,480 --> 00:45:24,880
+boom now if you look at something that's
+
+1225
+00:45:24,880 --> 00:45:26,640
+bearish
+
+1226
+00:45:26,640 --> 00:45:30,240
+let's find july and there you go mid
+
+1227
+00:45:30,240 --> 00:45:30,880
+july
+
+1228
+00:45:30,880 --> 00:45:32,640
+now we get we have a little bit of a run
+
+1229
+00:45:32,640 --> 00:45:34,079
+but look how fast it gives up the ghost
+
+1230
+00:45:34,079 --> 00:45:34,880
+and goes lower
+
+1231
+00:45:34,880 --> 00:45:36,480
+you see that there's a difference
+
+1232
+00:45:36,480 --> 00:45:37,760
+between knowing what you're talking
+
+1233
+00:45:37,760 --> 00:45:39,119
+about and just trying to look for
+
+1234
+00:45:39,119 --> 00:45:40,800
+something to say it doesn't work
+
+1235
+00:45:40,800 --> 00:45:42,800
+that's what trolls do that's what
+
+1236
+00:45:42,800 --> 00:45:44,240
+critics do
+
+1237
+00:45:44,240 --> 00:45:47,599
+here's another area bearish um
+
+1238
+00:45:47,599 --> 00:45:51,760
+july right here mid-july
+
+1239
+00:45:51,760 --> 00:45:55,200
+there okay ahead of that is it bullish
+
+1240
+00:45:55,200 --> 00:45:55,760
+or bearish
+
+1241
+00:45:55,760 --> 00:45:57,599
+it's been going lower so is the seasonal
+
+1242
+00:45:57,599 --> 00:45:58,800
+tension likely to send
+
+1243
+00:45:58,800 --> 00:46:00,960
+coffee higher on that year no and look
+
+1244
+00:46:00,960 --> 00:46:02,319
+what happened it fell out of bed even
+
+1245
+00:46:02,319 --> 00:46:03,440
+more
+
+1246
+00:46:03,440 --> 00:46:06,960
+so if we look at a time when
+
+1247
+00:46:06,960 --> 00:46:09,839
+we had a break in market structure here
+
+1248
+00:46:09,839 --> 00:46:12,240
+we have
+
+1249
+00:46:13,280 --> 00:46:17,119
+mid july right there right
+
+1250
+00:46:17,119 --> 00:46:20,480
+there it dropped a little bit and then
+
+1251
+00:46:20,480 --> 00:46:21,920
+dropped again
+
+1252
+00:46:21,920 --> 00:46:23,359
+so it was a break in market structure
+
+1253
+00:46:23,359 --> 00:46:26,160
+but has it really made a bullish move
+
+1254
+00:46:26,160 --> 00:46:31,280
+not yet it's still in transition in here
+
+1255
+00:46:32,160 --> 00:46:36,079
+same thing we're going to go to a july
+
+1256
+00:46:36,880 --> 00:46:40,240
+and that's last year and there you go
+
+1257
+00:46:40,240 --> 00:46:43,040
+so i'll counsel you to go back and look
+
+1258
+00:46:43,040 --> 00:46:44,800
+at all the times when
+
+1259
+00:46:44,800 --> 00:46:47,920
+coffee was bullish
+
+1260
+00:46:49,119 --> 00:46:52,160
+and when it was bearish
+
+1261
+00:46:54,000 --> 00:46:55,760
+okay here's a nice area where it's been
+
+1262
+00:46:55,760 --> 00:46:58,400
+bullish right
+
+1263
+00:46:58,400 --> 00:47:02,720
+july mid july right there
+
+1264
+00:47:02,720 --> 00:47:07,200
+bam higher
+
+1265
+00:47:07,200 --> 00:47:09,359
+now we had reached a level up in here
+
+1266
+00:47:09,359 --> 00:47:10,560
+and i'll let you look at the
+
+1267
+00:47:10,560 --> 00:47:12,640
+higher time frame charts and study it
+
+1268
+00:47:12,640 --> 00:47:13,839
+but here's july
+
+1269
+00:47:13,839 --> 00:47:17,440
+that year and it rallies
+
+1270
+00:47:17,440 --> 00:47:18,720
+doesn't take up the high but that's a
+
+1271
+00:47:18,720 --> 00:47:20,960
+nice rally but then it falls out of bed
+
+1272
+00:47:20,960 --> 00:47:23,200
+because we hit an important level here
+
+1273
+00:47:23,200 --> 00:47:24,880
+and i'll let you go back and look at
+
+1274
+00:47:24,880 --> 00:47:27,280
+what that is historically using a
+
+1275
+00:47:27,280 --> 00:47:29,760
+monthly chart
+
+1276
+00:47:29,760 --> 00:47:31,760
+and i'm really doing you a disservice by
+
+1277
+00:47:31,760 --> 00:47:32,880
+trying to go through
+
+1278
+00:47:32,880 --> 00:47:35,760
+some of them i'm just giving you the
+
+1279
+00:47:35,760 --> 00:47:37,760
+argument that some of my critics
+
+1280
+00:47:37,760 --> 00:47:40,480
+you know the thumbs down crew they like
+
+1281
+00:47:40,480 --> 00:47:42,160
+to thumbs down my video
+
+1282
+00:47:42,160 --> 00:47:44,720
+the which i love i love that because it
+
+1283
+00:47:44,720 --> 00:47:46,319
+makes me smile
+
+1284
+00:47:46,319 --> 00:47:48,800
+who can look at videos like this where
+
+1285
+00:47:48,800 --> 00:47:51,359
+i'm literally giving you
+
+1286
+00:47:51,359 --> 00:47:55,599
+lottery ticket winning numbers that work
+
+1287
+00:47:55,599 --> 00:47:58,559
+over and over and over again okay for
+
+1288
+00:47:58,559 --> 00:48:00,079
+free
+
+1289
+00:48:00,079 --> 00:48:03,040
+i'm doing this for free there's no sales
+
+1290
+00:48:03,040 --> 00:48:03,440
+pitch
+
+1291
+00:48:03,440 --> 00:48:06,079
+you can't join my mentorship now i just
+
+1292
+00:48:06,079 --> 00:48:07,520
+love doing this
+
+1293
+00:48:07,520 --> 00:48:10,720
+and if you like these kind of lessons
+
+1294
+00:48:10,720 --> 00:48:14,480
+and you find it useful to you
+
+1295
+00:48:14,480 --> 00:48:16,880
+or inspiring you just give it a thumbs
+
+1296
+00:48:16,880 --> 00:48:18,240
+up it doesn't cost you anything
+
+1297
+00:48:18,240 --> 00:48:19,760
+just click the thumbs up and there it is
+
+1298
+00:48:19,760 --> 00:48:23,040
+it's done why do i want that to happen
+
+1299
+00:48:23,040 --> 00:48:25,760
+because i want this channel to be bigger
+
+1300
+00:48:25,760 --> 00:48:27,200
+than it is
+
+1301
+00:48:27,200 --> 00:48:29,280
+because there's a lot of people out here
+
+1302
+00:48:29,280 --> 00:48:30,480
+on youtube
+
+1303
+00:48:30,480 --> 00:48:32,800
+that are misinforming people with things
+
+1304
+00:48:32,800 --> 00:48:34,319
+that don't work
+
+1305
+00:48:34,319 --> 00:48:36,800
+and the trading community could really
+
+1306
+00:48:36,800 --> 00:48:39,040
+use a breath of fresh air
+
+1307
+00:48:39,040 --> 00:48:41,359
+and everybody that's came into my
+
+1308
+00:48:41,359 --> 00:48:42,880
+mentorship that's it there's no more
+
+1309
+00:48:42,880 --> 00:48:44,000
+sales pitch
+
+1310
+00:48:44,000 --> 00:48:47,119
+there's no more 20 22 20 nothing like
+
+1311
+00:48:47,119 --> 00:48:48,559
+i'm done i'm trying to get all the
+
+1312
+00:48:48,559 --> 00:48:50,000
+mentorship teaching done
+
+1313
+00:48:50,000 --> 00:48:52,319
+i'm getting all the payment stuff done
+
+1314
+00:48:52,319 --> 00:48:54,240
+and then i'm going back
+
+1315
+00:48:54,240 --> 00:48:57,359
+to being who i was before 2016
+
+1316
+00:48:57,359 --> 00:48:59,359
+in august when i started this mentorship
+
+1317
+00:48:59,359 --> 00:49:00,559
+doesn't mean i'm not going to continue
+
+1318
+00:49:00,559 --> 00:49:02,240
+with my mentorship group and give them
+
+1319
+00:49:02,240 --> 00:49:03,680
+private teachings
+
+1320
+00:49:03,680 --> 00:49:05,520
+because i don't want to be focusing on i
+
+1321
+00:49:05,520 --> 00:49:07,280
+just want to go back to doing it relax
+
+1322
+00:49:07,280 --> 00:49:09,119
+and have time to do like i'm doing here
+
+1323
+00:49:09,119 --> 00:49:10,400
+if you couldn't afford
+
+1324
+00:49:10,400 --> 00:49:13,040
+the mentorship just know that i'm still
+
+1325
+00:49:13,040 --> 00:49:13,920
+going to present
+
+1326
+00:49:13,920 --> 00:49:16,079
+lessons here i'm not going to teach the
+
+1327
+00:49:16,079 --> 00:49:17,280
+same level
+
+1328
+00:49:17,280 --> 00:49:18,800
+obviously for those that join my
+
+1329
+00:49:18,800 --> 00:49:20,800
+mentorship that would be unfair
+
+1330
+00:49:20,800 --> 00:49:23,920
+and be unreasonable but
+
+1331
+00:49:23,920 --> 00:49:27,520
+there is a plethora of wisdom
+
+1332
+00:49:27,520 --> 00:49:29,359
+in these videos and if you've only
+
+1333
+00:49:29,359 --> 00:49:32,079
+watched them one time
+
+1334
+00:49:32,079 --> 00:49:34,319
+you didn't get it all you have to go
+
+1335
+00:49:34,319 --> 00:49:35,359
+through it a few times
+
+1336
+00:49:35,359 --> 00:49:37,040
+and take notes and then study some
+
+1337
+00:49:37,040 --> 00:49:38,800
+charts and then you'll find out that
+
+1338
+00:49:38,800 --> 00:49:39,680
+you've
+
+1339
+00:49:39,680 --> 00:49:41,520
+seen something that if you go back and
+
+1340
+00:49:41,520 --> 00:49:43,119
+listen to the videos again
+
+1341
+00:49:43,119 --> 00:49:46,079
+it'll mean more to you and it'll feel
+
+1342
+00:49:46,079 --> 00:49:48,559
+just like a new video was given to you
+
+1343
+00:49:48,559 --> 00:49:50,160
+and it's the same video i gave you from
+
+1344
+00:49:50,160 --> 00:49:51,520
+the beginning it's just they're very
+
+1345
+00:49:51,520 --> 00:49:52,160
+dense
+
+1346
+00:49:52,160 --> 00:49:54,160
+there's a lot of like this video there's
+
+1347
+00:49:54,160 --> 00:49:56,240
+a lot of things and nuggets in it
+
+1348
+00:49:56,240 --> 00:49:59,599
+that if you learn a little bit more with
+
+1349
+00:49:59,599 --> 00:50:00,640
+practice
+
+1350
+00:50:00,640 --> 00:50:02,640
+you'll appreciate the things i've said
+
+1351
+00:50:02,640 --> 00:50:03,760
+that would otherwise have
+
+1352
+00:50:03,760 --> 00:50:05,200
+been glossed over by you by your
+
+1353
+00:50:05,200 --> 00:50:07,119
+attention just not being dialed in
+
+1354
+00:50:07,119 --> 00:50:08,559
+because you don't know the importance of
+
+1355
+00:50:08,559 --> 00:50:10,240
+the things i'm saying
+
+1356
+00:50:10,240 --> 00:50:11,839
+but for those individuals that have been
+
+1357
+00:50:11,839 --> 00:50:13,440
+a commodity trader
+
+1358
+00:50:13,440 --> 00:50:15,599
+maybe some of you are futures traders
+
+1359
+00:50:15,599 --> 00:50:16,800
+and you've traded
+
+1360
+00:50:16,800 --> 00:50:18,400
+commodity markets and maybe you traded
+
+1361
+00:50:18,400 --> 00:50:20,480
+coffee before and you never were aware
+
+1362
+00:50:20,480 --> 00:50:21,760
+of something like this
+
+1363
+00:50:21,760 --> 00:50:25,440
+this is something that you can
+
+1364
+00:50:25,440 --> 00:50:28,960
+plan and predict months in advance
+
+1365
+00:50:28,960 --> 00:50:31,599
+so when we get to july if the market's
+
+1366
+00:50:31,599 --> 00:50:33,280
+been bullish
+
+1367
+00:50:33,280 --> 00:50:34,800
+you can anticipate something like this
+
+1368
+00:50:34,800 --> 00:50:36,319
+unfolding now obviously it doesn't give
+
+1369
+00:50:36,319 --> 00:50:37,599
+you an entry pattern
+
+1370
+00:50:37,599 --> 00:50:39,599
+it doesn't give you an exit pattern it
+
+1371
+00:50:39,599 --> 00:50:41,280
+doesn't give you the stop loss
+
+1372
+00:50:41,280 --> 00:50:45,440
+but i'm teaching you a foundational idea
+
+1373
+00:50:45,440 --> 00:50:47,920
+which is important you have to have an
+
+1374
+00:50:47,920 --> 00:50:49,520
+understanding of why a market should
+
+1375
+00:50:49,520 --> 00:50:51,440
+even be doing anything at all
+
+1376
+00:50:51,440 --> 00:50:52,960
+just because you think you see something
+
+1377
+00:50:52,960 --> 00:50:55,280
+harmonic or you think you see something
+
+1378
+00:50:55,280 --> 00:50:55,760
+that's an
+
+1379
+00:50:55,760 --> 00:50:58,480
+elliott wave based idea or even a supply
+
+1380
+00:50:58,480 --> 00:50:59,119
+and demand
+
+1381
+00:50:59,119 --> 00:51:02,720
+idea doesn't mean anything by itself
+
+1382
+00:51:02,720 --> 00:51:04,880
+just like an order block by itself means
+
+1383
+00:51:04,880 --> 00:51:06,640
+absolutely nothing
+
+1384
+00:51:06,640 --> 00:51:08,400
+you have to have some context and you
+
+1385
+00:51:08,400 --> 00:51:10,720
+can't get any better as a context
+
+1386
+00:51:10,720 --> 00:51:14,480
+than having a seasonal impact
+
+1387
+00:51:14,480 --> 00:51:16,559
+behind a market move that has happened
+
+1388
+00:51:16,559 --> 00:51:18,240
+historically over and over and over
+
+1389
+00:51:18,240 --> 00:51:19,040
+again
+
+1390
+00:51:19,040 --> 00:51:22,079
+and you can see it you can visually see
+
+1391
+00:51:22,079 --> 00:51:23,760
+it
+
+1392
+00:51:23,760 --> 00:51:26,559
+and coupling that when it's bullish and
+
+1393
+00:51:26,559 --> 00:51:28,400
+there's lots of seasonal tendencies
+
+1394
+00:51:28,400 --> 00:51:29,920
+there's other seasonal tendencies for
+
+1395
+00:51:29,920 --> 00:51:31,839
+coffee for it to go down
+
+1396
+00:51:31,839 --> 00:51:33,520
+specific times of the year and it's
+
+1397
+00:51:33,520 --> 00:51:35,760
+other times when it's predisposed to go
+
+1398
+00:51:35,760 --> 00:51:36,079
+up
+
+1399
+00:51:36,079 --> 00:51:39,119
+to and the same premise you go into it
+
+1400
+00:51:39,119 --> 00:51:41,200
+looking for what the market was bullish
+
+1401
+00:51:41,200 --> 00:51:43,440
+or bearish going into that specific
+
+1402
+00:51:43,440 --> 00:51:46,400
+seasonal tenancy and by blending that
+
+1403
+00:51:46,400 --> 00:51:48,079
+with market structure
+
+1404
+00:51:48,079 --> 00:51:50,400
+and are we in a risk on a risk off
+
+1405
+00:51:50,400 --> 00:51:52,160
+environment that goes back to the dollar
+
+1406
+00:51:52,160 --> 00:51:53,760
+index
+
+1407
+00:51:53,760 --> 00:51:56,000
+if you're if you're expecting a buy
+
+1408
+00:51:56,000 --> 00:51:58,000
+signal in commodities
+
+1409
+00:51:58,000 --> 00:52:01,200
+but you don't see a weaker dollar you're
+
+1410
+00:52:01,200 --> 00:52:02,480
+probably
+
+1411
+00:52:02,480 --> 00:52:04,240
+looking at a market that isn't going to
+
+1412
+00:52:04,240 --> 00:52:05,680
+pan out for you
+
+1413
+00:52:05,680 --> 00:52:07,599
+doesn't mean it's always like that it
+
+1414
+00:52:07,599 --> 00:52:09,920
+just means that the probability has
+
+1415
+00:52:09,920 --> 00:52:13,680
+shifted to a very low probability
+
+1416
+00:52:13,680 --> 00:52:17,119
+in your favor versus
+
+1417
+00:52:17,119 --> 00:52:19,200
+if you were expecting a move higher in a
+
+1418
+00:52:19,200 --> 00:52:20,720
+commodity market
+
+1419
+00:52:20,720 --> 00:52:23,280
+and the dollar index was bearish and you
+
+1420
+00:52:23,280 --> 00:52:24,559
+can see it going lower
+
+1421
+00:52:24,559 --> 00:52:26,559
+then you have a risk on scenario because
+
+1422
+00:52:26,559 --> 00:52:28,240
+dollars going lower
+
+1423
+00:52:28,240 --> 00:52:31,520
+and that other market that would be in
+
+1424
+00:52:31,520 --> 00:52:34,079
+a normal perspective it would be an
+
+1425
+00:52:34,079 --> 00:52:35,280
+inverse
+
+1426
+00:52:35,280 --> 00:52:37,839
+expectation so dollar lower commodities
+
+1427
+00:52:37,839 --> 00:52:39,119
+higher
+
+1428
+00:52:39,119 --> 00:52:41,520
+so there's this relationship of macro
+
+1429
+00:52:41,520 --> 00:52:43,040
+and i talked a little bit about that and
+
+1430
+00:52:43,040 --> 00:52:43,359
+i'll
+
+1431
+00:52:43,359 --> 00:52:44,880
+take you to the post on my community tab
+
+1432
+00:52:44,880 --> 00:52:47,680
+now this is the post i did
+
+1433
+00:52:47,680 --> 00:52:51,839
+today and again today is
+
+1434
+00:52:52,160 --> 00:52:55,599
+january 12 2021 and
+
+1435
+00:52:55,599 --> 00:52:59,119
+i did a post like this earlier this
+
+1436
+00:52:59,119 --> 00:53:00,559
+morning
+
+1437
+00:53:00,559 --> 00:53:03,920
+and i talked about the importance of
+
+1438
+00:53:03,920 --> 00:53:04,480
+using
+
+1439
+00:53:04,480 --> 00:53:07,359
+seasonal tendencies and it's the the
+
+1440
+00:53:07,359 --> 00:53:08,240
+main thing
+
+1441
+00:53:08,240 --> 00:53:10,079
+i think everyone should try to focus on
+
+1442
+00:53:10,079 --> 00:53:11,520
+because there are specific times of the
+
+1443
+00:53:11,520 --> 00:53:12,800
+year
+
+1444
+00:53:12,800 --> 00:53:15,440
+that you should be focusing on one side
+
+1445
+00:53:15,440 --> 00:53:17,119
+of the marketplace
+
+1446
+00:53:17,119 --> 00:53:20,160
+and not the other it doesn't mean that
+
+1447
+00:53:20,160 --> 00:53:22,480
+you abandon the other side of the
+
+1448
+00:53:22,480 --> 00:53:23,440
+marketplace
+
+1449
+00:53:23,440 --> 00:53:26,079
+because what's really interesting and
+
+1450
+00:53:26,079 --> 00:53:27,680
+i'm going to finalize this video at this
+
+1451
+00:53:27,680 --> 00:53:29,280
+point
+
+1452
+00:53:29,280 --> 00:53:32,160
+if there is a time when the market is
+
+1453
+00:53:32,160 --> 00:53:32,960
+seasonally
+
+1454
+00:53:32,960 --> 00:53:35,040
+bullish you can look at the seasonal
+
+1455
+00:53:35,040 --> 00:53:37,119
+tenancy as a way of
+
+1456
+00:53:37,119 --> 00:53:39,920
+timing the other direction because the
+
+1457
+00:53:39,920 --> 00:53:40,640
+markets
+
+1458
+00:53:40,640 --> 00:53:42,559
+find a way to punish those individuals
+
+1459
+00:53:42,559 --> 00:53:43,839
+that look for these types of patterns
+
+1460
+00:53:43,839 --> 00:53:44,559
+and they don't
+
+1461
+00:53:44,559 --> 00:53:47,599
+exist and i'll say it like this
+
+1462
+00:53:47,599 --> 00:53:49,119
+if you're bullish on the market and the
+
+1463
+00:53:49,119 --> 00:53:50,720
+seasonal tendency is bullish
+
+1464
+00:53:50,720 --> 00:53:52,880
+and the market structure is bullish then
+
+1465
+00:53:52,880 --> 00:53:54,640
+you have a high probability buy
+
+1466
+00:53:54,640 --> 00:53:57,920
+with the dollar being bearish okay
+
+1467
+00:53:57,920 --> 00:54:01,200
+if you are bearish on
+
+1468
+00:54:01,200 --> 00:54:04,079
+a market and the market structure is
+
+1469
+00:54:04,079 --> 00:54:05,200
+bearish
+
+1470
+00:54:05,200 --> 00:54:08,960
+and the dollar index is bullish
+
+1471
+00:54:08,960 --> 00:54:10,319
+then you have high probability in your
+
+1472
+00:54:10,319 --> 00:54:12,319
+favor
+
+1473
+00:54:12,319 --> 00:54:15,200
+if you see a bullish seasonal tendency
+
+1474
+00:54:15,200 --> 00:54:16,559
+and we'll use coffee as a
+
+1475
+00:54:16,559 --> 00:54:19,599
+example here if we have this seasonal
+
+1476
+00:54:19,599 --> 00:54:21,200
+tendency mid july
+
+1477
+00:54:21,200 --> 00:54:23,520
+and the market's been bearish going into
+
+1478
+00:54:23,520 --> 00:54:26,559
+that mid-july time period
+
+1479
+00:54:26,559 --> 00:54:30,160
+we don't look for a buy we would look
+
+1480
+00:54:30,160 --> 00:54:30,559
+for
+
+1481
+00:54:30,559 --> 00:54:34,800
+a short-term rally to sell short into
+
+1482
+00:54:34,800 --> 00:54:39,280
+and then probably see a better
+
+1483
+00:54:39,280 --> 00:54:40,960
+price delivery on the downside as a
+
+1484
+00:54:40,960 --> 00:54:43,520
+result because the seasonal tendency
+
+1485
+00:54:43,520 --> 00:54:46,000
+would not be there and that gives us
+
+1486
+00:54:46,000 --> 00:54:48,000
+many times what i mentioned here
+
+1487
+00:54:48,000 --> 00:54:49,920
+it departs from the norm in price action
+
+1488
+00:54:49,920 --> 00:54:51,359
+it tends to
+
+1489
+00:54:51,359 --> 00:54:53,599
+incite excitement and price action and
+
+1490
+00:54:53,599 --> 00:54:55,200
+important opportunities
+
+1491
+00:54:55,200 --> 00:54:57,359
+so it's far more important for you to
+
+1492
+00:54:57,359 --> 00:54:58,640
+know
+
+1493
+00:54:58,640 --> 00:55:01,920
+this than an entry pattern because it
+
+1494
+00:55:01,920 --> 00:55:02,480
+gives you
+
+1495
+00:55:02,480 --> 00:55:05,119
+the foundation to why a market should
+
+1496
+00:55:05,119 --> 00:55:06,240
+have a big move
+
+1497
+00:55:06,240 --> 00:55:08,319
+because if you're in trading or trying
+
+1498
+00:55:08,319 --> 00:55:09,760
+to get into trading just to get
+
+1499
+00:55:09,760 --> 00:55:12,720
+10 pips 20 pips as a forex trader okay
+
+1500
+00:55:12,720 --> 00:55:13,359
+or
+
+1501
+00:55:13,359 --> 00:55:15,680
+try to make 25 pips as a weekly
+
+1502
+00:55:15,680 --> 00:55:17,359
+objective which is what i kind of like
+
+1503
+00:55:17,359 --> 00:55:18,160
+teach people
+
+1504
+00:55:18,160 --> 00:55:19,359
+to aim for in the beginning i think
+
+1505
+00:55:19,359 --> 00:55:21,359
+that's a reasonable
+
+1506
+00:55:21,359 --> 00:55:23,920
+objective it's not high and lofty it's
+
+1507
+00:55:23,920 --> 00:55:25,200
+something that i think that could be
+
+1508
+00:55:25,200 --> 00:55:26,640
+easily obtained
+
+1509
+00:55:26,640 --> 00:55:28,160
+and you could still make a career off of
+
+1510
+00:55:28,160 --> 00:55:30,319
+that as crazy as it may sound
+
+1511
+00:55:30,319 --> 00:55:33,119
+but i don't want you thinking that
+
+1512
+00:55:33,119 --> 00:55:34,079
+that's all you
+
+1513
+00:55:34,079 --> 00:55:36,240
+can do with what i give you here on this
+
+1514
+00:55:36,240 --> 00:55:37,359
+youtube channel
+
+1515
+00:55:37,359 --> 00:55:39,440
+you could literally turn this into
+
+1516
+00:55:39,440 --> 00:55:40,640
+whatever you want it to be you want to
+
+1517
+00:55:40,640 --> 00:55:42,240
+be a big swing trader catching mega
+
+1518
+00:55:42,240 --> 00:55:43,200
+trades
+
+1519
+00:55:43,200 --> 00:55:45,599
+well this is one way of going into it
+
+1520
+00:55:45,599 --> 00:55:47,359
+now notice i didn't even talk about
+
+1521
+00:55:47,359 --> 00:55:49,599
+commitment of traders you notice that
+
+1522
+00:55:49,599 --> 00:55:51,359
+did you also notice that i didn't talk
+
+1523
+00:55:51,359 --> 00:55:54,799
+about breakers
+
+1524
+00:55:54,799 --> 00:55:57,680
+or mitigation blocks you see what i'm
+
+1525
+00:55:57,680 --> 00:55:59,200
+referring to there
+
+1526
+00:55:59,200 --> 00:56:02,079
+i have a lot of moving parts but you're
+
+1527
+00:56:02,079 --> 00:56:03,599
+able to take
+
+1528
+00:56:03,599 --> 00:56:05,920
+what makes sense to you that resonates
+
+1529
+00:56:05,920 --> 00:56:06,799
+with you
+
+1530
+00:56:06,799 --> 00:56:08,799
+and say okay i'm going to use these
+
+1531
+00:56:08,799 --> 00:56:10,480
+things that make up my model
+
+1532
+00:56:10,480 --> 00:56:12,960
+but if it doesn't have things that are
+
+1533
+00:56:12,960 --> 00:56:13,760
+rooted in
+
+1534
+00:56:13,760 --> 00:56:16,640
+market truths you're not going to see
+
+1535
+00:56:16,640 --> 00:56:17,680
+those things pan
+
+1536
+00:56:17,680 --> 00:56:19,920
+out for you it doesn't make a difference
+
+1537
+00:56:19,920 --> 00:56:22,079
+the buzzwords the cool little names
+
+1538
+00:56:22,079 --> 00:56:23,680
+the things that you see me show you in
+
+1539
+00:56:23,680 --> 00:56:25,839
+your charts
+
+1540
+00:56:25,839 --> 00:56:28,160
+doesn't make a difference unless it's
+
+1541
+00:56:28,160 --> 00:56:29,359
+rooted and founded
+
+1542
+00:56:29,359 --> 00:56:32,640
+in rooted in a market truth and what is
+
+1543
+00:56:32,640 --> 00:56:34,400
+the market truth
+
+1544
+00:56:34,400 --> 00:56:37,760
+the markets will move
+
+1545
+00:56:37,760 --> 00:56:42,079
+based on a higher time frame premise
+
+1546
+00:56:42,079 --> 00:56:44,960
+and when we're referring to agricultural
+
+1547
+00:56:44,960 --> 00:56:45,920
+markets like
+
+1548
+00:56:45,920 --> 00:56:49,760
+foods and grains they are fundamentally
+
+1549
+00:56:49,760 --> 00:56:52,400
+driven by supply and demand factors
+
+1550
+00:56:52,400 --> 00:56:53,520
+those markets have
+
+1551
+00:56:53,520 --> 00:56:56,960
+real supply and demand every other
+
+1552
+00:56:56,960 --> 00:56:58,160
+market out there
+
+1553
+00:56:58,160 --> 00:57:02,799
+is manipulated commodities are a real
+
+1554
+00:57:02,799 --> 00:57:04,559
+market that has supply and demand
+
+1555
+00:57:04,559 --> 00:57:06,960
+factors that govern them
+
+1556
+00:57:06,960 --> 00:57:10,000
+they are the world's grocery store
+
+1557
+00:57:10,000 --> 00:57:13,520
+so they have a real value like
+
+1558
+00:57:13,520 --> 00:57:15,040
+corn is always going to be worth
+
+1559
+00:57:15,040 --> 00:57:18,319
+something but your share of tesla
+
+1560
+00:57:18,319 --> 00:57:21,040
+could be worth zero two years from now
+
+1561
+00:57:21,040 --> 00:57:22,400
+as crazy as that might say i'm not
+
+1562
+00:57:22,400 --> 00:57:22,799
+saying
+
+1563
+00:57:22,799 --> 00:57:25,200
+that's what's going to happen but tesla
+
+1564
+00:57:25,200 --> 00:57:26,880
+stocks you know the shares
+
+1565
+00:57:26,880 --> 00:57:28,559
+there's no real reason to think that
+
+1566
+00:57:28,559 --> 00:57:30,480
+there's value behind that
+
+1567
+00:57:30,480 --> 00:57:32,799
+or that it would be in perpetuity worth
+
+1568
+00:57:32,799 --> 00:57:33,920
+something
+
+1569
+00:57:33,920 --> 00:57:37,359
+it doesn't mean that but it's viewed
+
+1570
+00:57:37,359 --> 00:57:40,480
+that it has that value right now but
+
+1571
+00:57:40,480 --> 00:57:44,160
+corn will never go to worthlessness
+
+1572
+00:57:44,160 --> 00:57:47,520
+it's a food it'll always have value and
+
+1573
+00:57:47,520 --> 00:57:50,160
+in times of turmoil and what i
+
+1574
+00:57:50,160 --> 00:57:52,400
+anticipate going forward
+
+1575
+00:57:52,400 --> 00:57:55,359
+there's going to be a shortage of food
+
+1576
+00:57:55,359 --> 00:57:56,880
+and that shortage of food is going to
+
+1577
+00:57:56,880 --> 00:58:00,400
+put so much supply and demand pressure
+
+1578
+00:58:00,400 --> 00:58:03,680
+on these grains and that's why you're
+
+1579
+00:58:03,680 --> 00:58:05,200
+seeing these big extrapolated price
+
+1580
+00:58:05,200 --> 00:58:07,359
+moves
+
+1581
+00:58:07,359 --> 00:58:10,960
+why because it's fundamentally driven
+
+1582
+00:58:10,960 --> 00:58:12,160
+so if you're looking for supply and
+
+1583
+00:58:12,160 --> 00:58:14,240
+demand and you want to trade supply and
+
+1584
+00:58:14,240 --> 00:58:14,880
+demand
+
+1585
+00:58:14,880 --> 00:58:16,480
+you can't find a better way of doing it
+
+1586
+00:58:16,480 --> 00:58:18,880
+than trading commodities
+
+1587
+00:58:18,880 --> 00:58:21,520
+period that's real that's real supply
+
+1588
+00:58:21,520 --> 00:58:22,960
+and demand
+
+1589
+00:58:22,960 --> 00:58:26,000
+there's no real supply and demand with a
+
+1590
+00:58:26,000 --> 00:58:26,880
+currency
+
+1591
+00:58:26,880 --> 00:58:29,520
+it's all manipulated and in the cryptos
+
+1592
+00:58:29,520 --> 00:58:31,920
+manipulated too
+
+1593
+00:58:31,920 --> 00:58:35,520
+bottom line is this don't think that you
+
+1594
+00:58:35,520 --> 00:58:36,079
+have
+
+1595
+00:58:36,079 --> 00:58:38,480
+to worry about making money in these
+
+1596
+00:58:38,480 --> 00:58:41,280
+tiny little intraday fluctuations
+
+1597
+00:58:41,280 --> 00:58:44,160
+the same tools and premise that i teach
+
+1598
+00:58:44,160 --> 00:58:44,720
+with these
+
+1599
+00:58:44,720 --> 00:58:47,839
+intraday can be applied to the
+
+1600
+00:58:47,839 --> 00:58:51,040
+larger daily charts and if i would have
+
+1601
+00:58:51,040 --> 00:58:52,160
+just told you that
+
+1602
+00:58:52,160 --> 00:58:57,119
+this chart here for corn
+
+1603
+00:58:57,119 --> 00:58:59,520
+if i told you that was a an hourly chart
+
+1604
+00:58:59,520 --> 00:59:01,119
+or a 15-minute chart and didn't tell you
+
+1605
+00:59:01,119 --> 00:59:01,440
+what
+
+1606
+00:59:01,440 --> 00:59:04,319
+market it was you wouldn't have known
+
+1607
+00:59:04,319 --> 00:59:06,480
+any different
+
+1608
+00:59:06,480 --> 00:59:09,599
+because price is price but
+
+1609
+00:59:09,599 --> 00:59:11,520
+knowing where these big moves come from
+
+1610
+00:59:11,520 --> 00:59:13,839
+and putting your neck out on the line
+
+1611
+00:59:13,839 --> 00:59:16,160
+i do that and if i don't know what i'm
+
+1612
+00:59:16,160 --> 00:59:17,119
+talking about
+
+1613
+00:59:17,119 --> 00:59:20,480
+i would fall on my face miserably
+
+1614
+00:59:20,480 --> 00:59:22,400
+and you keep seeing me pointing to the
+
+1615
+00:59:22,400 --> 00:59:24,400
+next big moves pointing to the next big
+
+1616
+00:59:24,400 --> 00:59:25,200
+moves
+
+1617
+00:59:25,200 --> 00:59:26,720
+because i have almost 30 years of
+
+1618
+00:59:26,720 --> 00:59:29,920
+experience doing this
+
+1619
+00:59:30,079 --> 00:59:33,359
+i don't want to steer you wrong i don't
+
+1620
+00:59:33,359 --> 00:59:34,880
+want to see you fail
+
+1621
+00:59:34,880 --> 00:59:37,359
+i'm inspired by your excitement and your
+
+1622
+00:59:37,359 --> 00:59:38,480
+enthusiasm
+
+1623
+00:59:38,480 --> 00:59:41,680
+it motivates me it keeps me going
+
+1624
+00:59:41,680 --> 00:59:43,839
+because it allows me to relive moments
+
+1625
+00:59:43,839 --> 00:59:46,160
+just like you are having right now
+
+1626
+00:59:46,160 --> 00:59:48,160
+i went through that when you want to
+
+1627
+00:59:48,160 --> 00:59:51,359
+quit i went through that dozens of times
+
+1628
+00:59:51,359 --> 00:59:53,040
+when you feel like you hit a home run
+
+1629
+00:59:53,040 --> 00:59:54,640
+because you got
+
+1630
+00:59:54,640 --> 00:59:56,559
+more understanding and you can't sleep
+
+1631
+00:59:56,559 --> 00:59:58,000
+and you're excited
+
+1632
+00:59:58,000 --> 00:59:59,680
+i've been there i know what that feels
+
+1633
+00:59:59,680 --> 01:00:02,000
+like and it's amazing
+
+1634
+01:00:02,000 --> 01:00:04,240
+but nobody around you is going to
+
+1635
+01:00:04,240 --> 01:00:05,839
+understand that excitement
+
+1636
+01:00:05,839 --> 01:00:07,599
+because they think what you're doing or
+
+1637
+01:00:07,599 --> 01:00:09,760
+trying to learn is nonsense it's a pipe
+
+1638
+01:00:09,760 --> 01:00:11,599
+dream to them
+
+1639
+01:00:11,599 --> 01:00:14,160
+but i know i went through that i had all
+
+1640
+01:00:14,160 --> 01:00:15,359
+the adversity
+
+1641
+01:00:15,359 --> 01:00:16,799
+and everyone around me saying the same
+
+1642
+01:00:16,799 --> 01:00:19,119
+things it's a waste of time
+
+1643
+01:00:19,119 --> 01:00:22,079
+don't believe any of that don't listen
+
+1644
+01:00:22,079 --> 01:00:23,440
+to that stuff
+
+1645
+01:00:23,440 --> 01:00:25,040
+stop talking about what you're planning
+
+1646
+01:00:25,040 --> 01:00:28,720
+on doing and just do it don't share your
+
+1647
+01:00:28,720 --> 01:00:30,079
+dreams with other people
+
+1648
+01:00:30,079 --> 01:00:32,000
+because they're going to tell you don't
+
+1649
+01:00:32,000 --> 01:00:33,200
+bother
+
+1650
+01:00:33,200 --> 01:00:36,400
+who wants to hear that so
+
+1651
+01:00:36,400 --> 01:00:38,720
+dig into your charts dig into the videos
+
+1652
+01:00:38,720 --> 01:00:40,400
+that you find on this youtube channel
+
+1653
+01:00:40,400 --> 01:00:44,079
+start studying make 2021 the year
+
+1654
+01:00:44,079 --> 01:00:46,960
+that you've framed out a model that
+
+1655
+01:00:46,960 --> 01:00:48,480
+makes sense to you
+
+1656
+01:00:48,480 --> 01:00:49,839
+doesn't have to have all the moving
+
+1657
+01:00:49,839 --> 01:00:51,839
+parts that's available but something
+
+1658
+01:00:51,839 --> 01:00:53,119
+that makes sense to you
+
+1659
+01:00:53,119 --> 01:00:55,200
+that's rooted in why a market should go
+
+1660
+01:00:55,200 --> 01:00:57,599
+up or down and where it should reach for
+
+1661
+01:00:57,599 --> 01:01:00,400
+logically i teach that here on this
+
+1662
+01:01:00,400 --> 01:01:01,920
+youtube channel
+
+1663
+01:01:01,920 --> 01:01:04,400
+and if you put the time into studying it
+
+1664
+01:01:04,400 --> 01:01:06,000
+i promise
+
+1665
+01:01:06,000 --> 01:01:08,000
+you will find something that you can't
+
+1666
+01:01:08,000 --> 01:01:09,520
+find elsewhere
+
+1667
+01:01:09,520 --> 01:01:12,400
+and at least for free since i'll talk to
+
+1668
+01:01:12,400 --> 01:01:13,760
+you next time be safe
+
+1669
+01:01:13,760 --> 01:01:17,200
+and good luck and good trading
+
