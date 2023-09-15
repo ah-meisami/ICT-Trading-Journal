@@ -1,0 +1,3700 @@
+1
+00:00:12,480 --> 00:00:15,420
+okay folks welcome back to lesson six
+
+2
+00:00:15,420 --> 00:00:19,140
+of the April 2017 ICT mentorship
+
+3
+00:00:19,140 --> 00:00:21,779
+this month is ICT day trading model this
+
+4
+00:00:21,779 --> 00:00:23,340
+lesson is when to avoid the London
+
+5
+00:00:23,340 --> 00:00:25,580
+session
+
+6
+00:00:29,420 --> 00:00:32,000
+okay this lesson is going to be
+
+7
+00:00:32,000 --> 00:00:36,239
+completely void of any charts any kind
+
+8
+00:00:36,239 --> 00:00:38,579
+of examples any kind of distractions
+
+9
+00:00:38,579 --> 00:00:40,800
+because I want you to think about
+
+10
+00:00:40,800 --> 00:00:43,680
+the characteristics that I'm outlining
+
+11
+00:00:43,680 --> 00:00:46,800
+here it's not a long lesson but it's
+
+12
+00:00:46,800 --> 00:00:49,379
+very very important I want to make it
+
+13
+00:00:49,379 --> 00:00:50,760
+separate apart from everything else
+
+14
+00:00:50,760 --> 00:00:53,100
+because many of you look at the charts
+
+15
+00:00:53,100 --> 00:00:54,899
+and you try to question why I'm drawing
+
+16
+00:00:54,899 --> 00:00:56,820
+a line here or I'm highlighting this or
+
+17
+00:00:56,820 --> 00:00:58,860
+why is this time feeling either there
+
+18
+00:00:58,860 --> 00:01:01,020
+and why is it not this I want you to
+
+19
+00:01:01,020 --> 00:01:03,300
+think about the things I'm outlining in
+
+20
+00:01:03,300 --> 00:01:05,040
+this lesson
+
+21
+00:01:05,040 --> 00:01:07,080
+from a conceptual or characteristic
+
+22
+00:01:07,080 --> 00:01:09,900
+Viewpoint because they're not ambiguous
+
+23
+00:01:09,900 --> 00:01:12,000
+they're very specific things I look for
+
+24
+00:01:12,000 --> 00:01:13,740
+and these are the types of things I want
+
+25
+00:01:13,740 --> 00:01:15,119
+you to think about when you're going
+
+26
+00:01:15,119 --> 00:01:16,920
+into trading the London session for day
+
+27
+00:01:16,920 --> 00:01:18,420
+trades
+
+28
+00:01:18,420 --> 00:01:22,680
+so when is the London session not ideal
+
+29
+00:01:22,680 --> 00:01:24,960
+well typically after a large range day
+
+30
+00:01:24,960 --> 00:01:27,240
+which is greater than two times the
+
+31
+00:01:27,240 --> 00:01:29,340
+average five day range in other words if
+
+32
+00:01:29,340 --> 00:01:30,299
+you look at
+
+33
+00:01:30,299 --> 00:01:32,759
+the average DailyRange of a particular
+
+34
+00:01:32,759 --> 00:01:33,659
+pair
+
+35
+00:01:33,659 --> 00:01:36,420
+if you ever have a day prior to the day
+
+36
+00:01:36,420 --> 00:01:38,640
+you're wanting to day trade or trade it
+
+37
+00:01:38,640 --> 00:01:41,400
+on the session If the previous day or
+
+38
+00:01:41,400 --> 00:01:44,759
+previous trading day had a huge or large
+
+39
+00:01:44,759 --> 00:01:46,979
+range day that went greater than two
+
+40
+00:01:46,979 --> 00:01:51,380
+times its five day average DailyRange
+
+41
+00:01:51,380 --> 00:01:53,700
+on the day that it had the large range
+
+42
+00:01:53,700 --> 00:01:57,299
+day okay that is a day that you do not
+
+43
+00:01:57,299 --> 00:02:00,240
+want to trade immediately the day after
+
+44
+00:02:00,240 --> 00:02:03,000
+typically there'll be a consolidation or
+
+45
+00:02:03,000 --> 00:02:05,960
+it could go choppy
+
+46
+00:02:07,860 --> 00:02:10,199
+after a series of three consecutive up
+
+47
+00:02:10,199 --> 00:02:13,080
+closes on a daily chart you want to
+
+48
+00:02:13,080 --> 00:02:15,300
+avoid trading longs
+
+49
+00:02:15,300 --> 00:02:17,640
+at least in the London session because
+
+50
+00:02:17,640 --> 00:02:19,620
+typically you can get a retracement that
+
+51
+00:02:19,620 --> 00:02:21,120
+could be rather deep
+
+52
+00:02:21,120 --> 00:02:24,180
+creating a down close day on a candle on
+
+53
+00:02:24,180 --> 00:02:27,360
+the daily chart or a really long Wick
+
+54
+00:02:27,360 --> 00:02:30,480
+intraday and then maybe continuing in
+
+55
+00:02:30,480 --> 00:02:31,680
+the direction of the three consecutive
+
+56
+00:02:31,680 --> 00:02:33,900
+closes but generally after three up
+
+57
+00:02:33,900 --> 00:02:34,920
+closes
+
+58
+00:02:34,920 --> 00:02:37,020
+you're going to either get a pause or a
+
+59
+00:02:37,020 --> 00:02:39,739
+retracement lower
+
+60
+00:02:40,319 --> 00:02:42,239
+after a series of three consecutive down
+
+61
+00:02:42,239 --> 00:02:43,980
+closes on a daily chart
+
+62
+00:02:43,980 --> 00:02:46,080
+you want to be avoiding London shorts
+
+63
+00:02:46,080 --> 00:02:47,879
+and again just the same thing we just
+
+64
+00:02:47,879 --> 00:02:49,379
+mentioned with three consecutive up
+
+65
+00:02:49,379 --> 00:02:52,200
+closes as a daily chart would indicate
+
+66
+00:02:52,200 --> 00:02:53,640
+many times when you see three
+
+67
+00:02:53,640 --> 00:02:55,980
+consecutive down closes on a daily
+
+68
+00:02:55,980 --> 00:02:58,739
+trading short in London the next day or
+
+69
+00:02:58,739 --> 00:03:00,840
+the fourth trading day in a row many
+
+70
+00:03:00,840 --> 00:03:03,060
+times you can get caught up in a deep
+
+71
+00:03:03,060 --> 00:03:05,640
+retracement or it can go sideways
+
+72
+00:03:05,640 --> 00:03:08,160
+and it makes it not ideal for London
+
+73
+00:03:08,160 --> 00:03:10,019
+session
+
+74
+00:03:10,019 --> 00:03:11,640
+now with both of these conditions
+
+75
+00:03:11,640 --> 00:03:13,620
+outlined here three consecutive up
+
+76
+00:03:13,620 --> 00:03:15,420
+closes and three consecutive down closes
+
+77
+00:03:15,420 --> 00:03:17,459
+again that's relative to a daily time
+
+78
+00:03:17,459 --> 00:03:18,300
+frame
+
+79
+00:03:18,300 --> 00:03:21,360
+so if we see that criteria what that
+
+80
+00:03:21,360 --> 00:03:23,420
+will do is help filter out
+
+81
+00:03:23,420 --> 00:03:26,220
+when we have that situation generally
+
+82
+00:03:26,220 --> 00:03:28,140
+you won't see a big range day now it
+
+83
+00:03:28,140 --> 00:03:29,819
+doesn't mean it can't happen but it's
+
+84
+00:03:29,819 --> 00:03:32,519
+highly unlikely to occur on the fourth
+
+85
+00:03:32,519 --> 00:03:35,000
+trading day
+
+86
+00:03:36,780 --> 00:03:39,959
+after a FOMC event that produces extreme
+
+87
+00:03:39,959 --> 00:03:41,099
+whipsaw
+
+88
+00:03:41,099 --> 00:03:43,140
+now this could be
+
+89
+00:03:43,140 --> 00:03:44,940
+linked to the very first one I said as
+
+90
+00:03:44,940 --> 00:03:46,680
+well after a large range day greater
+
+91
+00:03:46,680 --> 00:03:48,180
+than two times its average DailyRange
+
+92
+00:03:48,180 --> 00:03:50,340
+on the five day basis
+
+93
+00:03:50,340 --> 00:03:52,260
+that can be
+
+94
+00:03:52,260 --> 00:03:54,239
+the factor that puts you on the
+
+95
+00:03:54,239 --> 00:03:56,700
+sidelines not trading London or if
+
+96
+00:03:56,700 --> 00:03:58,500
+there's an FOMC event that produces
+
+97
+00:03:58,500 --> 00:04:01,200
+extreme whipsaw it means that if there's
+
+98
+00:04:01,200 --> 00:04:02,400
+an interest rate announcement that comes
+
+99
+00:04:02,400 --> 00:04:03,239
+out
+
+100
+00:04:03,239 --> 00:04:05,159
+if they don't change his trades or if
+
+101
+00:04:05,159 --> 00:04:06,480
+they do change interest rates or it
+
+102
+00:04:06,480 --> 00:04:07,980
+wasn't just what they as high as they
+
+103
+00:04:07,980 --> 00:04:09,420
+thought it was going to go or low as it
+
+104
+00:04:09,420 --> 00:04:11,819
+thought whatever that
+
+105
+00:04:11,819 --> 00:04:12,360
+um
+
+106
+00:04:12,360 --> 00:04:15,360
+release is I don't care I don't care so
+
+107
+00:04:15,360 --> 00:04:16,798
+much about that what I want to say is
+
+108
+00:04:16,798 --> 00:04:18,418
+what was the action in The Marketplace
+
+109
+00:04:18,418 --> 00:04:21,238
+so if the FOMC event creates and
+
+110
+00:04:21,238 --> 00:04:23,100
+produces an extreme whipsaw up and down
+
+111
+00:04:23,100 --> 00:04:25,560
+generally FOMC comes out two o'clock in
+
+112
+00:04:25,560 --> 00:04:27,060
+the afternoon in NewYork time
+
+113
+00:04:27,060 --> 00:04:28,979
+so if we see that big whipsaw price
+
+114
+00:04:28,979 --> 00:04:30,780
+action that's going to mess up London
+
+115
+00:04:30,780 --> 00:04:32,220
+okay it's going to screw up the Central
+
+116
+00:04:32,220 --> 00:04:34,080
+Bank dealers range and possibly roll
+
+117
+00:04:34,080 --> 00:04:35,340
+right on into
+
+118
+00:04:35,340 --> 00:04:37,620
+the Asian session so just
+
+119
+00:04:37,620 --> 00:04:40,560
+avoid trading London open after FOMC
+
+120
+00:04:40,560 --> 00:04:43,639
+events that create whipsaw
+
+121
+00:04:45,240 --> 00:04:47,300
+ahead of non-farm payroll numbers
+
+122
+00:04:47,300 --> 00:04:50,040
+typically  the first Friday not always
+
+123
+00:04:50,040 --> 00:04:51,419
+but generally the first Friday of every
+
+124
+00:04:51,419 --> 00:04:54,120
+trading month we expect to see non-farm
+
+125
+00:04:54,120 --> 00:04:55,080
+payroll
+
+126
+00:04:55,080 --> 00:04:56,940
+if
+
+127
+00:04:56,940 --> 00:04:58,919
+we are looking for non-farm apparel to
+
+128
+00:04:58,919 --> 00:05:01,919
+occur we are not trading London session
+
+129
+00:05:01,919 --> 00:05:05,300
+at all on that Friday
+
+130
+00:05:06,900 --> 00:05:09,120
+now the same trading day
+
+131
+00:05:09,120 --> 00:05:11,340
+that's heading into a long weekend or a
+
+132
+00:05:11,340 --> 00:05:14,580
+holiday that day we avoid trading London
+
+133
+00:05:14,580 --> 00:05:15,720
+as well because it could be an early
+
+134
+00:05:15,720 --> 00:05:17,300
+leave a lot of Trades are going to go on
+
+135
+00:05:17,300 --> 00:05:20,699
+an early Escape From The Marketplace
+
+136
+00:05:20,699 --> 00:05:21,900
+and a lot of money is going to be
+
+137
+00:05:21,900 --> 00:05:23,160
+sitting on the sidelines now this is
+
+138
+00:05:23,160 --> 00:05:24,360
+going to be a hit and miss type thing
+
+139
+00:05:24,360 --> 00:05:25,680
+invariably you're going to be able to go
+
+140
+00:05:25,680 --> 00:05:28,259
+back and find instances where ICT look
+
+141
+00:05:28,259 --> 00:05:30,900
+at this it went 300 Pips okay going into
+
+142
+00:05:30,900 --> 00:05:33,419
+the holiday and it was a short day is it
+
+143
+00:05:33,419 --> 00:05:34,860
+going to happen possibly yeah sure it
+
+144
+00:05:34,860 --> 00:05:37,139
+was I mean anything can happen but we
+
+145
+00:05:37,139 --> 00:05:39,360
+trade in a world of probabilities and
+
+146
+00:05:39,360 --> 00:05:42,360
+statistical Edge so if we know that
+
+147
+00:05:42,360 --> 00:05:45,720
+historically the normal event is if
+
+148
+00:05:45,720 --> 00:05:47,880
+there's a day leading into a holiday
+
+149
+00:05:47,880 --> 00:05:49,320
+usually it's a Friday it could be a
+
+150
+00:05:49,320 --> 00:05:51,660
+Thursday generally you want to avoid
+
+151
+00:05:51,660 --> 00:05:53,880
+trading your London session because it's
+
+152
+00:05:53,880 --> 00:05:55,139
+going to probably be a quiet session
+
+153
+00:05:55,139 --> 00:05:58,940
+it's not worth taking on the risk
+
+154
+00:05:59,720 --> 00:06:02,820
+multiple High to medium impact news
+
+155
+00:06:02,820 --> 00:06:04,860
+drivers for that particular market so if
+
+156
+00:06:04,860 --> 00:06:06,600
+we look on the economic calendar you can
+
+157
+00:06:06,600 --> 00:06:08,220
+use Forex Factor you can use any other
+
+158
+00:06:08,220 --> 00:06:10,979
+reputable
+
+159
+00:06:10,979 --> 00:06:12,900
+economic calendar that tracks what news
+
+160
+00:06:12,900 --> 00:06:14,880
+releases or Market drivers that are
+
+161
+00:06:14,880 --> 00:06:16,500
+going to be released throughout the week
+
+162
+00:06:16,500 --> 00:06:18,539
+in each particular trading session for
+
+163
+00:06:18,539 --> 00:06:20,160
+every major pair
+
+164
+00:06:20,160 --> 00:06:22,800
+if we're looking at that for the London
+
+165
+00:06:22,800 --> 00:06:26,400
+session and we see multiple
+
+166
+00:06:26,400 --> 00:06:29,699
+high impact or medium impact events for
+
+167
+00:06:29,699 --> 00:06:33,300
+a particular currency that can spell a
+
+168
+00:06:33,300 --> 00:06:36,120
+pretty tricky London session not all the
+
+169
+00:06:36,120 --> 00:06:38,460
+time again there's always a caveat there
+
+170
+00:06:38,460 --> 00:06:41,699
+where it can happen but generally if we
+
+171
+00:06:41,699 --> 00:06:43,620
+see multiple drivers like for instance
+
+172
+00:06:43,620 --> 00:06:45,180
+maybe it's a two o'clock event that's
+
+173
+00:06:45,180 --> 00:06:47,280
+coming out and then at three o'clock
+
+174
+00:06:47,280 --> 00:06:48,660
+there's another one or maybe there's a
+
+175
+00:06:48,660 --> 00:06:50,460
+three o'clock event coming out and then
+
+176
+00:06:50,460 --> 00:06:51,900
+there's a five o'clock in that at five
+
+177
+00:06:51,900 --> 00:06:53,940
+o'clock in the morning event as well one
+
+178
+00:06:53,940 --> 00:06:57,539
+may be medium impact or one maybe a high
+
+179
+00:06:57,539 --> 00:07:00,660
+impact or they most they both may be 
+
+180
+00:07:00,660 --> 00:07:02,220
+one or the other in terms of medium or
+
+181
+00:07:02,220 --> 00:07:04,919
+high impact news if we see multiple
+
+182
+00:07:04,919 --> 00:07:06,900
+events due out on the economic calendar
+
+183
+00:07:06,900 --> 00:07:09,120
+for that particular pair it could be
+
+184
+00:07:09,120 --> 00:07:10,500
+problematic for your London session
+
+185
+00:07:10,500 --> 00:07:13,860
+trade okay so what we ideally look for
+
+186
+00:07:13,860 --> 00:07:15,660
+like we learned in the first portion of
+
+187
+00:07:15,660 --> 00:07:17,639
+this mentorship is we want to see
+
+188
+00:07:17,639 --> 00:07:19,919
+generally one high impact or medium
+
+189
+00:07:19,919 --> 00:07:22,020
+impact news event and that way we know
+
+190
+00:07:22,020 --> 00:07:23,340
+there's going to be probably one stage
+
+191
+00:07:23,340 --> 00:07:25,139
+of manipulation for that particular day
+
+192
+00:07:25,139 --> 00:07:27,060
+and then the profit release portion of
+
+193
+00:07:27,060 --> 00:07:28,500
+the day or the expansion of the daily
+
+194
+00:07:28,500 --> 00:07:32,000
+range will unfold going into NewYork
+
+195
+00:07:32,160 --> 00:07:34,680
+an absence of any news during London can
+
+196
+00:07:34,680 --> 00:07:36,720
+be a wild card day that means it could
+
+197
+00:07:36,720 --> 00:07:39,060
+go either way it could be a real easy
+
+198
+00:07:39,060 --> 00:07:42,240
+technical day where your profiles unfold
+
+199
+00:07:42,240 --> 00:07:44,699
+exactly as you expect or as we just
+
+200
+00:07:44,699 --> 00:07:47,099
+recently seen in the time of this
+
+201
+00:07:47,099 --> 00:07:50,400
+mentorship the UK prime minister came
+
+202
+00:07:50,400 --> 00:07:53,400
+out with a snap election decision right
+
+203
+00:07:53,400 --> 00:07:57,120
+on the heels of the holiday break and it
+
+204
+00:07:57,120 --> 00:08:00,780
+took the cable by storm so we had a 400
+
+205
+00:08:00,780 --> 00:08:03,479
+pip move in one trading day
+
+206
+00:08:03,479 --> 00:08:06,419
+for  the British pound USD
+
+207
+00:08:06,419 --> 00:08:08,699
+so and there was an absence completely
+
+208
+00:08:08,699 --> 00:08:14,580
+of any London time-based news events so
+
+209
+00:08:14,580 --> 00:08:16,560
+it was sprung on the market last minute
+
+210
+00:08:16,560 --> 00:08:20,039
+and then that was the result so there's
+
+211
+00:08:20,039 --> 00:08:22,139
+always some kind of a Black Swan
+
+212
+00:08:22,139 --> 00:08:24,360
+unexpected
+
+213
+00:08:24,360 --> 00:08:26,520
+didn't see it coming curveball and that
+
+214
+00:08:26,520 --> 00:08:28,080
+was when we just seen while we were
+
+215
+00:08:28,080 --> 00:08:30,740
+doing the mentorship
+
+216
+00:08:33,899 --> 00:08:36,419
+now what characteristics do I look for
+
+217
+00:08:36,419 --> 00:08:38,640
+to look for an avoidance of London
+
+218
+00:08:38,640 --> 00:08:41,039
+session the first one is the Central
+
+219
+00:08:41,039 --> 00:08:42,719
+Bank dealers range if it's greater than
+
+220
+00:08:42,719 --> 00:08:45,540
+50 Pips I'm already knowing first hand
+
+221
+00:08:45,540 --> 00:08:47,580
+i'm possibly going to pass on a London
+
+222
+00:08:47,580 --> 00:08:48,899
+session it doesn't mean it's a
+
+223
+00:08:48,899 --> 00:08:51,899
+guaranteed set in stone but if I have
+
+224
+00:08:51,899 --> 00:08:53,459
+plans the next day
+
+225
+00:08:53,459 --> 00:08:56,459
+if I have  you know plans with my
+
+226
+00:08:56,459 --> 00:08:59,700
+family and I want to be rested I'll just
+
+227
+00:08:59,700 --> 00:09:01,500
+not Pat I'll just pass on a London
+
+228
+00:09:01,500 --> 00:09:03,899
+session and even if it moves well I
+
+229
+00:09:03,899 --> 00:09:05,640
+won't even get up at midnight to see how
+
+230
+00:09:05,640 --> 00:09:07,320
+it sets up I'll just avoid the London
+
+231
+00:09:07,320 --> 00:09:08,940
+session altogether get a good night's
+
+232
+00:09:08,940 --> 00:09:11,040
+rest if I can and be rested and spend my
+
+233
+00:09:11,040 --> 00:09:12,839
+time with my family
+
+234
+00:09:12,839 --> 00:09:15,839
+if I don't have any plans the next day
+
+235
+00:09:15,839 --> 00:09:18,300
+going into the NewYork hours then I
+
+236
+00:09:18,300 --> 00:09:20,339
+will still wake up around midnight time
+
+237
+00:09:20,339 --> 00:09:22,560
+to see what the Asian range did and
+
+238
+00:09:22,560 --> 00:09:24,959
+that'll set up my decision factors like
+
+239
+00:09:24,959 --> 00:09:28,100
+we just learned in lesson five
+
+240
+00:09:28,620 --> 00:09:30,300
+if the agent range is greater than 40
+
+241
+00:09:30,300 --> 00:09:33,060
+Pips I'm going to consider the delayed
+
+242
+00:09:33,060 --> 00:09:35,339
+protraction profile
+
+243
+00:09:35,339 --> 00:09:37,320
+but it has to meet every one of those
+
+244
+00:09:37,320 --> 00:09:40,440
+criteria for it to unfold otherwise I'll
+
+245
+00:09:40,440 --> 00:09:42,300
+move to the sidelines and avoid trading
+
+246
+00:09:42,300 --> 00:09:44,540
+London
+
+247
+00:09:45,480 --> 00:09:47,640
+if the market starts to sustain Rally or
+
+248
+00:09:47,640 --> 00:09:50,279
+decline from 8 PM NewYork
+
+249
+00:09:50,279 --> 00:09:52,380
+that's usually a poor indication of a
+
+250
+00:09:52,380 --> 00:09:54,899
+London session that means that the real
+
+251
+00:09:54,899 --> 00:09:58,380
+event is started at zero DMT and they're
+
+252
+00:09:58,380 --> 00:09:59,519
+probably going to keep a sustained move
+
+253
+00:09:59,519 --> 00:10:00,540
+going through and very little
+
+254
+00:10:00,540 --> 00:10:02,279
+retracement usually the retracement will
+
+255
+00:10:02,279 --> 00:10:04,320
+occur if at all during a NewYork
+
+256
+00:10:04,320 --> 00:10:06,620
+session
+
+257
+00:10:07,740 --> 00:10:09,600
+if CentralBankDealersRange and or
+
+258
+00:10:09,600 --> 00:10:12,540
+Asian range is not visually and it means
+
+259
+00:10:12,540 --> 00:10:15,120
+obviously consolidating I'm going to
+
+260
+00:10:15,120 --> 00:10:17,820
+look to avoid the London session
+
+261
+00:10:17,820 --> 00:10:20,160
+so that means there has to be a
+
+262
+00:10:20,160 --> 00:10:23,160
+completely different Market profile from
+
+263
+00:10:23,160 --> 00:10:25,440
+that what we saw of the intraday price
+
+264
+00:10:25,440 --> 00:10:27,060
+action between the London open and
+
+265
+00:10:27,060 --> 00:10:30,240
+London close of the previous day so it
+
+266
+00:10:30,240 --> 00:10:32,160
+after 2 PM the previous day going into
+
+267
+00:10:32,160 --> 00:10:35,160
+8 PM if it isn't a quiet small little
+
+268
+00:10:35,160 --> 00:10:37,440
+consolidation range
+
+269
+00:10:37,440 --> 00:10:39,779
+that's not an ideal scenario it means
+
+270
+00:10:39,779 --> 00:10:42,120
+it's going to be a poor setup going into
+
+271
+00:10:42,120 --> 00:10:45,000
+London same thing with Asian range if
+
+272
+00:10:45,000 --> 00:10:47,040
+the Asian range gets really wild or
+
+273
+00:10:47,040 --> 00:10:48,540
+widens up
+
+274
+00:10:48,540 --> 00:10:52,200
+that again lessens the statistical Edge
+
+275
+00:10:52,200 --> 00:10:55,079
+that IPDA will give us by moving into a
+
+276
+00:10:55,079 --> 00:10:56,579
+protractionary state
+
+277
+00:10:56,579 --> 00:10:59,760
+right after midnight so
+
+278
+00:10:59,760 --> 00:11:01,380
+bottom line CentralBankDealersRange
+
+279
+00:11:01,380 --> 00:11:05,279
+and or Asian range must trade down into
+
+280
+00:11:05,279 --> 00:11:07,980
+small tight consolidation range if we
+
+281
+00:11:07,980 --> 00:11:10,980
+don't see that if it's trending in both
+
+282
+00:11:10,980 --> 00:11:13,380
+or either or it makes the London session
+
+283
+00:11:13,380 --> 00:11:15,720
+highly suspect and you'll know clearly
+
+284
+00:11:15,720 --> 00:11:17,519
+by looking at the time window that
+
+285
+00:11:17,519 --> 00:11:18,839
+creates the CentralBankDealersRange
+
+286
+00:11:18,839 --> 00:11:21,060
+and the Asian range if it's not in
+
+287
+00:11:21,060 --> 00:11:22,260
+consolidation or if it is in
+
+288
+00:11:22,260 --> 00:11:23,880
+consolidation
+
+289
+00:11:23,880 --> 00:11:26,160
+very clear obvious you'll see what I
+
+290
+00:11:26,160 --> 00:11:27,360
+mean by going through your charts and
+
+291
+00:11:27,360 --> 00:11:28,920
+going back over a 15 minute time frame
+
+292
+00:11:28,920 --> 00:11:31,440
+you'll see it clearly when it creates a
+
+293
+00:11:31,440 --> 00:11:33,600
+consolidation it looks very very
+
+294
+00:11:33,600 --> 00:11:36,360
+distinct small little narrow range in
+
+295
+00:11:36,360 --> 00:11:38,700
+contrast to all the previous days into
+
+296
+00:11:38,700 --> 00:11:40,320
+the action
+
+297
+00:11:40,320 --> 00:11:43,440
+if it's wide or erratic or trending in
+
+298
+00:11:43,440 --> 00:11:45,300
+either one of those ranges Central Bank
+
+299
+00:11:45,300 --> 00:11:47,579
+deals range are Asian it makes London
+
+300
+00:11:47,579 --> 00:11:49,980
+highly suspect and I don't want to trade
+
+301
+00:11:49,980 --> 00:11:52,620
+in those conditions
+
+302
+00:11:52,620 --> 00:11:55,680
+now we as Traders as a day trader we're
+
+303
+00:11:55,680 --> 00:11:57,180
+going to be aiming for days when the
+
+304
+00:11:57,180 --> 00:11:59,640
+banks will hold the market to build open
+
+305
+00:11:59,640 --> 00:12:01,440
+float and again that builds on the the
+
+306
+00:12:01,440 --> 00:12:03,540
+idea of the previous point
+
+307
+00:12:03,540 --> 00:12:06,899
+when we anticipate the banks holding the
+
+308
+00:12:06,899 --> 00:12:09,060
+market in a small tight consolidation
+
+309
+00:12:09,060 --> 00:12:10,320
+what they're doing is they're allowing
+
+310
+00:12:10,320 --> 00:12:13,800
+orders to build above and below to
+
+311
+00:12:13,800 --> 00:12:16,980
+intraday height is being formed between
+
+312
+00:12:16,980 --> 00:12:19,800
+the Asian range open and the Asian Range
+
+313
+00:12:19,800 --> 00:12:22,680
+close at midnight so we're looking for
+
+314
+00:12:22,680 --> 00:12:25,560
+that building up of orders we don't need
+
+315
+00:12:25,560 --> 00:12:26,940
+to know what the orders are how much
+
+316
+00:12:26,940 --> 00:12:27,959
+they are because we're never going to
+
+317
+00:12:27,959 --> 00:12:30,000
+know what that is but we can see it
+
+318
+00:12:30,000 --> 00:12:32,279
+indicated in how they maintain a very
+
+319
+00:12:32,279 --> 00:12:34,440
+narrow price range through Central Bank
+
+320
+00:12:34,440 --> 00:12:36,540
+dealers range time window and the Asian
+
+321
+00:12:36,540 --> 00:12:39,600
+range again if it's not clear if it's
+
+322
+00:12:39,600 --> 00:12:42,540
+not obvious in a small tight range
+
+323
+00:12:42,540 --> 00:12:44,519
+it's probably going to be an ugly London
+
+324
+00:12:44,519 --> 00:12:46,139
+session and you're not going to see a
+
+325
+00:12:46,139 --> 00:12:47,639
+clear manipulation cycle or
+
+326
+00:12:47,639 --> 00:12:50,480
+protractionary state
+
+327
+00:12:51,600 --> 00:12:54,300
+if the market is trending from 8 PM New
+
+328
+00:12:54,300 --> 00:12:55,380
+York
+
+329
+00:12:55,380 --> 00:12:57,720
+generally this is going to create London
+
+330
+00:12:57,720 --> 00:13:01,139
+sloppiness that means the move is most
+
+331
+00:13:01,139 --> 00:13:03,120
+likely occurred at the beginning of zero
+
+332
+00:13:03,120 --> 00:13:04,200
+GMT
+
+333
+00:13:04,200 --> 00:13:06,480
+8 PM NewYork time and it's going to
+
+334
+00:13:06,480 --> 00:13:09,899
+keep on rolling through until we see the
+
+335
+00:13:09,899 --> 00:13:11,100
+NewYork session
+
+336
+00:13:11,100 --> 00:13:14,100
+so again we don't want to see an Asian
+
+337
+00:13:14,100 --> 00:13:16,500
+session trending environment for an
+
+338
+00:13:16,500 --> 00:13:19,579
+ideal London entry
+
+339
+00:13:20,459 --> 00:13:22,620
+when the market is conditioned for
+
+340
+00:13:22,620 --> 00:13:24,600
+London slop as we just described in the
+
+341
+00:13:24,600 --> 00:13:25,920
+previous point
+
+342
+00:13:25,920 --> 00:13:28,139
+sleep in trade NewYork
+
+343
+00:13:28,139 --> 00:13:30,420
+that means if any of these things that
+
+344
+00:13:30,420 --> 00:13:33,180
+we've mentioned so far are there that
+
+345
+00:13:33,180 --> 00:13:34,800
+means that the London session is going
+
+346
+00:13:34,800 --> 00:13:35,880
+to be sloppy
+
+347
+00:13:35,880 --> 00:13:37,380
+if it's going to be sloppy does that
+
+348
+00:13:37,380 --> 00:13:39,079
+mean it's a high probability condition
+
+349
+00:13:39,079 --> 00:13:42,600
+absolutely not we want it to be so
+
+350
+00:13:42,600 --> 00:13:46,380
+slanted in our favor and that means not
+
+351
+00:13:46,380 --> 00:13:47,700
+trading every day
+
+352
+00:13:47,700 --> 00:13:50,100
+every single trading day will not have
+
+353
+00:13:50,100 --> 00:13:53,339
+the recipe for a clear profile as we
+
+354
+00:13:53,339 --> 00:13:55,740
+described in lesson five
+
+355
+00:13:55,740 --> 00:13:57,839
+but when we see these characteristics
+
+356
+00:13:57,839 --> 00:14:01,440
+here it lends very well for us to weigh
+
+357
+00:14:01,440 --> 00:14:02,339
+whether or not we're going to be
+
+358
+00:14:02,339 --> 00:14:04,560
+participating in London or if we do
+
+359
+00:14:04,560 --> 00:14:06,600
+participate in London and we just second
+
+360
+00:14:06,600 --> 00:14:07,980
+guess it and we have to see it for
+
+361
+00:14:07,980 --> 00:14:09,480
+ourselves by experience
+
+362
+00:14:09,480 --> 00:14:12,060
+trade with very very very little risk
+
+363
+00:14:12,060 --> 00:14:13,380
+because you're probably going to regret
+
+364
+00:14:13,380 --> 00:14:15,860
+knowing it
+
+365
+00:14:16,440 --> 00:14:19,440
+accumulation manipulation and
+
+366
+00:14:19,440 --> 00:14:21,959
+distribution is the business of intraday
+
+367
+00:14:21,959 --> 00:14:25,620
+trading that's all it is intraday is the
+
+368
+00:14:25,620 --> 00:14:28,260
+short-term Horizon where Banks can
+
+369
+00:14:28,260 --> 00:14:32,160
+manipulate and knock people out push in
+
+370
+00:14:32,160 --> 00:14:33,240
+orders
+
+371
+00:14:33,240 --> 00:14:36,300
+you know facilitate  false sentiment
+
+372
+00:14:36,300 --> 00:14:37,260
+ideas
+
+373
+00:14:37,260 --> 00:14:40,260
+so what we're looking for is these
+
+374
+00:14:40,260 --> 00:14:42,540
+orders to accumulate in the marketplace
+
+375
+00:14:42,540 --> 00:14:45,000
+we don't necessarily know how many
+
+376
+00:14:45,000 --> 00:14:47,279
+orders are above and below these
+
+377
+00:14:47,279 --> 00:14:49,139
+consolidations that we look for in the
+
+378
+00:14:49,139 --> 00:14:50,399
+CentralBankDealersRange in agent
+
+379
+00:14:50,399 --> 00:14:52,920
+range but we know based on our
+
+380
+00:14:52,920 --> 00:14:54,660
+DirectionalBias from the daily chart in
+
+381
+00:14:54,660 --> 00:14:57,600
+four hour with using the pdra Matrix and
+
+382
+00:14:57,600 --> 00:15:00,480
+if the data ranges where price will most
+
+383
+00:15:00,480 --> 00:15:03,480
+likely draw to on the HTFs
+
+384
+00:15:03,480 --> 00:15:06,180
+so if we know that and we're bullish we
+
+385
+00:15:06,180 --> 00:15:07,560
+can anticipate the next stage which is
+
+386
+00:15:07,560 --> 00:15:09,000
+manipulation
+
+387
+00:15:09,000 --> 00:15:12,060
+taking the price lower down into an area
+
+388
+00:15:12,060 --> 00:15:15,660
+where Traders will be induced to sell or
+
+389
+00:15:15,660 --> 00:15:18,180
+get knocked out of premature entries
+
+390
+00:15:18,180 --> 00:15:20,339
+that are already long they're going to
+
+391
+00:15:20,339 --> 00:15:22,800
+unseat those positions then they
+
+392
+00:15:22,800 --> 00:15:24,779
+distribute those positions they've
+
+393
+00:15:24,779 --> 00:15:27,060
+accumulated going long near the low of
+
+394
+00:15:27,060 --> 00:15:29,160
+the day near the high today at London
+
+395
+00:15:29,160 --> 00:15:32,220
+close or late NewYork
+
+396
+00:15:32,220 --> 00:15:33,959
+that's the model we're trading off of
+
+397
+00:15:33,959 --> 00:15:35,579
+that's we're looking for so if we don't
+
+398
+00:15:35,579 --> 00:15:38,180
+have clues or fingerprints if you will
+
+399
+00:15:38,180 --> 00:15:42,480
+to lend to these ideas being in price
+
+400
+00:15:42,480 --> 00:15:45,000
+it's not ambiguous it's not a guessing
+
+401
+00:15:45,000 --> 00:15:46,740
+game it's not well I wonder if it's
+
+402
+00:15:46,740 --> 00:15:47,699
+going to do this or what if it's going
+
+403
+00:15:47,699 --> 00:15:49,860
+to do that no we know exactly what we're
+
+404
+00:15:49,860 --> 00:15:52,639
+looking for there's Hallmark trademark
+
+405
+00:15:52,639 --> 00:15:55,860
+characteristics that make these London
+
+406
+00:15:55,860 --> 00:15:59,220
+session entries perfect and ideal and
+
+407
+00:15:59,220 --> 00:16:01,260
+it's based on the criteria we've given
+
+408
+00:16:01,260 --> 00:16:03,120
+you from the CentralBankDealersRange
+
+409
+00:16:03,120 --> 00:16:05,100
+and the Asian range
+
+410
+00:16:05,100 --> 00:16:07,560
+there are specific things that you look
+
+411
+00:16:07,560 --> 00:16:11,040
+for if they're not present you do not
+
+412
+00:16:11,040 --> 00:16:12,720
+have high probability conditions to
+
+413
+00:16:12,720 --> 00:16:13,800
+trade in
+
+414
+00:16:13,800 --> 00:16:16,620
+if they are as we were describing here
+
+415
+00:16:16,620 --> 00:16:19,320
+and you take the trade and you take a
+
+416
+00:16:19,320 --> 00:16:21,000
+supposed bullish order block or a
+
+417
+00:16:21,000 --> 00:16:24,300
+supposed turtle soup or something okay
+
+418
+00:16:24,300 --> 00:16:26,160
+and you lose money
+
+419
+00:16:26,160 --> 00:16:28,800
+now you know why because you don't have
+
+420
+00:16:28,800 --> 00:16:31,199
+IPDA in your favor where they're clearly
+
+421
+00:16:31,199 --> 00:16:33,120
+going to draw a price One Direction or
+
+422
+00:16:33,120 --> 00:16:35,040
+the other based on the criteria we've
+
+423
+00:16:35,040 --> 00:16:37,199
+given you in lesson five
+
+424
+00:16:37,199 --> 00:16:39,060
+if the conditions were selling you here
+
+425
+00:16:39,060 --> 00:16:40,980
+in lesson six are there
+
+426
+00:16:40,980 --> 00:16:44,160
+you have a great deal of odds in your
+
+427
+00:16:44,160 --> 00:16:46,139
+favor of losing money
+
+428
+00:16:46,139 --> 00:16:48,000
+so pay attention to these points because
+
+429
+00:16:48,000 --> 00:16:50,579
+it will keep you
+
+430
+00:16:50,579 --> 00:16:52,860
+at least in my opinion it's kept me from
+
+431
+00:16:52,860 --> 00:16:55,019
+doing a lot of trading where I was
+
+432
+00:16:55,019 --> 00:16:56,880
+that are off sitting
+
+433
+00:16:56,880 --> 00:16:58,920
+on the sidelines than there of getting
+
+434
+00:16:58,920 --> 00:17:01,500
+in their Marketplace if you look at 
+
+435
+00:17:01,500 --> 00:17:02,820
+some of the conditions that we've
+
+436
+00:17:02,820 --> 00:17:04,559
+outlined over the course of this
+
+437
+00:17:04,559 --> 00:17:08,520
+mentorship some of the days are ideal
+
+438
+00:17:08,520 --> 00:17:10,559
+for these events right here
+
+439
+00:17:10,559 --> 00:17:13,199
+then other days there are
+
+440
+00:17:13,199 --> 00:17:15,900
+instances where they're not so prevalent
+
+441
+00:17:15,900 --> 00:17:18,419
+and the conditions were probably in our
+
+442
+00:17:18,419 --> 00:17:20,640
+favor to trade but you still can be
+
+443
+00:17:20,640 --> 00:17:21,419
+wrong
+
+444
+00:17:21,419 --> 00:17:25,319
+so again this helps you avoid the ugly
+
+445
+00:17:25,319 --> 00:17:27,359
+periods but you're still going to get
+
+446
+00:17:27,359 --> 00:17:29,940
+these once in a while moves where it
+
+447
+00:17:29,940 --> 00:17:31,200
+would have been better had you taken a
+
+448
+00:17:31,200 --> 00:17:32,040
+trade
+
+449
+00:17:32,040 --> 00:17:35,280
+and all this is doing is help you know
+
+450
+00:17:35,280 --> 00:17:38,280
+when the odds are less in your favor and
+
+451
+00:17:38,280 --> 00:17:40,919
+believe me if you avoid this lesson if
+
+452
+00:17:40,919 --> 00:17:42,900
+you discount it if you think well you
+
+453
+00:17:42,900 --> 00:17:44,340
+know I'm just going to look for the
+
+454
+00:17:44,340 --> 00:17:46,260
+signals you're going to look for the
+
+455
+00:17:46,260 --> 00:17:48,720
+signals in this kind of mess and you're
+
+456
+00:17:48,720 --> 00:17:49,980
+not going to see the results you're
+
+457
+00:17:49,980 --> 00:17:51,720
+hoping for and you're going to attribute
+
+458
+00:17:51,720 --> 00:17:54,360
+to the stuff doesn't work ICT doesn't
+
+459
+00:17:54,360 --> 00:17:56,640
+have an edge there's no benefit to
+
+460
+00:17:56,640 --> 00:17:57,840
+knowing these types of things and it's
+
+461
+00:17:57,840 --> 00:17:59,760
+all fluff wrong you've seen enough
+
+462
+00:17:59,760 --> 00:18:02,220
+instances where Precision is there the
+
+463
+00:18:02,220 --> 00:18:03,900
+Precision won't come into the
+
+464
+00:18:03,900 --> 00:18:06,059
+marketplace or be evident in price
+
+465
+00:18:06,059 --> 00:18:10,080
+action when these elements are present
+
+466
+00:18:10,080 --> 00:18:12,480
+so I know what you're probably saying
+
+467
+00:18:12,480 --> 00:18:14,700
+what's going on in the marketplace when
+
+468
+00:18:14,700 --> 00:18:15,960
+these events are happening what are the
+
+469
+00:18:15,960 --> 00:18:17,220
+central banks doing
+
+470
+00:18:17,220 --> 00:18:18,960
+ready for this
+
+471
+00:18:18,960 --> 00:18:21,539
+I don't know
+
+472
+00:18:21,539 --> 00:18:22,919
+I don't know
+
+473
+00:18:22,919 --> 00:18:26,160
+and if I don't know or have a belief in
+
+474
+00:18:26,160 --> 00:18:27,360
+what they're doing
+
+475
+00:18:27,360 --> 00:18:29,580
+then that's certainly not a time where I
+
+476
+00:18:29,580 --> 00:18:31,260
+want to put money at risk and neither
+
+477
+00:18:31,260 --> 00:18:33,000
+should it be for you
+
+478
+00:18:33,000 --> 00:18:35,520
+we know what they're doing or most
+
+479
+00:18:35,520 --> 00:18:37,080
+likely doing
+
+480
+00:18:37,080 --> 00:18:39,120
+when we have these narrow consolidation
+
+481
+00:18:39,120 --> 00:18:40,500
+ranges between central bank dealers
+
+482
+00:18:40,500 --> 00:18:42,299
+range and Asian range when we have a
+
+483
+00:18:42,299 --> 00:18:44,039
+daily bias when we know where the draw
+
+484
+00:18:44,039 --> 00:18:46,380
+is on a daily chart where is the price
+
+485
+00:18:46,380 --> 00:18:48,360
+going to be drawn to what is it going to
+
+486
+00:18:48,360 --> 00:18:50,100
+be moving up to a premium or is it going
+
+487
+00:18:50,100 --> 00:18:51,960
+to be moving down to a discount
+
+488
+00:18:51,960 --> 00:18:54,419
+we knew that for a DirectionalBias
+
+489
+00:18:54,419 --> 00:18:56,460
+having that
+
+490
+00:18:56,460 --> 00:18:59,820
+applying it to our London session if we
+
+491
+00:18:59,820 --> 00:19:04,500
+can find the Standard normal protraction
+
+492
+00:19:04,500 --> 00:19:07,200
+profile or the delayed profile
+
+493
+00:19:07,200 --> 00:19:09,660
+in that direction of the day
+
+494
+00:19:09,660 --> 00:19:12,840
+we got it linked but you still can have
+
+495
+00:19:12,840 --> 00:19:14,280
+losses
+
+496
+00:19:14,280 --> 00:19:16,260
+if we see these conditions here
+
+497
+00:19:16,260 --> 00:19:17,880
+regardless of what we have as a daily
+
+498
+00:19:17,880 --> 00:19:21,059
+bias whatever we think it is doing it
+
+499
+00:19:21,059 --> 00:19:23,220
+doesn't matter all those things fall
+
+500
+00:19:23,220 --> 00:19:24,600
+second
+
+501
+00:19:24,600 --> 00:19:26,820
+to this criteria here because we're
+
+502
+00:19:26,820 --> 00:19:28,440
+specifically dealing with intraday
+
+503
+00:19:28,440 --> 00:19:29,520
+action
+
+504
+00:19:29,520 --> 00:19:32,400
+we have to have rule-based ideas we have
+
+505
+00:19:32,400 --> 00:19:35,400
+to have filters these are our filters
+
+506
+00:19:35,400 --> 00:19:38,700
+you do not trade every single trading
+
+507
+00:19:38,700 --> 00:19:39,840
+day
+
+508
+00:19:39,840 --> 00:19:41,220
+these
+
+509
+00:19:41,220 --> 00:19:43,559
+conditions will prevent you from taking
+
+510
+00:19:43,559 --> 00:19:45,419
+positions in London
+
+511
+00:19:45,419 --> 00:19:47,700
+and you have to accept it you got to
+
+512
+00:19:47,700 --> 00:19:49,740
+submit to it you have to be subordinate
+
+513
+00:19:49,740 --> 00:19:52,020
+to some level rules if you don't have
+
+514
+00:19:52,020 --> 00:19:53,700
+them you're going to over trade you're
+
+515
+00:19:53,700 --> 00:19:54,900
+going to trade every single day and yes
+
+516
+00:19:54,900 --> 00:19:57,000
+you might catch some amazing moves that
+
+517
+00:19:57,000 --> 00:19:59,039
+may appear when these conditions are
+
+518
+00:19:59,039 --> 00:20:00,480
+there and you'll be able to show me an
+
+519
+00:20:00,480 --> 00:20:02,820
+email I didn't do that and I still I
+
+520
+00:20:02,820 --> 00:20:04,980
+made 120 Pips here Michael look at this
+
+521
+00:20:04,980 --> 00:20:06,780
+and I'm gonna say you didn't follow the
+
+522
+00:20:06,780 --> 00:20:08,880
+rules you're gonna get mad you're gonna
+
+523
+00:20:08,880 --> 00:20:10,679
+be offended but I'm telling you up front
+
+524
+00:20:10,679 --> 00:20:13,080
+if it looks like this and you traded in
+
+525
+00:20:13,080 --> 00:20:14,820
+London you make money
+
+526
+00:20:14,820 --> 00:20:16,200
+I don't want to know about it because
+
+527
+00:20:16,200 --> 00:20:17,940
+all you're doing is just saying you did
+
+528
+00:20:17,940 --> 00:20:20,780
+not follow the rules
+
+529
+00:20:25,380 --> 00:20:27,720
+okay when is London open Killzone ideal
+
+530
+00:20:27,720 --> 00:20:30,179
+and we obviously we've talked about what
+
+531
+00:20:30,179 --> 00:20:32,880
+makes the avoidance of London session
+
+532
+00:20:32,880 --> 00:20:37,500
+most apt to be the best choice but what
+
+533
+00:20:37,500 --> 00:20:38,520
+do we do
+
+534
+00:20:38,520 --> 00:20:41,160
+to help formulate an ideal scenario
+
+535
+00:20:41,160 --> 00:20:42,419
+going to London
+
+536
+00:20:42,419 --> 00:20:43,799
+well the daily chart is going to be
+
+537
+00:20:43,799 --> 00:20:46,860
+clearly respecting PD arrays so are we
+
+538
+00:20:46,860 --> 00:20:47,940
+in an environment where the Market's
+
+539
+00:20:47,940 --> 00:20:50,580
+clearly respecting a
+
+540
+00:20:50,580 --> 00:20:52,980
+obvious clear
+
+541
+00:20:52,980 --> 00:20:55,620
+um non-ambiguous PD arrays where the
+
+542
+00:20:55,620 --> 00:20:57,840
+market just clearly is going to a an
+
+543
+00:20:57,840 --> 00:21:00,059
+order block or it's closing in a gap and
+
+544
+00:21:00,059 --> 00:21:01,260
+it's responding as you would
+
+545
+00:21:01,260 --> 00:21:03,900
+realistically expect it to when we have
+
+546
+00:21:03,900 --> 00:21:05,880
+those in here and find a high odds
+
+547
+00:21:05,880 --> 00:21:08,700
+probability trade in my favor as a day
+
+548
+00:21:08,700 --> 00:21:10,380
+trade I'm just going to get in here and
+
+549
+00:21:10,380 --> 00:21:12,780
+you know get lucky and learn that's
+
+550
+00:21:12,780 --> 00:21:14,700
+gambling we don't do that
+
+551
+00:21:14,700 --> 00:21:16,200
+so we have to have a discernible
+
+552
+00:21:16,200 --> 00:21:17,580
+Direction in the marketplace on the
+
+553
+00:21:17,580 --> 00:21:19,380
+daily chart and it has to be respecting
+
+554
+00:21:19,380 --> 00:21:22,020
+a PD array Matrix in that way we know
+
+555
+00:21:22,020 --> 00:21:24,000
+what our daily bias is is it going to be
+
+556
+00:21:24,000 --> 00:21:24,900
+reaching higher it's going to be
+
+557
+00:21:24,900 --> 00:21:28,580
+reaching lower it's just that simple
+
+558
+00:21:29,280 --> 00:21:30,780
+now when the market is poised to trade
+
+559
+00:21:30,780 --> 00:21:32,700
+higher on the daily to a premium array
+
+560
+00:21:32,700 --> 00:21:34,500
+we're going to be looking for London
+
+561
+00:21:34,500 --> 00:21:36,000
+Longs because they're going to be ideal
+
+562
+00:21:36,000 --> 00:21:37,919
+entry points because we know that on the
+
+563
+00:21:37,919 --> 00:21:39,960
+HTF daily it's respecting
+
+564
+00:21:39,960 --> 00:21:43,440
+The pdra Matrix and the most likely
+
+565
+00:21:43,440 --> 00:21:44,760
+outcome is it's going to be reaching for
+
+566
+00:21:44,760 --> 00:21:46,500
+a premium PD array
+
+567
+00:21:46,500 --> 00:21:48,659
+the range at which it is trading at
+
+568
+00:21:48,659 --> 00:21:51,000
+right now at market price to the next
+
+569
+00:21:51,000 --> 00:21:52,679
+premium PD array
+
+570
+00:21:52,679 --> 00:21:54,419
+that is going to be indicative of how
+
+571
+00:21:54,419 --> 00:21:56,220
+much we can anticipate for the next
+
+572
+00:21:56,220 --> 00:21:58,740
+price move higher it may not fulfill
+
+573
+00:21:58,740 --> 00:22:01,380
+that entirely in the day trade day that
+
+574
+00:22:01,380 --> 00:22:03,240
+you're trading that in other words it
+
+575
+00:22:03,240 --> 00:22:05,039
+won't fulfill that entire range in one
+
+576
+00:22:05,039 --> 00:22:08,280
+day it can take several days and that's
+
+577
+00:22:08,280 --> 00:22:10,919
+going to also facilitate the
+
+578
+00:22:10,919 --> 00:22:13,500
+um continuation of the next trading day
+
+579
+00:22:13,500 --> 00:22:14,820
+are you going to be trading in London as
+
+580
+00:22:14,820 --> 00:22:16,799
+well because he may have that ring still
+
+581
+00:22:16,799 --> 00:22:18,780
+to fulfill and if it's still there on
+
+582
+00:22:18,780 --> 00:22:20,400
+the daily chart to reach up into that
+
+583
+00:22:20,400 --> 00:22:21,539
+premium
+
+584
+00:22:21,539 --> 00:22:23,940
+you have still reins to work with and
+
+585
+00:22:23,940 --> 00:22:26,340
+you may end up getting another set up in
+
+586
+00:22:26,340 --> 00:22:28,200
+the following consecutive trading day in
+
+587
+00:22:28,200 --> 00:22:30,480
+London and do the very same thing he did
+
+588
+00:22:30,480 --> 00:22:34,880
+in the day before buying
+
+589
+00:22:35,880 --> 00:22:37,500
+when the market is poised to trade lower
+
+590
+00:22:37,500 --> 00:22:39,780
+on The Daily to a discount array London
+
+591
+00:22:39,780 --> 00:22:41,340
+shorts are ideal
+
+592
+00:22:41,340 --> 00:22:43,020
+same scenario just reversed in the
+
+593
+00:22:43,020 --> 00:22:45,240
+previous point if we have just recently
+
+594
+00:22:45,240 --> 00:22:46,980
+traded off of a
+
+595
+00:22:46,980 --> 00:22:49,440
+premium array
+
+596
+00:22:49,440 --> 00:22:50,940
+and we're going to be reaching down into
+
+597
+00:22:50,940 --> 00:22:52,500
+a discount array that means a bullish
+
+598
+00:22:52,500 --> 00:22:54,539
+order block closing a fair value got the
+
+599
+00:22:54,539 --> 00:22:56,340
+below market price closing a liquidity
+
+600
+00:22:56,340 --> 00:22:58,740
+void below market price  trade down
+
+601
+00:22:58,740 --> 00:23:00,900
+below an old low Market deploys to make
+
+602
+00:23:00,900 --> 00:23:03,419
+a low resistance liquidity run to a
+
+603
+00:23:03,419 --> 00:23:04,500
+discount
+
+604
+00:23:04,500 --> 00:23:06,960
+if we see that scenario in the daily
+
+605
+00:23:06,960 --> 00:23:10,400
+London shorts are ideal it doesn't mean
+
+606
+00:23:10,400 --> 00:23:12,900
+circumvent all the previous slides that
+
+607
+00:23:12,900 --> 00:23:14,880
+I just mentioned those conditions have
+
+608
+00:23:14,880 --> 00:23:17,280
+to be eliminated in other words they
+
+609
+00:23:17,280 --> 00:23:19,140
+can't be present even in this condition
+
+610
+00:23:19,140 --> 00:23:21,360
+here in the previous Point as well
+
+611
+00:23:21,360 --> 00:23:23,700
+as it relates to premium arrays
+
+612
+00:23:23,700 --> 00:23:26,039
+either one of these conditions can be
+
+613
+00:23:26,039 --> 00:23:28,559
+canceled out if we've seen the
+
+614
+00:23:28,559 --> 00:23:29,880
+conditions that we just shown in the
+
+615
+00:23:29,880 --> 00:23:32,659
+previous two slides
+
+616
+00:23:33,780 --> 00:23:36,179
+when the DailyRange has not recently
+
+617
+00:23:36,179 --> 00:23:38,880
+exceeded its five-day average daily
+
+618
+00:23:38,880 --> 00:23:39,840
+range
+
+619
+00:23:39,840 --> 00:23:42,539
+an expansion day is due to form
+
+620
+00:23:42,539 --> 00:23:45,000
+so in other words if you study average
+
+621
+00:23:45,000 --> 00:23:47,220
+DailyRange you can do several 
+
+622
+00:23:47,220 --> 00:23:50,100
+studies like this you can look at every
+
+623
+00:23:50,100 --> 00:23:51,840
+single day what's the expected average
+
+624
+00:23:51,840 --> 00:23:54,240
+DailyRange from a five-day basis
+
+625
+00:23:54,240 --> 00:23:57,059
+and what is the actual five-day average
+
+626
+00:23:57,059 --> 00:23:59,640
+DailyRange at the close of the day
+
+627
+00:23:59,640 --> 00:24:01,799
+and keep a running log of that of the
+
+628
+00:24:01,799 --> 00:24:03,600
+pairs that you trade this is the reason
+
+629
+00:24:03,600 --> 00:24:04,620
+why you don't want to be trading 20
+
+630
+00:24:04,620 --> 00:24:07,679
+pairs because you can get really tuned
+
+631
+00:24:07,679 --> 00:24:10,080
+in to your payer or pairs if it's just
+
+632
+00:24:10,080 --> 00:24:12,000
+two by doing these types of things
+
+633
+00:24:12,000 --> 00:24:13,919
+because when the average DailyRange of
+
+634
+00:24:13,919 --> 00:24:16,740
+the last five days is factored not every
+
+635
+00:24:16,740 --> 00:24:18,419
+single day will the average DailyRange
+
+636
+00:24:18,419 --> 00:24:21,179
+be met many times it'll be
+
+637
+00:24:21,179 --> 00:24:23,880
+just below it or not even much more than
+
+638
+00:24:23,880 --> 00:24:25,260
+half the average DailyRange if we're in
+
+639
+00:24:25,260 --> 00:24:27,960
+a quiet period but if we have traded
+
+640
+00:24:27,960 --> 00:24:30,900
+several days and the previous day has
+
+641
+00:24:30,900 --> 00:24:33,480
+not seen or exceeded it doesn't mean it
+
+642
+00:24:33,480 --> 00:24:34,799
+has to go two times the average daily
+
+643
+00:24:34,799 --> 00:24:37,260
+range of a five-day basis but it has yet
+
+644
+00:24:37,260 --> 00:24:38,940
+to trade above the average DailyRange
+
+645
+00:24:38,940 --> 00:24:41,280
+on a five-day basis the previous day and
+
+646
+00:24:41,280 --> 00:24:43,440
+you're bullish you have a really good
+
+647
+00:24:43,440 --> 00:24:45,539
+chance of having a large range day the
+
+648
+00:24:45,539 --> 00:24:48,419
+day of your trade and we don't have the
+
+649
+00:24:48,419 --> 00:24:49,799
+commissions in the previous two slides
+
+650
+00:24:49,799 --> 00:24:51,600
+that will cancel out woman
+
+651
+00:24:51,600 --> 00:24:53,760
+if we have all those things present and
+
+652
+00:24:53,760 --> 00:24:55,679
+we can see the profile unfolding that we
+
+653
+00:24:55,679 --> 00:24:58,020
+learned in lesson five
+
+654
+00:24:58,020 --> 00:25:01,320
+you have the highest probability of a
+
+655
+00:25:01,320 --> 00:25:04,080
+big expansion day because the five-day
+
+656
+00:25:04,080 --> 00:25:05,820
+average DailyRange has not been traded
+
+657
+00:25:05,820 --> 00:25:07,320
+to or exceeded
+
+658
+00:25:07,320 --> 00:25:09,419
+in the previous day so we have a
+
+659
+00:25:09,419 --> 00:25:12,600
+condition of volatility it's low
+
+660
+00:25:12,600 --> 00:25:14,840
+and the average DailyRange many times
+
+661
+00:25:14,840 --> 00:25:18,120
+will be either one and a half or maybe
+
+662
+00:25:18,120 --> 00:25:20,039
+even two times the five day average
+
+663
+00:25:20,039 --> 00:25:21,840
+DailyRange in instances where we can
+
+664
+00:25:21,840 --> 00:25:24,539
+get a big range day you don't need very
+
+665
+00:25:24,539 --> 00:25:26,039
+many of those over the course of a month
+
+666
+00:25:26,039 --> 00:25:27,659
+to erase a lot of the screw-ups that
+
+667
+00:25:27,659 --> 00:25:29,220
+you'll make if you try to trade every
+
+668
+00:25:29,220 --> 00:25:30,480
+single day
+
+669
+00:25:30,480 --> 00:25:32,520
+you don't want to take your big winning
+
+670
+00:25:32,520 --> 00:25:35,700
+day and use that to remove all the
+
+671
+00:25:35,700 --> 00:25:38,159
+stupid trading days in order avoiding
+
+672
+00:25:38,159 --> 00:25:39,960
+the previous two slides conditions and
+
+673
+00:25:39,960 --> 00:25:41,279
+still trying to force a trade and trying
+
+674
+00:25:41,279 --> 00:25:43,440
+to show you know the community and
+
+675
+00:25:43,440 --> 00:25:45,779
+mentorship or show the internet that
+
+676
+00:25:45,779 --> 00:25:47,460
+you're you know you're smart or you
+
+677
+00:25:47,460 --> 00:25:49,919
+outdone what was necessarily  the ICT
+
+678
+00:25:49,919 --> 00:25:52,440
+rules you were able to find a setup
+
+679
+00:25:52,440 --> 00:25:55,320
+don't do that okay you're not going to
+
+680
+00:25:55,320 --> 00:25:56,520
+impress anyone you're not going to
+
+681
+00:25:56,520 --> 00:25:58,020
+impress me and it may not be important
+
+682
+00:25:58,020 --> 00:26:00,600
+to you but I can tell you if you stick
+
+683
+00:26:00,600 --> 00:26:01,919
+with these rules you're going to do
+
+684
+00:26:01,919 --> 00:26:04,500
+better than if you don't
+
+685
+00:26:04,500 --> 00:26:07,500
+but know that when we have these big
+
+686
+00:26:07,500 --> 00:26:08,880
+range days
+
+687
+00:26:08,880 --> 00:26:11,820
+we that's that's the cream
+
+688
+00:26:11,820 --> 00:26:14,400
+that's the that's the bonus for the
+
+689
+00:26:14,400 --> 00:26:16,679
+month okay when we catch these big range
+
+690
+00:26:16,679 --> 00:26:18,059
+days
+
+691
+00:26:18,059 --> 00:26:19,919
+you don't want to be trading every
+
+692
+00:26:19,919 --> 00:26:21,659
+single day because you're going to get
+
+693
+00:26:21,659 --> 00:26:23,880
+small little singles
+
+694
+00:26:23,880 --> 00:26:26,340
+draw down days draw down days draw down
+
+695
+00:26:26,340 --> 00:26:28,740
+days and then when you get a good win it
+
+696
+00:26:28,740 --> 00:26:30,480
+doesn't really show as a win because you
+
+697
+00:26:30,480 --> 00:26:32,700
+have all these small little singles
+
+698
+00:26:32,700 --> 00:26:35,340
+small little singles that erased by a
+
+699
+00:26:35,340 --> 00:26:37,860
+loss a loss a loss so you're treading
+
+700
+00:26:37,860 --> 00:26:39,600
+water and then all of a sudden you have
+
+701
+00:26:39,600 --> 00:26:42,360
+a normal trading win and it won't
+
+702
+00:26:42,360 --> 00:26:43,740
+register that much in terms of your
+
+703
+00:26:43,740 --> 00:26:45,120
+Equity growth
+
+704
+00:26:45,120 --> 00:26:47,159
+it will require you to use the big rain
+
+705
+00:26:47,159 --> 00:26:49,200
+stays to show all your profit and if you
+
+706
+00:26:49,200 --> 00:26:50,760
+look at a 20-day
+
+707
+00:26:50,760 --> 00:26:52,919
+study of every train every trading month
+
+708
+00:26:52,919 --> 00:26:55,679
+if you trade it every single day you're
+
+709
+00:26:55,679 --> 00:26:57,240
+going to see that your results are
+
+710
+00:26:57,240 --> 00:26:59,940
+skewed in such a way that if you're
+
+711
+00:26:59,940 --> 00:27:02,460
+profitable if you take out your largest
+
+712
+00:27:02,460 --> 00:27:04,080
+profitable day you probably aren't
+
+713
+00:27:04,080 --> 00:27:05,460
+making money
+
+714
+00:27:05,460 --> 00:27:07,200
+you don't want conditions like that in
+
+715
+00:27:07,200 --> 00:27:10,320
+your Equity growth okay you want to show
+
+716
+00:27:10,320 --> 00:27:14,520
+a smooth Equity growth line by ferreting
+
+717
+00:27:14,520 --> 00:27:16,559
+out the times when you don't want to be
+
+718
+00:27:16,559 --> 00:27:18,059
+trading because if you can take the
+
+719
+00:27:18,059 --> 00:27:21,120
+periods of drawdown probability out of
+
+720
+00:27:21,120 --> 00:27:22,620
+the equation or at least do your best to
+
+721
+00:27:22,620 --> 00:27:23,700
+remove it
+
+722
+00:27:23,700 --> 00:27:25,320
+then you stand a better chance of
+
+723
+00:27:25,320 --> 00:27:27,779
+trading when it's in ideal scenarios so
+
+724
+00:27:27,779 --> 00:27:30,360
+you really slant yourself to high
+
+725
+00:27:30,360 --> 00:27:32,700
+probability conditions so while you
+
+726
+00:27:32,700 --> 00:27:34,140
+still may suffer losses and you still
+
+727
+00:27:34,140 --> 00:27:35,340
+absolutely will
+
+728
+00:27:35,340 --> 00:27:37,919
+the larger losses will hopefully be
+
+729
+00:27:37,919 --> 00:27:40,500
+avoided because you're forcing yourself
+
+730
+00:27:40,500 --> 00:27:43,200
+in a role-based idea that way you'll
+
+731
+00:27:43,200 --> 00:27:46,140
+have singles singles doubles
+
+732
+00:27:46,140 --> 00:27:47,760
+three to one wins and then when you get
+
+733
+00:27:47,760 --> 00:27:50,880
+these really big huge Runners and you're
+
+734
+00:27:50,880 --> 00:27:52,200
+able to position yourself in London and
+
+735
+00:27:52,200 --> 00:27:55,320
+you let them go that will push your
+
+736
+00:27:55,320 --> 00:27:58,380
+Equity return for the month way over
+
+737
+00:27:58,380 --> 00:28:00,720
+your average you know if your average is
+
+738
+00:28:00,720 --> 00:28:02,460
+like eight to ten percent for the month
+
+739
+00:28:02,460 --> 00:28:05,580
+you catch a big average DailyRange big
+
+740
+00:28:05,580 --> 00:28:07,200
+move and you hold on to it for the whole
+
+741
+00:28:07,200 --> 00:28:09,600
+day many times that'll push you 10 15
+
+742
+00:28:09,600 --> 00:28:12,000
+more for the month than your normal
+
+743
+00:28:12,000 --> 00:28:13,260
+return
+
+744
+00:28:13,260 --> 00:28:14,580
+and
+
+745
+00:28:14,580 --> 00:28:16,679
+there's a way of standardizing your
+
+746
+00:28:16,679 --> 00:28:17,760
+monthly return
+
+747
+00:28:17,760 --> 00:28:19,559
+but you have to start with these
+
+748
+00:28:19,559 --> 00:28:22,080
+rule-based ideas so
+
+749
+00:28:22,080 --> 00:28:24,539
+as we learn more things we are we start
+
+750
+00:28:24,539 --> 00:28:26,640
+applying them to our live sessions we
+
+751
+00:28:26,640 --> 00:28:28,400
+start applying them to our
+
+752
+00:28:28,400 --> 00:28:31,020
+exercises and drills and
+
+753
+00:28:31,020 --> 00:28:33,240
+when we practice so when we have these
+
+754
+00:28:33,240 --> 00:28:35,940
+things we go through a specific criteria
+
+755
+00:28:35,940 --> 00:28:39,240
+a list of rules and eliminate certain
+
+756
+00:28:39,240 --> 00:28:41,580
+trading days and you'll know why we're
+
+757
+00:28:41,580 --> 00:28:43,679
+not trading those days versus if I say
+
+758
+00:28:43,679 --> 00:28:45,360
+I'm not trading today and you're you're
+
+759
+00:28:45,360 --> 00:28:47,400
+less scratching your head saying why is
+
+760
+00:28:47,400 --> 00:28:49,080
+he not trading today what makes this day
+
+761
+00:28:49,080 --> 00:28:50,640
+any different from the other now you're
+
+762
+00:28:50,640 --> 00:28:51,960
+going to know so if I say I'm not
+
+763
+00:28:51,960 --> 00:28:54,059
+trading today you'll know why I'm not
+
+764
+00:28:54,059 --> 00:28:55,440
+trading it and you won't get upset you
+
+765
+00:28:55,440 --> 00:28:56,940
+won't be offended you won't think I'm
+
+766
+00:28:56,940 --> 00:28:58,260
+trying to go to the beach the next
+
+767
+00:28:58,260 --> 00:28:59,760
+morning and I'm just trying to get some
+
+768
+00:28:59,760 --> 00:29:01,620
+sleep you'll know why there's a real
+
+769
+00:29:01,620 --> 00:29:04,919
+reason why and it's consistent
+
+770
+00:29:04,919 --> 00:29:07,500
+it's not something that takes a great
+
+771
+00:29:07,500 --> 00:29:10,140
+deal of you know mental acrobatics to
+
+772
+00:29:10,140 --> 00:29:11,760
+understand these are very simple things
+
+773
+00:29:11,760 --> 00:29:12,960
+to understand when you look at the price
+
+774
+00:29:12,960 --> 00:29:15,840
+study it go back and look at several
+
+775
+00:29:15,840 --> 00:29:17,100
+months of data
+
+776
+00:29:17,100 --> 00:29:19,140
+I don't care what pair you look at if
+
+777
+00:29:19,140 --> 00:29:21,840
+you see these things in the marketplace
+
+778
+00:29:21,840 --> 00:29:23,820
+it's highly unlikely they're going to
+
+779
+00:29:23,820 --> 00:29:25,980
+get a clean London session and that's
+
+780
+00:29:25,980 --> 00:29:27,779
+what we want we want to trade when the
+
+781
+00:29:27,779 --> 00:29:31,620
+market has a clear squeeze on volatility
+
+782
+00:29:31,620 --> 00:29:33,539
+they're holding in the consolidation and
+
+783
+00:29:33,539 --> 00:29:35,340
+they're letting the order stack up we
+
+784
+00:29:35,340 --> 00:29:36,659
+know where the Market's going to want to
+
+785
+00:29:36,659 --> 00:29:38,580
+go on a daily chart how many times have
+
+786
+00:29:38,580 --> 00:29:40,260
+you seen over the course of the last six
+
+787
+00:29:40,260 --> 00:29:42,480
+seven months where I'm calling the
+
+788
+00:29:42,480 --> 00:29:44,760
+market on the daily chart it's almost 98
+
+789
+00:29:44,760 --> 00:29:48,419
+accurate it's ridiculous okay so when we
+
+790
+00:29:48,419 --> 00:29:52,020
+apply these ideas and we fare it out all
+
+791
+00:29:52,020 --> 00:29:54,059
+the times when the conditions we showed
+
+792
+00:29:54,059 --> 00:29:55,799
+in the two previous slides are there
+
+793
+00:29:55,799 --> 00:29:57,600
+we're going to miss some moves and
+
+794
+00:29:57,600 --> 00:30:00,240
+that's fine we don't care about that but
+
+795
+00:30:00,240 --> 00:30:04,080
+we're leaning ourselves heavily in the
+
+796
+00:30:04,080 --> 00:30:06,360
+basically the salad days the easy
+
+797
+00:30:06,360 --> 00:30:09,419
+trading days okay and we're moving now
+
+798
+00:30:09,419 --> 00:30:11,580
+into a framework where I actually trade
+
+799
+00:30:11,580 --> 00:30:13,860
+with these types of things so I don't
+
+800
+00:30:13,860 --> 00:30:15,480
+trade every single day and there's gonna
+
+801
+00:30:15,480 --> 00:30:16,860
+be times now going forward in our
+
+802
+00:30:16,860 --> 00:30:18,899
+mentorship when we have these conditions
+
+803
+00:30:18,899 --> 00:30:21,299
+there I'll let you know in the Forum
+
+804
+00:30:21,299 --> 00:30:24,059
+this is not a high probability day we
+
+805
+00:30:24,059 --> 00:30:25,559
+will be sitting on the sidelines waiting
+
+806
+00:30:25,559 --> 00:30:27,659
+for new events or waiting for the New
+
+807
+00:30:27,659 --> 00:30:28,559
+York session
+
+808
+00:30:28,559 --> 00:30:31,500
+so now you have a clear reason why
+
+809
+00:30:31,500 --> 00:30:33,960
+I won't be taking certain participation
+
+810
+00:30:33,960 --> 00:30:37,559
+in in trading days and you'll know what
+
+811
+00:30:37,559 --> 00:30:38,580
+you're going to be learning from not
+
+812
+00:30:38,580 --> 00:30:40,740
+doing it and we'll see many instances
+
+813
+00:30:40,740 --> 00:30:43,740
+where it will protect us from taking
+
+814
+00:30:43,740 --> 00:30:46,200
+what would otherwise be a losing trade
+
+815
+00:30:46,200 --> 00:30:47,460
+in London
+
+816
+00:30:47,460 --> 00:30:49,380
+so hopefully you found this lesson
+
+817
+00:30:49,380 --> 00:30:51,419
+insightful I know it's not exciting it's
+
+818
+00:30:51,419 --> 00:30:52,860
+not sexy it doesn't have all kinds of
+
+819
+00:30:52,860 --> 00:30:55,500
+charts but it's one of those ones that
+
+820
+00:30:55,500 --> 00:30:58,159
+require you to think it's one of those
+
+821
+00:30:58,159 --> 00:31:01,080
+why 
+
+822
+00:31:01,080 --> 00:31:03,419
+it's one of those lessons that helps you
+
+823
+00:31:03,419 --> 00:31:05,460
+build a Winner's mindset you have to
+
+824
+00:31:05,460 --> 00:31:06,360
+have
+
+825
+00:31:06,360 --> 00:31:09,480
+rules you have to and the best rules are
+
+826
+00:31:09,480 --> 00:31:10,799
+the ones that help you stay out of the
+
+827
+00:31:10,799 --> 00:31:12,600
+marketplace because everybody can get in
+
+828
+00:31:12,600 --> 00:31:14,880
+the marketplace there's no there's no
+
+829
+00:31:14,880 --> 00:31:17,520
+shortage on reasons to get into a trade
+
+830
+00:31:17,520 --> 00:31:18,960
+because everybody can come up with one
+
+831
+00:31:18,960 --> 00:31:20,700
+they make books about it all day long
+
+832
+00:31:20,700 --> 00:31:23,220
+every bookshelf in the bookstores have
+
+833
+00:31:23,220 --> 00:31:24,539
+some reason why you need to be a buyer
+
+834
+00:31:24,539 --> 00:31:26,220
+or seller based on something
+
+835
+00:31:26,220 --> 00:31:29,940
+but very little is written about how do
+
+836
+00:31:29,940 --> 00:31:31,200
+you know when to stay out of the
+
+837
+00:31:31,200 --> 00:31:32,159
+marketplace
+
+838
+00:31:32,159 --> 00:31:34,380
+that's what this lesson has given you
+
+839
+00:31:34,380 --> 00:31:36,960
+so here's one of the beautiful elements
+
+840
+00:31:36,960 --> 00:31:38,700
+to it
+
+841
+00:31:38,700 --> 00:31:40,799
+I don't care if you're a position Trader
+
+842
+00:31:40,799 --> 00:31:41,760
+at heart
+
+843
+00:31:41,760 --> 00:31:43,740
+a swing Trader at heart
+
+844
+00:31:43,740 --> 00:31:46,080
+I don't care if you're a One-Shot one
+
+845
+00:31:46,080 --> 00:31:47,700
+kill Trader
+
+846
+00:31:47,700 --> 00:31:49,620
+I don't care if you're just gonna be a
+
+847
+00:31:49,620 --> 00:31:51,000
+day trader or if you're going to be a
+
+848
+00:31:51,000 --> 00:31:52,320
+scalper like we're going to learn next
+
+849
+00:31:52,320 --> 00:31:53,940
+month
+
+850
+00:31:53,940 --> 00:31:56,880
+the criteria I just gave you here will
+
+851
+00:31:56,880 --> 00:31:59,760
+save your backside regardless of what
+
+852
+00:31:59,760 --> 00:32:01,679
+trading discipline you have
+
+853
+00:32:01,679 --> 00:32:03,179
+because if you're going to be executing
+
+854
+00:32:03,179 --> 00:32:05,100
+and trying to trade with the London
+
+855
+00:32:05,100 --> 00:32:06,120
+session
+
+856
+00:32:06,120 --> 00:32:09,600
+as your means of Entry if it looks like
+
+857
+00:32:09,600 --> 00:32:12,000
+these two previous slides you want to
+
+858
+00:32:12,000 --> 00:32:14,940
+wait just wait until a better technical
+
+859
+00:32:14,940 --> 00:32:17,460
+picture and when you get it you'll have
+
+860
+00:32:17,460 --> 00:32:18,960
+no problem taking your entry and you'll
+
+861
+00:32:18,960 --> 00:32:21,120
+be much more
+
+862
+00:32:21,120 --> 00:32:24,960
+fortified in knowing that you have the
+
+863
+00:32:24,960 --> 00:32:26,399
+all the odds that you could possibly
+
+864
+00:32:26,399 --> 00:32:30,059
+have reasonably you know in your favor
+
+865
+00:32:30,059 --> 00:32:31,380
+and that's where you want to live as a
+
+866
+00:32:31,380 --> 00:32:33,059
+Trader you want to be in the market when
+
+867
+00:32:33,059 --> 00:32:35,940
+it's highly favored on your side of the
+
+868
+00:32:35,940 --> 00:32:37,679
+marketplace you want to be on side not
+
+869
+00:32:37,679 --> 00:32:38,820
+offside
+
+870
+00:32:38,820 --> 00:32:41,340
+and the way I've learned over a long
+
+871
+00:32:41,340 --> 00:32:43,140
+period and these are lessons that I had
+
+872
+00:32:43,140 --> 00:32:45,299
+to learn painfully very painfully
+
+873
+00:32:45,299 --> 00:32:48,240
+because I'm stubborn I want to do things
+
+874
+00:32:48,240 --> 00:32:50,340
+the way I want to do things and if
+
+875
+00:32:50,340 --> 00:32:51,720
+someone tells me I shouldn't do this I'm
+
+876
+00:32:51,720 --> 00:32:53,820
+going in doing that very thing you know
+
+877
+00:32:53,820 --> 00:32:56,100
+what it's like the sign says on the lawn
+
+878
+00:32:56,100 --> 00:32:58,140
+don't step on the grass I'm doing The
+
+879
+00:32:58,140 --> 00:32:59,520
+Jig on it I'm dancing all over it
+
+880
+00:32:59,520 --> 00:33:00,899
+moonwalking on it not because I'm
+
+881
+00:33:00,899 --> 00:33:02,940
+ignorant I'm trying to be rude it's just
+
+882
+00:33:02,940 --> 00:33:05,100
+that's my nature it's human nature to do
+
+883
+00:33:05,100 --> 00:33:06,120
+the very things you know you're not
+
+884
+00:33:06,120 --> 00:33:08,580
+supposed to do so you have to have these
+
+885
+00:33:08,580 --> 00:33:10,500
+rule-based ideas so that's why there's
+
+886
+00:33:10,500 --> 00:33:12,960
+no charts in this there's no let me show
+
+887
+00:33:12,960 --> 00:33:15,419
+you examples of this okay it's rules
+
+888
+00:33:15,419 --> 00:33:19,019
+it's 100 rules and I'm going to leave it
+
+889
+00:33:19,019 --> 00:33:21,720
+up to you to have this created as a
+
+890
+00:33:21,720 --> 00:33:23,039
+checklist
+
+891
+00:33:23,039 --> 00:33:24,779
+I'm not going to give you a checklist
+
+892
+00:33:24,779 --> 00:33:26,279
+that has this stuff because I want you
+
+893
+00:33:26,279 --> 00:33:28,440
+to write it in your own handwriting once
+
+894
+00:33:28,440 --> 00:33:30,600
+you write it out subconsciously you're
+
+895
+00:33:30,600 --> 00:33:32,220
+going to retain that and then every day
+
+896
+00:33:32,220 --> 00:33:33,840
+you're going to refer to it when you
+
+897
+00:33:33,840 --> 00:33:35,640
+look at the marketplace and in the
+
+898
+00:33:35,640 --> 00:33:37,620
+previous two slides if those conditions
+
+899
+00:33:37,620 --> 00:33:39,720
+are there you already know probability
+
+900
+00:33:39,720 --> 00:33:41,580
+has fallen off the table and it's not
+
+901
+00:33:41,580 --> 00:33:43,740
+likely to be a easy trading session for
+
+902
+00:33:43,740 --> 00:33:44,760
+London
+
+903
+00:33:44,760 --> 00:33:46,380
+now think about that
+
+904
+00:33:46,380 --> 00:33:49,200
+very very empowering
+
+905
+00:33:49,200 --> 00:33:51,600
+it also gives you context
+
+906
+00:33:51,600 --> 00:33:53,399
+yet you might still be bullish on that
+
+907
+00:33:53,399 --> 00:33:54,120
+pair
+
+908
+00:33:54,120 --> 00:33:56,940
+you might be bearish on that pair
+
+909
+00:33:56,940 --> 00:33:59,340
+but when you don't have the conditions
+
+910
+00:33:59,340 --> 00:34:03,539
+in favor for technical symmetry
+
+911
+00:34:03,539 --> 00:34:05,279
+where you can expect and clearly
+
+912
+00:34:05,279 --> 00:34:07,440
+anticipate the manipulation on the
+
+913
+00:34:07,440 --> 00:34:09,780
+central banks when they reprice higher
+
+914
+00:34:09,780 --> 00:34:11,699
+and go in a perfectionary state we're
+
+915
+00:34:11,699 --> 00:34:13,320
+entering in that
+
+916
+00:34:13,320 --> 00:34:14,879
+if we don't have the framework to
+
+917
+00:34:14,879 --> 00:34:16,440
+clearly see when they're going to do
+
+918
+00:34:16,440 --> 00:34:17,339
+that
+
+919
+00:34:17,339 --> 00:34:18,899
+what are we doing in the marketplace
+
+920
+00:34:18,899 --> 00:34:20,280
+then
+
+921
+00:34:20,280 --> 00:34:23,339
+what everybody else does Gamble and
+
+922
+00:34:23,339 --> 00:34:25,440
+gamblers sometimes make money
+
+923
+00:34:25,440 --> 00:34:28,859
+but gamblers rarely make a living
+
+924
+00:34:28,859 --> 00:34:30,839
+with that wish you good luck and good
+
+925
+00:34:30,839 --> 00:34:33,260
+Trading
+

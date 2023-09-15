@@ -1,0 +1,2984 @@
+1
+00:00:17,400 --> 00:00:19,560
+welcome back folks this is lesson seven
+
+2
+00:00:19,560 --> 00:00:21,960
+of the ICT day trading model
+
+3
+00:00:21,960 --> 00:00:26,480
+high probability day trade setups
+
+4
+00:00:30,300 --> 00:00:32,399
+okay what makes day trades high
+
+5
+00:00:32,399 --> 00:00:34,079
+probability
+
+6
+00:00:34,079 --> 00:00:36,840
+the highest importance is placed on the
+
+7
+00:00:36,840 --> 00:00:38,520
+HTF daily and or four hour
+
+8
+00:00:38,520 --> 00:00:40,739
+Direction
+
+9
+00:00:40,739 --> 00:00:42,840
+when daily and or four hour direction is
+
+10
+00:00:42,840 --> 00:00:43,920
+bullish
+
+11
+00:00:43,920 --> 00:00:47,040
+use previous days low to high for
+
+12
+00:00:47,040 --> 00:00:48,960
+retracement entries
+
+13
+00:00:48,960 --> 00:00:52,680
+use previous days NewYork session low
+
+14
+00:00:52,680 --> 00:00:53,760
+to high
+
+15
+00:00:53,760 --> 00:00:55,680
+retracement entries
+
+16
+00:00:55,680 --> 00:00:58,559
+use previous days low
+
+17
+00:00:58,559 --> 00:01:02,520
+for Sell stop raid to accumulate lungs
+
+18
+00:01:02,520 --> 00:01:04,500
+focusing on the anticipated move from
+
+19
+00:01:04,500 --> 00:01:06,900
+HTF discount to premium PD
+
+20
+00:01:06,900 --> 00:01:09,320
+arrays
+
+21
+00:01:11,400 --> 00:01:13,740
+when daily and or four hour direction is
+
+22
+00:01:13,740 --> 00:01:14,700
+bearish
+
+23
+00:01:14,700 --> 00:01:17,340
+use previous days high to low for
+
+24
+00:01:17,340 --> 00:01:19,920
+retracement entries use previous day's
+
+25
+00:01:19,920 --> 00:01:22,259
+NewYork session high to low for
+
+26
+00:01:22,259 --> 00:01:24,240
+retracement entries
+
+27
+00:01:24,240 --> 00:01:26,640
+use previous days high for buy stop rate
+
+28
+00:01:26,640 --> 00:01:30,259
+accumulate shorts
+
+29
+00:01:30,420 --> 00:01:32,400
+focusing on the anticipated move from
+
+30
+00:01:32,400 --> 00:01:34,500
+the HTF premium to
+
+31
+00:01:34,500 --> 00:01:37,640
+Discount PD arrays
+
+32
+00:01:37,680 --> 00:01:38,820
+when we're looking for a high
+
+33
+00:01:38,820 --> 00:01:41,460
+probability day trades what we're really
+
+34
+00:01:41,460 --> 00:01:44,820
+focusing on is where's the next most
+
+35
+00:01:44,820 --> 00:01:47,340
+likely Direction higher or lower
+
+36
+00:01:47,340 --> 00:01:49,740
+and off of what level and trading up to
+
+37
+00:01:49,740 --> 00:01:52,619
+what level for a profit
+
+38
+00:01:52,619 --> 00:01:55,200
+there's several swings that you need to
+
+39
+00:01:55,200 --> 00:01:57,780
+be aware of obviously the previous day
+
+40
+00:01:57,780 --> 00:02:00,000
+is high and low
+
+41
+00:02:00,000 --> 00:02:03,420
+the previous days NewYork session
+
+42
+00:02:03,420 --> 00:02:05,640
+range from high to low that means the
+
+43
+00:02:05,640 --> 00:02:07,799
+sessions highest high and the lowest low
+
+44
+00:02:07,799 --> 00:02:11,660
+during the NewYork trading hours
+
+45
+00:02:12,780 --> 00:02:15,360
+there's also one that's not listed here
+
+46
+00:02:15,360 --> 00:02:17,879
+but I want you to think about
+
+47
+00:02:17,879 --> 00:02:19,739
+what's the highest high and the lowest
+
+48
+00:02:19,739 --> 00:02:20,459
+low
+
+49
+00:02:20,459 --> 00:02:23,780
+during the London session
+
+50
+00:02:23,819 --> 00:02:26,040
+that means the London
+
+51
+00:02:26,040 --> 00:02:28,980
+high in the London low
+
+52
+00:02:28,980 --> 00:02:32,040
+for the Elena Killzone
+
+53
+00:02:32,040 --> 00:02:35,760
+then also looking at the London high or
+
+54
+00:02:35,760 --> 00:02:37,020
+low
+
+55
+00:02:37,020 --> 00:02:40,080
+to the low or high contrary to it in
+
+56
+00:02:40,080 --> 00:02:41,340
+other words the total range from the
+
+57
+00:02:41,340 --> 00:02:43,620
+London session extreme whether it be
+
+58
+00:02:43,620 --> 00:02:45,120
+high or low
+
+59
+00:02:45,120 --> 00:02:47,640
+to the lower high prior to the NewYork
+
+60
+00:02:47,640 --> 00:02:49,620
+session beginning
+
+61
+00:02:49,620 --> 00:02:51,480
+so between
+
+62
+00:02:51,480 --> 00:02:53,640
+NewYork opening
+
+63
+00:02:53,640 --> 00:02:55,680
+what's the extreme on the range for that
+
+64
+00:02:55,680 --> 00:02:58,860
+day in London is it high or low relative
+
+65
+00:02:58,860 --> 00:03:00,239
+to the beginning of NewYork session
+
+66
+00:03:00,239 --> 00:03:04,580
+that range also is important
+
+67
+00:03:07,620 --> 00:03:10,260
+when we look through price and we find
+
+68
+00:03:10,260 --> 00:03:12,360
+the opportunities to be a day trader
+
+69
+00:03:12,360 --> 00:03:13,860
+you're looking for the similar things
+
+70
+00:03:13,860 --> 00:03:15,420
+we've went over on a HTF
+
+71
+00:03:15,420 --> 00:03:18,360
+charts just on a lower time frame
+
+72
+00:03:18,360 --> 00:03:20,519
+nothing that you see in the lower time
+
+73
+00:03:20,519 --> 00:03:22,140
+frame is going to be any different from
+
+74
+00:03:22,140 --> 00:03:24,239
+what we've outlined from what we've seen
+
+75
+00:03:24,239 --> 00:03:27,980
+in the daily or weekly or monthly
+
+76
+00:03:29,940 --> 00:03:31,800
+every example
+
+77
+00:03:31,800 --> 00:03:35,159
+that's being outlined here for framing a
+
+78
+00:03:35,159 --> 00:03:36,840
+high probability setup
+
+79
+00:03:36,840 --> 00:03:40,799
+this is not the Panacea list okay this
+
+80
+00:03:40,799 --> 00:03:42,599
+is this is not going to be every
+
+81
+00:03:42,599 --> 00:03:44,040
+possible scenario
+
+82
+00:03:44,040 --> 00:03:46,400
+these are the criterias that I look for
+
+83
+00:03:46,400 --> 00:03:49,379
+each trading day when the conditions are
+
+84
+00:03:49,379 --> 00:03:52,980
+ripe so in other words I've done my
+
+85
+00:03:52,980 --> 00:03:55,080
+due diligence if you will from the
+
+86
+00:03:55,080 --> 00:03:57,299
+HTF and I've arrived at
+
+87
+00:03:57,299 --> 00:03:58,980
+what I believe is the most probable
+
+88
+00:03:58,980 --> 00:04:00,000
+Direction
+
+89
+00:04:00,000 --> 00:04:02,159
+on a HTF chart
+
+90
+00:04:02,159 --> 00:04:04,620
+and then what I'll look for is if I'm
+
+91
+00:04:04,620 --> 00:04:06,659
+bullish I want to look for the range
+
+92
+00:04:06,659 --> 00:04:09,599
+from London's extreme high or low to
+
+93
+00:04:09,599 --> 00:04:10,980
+that which
+
+94
+00:04:10,980 --> 00:04:13,200
+the opposite extreme higher low would be
+
+95
+00:04:13,200 --> 00:04:15,840
+prior to NewYork so whatever the range
+
+96
+00:04:15,840 --> 00:04:17,880
+is from London
+
+97
+00:04:17,880 --> 00:04:20,220
+to right before NewYork opening
+
+98
+00:04:20,220 --> 00:04:22,320
+that's important I want to measure that
+
+99
+00:04:22,320 --> 00:04:24,900
+range if I'm bearish
+
+100
+00:04:24,900 --> 00:04:26,880
+that range is going to help me find the
+
+101
+00:04:26,880 --> 00:04:28,320
+next trading day
+
+102
+00:04:28,320 --> 00:04:30,840
+retracement up
+
+103
+00:04:30,840 --> 00:04:33,300
+during that protractionary state that
+
+104
+00:04:33,300 --> 00:04:34,979
+move up is going to be a retracement
+
+105
+00:04:34,979 --> 00:04:37,979
+into that London session range from
+
+106
+00:04:37,979 --> 00:04:39,660
+London going into the beginning of New
+
+107
+00:04:39,660 --> 00:04:41,780
+York
+
+108
+00:04:41,820 --> 00:04:44,460
+I'll also measure the NewYork session
+
+109
+00:04:44,460 --> 00:04:47,460
+range high and low
+
+110
+00:04:47,460 --> 00:04:49,500
+that also many times will give me the
+
+111
+00:04:49,500 --> 00:04:52,259
+setup that's framed for the next day's
+
+112
+00:04:52,259 --> 00:04:54,720
+higher low it'll be retracement inside
+
+113
+00:04:54,720 --> 00:04:57,259
+that range
+
+114
+00:04:57,840 --> 00:05:00,060
+I'll look for the previous days high and
+
+115
+00:05:00,060 --> 00:05:01,919
+low
+
+116
+00:05:01,919 --> 00:05:05,160
+to look for stop rates
+
+117
+00:05:05,160 --> 00:05:06,479
+generally you're going to see those
+
+118
+00:05:06,479 --> 00:05:09,180
+scenarios occur when there is
+
+119
+00:05:09,180 --> 00:05:12,900
+an end to a most recent move in other
+
+120
+00:05:12,900 --> 00:05:14,340
+words if we've seen several days go up
+
+121
+00:05:14,340 --> 00:05:17,639
+it's going to go up into a premium array
+
+122
+00:05:17,639 --> 00:05:19,080
+and it's probably going to trade above
+
+123
+00:05:19,080 --> 00:05:20,759
+an old High
+
+124
+00:05:20,759 --> 00:05:22,680
+I'll look for a buy stock run there and
+
+125
+00:05:22,680 --> 00:05:26,360
+then go short the next day
+
+126
+00:05:26,400 --> 00:05:27,900
+vice versa
+
+127
+00:05:27,900 --> 00:05:29,880
+if the Market's been trading lower and
+
+128
+00:05:29,880 --> 00:05:31,860
+it trades down to a discount PD array
+
+129
+00:05:31,860 --> 00:05:33,600
+I'll look for the market to trade down
+
+130
+00:05:33,600 --> 00:05:36,600
+below a previous day's low
+
+131
+00:05:36,600 --> 00:05:39,060
+I'll buy the sell stops
+
+132
+00:05:39,060 --> 00:05:42,500
+and I'll use that as a day trade
+
+133
+00:05:43,320 --> 00:05:45,900
+daily and four hour when we use those
+
+134
+00:05:45,900 --> 00:05:48,419
+independently or in concert with one
+
+135
+00:05:48,419 --> 00:05:50,460
+another to build our bearish or bullish
+
+136
+00:05:50,460 --> 00:05:51,600
+ideas
+
+137
+00:05:51,600 --> 00:05:53,580
+what we're looking for is the price
+
+138
+00:05:53,580 --> 00:05:57,600
+analysis of seeing is price supporting
+
+139
+00:05:57,600 --> 00:05:59,580
+bullishness are the is it bouncing off
+
+140
+00:05:59,580 --> 00:06:01,680
+of bull shoulder blocks is it rejecting
+
+141
+00:06:01,680 --> 00:06:03,180
+old lows and and showing them
+
+142
+00:06:03,180 --> 00:06:05,100
+willingness to go higher is it filling
+
+143
+00:06:05,100 --> 00:06:07,620
+in gaps below us and then rallying
+
+144
+00:06:07,620 --> 00:06:10,320
+those ideas are the first things that we
+
+145
+00:06:10,320 --> 00:06:12,259
+look for and then are we seeing
+
+146
+00:06:12,259 --> 00:06:16,199
+short-term premium arrays violating
+
+147
+00:06:16,199 --> 00:06:19,560
+if that's occurring then it's bullish
+
+148
+00:06:19,560 --> 00:06:21,360
+institutional workflows is bullish and
+
+149
+00:06:21,360 --> 00:06:23,039
+the opposite is said in Reverse when
+
+150
+00:06:23,039 --> 00:06:25,580
+you're bearish
+
+151
+00:06:26,580 --> 00:06:30,979
+when do I look to buy for day trades
+
+152
+00:06:31,259 --> 00:06:33,780
+ideally in seasonal periods of the year
+
+153
+00:06:33,780 --> 00:06:36,539
+but it's not required but ideally it has
+
+154
+00:06:36,539 --> 00:06:37,800
+to make the list in here because this is
+
+155
+00:06:37,800 --> 00:06:40,759
+the high probability series
+
+156
+00:06:40,919 --> 00:06:42,660
+when the current quarter or new quarter
+
+157
+00:06:42,660 --> 00:06:45,800
+is expected to be bullish
+
+158
+00:06:45,900 --> 00:06:47,639
+after the daily chart has reacted
+
+159
+00:06:47,639 --> 00:06:50,880
+positively on a discount PD array it
+
+160
+00:06:50,880 --> 00:06:53,160
+could be a bull shorter block any of the
+
+161
+00:06:53,160 --> 00:06:55,500
+discount arrays that's known to You by
+
+162
+00:06:55,500 --> 00:06:58,500
+The pdra Matrix
+
+163
+00:06:58,500 --> 00:07:00,919
+when price has a clear
+
+164
+00:07:00,919 --> 00:07:03,840
+unobscured path to an opposing premium
+
+165
+00:07:03,840 --> 00:07:06,120
+array in other words it's very easily
+
+166
+00:07:06,120 --> 00:07:08,340
+seen what it would reach for above you
+
+167
+00:07:08,340 --> 00:07:09,840
+presently
+
+168
+00:07:09,840 --> 00:07:12,419
+if you can't see it very easily
+
+169
+00:07:12,419 --> 00:07:13,740
+it's probably not going to be a high
+
+170
+00:07:13,740 --> 00:07:16,520
+probability setup
+
+171
+00:07:17,699 --> 00:07:20,639
+the ideal days of the week buying are
+
+172
+00:07:20,639 --> 00:07:23,900
+Monday Tuesday and Wednesday
+
+173
+00:07:24,060 --> 00:07:25,680
+you will refer to the central bank
+
+174
+00:07:25,680 --> 00:07:27,720
+dealers range and determine if it's less
+
+175
+00:07:27,720 --> 00:07:31,039
+than 40 Pips ideally
+
+176
+00:07:31,259 --> 00:07:32,940
+and we're going to demand that the Asian
+
+177
+00:07:32,940 --> 00:07:35,940
+range is in a 20 pip range or less ahead
+
+178
+00:07:35,940 --> 00:07:38,840
+of Frankfurt opening
+
+179
+00:07:39,300 --> 00:07:42,900
+buying between 2 AM and 4 AM NewYork
+
+180
+00:07:42,900 --> 00:07:45,060
+time we're going to be seeking the low
+
+181
+00:07:45,060 --> 00:07:47,539
+of the day
+
+182
+00:07:48,060 --> 00:07:49,620
+we're going to be buying it one to two
+
+183
+00:07:49,620 --> 00:07:51,000
+StandardDeviation of the Central Bank
+
+184
+00:07:51,000 --> 00:07:53,639
+dealers range and or Asian range coupled
+
+185
+00:07:53,639 --> 00:07:57,080
+with a discount PD array
+
+186
+00:07:58,020 --> 00:07:59,639
+time frame we're going to execute on is
+
+187
+00:07:59,639 --> 00:08:04,220
+a 15 and or a five minute chart
+
+188
+00:08:06,960 --> 00:08:09,000
+now where do I look to buy for day
+
+189
+00:08:09,000 --> 00:08:10,740
+trades
+
+190
+00:08:10,740 --> 00:08:13,380
+I like buying Under the Asian range plus
+
+191
+00:08:13,380 --> 00:08:16,319
+five Pips for the spread
+
+192
+00:08:16,319 --> 00:08:18,240
+I like looking for fair value gaps below
+
+193
+00:08:18,240 --> 00:08:21,259
+a short-term low from the previous days
+
+194
+00:08:21,259 --> 00:08:24,060
+NewYork session in other words after
+
+195
+00:08:24,060 --> 00:08:25,860
+NewYork opens up
+
+196
+00:08:25,860 --> 00:08:27,900
+I'm looking for short-term lows that
+
+197
+00:08:27,900 --> 00:08:29,699
+form going into the close at the start
+
+198
+00:08:29,699 --> 00:08:31,860
+of a new day Zero GMT I look back in the
+
+199
+00:08:31,860 --> 00:08:35,099
+previous day's range in the NewYork
+
+200
+00:08:35,099 --> 00:08:36,120
+session generally you're going to find a
+
+201
+00:08:36,120 --> 00:08:37,260
+low
+
+202
+00:08:37,260 --> 00:08:39,599
+and if we can drop down into that in
+
+203
+00:08:39,599 --> 00:08:40,919
+London
+
+204
+00:08:40,919 --> 00:08:42,659
+I'll look for those Sell stops to be
+
+205
+00:08:42,659 --> 00:08:44,580
+triggered and then I'll go along from
+
+206
+00:08:44,580 --> 00:08:47,100
+that but it has to overlap with other
+
+207
+00:08:47,100 --> 00:08:49,200
+things CentralBankDealersRange Asian
+
+208
+00:08:49,200 --> 00:08:51,000
+range there's ideas
+
+209
+00:08:51,000 --> 00:08:53,399
+also has to be in time of day
+
+210
+00:08:53,399 --> 00:08:56,519
+London open Killzone
+
+211
+00:08:56,519 --> 00:08:59,100
+little shorter block that resides below
+
+212
+00:08:59,100 --> 00:09:00,600
+a short term low
+
+213
+00:09:00,600 --> 00:09:03,660
+either in the previous day or intraday
+
+214
+00:09:03,660 --> 00:09:04,860
+today
+
+215
+00:09:04,860 --> 00:09:06,360
+in other words it could be a short-term
+
+216
+00:09:06,360 --> 00:09:08,640
+little intraday load it formed and then
+
+217
+00:09:08,640 --> 00:09:10,680
+it trades lower than that into a bullish
+
+218
+00:09:10,680 --> 00:09:12,959
+or a block that's a very very strong
+
+219
+00:09:12,959 --> 00:09:15,839
+condition when the overall picture is
+
+220
+00:09:15,839 --> 00:09:17,160
+bullish
+
+221
+00:09:17,160 --> 00:09:18,660
+I would be buying in that scenario
+
+222
+00:09:18,660 --> 00:09:21,180
+during London
+
+223
+00:09:21,180 --> 00:09:24,720
+if I'm very bullish I'll trade long at
+
+224
+00:09:24,720 --> 00:09:26,399
+one StandardDeviation
+
+225
+00:09:26,399 --> 00:09:27,899
+below
+
+226
+00:09:27,899 --> 00:09:30,600
+the CentralBankDealersRange or Asian
+
+227
+00:09:30,600 --> 00:09:31,440
+range
+
+228
+00:09:31,440 --> 00:09:34,380
+and any discount PD array overlap while
+
+229
+00:09:34,380 --> 00:09:37,519
+in the London killZone
+
+230
+00:09:39,000 --> 00:09:41,940
+inside the protraction lower
+
+231
+00:09:41,940 --> 00:09:46,860
+post 12 AM to 2 AM with IPDA
+
+232
+00:09:46,860 --> 00:09:49,080
+in other words it's trading down I'm
+
+233
+00:09:49,080 --> 00:09:51,360
+going to be looking to go long during
+
+234
+00:09:51,360 --> 00:09:53,640
+that Judah swing and again it has to be
+
+235
+00:09:53,640 --> 00:09:59,180
+an overlap with a discount PD array
+
+236
+00:10:01,080 --> 00:10:03,120
+feeling a liquidity void that completes
+
+237
+00:10:03,120 --> 00:10:05,880
+under a short-term low
+
+238
+00:10:05,880 --> 00:10:08,700
+all right so we saw on the second setup
+
+239
+00:10:08,700 --> 00:10:11,220
+fair value Gap it could be a larger gap
+
+240
+00:10:11,220 --> 00:10:13,080
+which would be basically a liquidity
+
+241
+00:10:13,080 --> 00:10:15,360
+void that would be completed or filled
+
+242
+00:10:15,360 --> 00:10:17,040
+in
+
+243
+00:10:17,040 --> 00:10:18,899
+below a short-term loan so what we're
+
+244
+00:10:18,899 --> 00:10:19,920
+doing so we're really trying to buy
+
+245
+00:10:19,920 --> 00:10:21,959
+below lows
+
+246
+00:10:21,959 --> 00:10:23,940
+looking to accumulate sell stop
+
+247
+00:10:23,940 --> 00:10:28,339
+liquidity that we can buy from
+
+248
+00:10:28,680 --> 00:10:33,720
+if after Rally post 12 AM NewYork time
+
+249
+00:10:33,720 --> 00:10:36,360
+buy the first retracement into a 15 and
+
+250
+00:10:36,360 --> 00:10:37,440
+or
+
+251
+00:10:37,440 --> 00:10:40,080
+five minute bullish order block similar
+
+252
+00:10:40,080 --> 00:10:42,180
+to what I'm saying here is if we have
+
+253
+00:10:42,180 --> 00:10:44,640
+rallied right after midnight
+
+254
+00:10:44,640 --> 00:10:46,440
+we didn't see any drop down or
+
+255
+00:10:46,440 --> 00:10:48,300
+protraction a state that would put us
+
+256
+00:10:48,300 --> 00:10:49,800
+into a discount
+
+257
+00:10:49,800 --> 00:10:51,720
+if it's been riding straight up
+
+258
+00:10:51,720 --> 00:10:54,060
+if you get into the two o'clock to four
+
+259
+00:10:54,060 --> 00:10:56,220
+o'clock time period today well then kill
+
+260
+00:10:56,220 --> 00:10:58,380
+zone sweet spot if you will
+
+261
+00:10:58,380 --> 00:11:00,300
+I'll buy the first rejection down until
+
+262
+00:11:00,300 --> 00:11:02,459
+a bullish order block on a 5 or 15
+
+263
+00:11:02,459 --> 00:11:05,240
+minute basis
+
+264
+00:11:05,640 --> 00:11:08,459
+one or two StandardDeviation in the
+
+265
+00:11:08,459 --> 00:11:10,019
+Asian range
+
+266
+00:11:10,019 --> 00:11:12,720
+coupled with discount PD array in other
+
+267
+00:11:12,720 --> 00:11:14,880
+words I'm looking for two for one
+
+268
+00:11:14,880 --> 00:11:17,100
+StandardDeviation drops of the Asian
+
+269
+00:11:17,100 --> 00:11:21,260
+range total range damn
+
+270
+00:11:21,480 --> 00:11:23,040
+and it's going to be overlapping with a
+
+271
+00:11:23,040 --> 00:11:25,260
+discount PD array so I'm blending those
+
+272
+00:11:25,260 --> 00:11:27,500
+two
+
+273
+00:11:28,620 --> 00:11:31,440
+if a short term low is taken out twice
+
+274
+00:11:31,440 --> 00:11:33,740
+but there has been no upside
+
+275
+00:11:33,740 --> 00:11:35,880
+protractionary state in other words we
+
+276
+00:11:35,880 --> 00:11:37,740
+haven't seen the market go up first and
+
+277
+00:11:37,740 --> 00:11:40,019
+then go down twice the second time in
+
+278
+00:11:40,019 --> 00:11:41,040
+that condition it's probably going to
+
+279
+00:11:41,040 --> 00:11:43,019
+keep on going lower but if it has not
+
+280
+00:11:43,019 --> 00:11:44,640
+seen any protractionary move on the
+
+281
+00:11:44,640 --> 00:11:46,740
+upside or due to swing up
+
+282
+00:11:46,740 --> 00:11:49,140
+we go down for a low and then one more
+
+283
+00:11:49,140 --> 00:11:51,779
+time blow out that low I'll buy that as
+
+284
+00:11:51,779 --> 00:11:53,339
+a turtle suit
+
+285
+00:11:53,339 --> 00:11:55,740
+now what I've outlined here
+
+286
+00:11:55,740 --> 00:11:58,680
+are my favorite setups these are the
+
+287
+00:11:58,680 --> 00:12:01,800
+conditions and you have to find them in
+
+288
+00:12:01,800 --> 00:12:03,180
+examples
+
+289
+00:12:03,180 --> 00:12:05,339
+I could show you examples but
+
+290
+00:12:05,339 --> 00:12:07,019
+nonetheless
+
+291
+00:12:07,019 --> 00:12:08,940
+that's not going to help you
+
+292
+00:12:08,940 --> 00:12:11,700
+these are the Frameworks I look for in
+
+293
+00:12:11,700 --> 00:12:13,079
+other words if I see these types of
+
+294
+00:12:13,079 --> 00:12:15,660
+scenarios unfold generally these are the
+
+295
+00:12:15,660 --> 00:12:18,899
+ones that typically get into my thought
+
+296
+00:12:18,899 --> 00:12:20,519
+process I'm looking for certain things
+
+297
+00:12:20,519 --> 00:12:23,760
+to line up certain some type of play or
+
+298
+00:12:23,760 --> 00:12:26,279
+for instance if we were a sports team
+
+299
+00:12:26,279 --> 00:12:29,940
+okay and the coach has a Playbook and he
+
+300
+00:12:29,940 --> 00:12:31,980
+likes certain  plays that he makes his
+
+301
+00:12:31,980 --> 00:12:34,320
+players go through well these are the
+
+302
+00:12:34,320 --> 00:12:36,240
+scenarios I love when it comes to
+
+303
+00:12:36,240 --> 00:12:38,180
+trading the London open
+
+304
+00:12:38,180 --> 00:12:43,560
+these are my like toolbox or consistency
+
+305
+00:12:43,560 --> 00:12:47,279
+these types of Trades form several times
+
+306
+00:12:47,279 --> 00:12:48,600
+a week
+
+307
+00:12:48,600 --> 00:12:51,240
+if you look for a few of them and
+
+308
+00:12:51,240 --> 00:12:52,980
+understand what they what they are when
+
+309
+00:12:52,980 --> 00:12:54,480
+the Market's bullish
+
+310
+00:12:54,480 --> 00:12:56,160
+we've shown willingness of respect to
+
+311
+00:12:56,160 --> 00:12:58,680
+daily discount PD array
+
+312
+00:12:58,680 --> 00:13:02,100
+one of these criteria are going to meet
+
+313
+00:13:02,100 --> 00:13:05,940
+every London session out there will have
+
+314
+00:13:05,940 --> 00:13:08,100
+something in this list that forms now I
+
+315
+00:13:08,100 --> 00:13:10,139
+already know what you're going to think
+
+316
+00:13:10,139 --> 00:13:12,839
+wow Michael this is a lot which one do I
+
+317
+00:13:12,839 --> 00:13:15,060
+pick well if you study them they all
+
+318
+00:13:15,060 --> 00:13:17,160
+don't have the same characteristics
+
+319
+00:13:17,160 --> 00:13:18,540
+it depends on what the Market's
+
+320
+00:13:18,540 --> 00:13:19,800
+providing you
+
+321
+00:13:19,800 --> 00:13:22,500
+so when you're watching 12 AM NewYork
+
+322
+00:13:22,500 --> 00:13:24,959
+time we're watching to see which
+
+323
+00:13:24,959 --> 00:13:27,720
+scenario unfolds
+
+324
+00:13:27,720 --> 00:13:29,760
+remember we're looking for that initial
+
+325
+00:13:29,760 --> 00:13:31,620
+drop down ideally
+
+326
+00:13:31,620 --> 00:13:34,139
+but if it doesn't happen we have one
+
+327
+00:13:34,139 --> 00:13:35,639
+condition here where it says if it
+
+328
+00:13:35,639 --> 00:13:37,980
+rallies straight from 12 AM
+
+329
+00:13:37,980 --> 00:13:40,440
+when we get to 2 AM we're going to buy
+
+330
+00:13:40,440 --> 00:13:42,120
+the first retracement into a 15 or five
+
+331
+00:13:42,120 --> 00:13:44,639
+minute order block boom it's over
+
+332
+00:13:44,639 --> 00:13:46,260
+so you got every scenario that I would
+
+333
+00:13:46,260 --> 00:13:50,779
+be looking for for a living open loan
+
+334
+00:13:52,200 --> 00:13:54,420
+placing stop losses in a buy for day
+
+335
+00:13:54,420 --> 00:13:56,839
+trades
+
+336
+00:13:57,360 --> 00:13:59,519
+whatever you do
+
+337
+00:13:59,519 --> 00:14:01,200
+and whatever you use for your initial
+
+338
+00:14:01,200 --> 00:14:05,220
+stop loss do not rush moving it I
+
+339
+00:14:05,220 --> 00:14:06,360
+already know what you're trying to do
+
+340
+00:14:06,360 --> 00:14:08,100
+you want to get to break even plus five
+
+341
+00:14:08,100 --> 00:14:10,500
+plus twenty forget that in day trading
+
+342
+00:14:10,500 --> 00:14:11,700
+in London because you can get a double
+
+343
+00:14:11,700 --> 00:14:13,500
+pass they can come back and knock you
+
+344
+00:14:13,500 --> 00:14:14,820
+out and you'll miss the entire move
+
+345
+00:14:14,820 --> 00:14:17,639
+leave your stop at initial until you get
+
+346
+00:14:17,639 --> 00:14:20,459
+to at least
+
+347
+00:14:20,459 --> 00:14:22,800
+40 to 50 of the DailyRange if you can
+
+348
+00:14:22,800 --> 00:14:24,300
+get that in London then bring it to
+
+349
+00:14:24,300 --> 00:14:26,399
+break even but anything prior to that
+
+350
+00:14:26,399 --> 00:14:29,399
+don't do it
+
+351
+00:14:29,399 --> 00:14:30,540
+if you're trading in Central Bank
+
+352
+00:14:30,540 --> 00:14:32,940
+dealers range overlap with a PD array
+
+353
+00:14:32,940 --> 00:14:36,120
+the stop has to be 30 Pips under your
+
+354
+00:14:36,120 --> 00:14:38,420
+entry
+
+355
+00:14:39,720 --> 00:14:41,699
+if you're trading a run under the Asian
+
+356
+00:14:41,699 --> 00:14:43,320
+range in other words what we're doing is
+
+357
+00:14:43,320 --> 00:14:45,420
+we're watching price trade down below
+
+358
+00:14:45,420 --> 00:14:46,860
+the Asian range it might be one Standard
+
+359
+00:14:46,860 --> 00:14:49,260
+Deviation might go a half a state  one
+
+360
+00:14:49,260 --> 00:14:51,060
+full StandardDeviation anything below
+
+361
+00:14:51,060 --> 00:14:52,800
+an H in range low
+
+362
+00:14:52,800 --> 00:14:55,740
+your stop needs to be 40 Pips below your
+
+363
+00:14:55,740 --> 00:14:58,040
+entry
+
+364
+00:14:59,279 --> 00:15:02,579
+if you're trading any sell stop raid
+
+365
+00:15:02,579 --> 00:15:05,459
+30 Pips under the low
+
+366
+00:15:05,459 --> 00:15:07,980
+of the entry you're using
+
+367
+00:15:07,980 --> 00:15:10,079
+all right you're going to use the low
+
+368
+00:15:10,079 --> 00:15:13,320
+as your primary entry point that low
+
+369
+00:15:13,320 --> 00:15:14,880
+you're going to try to enter below that
+
+370
+00:15:14,880 --> 00:15:17,639
+your stop has to be 30 Pips below that
+
+371
+00:15:17,639 --> 00:15:19,820
+low
+
+372
+00:15:22,019 --> 00:15:23,880
+if you're trading the first retracement
+
+373
+00:15:23,880 --> 00:15:25,560
+into a bull shoulder block
+
+374
+00:15:25,560 --> 00:15:28,440
+you have to be 10 Pips under the lowest
+
+375
+00:15:28,440 --> 00:15:31,040
+LOD
+
+376
+00:15:32,699 --> 00:15:34,500
+if you're trading the second return for
+
+377
+00:15:34,500 --> 00:15:36,540
+sell stops in other words we've had 
+
+378
+00:15:36,540 --> 00:15:39,300
+move lower and then it moves lower one
+
+379
+00:15:39,300 --> 00:15:41,279
+more time takes out the Sell stops your
+
+380
+00:15:41,279 --> 00:15:45,120
+stuff has to be below that 30 Pips
+
+381
+00:15:45,120 --> 00:15:47,279
+again that one is if you don't see any
+
+382
+00:15:47,279 --> 00:15:49,560
+move right away after midnight if it's
+
+383
+00:15:49,560 --> 00:15:51,540
+only been a straight down move then it
+
+384
+00:15:51,540 --> 00:15:52,860
+goes down one more time blows at the
+
+385
+00:15:52,860 --> 00:15:55,620
+load that's formed initially
+
+386
+00:15:55,620 --> 00:15:57,839
+your stop has to be 30 Pips below that
+
+387
+00:15:57,839 --> 00:16:01,040
+if you're buying that as a turtle suit
+
+388
+00:16:01,980 --> 00:16:04,079
+if you're trading any other setup not
+
+389
+00:16:04,079 --> 00:16:06,000
+described above what you're gonna be
+
+390
+00:16:06,000 --> 00:16:08,160
+using is 50 of the average DailyRange
+
+391
+00:16:08,160 --> 00:16:10,440
+of the last five days subtracted from
+
+392
+00:16:10,440 --> 00:16:12,600
+the Asian range low
+
+393
+00:16:12,600 --> 00:16:14,820
+assume you have a 100 pip average daily
+
+394
+00:16:14,820 --> 00:16:16,800
+range for the last five days what you're
+
+395
+00:16:16,800 --> 00:16:20,459
+going to do is take 50 Pips minus
+
+396
+00:16:20,459 --> 00:16:22,320
+the Asian range low whatever that price
+
+397
+00:16:22,320 --> 00:16:26,060
+is that's what your stop loss has to be
+
+398
+00:16:27,660 --> 00:16:31,500
+taking profits in buy day trades
+
+399
+00:16:31,500 --> 00:16:32,579
+foreign
+
+400
+00:16:32,579 --> 00:16:34,019
+you're always going to try to take
+
+401
+00:16:34,019 --> 00:16:36,779
+something off and gain at 20 to 30 Pips
+
+402
+00:16:36,779 --> 00:16:40,820
+always do this in London
+
+403
+00:16:40,980 --> 00:16:42,540
+you're gonna look to scale something off
+
+404
+00:16:42,540 --> 00:16:44,880
+every two StandardDeviation of the
+
+405
+00:16:44,880 --> 00:16:46,620
+Asian range or Central Bank dealers
+
+406
+00:16:46,620 --> 00:16:49,500
+range yes I said it requires you to see
+
+407
+00:16:49,500 --> 00:16:51,420
+two StandardDeviation before you take
+
+408
+00:16:51,420 --> 00:16:53,339
+the next level profit that means after
+
+409
+00:16:53,339 --> 00:16:55,380
+your first 20 to 30 Pips
+
+410
+00:16:55,380 --> 00:16:56,759
+you're going to wait for two Standard
+
+411
+00:16:56,759 --> 00:16:59,160
+Deviation of the Asian range or Central
+
+412
+00:16:59,160 --> 00:17:00,600
+Bank dealers range then you take
+
+413
+00:17:00,600 --> 00:17:02,399
+something off again
+
+414
+00:17:02,399 --> 00:17:03,959
+foreign
+
+415
+00:17:03,959 --> 00:17:05,880
+take something off at the previous day's
+
+416
+00:17:05,880 --> 00:17:09,000
+High plus 5 to 15 Pips
+
+417
+00:17:09,000 --> 00:17:10,260
+because you could end up in a turtle
+
+418
+00:17:10,260 --> 00:17:12,119
+soup scenario and it could retrace on
+
+419
+00:17:12,119 --> 00:17:13,919
+you
+
+420
+00:17:13,919 --> 00:17:16,140
+take something off at 50 of the price
+
+421
+00:17:16,140 --> 00:17:19,020
+range you're trading in on a 60 Minute
+
+422
+00:17:19,020 --> 00:17:20,699
+basis in other words inside the range
+
+423
+00:17:20,699 --> 00:17:24,240
+where are we at if we rally up
+
+424
+00:17:24,240 --> 00:17:26,579
+inside that range remember equilibrium
+
+425
+00:17:26,579 --> 00:17:29,220
+could be an impactful level so you want
+
+426
+00:17:29,220 --> 00:17:31,260
+to take something off there as well
+
+427
+00:17:31,260 --> 00:17:34,700
+because it could reverse on you
+
+428
+00:17:35,820 --> 00:17:40,380
+take or have had taken 60 to 80 percent
+
+429
+00:17:40,380 --> 00:17:41,460
+off
+
+430
+00:17:41,460 --> 00:17:43,260
+at five day average DailyRange
+
+431
+00:17:43,260 --> 00:17:45,720
+projections always do this so in other
+
+432
+00:17:45,720 --> 00:17:47,880
+words basically if you've not taken off
+
+433
+00:17:47,880 --> 00:17:49,799
+anything except for the first 20 30 Pips
+
+434
+00:17:49,799 --> 00:17:51,539
+you didn't do anything for two Standard
+
+435
+00:17:51,539 --> 00:17:52,799
+Deviation of the Asian range or Central
+
+436
+00:17:52,799 --> 00:17:54,179
+Bank dealerships because maybe it didn't
+
+437
+00:17:54,179 --> 00:17:55,919
+do that maybe it hasn't fulfilled that
+
+438
+00:17:55,919 --> 00:17:58,500
+maybe you haven't done anything with a
+
+439
+00:17:58,500 --> 00:18:00,299
+previous day's High hasn't traded there
+
+440
+00:18:00,299 --> 00:18:01,200
+yet
+
+441
+00:18:01,200 --> 00:18:05,400
+and maybe you haven't  seen a 50 range
+
+442
+00:18:05,400 --> 00:18:10,020
+in the last 60 Minutes  price action
+
+443
+00:18:10,020 --> 00:18:12,120
+then you have to consider average daily
+
+444
+00:18:12,120 --> 00:18:14,039
+range the last five days you need to be
+
+445
+00:18:14,039 --> 00:18:16,980
+taking at least 60 to 80 off at that
+
+446
+00:18:16,980 --> 00:18:17,940
+point
+
+447
+00:18:17,940 --> 00:18:20,220
+always do this and then you can leave a
+
+448
+00:18:20,220 --> 00:18:21,480
+little portion on to see if you're going
+
+449
+00:18:21,480 --> 00:18:23,700
+to get more juice out of that lemon and
+
+450
+00:18:23,700 --> 00:18:27,120
+hold for a later portion of the day
+
+451
+00:18:27,120 --> 00:18:28,679
+if trading higher than the previous
+
+452
+00:18:28,679 --> 00:18:30,840
+trading week take something off there
+
+453
+00:18:30,840 --> 00:18:32,340
+because you can get a turtle soups in
+
+454
+00:18:32,340 --> 00:18:34,919
+there in that environment
+
+455
+00:18:34,919 --> 00:18:36,840
+if trading higher than a previous month
+
+456
+00:18:36,840 --> 00:18:40,820
+is high take something off there
+
+457
+00:18:41,400 --> 00:18:43,980
+in time of day scale out
+
+458
+00:18:43,980 --> 00:18:45,780
+something
+
+459
+00:18:45,780 --> 00:18:48,660
+at or just above the five o'clock hour
+
+460
+00:18:48,660 --> 00:18:51,320
+NewYork time
+
+461
+00:18:51,780 --> 00:18:53,700
+in time of day you want to scale out a
+
+462
+00:18:53,700 --> 00:18:57,179
+short-term High prior to the 7 AM New
+
+463
+00:18:57,179 --> 00:18:59,160
+York open knowing let me outline this
+
+464
+00:18:59,160 --> 00:19:02,940
+again these are time date specific you
+
+465
+00:19:02,940 --> 00:19:05,100
+want to take some profit
+
+466
+00:19:05,100 --> 00:19:06,720
+when it's bullish and you've been
+
+467
+00:19:06,720 --> 00:19:07,919
+rallying
+
+468
+00:19:07,919 --> 00:19:09,780
+whatever that short-term High that's
+
+469
+00:19:09,780 --> 00:19:12,900
+forming prior to 7 AM that means
+
+470
+00:19:12,900 --> 00:19:13,980
+there's going to be a short-term little
+
+471
+00:19:13,980 --> 00:19:15,720
+rally going into seven o'clock
+
+472
+00:19:15,720 --> 00:19:18,120
+whatever that high is as it's rallying
+
+473
+00:19:18,120 --> 00:19:19,980
+you want to take something off there
+
+474
+00:19:19,980 --> 00:19:23,419
+because NewYork could be a reversal
+
+475
+00:19:23,460 --> 00:19:25,080
+in time of day
+
+476
+00:19:25,080 --> 00:19:27,179
+look to scale out between 10 AM and 11
+
+477
+00:19:27,179 --> 00:19:30,720
+AM NewYork time during the rally so in
+
+478
+00:19:30,720 --> 00:19:32,700
+other words whenever price is moving up
+
+479
+00:19:32,700 --> 00:19:36,059
+at 10 AM that leg in price higher you
+
+480
+00:19:36,059 --> 00:19:37,559
+want to be exiting and taking something
+
+481
+00:19:37,559 --> 00:19:41,600
+out as it's rallying up
+
+482
+00:19:41,820 --> 00:19:43,679
+ideally any of the above scenarios
+
+483
+00:19:43,679 --> 00:19:46,559
+coupled with a PD array in a premium
+
+484
+00:19:46,559 --> 00:19:49,039
+basis
+
+485
+00:19:49,140 --> 00:19:51,299
+now obviously you're probably saying
+
+486
+00:19:51,299 --> 00:19:53,460
+well Michael I only did too many so I
+
+487
+00:19:53,460 --> 00:19:54,780
+can only afford to do that how can I
+
+488
+00:19:54,780 --> 00:19:55,919
+take this many
+
+489
+00:19:55,919 --> 00:19:58,559
+ portions off you can't
+
+490
+00:19:58,559 --> 00:20:01,380
+but if you look at it again study it not
+
+491
+00:20:01,380 --> 00:20:03,600
+all these conditions can be present
+
+492
+00:20:03,600 --> 00:20:05,760
+but you want to look for the ones that
+
+493
+00:20:05,760 --> 00:20:08,100
+may potentially be there for you
+
+494
+00:20:08,100 --> 00:20:10,140
+you can go through this list
+
+495
+00:20:10,140 --> 00:20:12,000
+and look at your trade as you get ready
+
+496
+00:20:12,000 --> 00:20:14,700
+to take it and see right away if any of
+
+497
+00:20:14,700 --> 00:20:15,720
+these are going to be potential
+
+498
+00:20:15,720 --> 00:20:16,980
+candidates
+
+499
+00:20:16,980 --> 00:20:19,500
+but you have to take profits on these
+
+500
+00:20:19,500 --> 00:20:22,380
+rules that's how I do it this is the
+
+501
+00:20:22,380 --> 00:20:24,179
+reason why I do it and when you see me
+
+502
+00:20:24,179 --> 00:20:26,220
+taking positions and scaling them off
+
+503
+00:20:26,220 --> 00:20:30,440
+these this is the criteria I'm using
+
+504
+00:20:32,220 --> 00:20:36,000
+When I Look to short day trades
+
+505
+00:20:36,000 --> 00:20:38,280
+ideally in seasonal bearish periods of
+
+506
+00:20:38,280 --> 00:20:42,020
+the year but it's not required
+
+507
+00:20:42,360 --> 00:20:44,160
+when the current quarter or new quarter
+
+508
+00:20:44,160 --> 00:20:47,360
+is expected bearish
+
+509
+00:20:48,179 --> 00:20:49,980
+after the daily chart has reacted
+
+510
+00:20:49,980 --> 00:20:54,140
+positively on a premium PD array
+
+511
+00:20:55,440 --> 00:20:57,780
+when price has a clear unobstructed path
+
+512
+00:20:57,780 --> 00:21:01,520
+to an opposing discount array
+
+513
+00:21:02,100 --> 00:21:04,860
+the ideal days of the week shorting are
+
+514
+00:21:04,860 --> 00:21:08,580
+Monday Tuesday and Wednesday
+
+515
+00:21:08,580 --> 00:21:10,380
+refer to the CentralBankDealersRange
+
+516
+00:21:10,380 --> 00:21:12,299
+and determine if it's less than 40 Pips
+
+517
+00:21:12,299 --> 00:21:14,780
+ideally
+
+518
+00:21:15,240 --> 00:21:17,220
+demand the Asian range to be in a 20-fit
+
+519
+00:21:17,220 --> 00:21:18,900
+range or less ahead of the Frankfurt
+
+520
+00:21:18,900 --> 00:21:19,919
+opening
+
+521
+00:21:19,919 --> 00:21:21,720
+that's basically one o'clock in the
+
+522
+00:21:21,720 --> 00:21:23,280
+morning NewYork Times
+
+523
+00:21:23,280 --> 00:21:25,620
+early morning
+
+524
+00:21:25,620 --> 00:21:28,440
+shorting between 2 AM and 4 AM New
+
+525
+00:21:28,440 --> 00:21:31,940
+York Times seeking the HOD
+
+526
+00:21:33,480 --> 00:21:35,340
+generally I'm looking to sell one to two
+
+527
+00:21:35,340 --> 00:21:36,600
+StandardDeviation of the Central Bank
+
+528
+00:21:36,600 --> 00:21:39,120
+dealers range and or Asian range coupled
+
+529
+00:21:39,120 --> 00:21:42,500
+with a premium PD array
+
+530
+00:21:43,020 --> 00:21:46,260
+time frame to execute on is either 5 or
+
+531
+00:21:46,260 --> 00:21:49,340
+15 minute time frame
+
+532
+00:21:51,960 --> 00:21:55,620
+where do I look to short day trades
+
+533
+00:21:55,620 --> 00:21:59,340
+I like to run above the Asian range at
+
+534
+00:21:59,340 --> 00:22:02,159
+least five Pips above it I want to be
+
+535
+00:22:02,159 --> 00:22:04,880
+selling short there
+
+536
+00:22:06,440 --> 00:22:09,480
+a fair value Gap above a short-term high
+
+537
+00:22:09,480 --> 00:22:12,480
+from the previous day's NewYork session
+
+538
+00:22:12,480 --> 00:22:14,039
+there's going to be buy stops above that
+
+539
+00:22:14,039 --> 00:22:16,020
+I'll look to sell that as it rallies
+
+540
+00:22:16,020 --> 00:22:19,159
+above that in NewYork session
+
+541
+00:22:21,600 --> 00:22:23,820
+bearish order block above a short-term
+
+542
+00:22:23,820 --> 00:22:27,000
+High either previous day or today in
+
+543
+00:22:27,000 --> 00:22:28,500
+other words if there's a bullish order
+
+544
+00:22:28,500 --> 00:22:31,080
+block that resides in price action and
+
+545
+00:22:31,080 --> 00:22:33,480
+there's a short-term High just below
+
+546
+00:22:33,480 --> 00:22:35,940
+that we haven't rated yet as soon as we
+
+547
+00:22:35,940 --> 00:22:37,440
+trade above that short-term high and
+
+548
+00:22:37,440 --> 00:22:39,059
+into that very shorter block
+
+549
+00:22:39,059 --> 00:22:41,340
+if it does that during London session
+
+550
+00:22:41,340 --> 00:22:44,659
+I'll go short there
+
+551
+00:22:44,880 --> 00:22:46,860
+if I'm very bearish one Standard
+
+552
+00:22:46,860 --> 00:22:49,740
+Deviation with any premium PD array in
+
+553
+00:22:49,740 --> 00:22:53,960
+the open killZone I can trade on that
+
+554
+00:22:54,600 --> 00:22:58,860
+inside the protraction higher post 12 AM
+
+555
+00:22:58,860 --> 00:23:01,440
+midnight NewYork time to 2 AM NewYork
+
+556
+00:23:01,440 --> 00:23:02,159
+time
+
+557
+00:23:02,159 --> 00:23:06,419
+with a PD array or a premium PDA rate
+
+558
+00:23:06,419 --> 00:23:08,880
+specifically that's enough for me so
+
+559
+00:23:08,880 --> 00:23:10,980
+basically I'm looking at a Judah swing
+
+560
+00:23:10,980 --> 00:23:12,840
+that occurs right from Midnight going up
+
+561
+00:23:12,840 --> 00:23:15,900
+into 2 AM it can happen prior
+
+562
+00:23:15,900 --> 00:23:18,120
+to 2 AM but generally you want to see
+
+563
+00:23:18,120 --> 00:23:20,400
+that move right after 12 AM up it
+
+564
+00:23:20,400 --> 00:23:22,620
+trades into a premium PD array that's
+
+565
+00:23:22,620 --> 00:23:25,340
+enough to get short
+
+566
+00:23:25,679 --> 00:23:27,600
+filling a liquidity void that completes
+
+567
+00:23:27,600 --> 00:23:31,220
+above a short-term High
+
+568
+00:23:32,340 --> 00:23:34,380
+if after
+
+569
+00:23:34,380 --> 00:23:38,039
+the drop post 12 AM
+
+570
+00:23:38,039 --> 00:23:39,840
+going to sell the first retracement into
+
+571
+00:23:39,840 --> 00:23:44,419
+a 15 or 5 minute bearish order block
+
+572
+00:23:45,780 --> 00:23:47,640
+one to two StandardDeviation in the
+
+573
+00:23:47,640 --> 00:23:49,559
+Asian range coupled with a premium PD
+
+574
+00:23:49,559 --> 00:23:52,799
+array I can sell that
+
+575
+00:23:52,799 --> 00:23:55,440
+and if short-term high is taken out
+
+576
+00:23:55,440 --> 00:23:58,860
+twice with no initial downside
+
+577
+00:23:58,860 --> 00:24:02,360
+I'll sell that as a turtle soup
+
+578
+00:24:03,780 --> 00:24:08,280
+placing stop losses in short day trades
+
+579
+00:24:08,280 --> 00:24:10,140
+whenever you use the initial stop loss
+
+580
+00:24:10,140 --> 00:24:12,179
+obviously don't be in a rush to move
+
+581
+00:24:12,179 --> 00:24:14,580
+that we've said that in the buy sides
+
+582
+00:24:14,580 --> 00:24:17,100
+the same thing here for shorting
+
+583
+00:24:17,100 --> 00:24:18,539
+if you're trading the Central Bank
+
+584
+00:24:18,539 --> 00:24:20,880
+dealers range overlap with a PDA
+
+585
+00:24:20,880 --> 00:24:23,520
+stop must be 30 Pips above
+
+586
+00:24:23,520 --> 00:24:26,299
+your entry
+
+587
+00:24:26,400 --> 00:24:28,260
+if you're trading a run above the Asian
+
+588
+00:24:28,260 --> 00:24:31,740
+Range High the stop has to be 40 Pips if
+
+589
+00:24:31,740 --> 00:24:34,260
+you're trading any buy stock rate
+
+590
+00:24:34,260 --> 00:24:36,840
+your stop has to be 30 Pips above the
+
+591
+00:24:36,840 --> 00:24:40,100
+high or your entry
+
+592
+00:24:42,419 --> 00:24:44,640
+if you're trading the first retracement
+
+593
+00:24:44,640 --> 00:24:46,919
+into a bearish order block your stop has
+
+594
+00:24:46,919 --> 00:24:48,539
+to be 10 Pips above the highest high of
+
+595
+00:24:48,539 --> 00:24:50,780
+the day
+
+596
+00:24:51,780 --> 00:24:54,480
+if you're trading the second return for
+
+597
+00:24:54,480 --> 00:24:57,360
+buy stops or basically a turtle suit and
+
+598
+00:24:57,360 --> 00:24:59,419
+we have not seen an immediate rally
+
+599
+00:24:59,419 --> 00:25:03,960
+lower in price after midnight
+
+600
+00:25:03,960 --> 00:25:05,820
+your stuff has to be 30 Pips above the
+
+601
+00:25:05,820 --> 00:25:08,600
+highest HOD
+
+602
+00:25:09,360 --> 00:25:12,000
+if you're trading any other setup not
+
+603
+00:25:12,000 --> 00:25:14,520
+described above use 50 of the average
+
+604
+00:25:14,520 --> 00:25:16,860
+DailyRange of the last five days added
+
+605
+00:25:16,860 --> 00:25:20,000
+to the Asian Range High
+
+606
+00:25:20,640 --> 00:25:24,539
+taking profits in short day trades
+
+607
+00:25:24,539 --> 00:25:26,460
+always try to take something off and
+
+608
+00:25:26,460 --> 00:25:30,320
+gain at 20 to 30 Pips always
+
+609
+00:25:30,659 --> 00:25:32,820
+look to scale something off every two
+
+610
+00:25:32,820 --> 00:25:35,039
+StandardDeviation in the Asian range
+
+611
+00:25:35,039 --> 00:25:38,480
+or CentralBankDealersRange
+
+612
+00:25:38,700 --> 00:25:40,559
+take something off at the previous day's
+
+613
+00:25:40,559 --> 00:25:44,659
+low minus 5 to 15 Pips
+
+614
+00:25:45,120 --> 00:25:48,000
+take something off at the 50 range or
+
+615
+00:25:48,000 --> 00:25:49,679
+equilibrium of the price range you are
+
+616
+00:25:49,679 --> 00:25:53,820
+trading inside of on a 60 Minute chart
+
+617
+00:25:53,820 --> 00:25:56,220
+take or have taken sixty to eighty
+
+618
+00:25:56,220 --> 00:25:57,900
+percent off at the average DailyRange
+
+619
+00:25:57,900 --> 00:26:02,179
+of the last five days do this always
+
+620
+00:26:02,820 --> 00:26:04,440
+if trading lower than the previous
+
+621
+00:26:04,440 --> 00:26:06,600
+trading week's low take something off
+
+622
+00:26:06,600 --> 00:26:08,400
+there you could have a reversal or
+
+623
+00:26:08,400 --> 00:26:10,260
+rejection
+
+624
+00:26:10,260 --> 00:26:11,880
+if trading lower than the previous
+
+625
+00:26:11,880 --> 00:26:14,400
+month's low again this could be a
+
+626
+00:26:14,400 --> 00:26:15,840
+potential reversal so you want to take
+
+627
+00:26:15,840 --> 00:26:18,059
+something off there
+
+628
+00:26:18,059 --> 00:26:19,799
+in time of day
+
+629
+00:26:19,799 --> 00:26:23,100
+scale out something at or prior to 5 AM
+
+630
+00:26:23,100 --> 00:26:25,740
+NewYork time
+
+631
+00:26:25,740 --> 00:26:28,380
+in time of day scale out a short-term
+
+632
+00:26:28,380 --> 00:26:30,840
+low prior to 7 AM NewYork open in
+
+633
+00:26:30,840 --> 00:26:32,220
+other words NewYork open could be
+
+634
+00:26:32,220 --> 00:26:34,260
+reversal or generally a retracement into
+
+635
+00:26:34,260 --> 00:26:37,520
+the 820 CME opening so you want to be
+
+636
+00:26:37,520 --> 00:26:40,380
+seeing profit taking some measure
+
+637
+00:26:40,380 --> 00:26:42,900
+portion come off as profit as it's
+
+638
+00:26:42,900 --> 00:26:47,419
+accelerating lower ahead of 7 AM
+
+639
+00:26:48,059 --> 00:26:51,480
+in time of day scale out at 10 AM to 11
+
+640
+00:26:51,480 --> 00:26:53,520
+AM NewYork time while price is still
+
+641
+00:26:53,520 --> 00:26:56,059
+declining
+
+642
+00:26:56,460 --> 00:26:58,620
+ideally any of the above scenarios
+
+643
+00:26:58,620 --> 00:27:01,440
+coupled with a premium PD array now
+
+644
+00:27:01,440 --> 00:27:03,419
+obviously I've given you
+
+645
+00:27:03,419 --> 00:27:06,720
+several instances and circumstances and
+
+646
+00:27:06,720 --> 00:27:09,179
+and outlines for
+
+647
+00:27:09,179 --> 00:27:12,059
+the probable
+
+648
+00:27:12,059 --> 00:27:13,740
+plan of action
+
+649
+00:27:13,740 --> 00:27:15,600
+whether you're entering whether you're
+
+650
+00:27:15,600 --> 00:27:17,460
+taking profit where you're using your
+
+651
+00:27:17,460 --> 00:27:21,419
+stop at these are my general rules of
+
+652
+00:27:21,419 --> 00:27:23,400
+operation this is what I generally look
+
+653
+00:27:23,400 --> 00:27:25,860
+for these are the things I do how I
+
+654
+00:27:25,860 --> 00:27:27,779
+manage position what I'm doing initially
+
+655
+00:27:27,779 --> 00:27:30,059
+with the with the stops where I'm
+
+656
+00:27:30,059 --> 00:27:32,520
+looking to take profits at the ones that
+
+657
+00:27:32,520 --> 00:27:34,140
+I did not incorporate here were
+
+658
+00:27:34,140 --> 00:27:36,720
+obviously  been taught in other places
+
+659
+00:27:36,720 --> 00:27:38,580
+so I didn't have to rehash or put in
+
+660
+00:27:38,580 --> 00:27:39,840
+filler
+
+661
+00:27:39,840 --> 00:27:44,580
+any projection on the FIB 127 168 and
+
+662
+00:27:44,580 --> 00:27:45,900
+the
+
+663
+00:27:45,900 --> 00:27:47,520
+100 percent
+
+664
+00:27:47,520 --> 00:27:49,980
+symmetrical price swing or 100 move
+
+665
+00:27:49,980 --> 00:27:52,679
+measured move those ideas couple with
+
+666
+00:27:52,679 --> 00:27:54,539
+any of these as well really amplifies
+
+667
+00:27:54,539 --> 00:27:57,980
+for profit taking
+
+668
+00:27:59,159 --> 00:28:01,380
+this lesson obviously
+
+669
+00:28:01,380 --> 00:28:03,900
+I don't want to see it on YouTube and if
+
+670
+00:28:03,900 --> 00:28:05,100
+it ends up on YouTube I'll have it
+
+671
+00:28:05,100 --> 00:28:06,539
+pulled down but
+
+672
+00:28:06,539 --> 00:28:08,039
+the
+
+673
+00:28:08,039 --> 00:28:10,559
+the lesson itself I could pretty much
+
+674
+00:28:10,559 --> 00:28:12,840
+show this on
+
+675
+00:28:12,840 --> 00:28:15,360
+baby Pips and nobody would understand
+
+676
+00:28:15,360 --> 00:28:18,299
+what it's talking about so  that's the
+
+677
+00:28:18,299 --> 00:28:19,679
+reason why I went through a great deal
+
+678
+00:28:19,679 --> 00:28:22,320
+of information in January and all the
+
+679
+00:28:22,320 --> 00:28:24,539
+way up to now because you know all the
+
+680
+00:28:24,539 --> 00:28:26,400
+elements that's being described here or
+
+681
+00:28:26,400 --> 00:28:27,659
+you should know them because you've
+
+682
+00:28:27,659 --> 00:28:29,760
+studied all the previous months
+
+683
+00:28:29,760 --> 00:28:32,520
+the criteria and the Rules of Engagement
+
+684
+00:28:32,520 --> 00:28:35,100
+that's being explained and outlined for
+
+685
+00:28:35,100 --> 00:28:37,200
+both sides of buying and selling
+
+686
+00:28:37,200 --> 00:28:39,480
+not every single one of these are going
+
+687
+00:28:39,480 --> 00:28:40,940
+to be
+
+688
+00:28:40,940 --> 00:28:43,500
+usable you can't use every single one of
+
+689
+00:28:43,500 --> 00:28:45,000
+them they're not going to be applicable
+
+690
+00:28:45,000 --> 00:28:47,580
+to every trade that you're in so don't
+
+691
+00:28:47,580 --> 00:28:49,260
+think because there's a laundry list of
+
+692
+00:28:49,260 --> 00:28:51,720
+things and scenarios here not all of
+
+693
+00:28:51,720 --> 00:28:53,400
+them are going to be able to be applied
+
+694
+00:28:53,400 --> 00:28:56,039
+to your trade but knowing what they are
+
+695
+00:28:56,039 --> 00:28:58,740
+in advance and outline form here you can
+
+696
+00:28:58,740 --> 00:29:00,960
+already see how you can look to see if
+
+697
+00:29:00,960 --> 00:29:03,480
+it's going to be a probable scenario for
+
+698
+00:29:03,480 --> 00:29:06,059
+your particular trade idea
+
+699
+00:29:06,059 --> 00:29:08,159
+you may not be trading anywhere near a
+
+700
+00:29:08,159 --> 00:29:09,720
+weekly low
+
+701
+00:29:09,720 --> 00:29:11,460
+you may not be trading anywhere near a
+
+702
+00:29:11,460 --> 00:29:13,679
+monthly low so they may not even be any
+
+703
+00:29:13,679 --> 00:29:16,740
+consideration at all
+
+704
+00:29:16,740 --> 00:29:18,480
+you probably already took something off
+
+705
+00:29:18,480 --> 00:29:20,880
+at 20 to 30 Pips and it hasn't much
+
+706
+00:29:20,880 --> 00:29:23,520
+moved beyond that going into 5 AM your
+
+707
+00:29:23,520 --> 00:29:25,080
+time so you wouldn't consider that
+
+708
+00:29:25,080 --> 00:29:26,159
+either
+
+709
+00:29:26,159 --> 00:29:29,820
+the scaling out ahead of 7 AM
+
+710
+00:29:29,820 --> 00:29:33,299
+maybe you have taken 20 or 30 Pips
+
+711
+00:29:33,299 --> 00:29:35,940
+already in London and then it went
+
+712
+00:29:35,940 --> 00:29:37,140
+you know
+
+713
+00:29:37,140 --> 00:29:38,820
+the whole full average DailyRange all
+
+714
+00:29:38,820 --> 00:29:40,080
+during London
+
+715
+00:29:40,080 --> 00:29:41,580
+you you're not going to take something
+
+716
+00:29:41,580 --> 00:29:44,100
+ahead of 7am on that because you've
+
+717
+00:29:44,100 --> 00:29:46,320
+already taken something based on average
+
+718
+00:29:46,320 --> 00:29:49,380
+daily ratings being fulfilled
+
+719
+00:29:49,380 --> 00:29:51,000
+looking at
+
+720
+00:29:51,000 --> 00:29:53,580
+the scenarios that would potentially
+
+721
+00:29:53,580 --> 00:29:56,240
+paint out here and also for the entries
+
+722
+00:29:56,240 --> 00:29:59,159
+again not all of them will be applicable
+
+723
+00:29:59,159 --> 00:30:01,559
+so don't freak out because it seems like
+
+724
+00:30:01,559 --> 00:30:03,360
+a whole lot and yes you're being
+
+725
+00:30:03,360 --> 00:30:05,460
+challenged I promised you in the latter
+
+726
+00:30:05,460 --> 00:30:06,600
+lessons you're going to have to think
+
+727
+00:30:06,600 --> 00:30:08,880
+you have to think for yourself you have
+
+728
+00:30:08,880 --> 00:30:10,380
+to have rules you have to look for these
+
+729
+00:30:10,380 --> 00:30:12,539
+types of things yourself in the charts
+
+730
+00:30:12,539 --> 00:30:15,120
+they all won't be there
+
+731
+00:30:15,120 --> 00:30:17,159
+so you're not having to look through all
+
+732
+00:30:17,159 --> 00:30:19,679
+these things to to whittle down to what
+
+733
+00:30:19,679 --> 00:30:21,179
+you should be doing for your trade
+
+734
+00:30:21,179 --> 00:30:23,460
+all of the criteria that's been listed
+
+735
+00:30:23,460 --> 00:30:27,720
+here for the setups the buys the sells
+
+736
+00:30:27,720 --> 00:30:29,700
+where your stop loss is there are
+
+737
+00:30:29,700 --> 00:30:32,399
+specific rules for all of that I have
+
+738
+00:30:32,399 --> 00:30:35,399
+specific outlined scenarios in this
+
+739
+00:30:35,399 --> 00:30:37,440
+teaching that if you stick to them
+
+740
+00:30:37,440 --> 00:30:40,440
+you'll do everything that I do on a week
+
+741
+00:30:40,440 --> 00:30:42,419
+by week basis when I'm Trading
+
+742
+00:30:42,419 --> 00:30:43,860
+so
+
+743
+00:30:43,860 --> 00:30:47,760
+yes it requires you to think yes it's a
+
+744
+00:30:47,760 --> 00:30:50,399
+little bit of work but is it worth it
+
+745
+00:30:50,399 --> 00:30:52,980
+absolutely and until next time wish you
+
+746
+00:30:52,980 --> 00:30:55,760
+good luck and good Trading
+

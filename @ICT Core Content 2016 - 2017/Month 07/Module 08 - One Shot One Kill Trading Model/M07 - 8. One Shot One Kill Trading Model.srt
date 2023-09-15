@@ -1,0 +1,3744 @@
+1
+00:00:10,200 --> 00:00:12,900
+okay folks welcome to lesson eight uh
+
+2
+00:00:12,900 --> 00:00:15,240
+one shot one kill trading model
+
+3
+00:00:15,240 --> 00:00:17,100
+for the short term Trading
+
+4
+00:00:17,100 --> 00:00:20,160
+module for ICT mentorship this is the
+
+5
+00:00:20,160 --> 00:00:23,840
+last of March's content
+
+6
+00:00:27,420 --> 00:00:30,480
+okay one shot one kill setups
+
+7
+00:00:30,480 --> 00:00:32,040
+what does it require to do these
+
+8
+00:00:32,040 --> 00:00:35,219
+efficiently and successfully
+
+9
+00:00:35,219 --> 00:00:37,440
+well first you have to know all the
+
+10
+00:00:37,440 --> 00:00:39,899
+macro conditions and all the January
+
+11
+00:00:39,899 --> 00:00:42,800
+content lessons
+
+12
+00:00:43,980 --> 00:00:45,120
+you have to be proficient with
+
+13
+00:00:45,120 --> 00:00:46,680
+understanding the if the data ranges
+
+14
+00:00:46,680 --> 00:00:48,719
+looking back at the last 20 40 and 60
+
+15
+00:00:48,719 --> 00:00:50,160
+trading days
+
+16
+00:00:50,160 --> 00:00:53,640
+looking for PD array Matrix Concepts
+
+17
+00:00:53,640 --> 00:00:57,800
+applied to both time and price
+
+18
+00:00:59,039 --> 00:01:00,960
+you need the understanding of position
+
+19
+00:01:00,960 --> 00:01:04,460
+trading logical Concepts
+
+20
+00:01:05,640 --> 00:01:07,619
+you need to understand the swing trading
+
+21
+00:01:07,619 --> 00:01:10,520
+module Concepts
+
+22
+00:01:12,240 --> 00:01:14,760
+the short-term trading tutorials on the
+
+23
+00:01:14,760 --> 00:01:17,600
+ICT website
+
+24
+00:01:19,140 --> 00:01:21,420
+the power 3 concept applied to weekly
+
+25
+00:01:21,420 --> 00:01:23,580
+candles or ranges
+
+26
+00:01:23,580 --> 00:01:25,020
+and I'll talk about that in a few
+
+27
+00:01:25,020 --> 00:01:27,439
+moments
+
+28
+00:01:27,479 --> 00:01:29,520
+the intraday Concepts from ICT day
+
+29
+00:01:29,520 --> 00:01:32,360
+trading modules
+
+30
+00:01:35,460 --> 00:01:37,380
+day of week concept
+
+31
+00:01:37,380 --> 00:01:39,659
+looking for the high or low to form on
+
+32
+00:01:39,659 --> 00:01:42,299
+Monday through Wednesday with a 76 odds
+
+33
+00:01:42,299 --> 00:01:44,960
+of it happening
+
+34
+00:01:45,479 --> 00:01:47,400
+using fibs for targeting and
+
+35
+00:01:47,400 --> 00:01:51,320
+understanding the correct price points
+
+36
+00:01:52,740 --> 00:01:55,079
+time of day or ICT kill zones for
+
+37
+00:01:55,079 --> 00:01:59,880
+entries on one shot one kill setups
+
+38
+00:02:01,079 --> 00:02:02,579
+and you need to know the seasonal change
+
+39
+00:02:02,579 --> 00:02:04,439
+that may impact or frame directional
+
+40
+00:02:04,439 --> 00:02:06,920
+setups
+
+41
+00:02:07,200 --> 00:02:09,119
+and lastly you need to understand the
+
+42
+00:02:09,119 --> 00:02:11,580
+CRT or commitment of Traders analysis
+
+43
+00:02:11,580 --> 00:02:14,220
+and Commercial hedging programs
+
+44
+00:02:14,220 --> 00:02:16,680
+now
+
+45
+00:02:16,680 --> 00:02:18,540
+I said when we started this mentorship
+
+46
+00:02:18,540 --> 00:02:20,700
+that this was intended to fill in the
+
+47
+00:02:20,700 --> 00:02:23,099
+gaps that I purposely left
+
+48
+00:02:23,099 --> 00:02:25,260
+in all my free tutorials
+
+49
+00:02:25,260 --> 00:02:27,540
+now if you've gone through the
+
+50
+00:02:27,540 --> 00:02:30,540
+mentorship so far and you've not really
+
+51
+00:02:30,540 --> 00:02:33,300
+studied all of my free tutorials that
+
+52
+00:02:33,300 --> 00:02:34,920
+are on my website
+
+53
+00:02:34,920 --> 00:02:36,980
+now's where you're going to feel that
+
+54
+00:02:36,980 --> 00:02:39,900
+sting of having never done it
+
+55
+00:02:39,900 --> 00:02:41,879
+it was intended and I've told you before
+
+56
+00:02:41,879 --> 00:02:44,580
+the prerequisite is to know those free
+
+57
+00:02:44,580 --> 00:02:45,720
+tutorials
+
+58
+00:02:45,720 --> 00:02:47,760
+everything that I'm going to show you in
+
+59
+00:02:47,760 --> 00:02:51,540
+this module is really just a quick fill
+
+60
+00:02:51,540 --> 00:02:53,280
+in the gaps and then you'll understand
+
+61
+00:02:53,280 --> 00:02:55,860
+how it is I do one shot one kill the
+
+62
+00:02:55,860 --> 00:02:58,739
+gaps that remain for this month are
+
+63
+00:02:58,739 --> 00:03:01,379
+filled in with the intraday Concepts
+
+64
+00:03:01,379 --> 00:03:03,660
+for day trading
+
+65
+00:03:03,660 --> 00:03:06,720
+and it just basically helps you get more
+
+66
+00:03:06,720 --> 00:03:10,379
+precise do you need it not necessarily
+
+67
+00:03:10,379 --> 00:03:13,980
+well you want it most likely
+
+68
+00:03:13,980 --> 00:03:16,620
+so if you've gone this far and you
+
+69
+00:03:16,620 --> 00:03:18,540
+really want to know all the intricate
+
+70
+00:03:18,540 --> 00:03:21,300
+details about how I finally narrowed
+
+71
+00:03:21,300 --> 00:03:25,140
+down very tight small risk high yield
+
+72
+00:03:25,140 --> 00:03:28,200
+setups like you've seen now lined and
+
+73
+00:03:28,200 --> 00:03:29,580
+mapped out this week with the euro
+
+74
+00:03:29,580 --> 00:03:30,840
+dollar
+
+75
+00:03:30,840 --> 00:03:34,200
+yeah you need the intraday Concepts to
+
+76
+00:03:34,200 --> 00:03:36,840
+get that precise but you don't need it
+
+77
+00:03:36,840 --> 00:03:39,480
+to do one shot one kill because you
+
+78
+00:03:39,480 --> 00:03:42,260
+don't need here's other things that uh
+
+79
+00:03:42,260 --> 00:03:45,720
+help you get close to but not that
+
+80
+00:03:45,720 --> 00:03:46,920
+precise
+
+81
+00:03:46,920 --> 00:03:48,720
+that's already been showed in the
+
+82
+00:03:48,720 --> 00:03:50,099
+content for this month and the previous
+
+83
+00:03:50,099 --> 00:03:51,959
+months
+
+84
+00:03:51,959 --> 00:03:55,260
+now as it relates to the cot analysis
+
+85
+00:03:55,260 --> 00:03:56,580
+and Commercial hedging programs
+
+86
+00:03:56,580 --> 00:03:58,379
+obviously everyone's aware of the
+
+87
+00:03:58,379 --> 00:04:00,720
+commitment trades report where they plot
+
+88
+00:04:00,720 --> 00:04:03,360
+the net Trader's position of each
+
+89
+00:04:03,360 --> 00:04:06,480
+commercial and small Speculator and
+
+90
+00:04:06,480 --> 00:04:09,420
+large Trader and Larry Williams was the
+
+91
+00:04:09,420 --> 00:04:11,640
+first one to do real good work on that
+
+92
+00:04:11,640 --> 00:04:13,739
+back in the 70s
+
+93
+00:04:13,739 --> 00:04:15,540
+with his book uh how I made a million
+
+94
+00:04:15,540 --> 00:04:18,120
+dollars during Commodities last year
+
+95
+00:04:18,120 --> 00:04:20,940
+but in my own study I believe I've taken
+
+96
+00:04:20,940 --> 00:04:23,220
+it to another level no one else does
+
+97
+00:04:23,220 --> 00:04:27,360
+what I do with the CO2 data
+
+98
+00:04:27,360 --> 00:04:29,280
+and I'm going to show you again this
+
+99
+00:04:29,280 --> 00:04:32,100
+module and it's teaching how it is that
+
+100
+00:04:32,100 --> 00:04:34,259
+I uh incorporate that information now
+
+101
+00:04:34,259 --> 00:04:35,759
+when we get to the commodity section
+
+102
+00:04:35,759 --> 00:04:38,639
+later on this year when I'm teaching the
+
+103
+00:04:38,639 --> 00:04:39,900
+Commodities I'll actually show you how
+
+104
+00:04:39,900 --> 00:04:42,840
+to go in and construct the
+
+105
+00:04:42,840 --> 00:04:45,240
+commercial hedgers program and how to
+
+106
+00:04:45,240 --> 00:04:49,680
+look for a high probability setups using
+
+107
+00:04:49,680 --> 00:04:51,120
+the information but I'm going to give
+
+108
+00:04:51,120 --> 00:04:53,699
+you one set up in here for the euro
+
+109
+00:04:53,699 --> 00:04:55,020
+dollar that was just like a no-brainer
+
+110
+00:04:55,020 --> 00:04:57,419
+so you'll see why this week was just
+
+111
+00:04:57,419 --> 00:04:58,520
+pretty much
+
+112
+00:04:58,520 --> 00:05:01,020
+no problem at all knowing that it was
+
+113
+00:05:01,020 --> 00:05:03,979
+going to come down like it did
+
+114
+00:05:07,500 --> 00:05:09,000
+all right so the one shot one killed
+
+115
+00:05:09,000 --> 00:05:10,800
+trade procedure okay this is kind of
+
+116
+00:05:10,800 --> 00:05:11,880
+like a
+
+117
+00:05:11,880 --> 00:05:14,880
+back of a matchbook idea just real quick
+
+118
+00:05:14,880 --> 00:05:17,820
+short and what I mean by that is you
+
+119
+00:05:17,820 --> 00:05:20,160
+should already know a majority of what
+
+120
+00:05:20,160 --> 00:05:22,979
+I'm going to refer to here procedurally
+
+121
+00:05:22,979 --> 00:05:24,600
+so this is the reason why you need to
+
+122
+00:05:24,600 --> 00:05:26,340
+have a mentorship this is the reason why
+
+123
+00:05:26,340 --> 00:05:28,080
+you have to have a modular approach to
+
+124
+00:05:28,080 --> 00:05:30,900
+learning because there's such a vast
+
+125
+00:05:30,900 --> 00:05:33,419
+amount of information that you need to
+
+126
+00:05:33,419 --> 00:05:35,880
+be aware of you just simply can't make a
+
+127
+00:05:35,880 --> 00:05:37,199
+video and here it is here's how you
+
+128
+00:05:37,199 --> 00:05:38,280
+trade
+
+129
+00:05:38,280 --> 00:05:39,840
+for those that have gone through all of
+
+130
+00:05:39,840 --> 00:05:41,940
+my free tutorials and this far in the
+
+131
+00:05:41,940 --> 00:05:44,340
+mentorship you can now think about how
+
+132
+00:05:44,340 --> 00:05:47,039
+much information you now have
+
+133
+00:05:47,039 --> 00:05:49,440
+now you probably flounder for a little
+
+134
+00:05:49,440 --> 00:05:51,720
+while wondering you know do I have too
+
+135
+00:05:51,720 --> 00:05:53,400
+much information do I have analysis
+
+136
+00:05:53,400 --> 00:05:55,440
+paralysis and it's simply because you
+
+137
+00:05:55,440 --> 00:05:57,660
+haven't had a procedural way of using
+
+138
+00:05:57,660 --> 00:05:58,680
+all the information
+
+139
+00:05:58,680 --> 00:06:01,320
+so we've gone through a lot of content
+
+140
+00:06:01,320 --> 00:06:03,900
+between the free tutorials since 2010
+
+141
+00:06:03,900 --> 00:06:06,979
+all the way to now now through
+
+142
+00:06:06,979 --> 00:06:11,160
+2016-2017 Circa you are now learning all
+
+143
+00:06:11,160 --> 00:06:13,139
+of the procedural things that fills in
+
+144
+00:06:13,139 --> 00:06:15,300
+the gaps and by the time you end this
+
+145
+00:06:15,300 --> 00:06:16,919
+mentorship you'll know everything there
+
+146
+00:06:16,919 --> 00:06:18,840
+is to know about ICT Concepts and how to
+
+147
+00:06:18,840 --> 00:06:20,039
+apply it
+
+148
+00:06:20,039 --> 00:06:21,840
+but the first thing we do
+
+149
+00:06:21,840 --> 00:06:24,060
+when we look at our market and we're
+
+150
+00:06:24,060 --> 00:06:26,220
+going to use euro dollar as our example
+
+151
+00:06:26,220 --> 00:06:28,319
+we're going to determine the current or
+
+152
+00:06:28,319 --> 00:06:30,539
+potential next quarterly shift remember
+
+153
+00:06:30,539 --> 00:06:34,280
+that we talked about that in January
+
+154
+00:06:34,860 --> 00:06:36,780
+we're going to identify the higher time
+
+155
+00:06:36,780 --> 00:06:39,539
+frame PD arrays in the ipta data ranges
+
+156
+00:06:39,539 --> 00:06:43,580
+again that's content from January
+
+157
+00:06:44,699 --> 00:06:46,199
+we're going to refer to the interest
+
+158
+00:06:46,199 --> 00:06:48,900
+rate differentials and Market profile of
+
+159
+00:06:48,900 --> 00:06:51,000
+the rates in other words our interest
+
+160
+00:06:51,000 --> 00:06:55,440
+rates or treasuries or the the Bund
+
+161
+00:06:55,440 --> 00:06:58,139
+are those markets trending
+
+162
+00:06:58,139 --> 00:07:00,660
+or are they stuck in a consolidation
+
+163
+00:07:00,660 --> 00:07:02,160
+if they're trending then you're going to
+
+164
+00:07:02,160 --> 00:07:04,380
+get movement permitted in the euro
+
+165
+00:07:04,380 --> 00:07:05,220
+dollar
+
+166
+00:07:05,220 --> 00:07:07,560
+if they're Consolidated and tight it's
+
+167
+00:07:07,560 --> 00:07:08,759
+going to be very hard for the market to
+
+168
+00:07:08,759 --> 00:07:11,060
+move around
+
+169
+00:07:13,380 --> 00:07:15,240
+we're going to be scouting seasonals
+
+170
+00:07:15,240 --> 00:07:17,580
+throughout the calendar year that offer
+
+171
+00:07:17,580 --> 00:07:20,220
+High odds of a move going higher or
+
+172
+00:07:20,220 --> 00:07:21,539
+lower based on the seasonal tenancy
+
+173
+00:07:21,539 --> 00:07:24,080
+respectively
+
+174
+00:07:24,960 --> 00:07:26,639
+we're going to use swing analysis on
+
+175
+00:07:26,639 --> 00:07:29,220
+price action on higher time frames down
+
+176
+00:07:29,220 --> 00:07:31,740
+to the 60 Minute chart
+
+177
+00:07:31,740 --> 00:07:32,880
+so in other words what we're doing is
+
+178
+00:07:32,880 --> 00:07:34,259
+we're classifying all the price swings
+
+179
+00:07:34,259 --> 00:07:37,259
+we're looking at all the fractals and we
+
+180
+00:07:37,259 --> 00:07:39,960
+went over how larger Trends have smaller
+
+181
+00:07:39,960 --> 00:07:41,639
+swings that break into smaller swings
+
+182
+00:07:41,639 --> 00:07:43,440
+that break into smaller swings first an
+
+183
+00:07:43,440 --> 00:07:45,660
+Impulse swing then an expansion swing
+
+184
+00:07:45,660 --> 00:07:48,479
+after the retracement so by looking at
+
+185
+00:07:48,479 --> 00:07:50,160
+the market in a euro dollar and breaking
+
+186
+00:07:50,160 --> 00:07:52,080
+that down we can come to the conclusion
+
+187
+00:07:52,080 --> 00:07:53,460
+of what price swings we're going to use
+
+188
+00:07:53,460 --> 00:07:55,440
+for projections measurements and
+
+189
+00:07:55,440 --> 00:07:58,220
+retracements
+
+190
+00:07:59,340 --> 00:08:00,900
+we're going to anticipate specific
+
+191
+00:08:00,900 --> 00:08:04,199
+weekly profiles that may unfold based on
+
+192
+00:08:04,199 --> 00:08:06,300
+our analysis if we're looking for lower
+
+193
+00:08:06,300 --> 00:08:08,940
+prices as we're going to justify in this
+
+194
+00:08:08,940 --> 00:08:10,940
+teaching we're going to be looking for
+
+195
+00:08:10,940 --> 00:08:13,979
+specific Market
+
+196
+00:08:13,979 --> 00:08:17,520
+templates if you will that allow bearish
+
+197
+00:08:17,520 --> 00:08:19,319
+ideas so the first thing you would look
+
+198
+00:08:19,319 --> 00:08:20,879
+for is the Monday high of the week
+
+199
+00:08:20,879 --> 00:08:22,680
+Tuesday high of the week Wednesday
+
+200
+00:08:22,680 --> 00:08:27,020
+reversal those types of scenarios
+
+201
+00:08:27,720 --> 00:08:30,360
+then by identifying those respective
+
+202
+00:08:30,360 --> 00:08:32,399
+templates for the week we're going to be
+
+203
+00:08:32,399 --> 00:08:34,020
+looking at the market maker manipulation
+
+204
+00:08:34,020 --> 00:08:36,299
+templates to have the respective profile
+
+205
+00:08:36,299 --> 00:08:39,079
+characteristics
+
+206
+00:08:41,339 --> 00:08:43,620
+then you determine where the premium and
+
+207
+00:08:43,620 --> 00:08:47,540
+discount ranges are in price action
+
+208
+00:08:48,600 --> 00:08:49,800
+and you're going to wait for volatility
+
+209
+00:08:49,800 --> 00:08:53,040
+to Signal a high odds of a large range
+
+210
+00:08:53,040 --> 00:08:54,660
+being created
+
+211
+00:08:54,660 --> 00:08:56,459
+in other words when range expansion
+
+212
+00:08:56,459 --> 00:08:57,959
+should ensue
+
+213
+00:08:57,959 --> 00:09:00,959
+small ranges we got large ranges if the
+
+214
+00:09:00,959 --> 00:09:02,700
+Market's in big ranges we know there's
+
+215
+00:09:02,700 --> 00:09:03,959
+going to be a high probability for the
+
+216
+00:09:03,959 --> 00:09:06,000
+market to go quiet we want to be getting
+
+217
+00:09:06,000 --> 00:09:08,640
+in the market as quiet so that we can
+
+218
+00:09:08,640 --> 00:09:10,980
+expand and get larger ranges and big
+
+219
+00:09:10,980 --> 00:09:13,459
+volatility
+
+220
+00:09:14,399 --> 00:09:16,140
+we're going to refer to cot which is
+
+221
+00:09:16,140 --> 00:09:19,019
+commitment of Traders in the commercials
+
+222
+00:09:19,019 --> 00:09:21,060
+versus the large Traders
+
+223
+00:09:21,060 --> 00:09:22,980
+and open interest to confirm smart money
+
+224
+00:09:22,980 --> 00:09:25,399
+action
+
+225
+00:09:26,399 --> 00:09:28,140
+we look to frame a low resistance
+
+226
+00:09:28,140 --> 00:09:31,680
+liquidity run with opposing PD arrays or
+
+227
+00:09:31,680 --> 00:09:34,080
+for bearish we're looking to sell short
+
+228
+00:09:34,080 --> 00:09:36,779
+at a premium PDA
+
+229
+00:09:36,779 --> 00:09:38,820
+and then we're going to be looking at
+
+230
+00:09:38,820 --> 00:09:43,880
+a discount PDA to pair it up with
+
+231
+00:09:44,880 --> 00:09:47,459
+we're going to use fibs converging with
+
+232
+00:09:47,459 --> 00:09:50,399
+opposing PD arrays and blending it with
+
+233
+00:09:50,399 --> 00:09:52,440
+time and price
+
+234
+00:09:52,440 --> 00:09:53,820
+in other words what I'm looking for is
+
+235
+00:09:53,820 --> 00:09:57,000
+the Fibonacci level that overlaps with
+
+236
+00:09:57,000 --> 00:10:01,279
+a logical discount PD array
+
+237
+00:10:02,700 --> 00:10:05,279
+and we'll be confirming our trade setups
+
+238
+00:10:05,279 --> 00:10:08,720
+with inter-market analysis
+
+239
+00:10:15,000 --> 00:10:17,279
+all right so we're looking at our one
+
+240
+00:10:17,279 --> 00:10:19,440
+shot one kill set up on a euro dollar
+
+241
+00:10:19,440 --> 00:10:21,240
+now this was
+
+242
+00:10:21,240 --> 00:10:23,640
+provided to you this week the time of
+
+243
+00:10:23,640 --> 00:10:26,959
+this recording the last week of March
+
+244
+00:10:26,959 --> 00:10:30,360
+2017. I outlined through Twitter and
+
+245
+00:10:30,360 --> 00:10:32,399
+tweets the
+
+246
+00:10:32,399 --> 00:10:35,940
+basis of expecting a high the form in
+
+247
+00:10:35,940 --> 00:10:39,740
+the euro dollar around the 109
+
+248
+00:10:39,740 --> 00:10:42,839
+08 level
+
+249
+00:10:42,839 --> 00:10:45,180
+that was the level I called and the
+
+250
+00:10:45,180 --> 00:10:47,519
+actual high was 109.09 on the Forex
+
+251
+00:10:47,519 --> 00:10:50,940
+ltd's platform
+
+252
+00:10:50,940 --> 00:10:55,920
+I projected a low of the week at 106.50
+
+253
+00:10:55,920 --> 00:10:57,779
+that could have rolled over into Monday
+
+254
+00:10:57,779 --> 00:11:02,160
+but throughout the week I gave a
+
+255
+00:11:02,160 --> 00:11:05,120
+1-0
+
+256
+00:11:06,200 --> 00:11:08,040
+6.95
+
+257
+00:11:08,040 --> 00:11:11,160
+low objective
+
+258
+00:11:11,160 --> 00:11:15,240
+and then ultimately at the very last
+
+259
+00:11:15,240 --> 00:11:18,060
+minute of the day on Friday's close uh
+
+260
+00:11:18,060 --> 00:11:20,459
+they pushed the euro dollar down
+
+261
+00:11:20,459 --> 00:11:22,820
+to
+
+262
+00:11:22,820 --> 00:11:27,000
+106.55 now our objective is 106.50 if
+
+263
+00:11:27,000 --> 00:11:28,320
+that's what we're looking for we add
+
+264
+00:11:28,320 --> 00:11:29,820
+five Pips To That
+
+265
+00:11:29,820 --> 00:11:32,279
+that would have been uh your objective
+
+266
+00:11:32,279 --> 00:11:35,279
+used in your own platform some Trump
+
+267
+00:11:35,279 --> 00:11:38,040
+traders in my own live feeds I got down
+
+268
+00:11:38,040 --> 00:11:38,899
+to
+
+269
+00:11:38,899 --> 00:11:42,180
+106.497 I'll leave it up to you to
+
+270
+00:11:42,180 --> 00:11:44,940
+determine what you know what your data
+
+271
+00:11:44,940 --> 00:11:47,160
+provider allowed for the low of the week
+
+272
+00:11:47,160 --> 00:11:50,579
+for euro dollar but uh for the Forex LTD
+
+273
+00:11:50,579 --> 00:11:53,940
+it didn't make it down to 106.50 but I'm
+
+274
+00:11:53,940 --> 00:11:55,320
+suspecting it's probably going to open
+
+275
+00:11:55,320 --> 00:11:57,959
+up lower on Sunday
+
+276
+00:11:57,959 --> 00:12:00,660
+that's coming this weekend and then
+
+277
+00:12:00,660 --> 00:12:02,940
+obviously uh you know that would fulfill
+
+278
+00:12:02,940 --> 00:12:05,040
+the whole
+
+279
+00:12:05,040 --> 00:12:08,100
+projected uh swing but we're gonna go
+
+280
+00:12:08,100 --> 00:12:10,740
+into great detail about all this amount
+
+281
+00:12:10,740 --> 00:12:12,480
+apart from what's already been shared in
+
+282
+00:12:12,480 --> 00:12:14,880
+this chart here I'm not going to rehash
+
+283
+00:12:14,880 --> 00:12:17,519
+what was already talked about in this
+
+284
+00:12:17,519 --> 00:12:19,860
+week's teachings in the videos and and
+
+285
+00:12:19,860 --> 00:12:22,920
+commentary because that is in my opinion
+
+286
+00:12:22,920 --> 00:12:25,560
+a gold mine and you need to go through
+
+287
+00:12:25,560 --> 00:12:29,040
+those notes as well but what framed this
+
+288
+00:12:29,040 --> 00:12:32,100
+whole move and how I knew that the high
+
+289
+00:12:32,100 --> 00:12:33,600
+could most likely be formed on Monday
+
+290
+00:12:33,600 --> 00:12:36,660
+and we would look for a low 106.50
+
+291
+00:12:36,660 --> 00:12:38,100
+we're going to go into details about
+
+292
+00:12:38,100 --> 00:12:40,579
+that now
+
+293
+00:12:40,980 --> 00:12:42,420
+okay so the first thing we're looking
+
+294
+00:12:42,420 --> 00:12:45,839
+for is we're expecting either uh up move
+
+295
+00:12:45,839 --> 00:12:47,579
+or a down move so how do we start doing
+
+296
+00:12:47,579 --> 00:12:49,860
+that well we go to our seasonal tenancy
+
+297
+00:12:49,860 --> 00:12:53,220
+okay if you're a sports fan you'd like
+
+298
+00:12:53,220 --> 00:12:55,760
+to go and watch a specific sports team
+
+299
+00:12:55,760 --> 00:12:58,440
+like the baseball season or football
+
+300
+00:12:58,440 --> 00:13:00,839
+season you can actually track when those
+
+301
+00:13:00,839 --> 00:13:02,399
+teams play and what days and the
+
+302
+00:13:02,399 --> 00:13:03,660
+calendar days and all that and you know
+
+303
+00:13:03,660 --> 00:13:06,300
+when they're going to play they have a
+
+304
+00:13:06,300 --> 00:13:09,120
+they have a schedule they have to keep
+
+305
+00:13:09,120 --> 00:13:10,860
+well the markets almost have like a
+
+306
+00:13:10,860 --> 00:13:13,500
+built-in generic schedule as well and
+
+307
+00:13:13,500 --> 00:13:16,500
+and is followed or tracked by way of
+
+308
+00:13:16,500 --> 00:13:18,839
+using a seasonal tendency now I shared
+
+309
+00:13:18,839 --> 00:13:20,579
+these seasonal Tendencies with you so
+
+310
+00:13:20,579 --> 00:13:23,220
+far in the mentorship and what we do is
+
+311
+00:13:23,220 --> 00:13:25,620
+we look for times where the market has a
+
+312
+00:13:25,620 --> 00:13:29,579
+real clear indication in both the long
+
+313
+00:13:29,579 --> 00:13:31,560
+term and short-term
+
+314
+00:13:31,560 --> 00:13:33,360
+basically the blue and the red lines
+
+315
+00:13:33,360 --> 00:13:35,279
+they have to agree with a directional
+
+316
+00:13:35,279 --> 00:13:37,620
+bias and when they move in the same
+
+317
+00:13:37,620 --> 00:13:38,579
+direction
+
+318
+00:13:38,579 --> 00:13:40,740
+red and blue
+
+319
+00:13:40,740 --> 00:13:42,600
+if they move in concert with one another
+
+320
+00:13:42,600 --> 00:13:44,700
+we have a really strong tendency to see
+
+321
+00:13:44,700 --> 00:13:47,160
+that market generally move in that same
+
+322
+00:13:47,160 --> 00:13:49,019
+direction
+
+323
+00:13:49,019 --> 00:13:50,940
+what we're going to focus on here is the
+
+324
+00:13:50,940 --> 00:13:53,339
+month of March as you can see it
+
+325
+00:13:53,339 --> 00:13:56,339
+initially starts off with a rally up
+
+326
+00:13:56,339 --> 00:13:58,380
+into the middle of March and then it
+
+327
+00:13:58,380 --> 00:14:00,420
+declines to the last week of March going
+
+328
+00:14:00,420 --> 00:14:02,519
+into the first week of April
+
+329
+00:14:02,519 --> 00:14:04,980
+so our tendency is to see the euro
+
+330
+00:14:04,980 --> 00:14:06,839
+dollar going lower
+
+331
+00:14:06,839 --> 00:14:08,519
+so we have a strong seasonal tendency
+
+332
+00:14:08,519 --> 00:14:12,260
+for bearish prices for euro dollar
+
+333
+00:14:12,560 --> 00:14:15,060
+now we're going to go over to the
+
+334
+00:14:15,060 --> 00:14:16,980
+commitment of Traders hedging program
+
+335
+00:14:16,980 --> 00:14:19,079
+now you're not going to find this on the
+
+336
+00:14:19,079 --> 00:14:20,399
+internet there's nothing talked about
+
+337
+00:14:20,399 --> 00:14:23,040
+it's not in books I swear to the Lord
+
+338
+00:14:23,040 --> 00:14:25,260
+Almighty there's nothing out there like
+
+339
+00:14:25,260 --> 00:14:27,600
+what I'm showing you here okay what I do
+
+340
+00:14:27,600 --> 00:14:29,820
+is I use the information from the
+
+341
+00:14:29,820 --> 00:14:33,600
+community Traders report and I make a
+
+342
+00:14:33,600 --> 00:14:35,279
+new
+
+343
+00:14:35,279 --> 00:14:39,120
+way of uh creating a zero-sum line so
+
+344
+00:14:39,120 --> 00:14:41,100
+what I do is I look at the last year
+
+345
+00:14:41,100 --> 00:14:43,320
+okay and I get the highest high and the
+
+346
+00:14:43,320 --> 00:14:46,139
+lowest low of their commercial
+
+347
+00:14:46,139 --> 00:14:47,639
+activity in other words I'm only
+
+348
+00:14:47,639 --> 00:14:49,380
+tracking commercials and I'll show you
+
+349
+00:14:49,380 --> 00:14:51,060
+how to create all this and make it for
+
+350
+00:14:51,060 --> 00:14:52,320
+yourself it's
+
+351
+00:14:52,320 --> 00:14:54,480
+um a complete bull in our group have
+
+352
+00:14:54,480 --> 00:14:56,399
+emailed me asking for this specific
+
+353
+00:14:56,399 --> 00:14:59,160
+indicator there is no indicator okay
+
+354
+00:14:59,160 --> 00:15:01,139
+what I actually do is I actually create
+
+355
+00:15:01,139 --> 00:15:04,500
+this with paint okay I grab the
+
+356
+00:15:04,500 --> 00:15:06,660
+information and then I actually by hand
+
+357
+00:15:06,660 --> 00:15:08,279
+create it and I know what you're
+
+358
+00:15:08,279 --> 00:15:10,680
+thinking well I track 39 markets Michael
+
+359
+00:15:10,680 --> 00:15:12,540
+there's no way I'm going to keep up with
+
+360
+00:15:12,540 --> 00:15:13,740
+that well that's your fault you should
+
+361
+00:15:13,740 --> 00:15:16,560
+be tracking 39 markets but when I focus
+
+362
+00:15:16,560 --> 00:15:18,420
+on the two pairs that I like which is
+
+363
+00:15:18,420 --> 00:15:20,279
+Euro and cable it takes literally
+
+364
+00:15:20,279 --> 00:15:22,079
+seconds for me to do this and it's not a
+
+365
+00:15:22,079 --> 00:15:24,420
+big deal but if you're going to be that
+
+366
+00:15:24,420 --> 00:15:26,820
+hard up about it I'm sure some of you
+
+367
+00:15:26,820 --> 00:15:29,519
+that are in our group
+
+368
+00:15:29,519 --> 00:15:31,740
+um are capable of programming something
+
+369
+00:15:31,740 --> 00:15:34,380
+I'm certain of it but uh once you learn
+
+370
+00:15:34,380 --> 00:15:36,000
+how to do that when we do go into our
+
+371
+00:15:36,000 --> 00:15:38,100
+commodity teaching I'll leave it up to
+
+372
+00:15:38,100 --> 00:15:40,440
+you uh you smart whippersnappers to
+
+373
+00:15:40,440 --> 00:15:42,660
+throw something together maybe for mt4
+
+374
+00:15:42,660 --> 00:15:45,360
+platforms it can uh you know provide us
+
+375
+00:15:45,360 --> 00:15:47,399
+a real quick easy way of doing it and
+
+376
+00:15:47,399 --> 00:15:49,199
+then you can go back to trading you know
+
+377
+00:15:49,199 --> 00:15:50,639
+um team number of pairs with the
+
+378
+00:15:50,639 --> 00:15:51,600
+information
+
+379
+00:15:51,600 --> 00:15:55,079
+but what I do is I look at the hedging
+
+380
+00:15:55,079 --> 00:15:57,720
+program that is
+
+381
+00:15:57,720 --> 00:15:59,940
+illustrated by looking at the last
+
+382
+00:15:59,940 --> 00:16:03,120
+calendar year so I rollback data for 12
+
+383
+00:16:03,120 --> 00:16:04,920
+months and I look at the highest high
+
+384
+00:16:04,920 --> 00:16:06,839
+and the lowest low in their net
+
+385
+00:16:06,839 --> 00:16:09,060
+positions of the commercials only I'm
+
+386
+00:16:09,060 --> 00:16:10,500
+not looking at the large Traders or the
+
+387
+00:16:10,500 --> 00:16:11,699
+small spec I don't really care what the
+
+388
+00:16:11,699 --> 00:16:14,339
+small specs are doing but when we track
+
+389
+00:16:14,339 --> 00:16:16,800
+commitment to Traders report data or cot
+
+390
+00:16:16,800 --> 00:16:18,720
+data
+
+391
+00:16:18,720 --> 00:16:21,120
+every week this uh cftc commodity
+
+392
+00:16:21,120 --> 00:16:22,800
+Futures Trading commission requires
+
+393
+00:16:22,800 --> 00:16:25,220
+traders that trade at a reportable level
+
+394
+00:16:25,220 --> 00:16:27,660
+to report whether they're buying or
+
+395
+00:16:27,660 --> 00:16:30,720
+selling and the net positions that are
+
+396
+00:16:30,720 --> 00:16:32,399
+held because commercial Traders are like
+
+397
+00:16:32,399 --> 00:16:34,380
+Banks and large institutions and
+
+398
+00:16:34,380 --> 00:16:37,079
+manufacturers of goods or commodities
+
+399
+00:16:37,079 --> 00:16:40,320
+there are groups that produce
+
+400
+00:16:40,320 --> 00:16:42,480
+their commercial level and there are
+
+401
+00:16:42,480 --> 00:16:46,500
+groups that are consuming or
+
+402
+00:16:46,500 --> 00:16:48,240
+um
+
+403
+00:16:48,240 --> 00:16:52,079
+resellers okay so there are users and
+
+404
+00:16:52,079 --> 00:16:54,420
+creators of the commodity on a
+
+405
+00:16:54,420 --> 00:16:56,339
+commercial level and based on that
+
+406
+00:16:56,339 --> 00:16:57,660
+there's always going to be buying and
+
+407
+00:16:57,660 --> 00:17:00,300
+selling on a commercial basis the net
+
+408
+00:17:00,300 --> 00:17:01,620
+positions
+
+409
+00:17:01,620 --> 00:17:04,679
+okay are the collective whole of all
+
+410
+00:17:04,679 --> 00:17:06,540
+their total buys and all their total
+
+411
+00:17:06,540 --> 00:17:09,299
+sales and what are they more net long or
+
+412
+00:17:09,299 --> 00:17:11,579
+net short as a basis
+
+413
+00:17:11,579 --> 00:17:13,140
+and what I do is I take that information
+
+414
+00:17:13,140 --> 00:17:16,140
+that comes by way of the cftc
+
+415
+00:17:16,140 --> 00:17:19,619
+and I plot this graph here by simply
+
+416
+00:17:19,619 --> 00:17:22,500
+using a website and the information and
+
+417
+00:17:22,500 --> 00:17:24,780
+just basically throwing in some lipstick
+
+418
+00:17:24,780 --> 00:17:28,020
+and it helps me visually see what the
+
+419
+00:17:28,020 --> 00:17:29,940
+commercials are doing in terms of
+
+420
+00:17:29,940 --> 00:17:31,679
+hedging
+
+421
+00:17:31,679 --> 00:17:34,700
+as you can see at the time of this week
+
+422
+00:17:34,700 --> 00:17:37,200
+the commercials which is tracked by this
+
+423
+00:17:37,200 --> 00:17:40,320
+line as it's below the zero line okay
+
+424
+00:17:40,320 --> 00:17:42,240
+it's going to be marked red that's going
+
+425
+00:17:42,240 --> 00:17:44,520
+to be bearish when it's above the zero
+
+426
+00:17:44,520 --> 00:17:45,600
+line
+
+427
+00:17:45,600 --> 00:17:47,340
+they're net long that would be bullish
+
+428
+00:17:47,340 --> 00:17:52,140
+okay and back below the zero line
+
+429
+00:17:52,140 --> 00:17:54,000
+which would be represented between 100
+
+430
+00:17:54,000 --> 00:17:57,840
+and K and 50k okay that that line I have
+
+431
+00:17:57,840 --> 00:17:59,760
+drawn in there that blue line that
+
+432
+00:17:59,760 --> 00:18:02,580
+represents the new zero line that would
+
+433
+00:18:02,580 --> 00:18:04,140
+otherwise be viewed like a regular
+
+434
+00:18:04,140 --> 00:18:06,059
+commitment shares report
+
+435
+00:18:06,059 --> 00:18:09,980
+you don't need to see that as
+
+436
+00:18:10,980 --> 00:18:13,500
+I'm going to teach later on but I've
+
+437
+00:18:13,500 --> 00:18:15,360
+shown this in uh real quick
+
+438
+00:18:15,360 --> 00:18:17,700
+short sessions throughout my time
+
+439
+00:18:17,700 --> 00:18:19,620
+teaching but I'm going to give you the
+
+440
+00:18:19,620 --> 00:18:21,539
+details about how to use it in great
+
+441
+00:18:21,539 --> 00:18:24,179
+detail about how I break it down there's
+
+442
+00:18:24,179 --> 00:18:25,919
+actual seasonal Tendencies to their
+
+443
+00:18:25,919 --> 00:18:27,120
+hedging programs that you'll actually
+
+444
+00:18:27,120 --> 00:18:28,740
+look at too and there's seasonal
+
+445
+00:18:28,740 --> 00:18:29,940
+tendencies that go along with open
+
+446
+00:18:29,940 --> 00:18:32,220
+interest declines as well and that's
+
+447
+00:18:32,220 --> 00:18:33,720
+really neat information you need to know
+
+448
+00:18:33,720 --> 00:18:37,380
+that to do Mega trades Mega trades are
+
+449
+00:18:37,380 --> 00:18:38,820
+like huge big moves that take place
+
+450
+00:18:38,820 --> 00:18:40,799
+every year there's like two or three of
+
+451
+00:18:40,799 --> 00:18:42,240
+them that really explode you want to be
+
+452
+00:18:42,240 --> 00:18:43,620
+focusing on markets that give you those
+
+453
+00:18:43,620 --> 00:18:46,679
+types of conditions but I'm digressing
+
+454
+00:18:46,679 --> 00:18:48,660
+so let me get back to a discussion with
+
+455
+00:18:48,660 --> 00:18:49,860
+the euro dollar
+
+456
+00:18:49,860 --> 00:18:53,280
+at the time of this week the euro dollar
+
+457
+00:18:53,280 --> 00:18:55,679
+was making a higher high than that of in
+
+458
+00:18:55,679 --> 00:18:56,700
+January
+
+459
+00:18:56,700 --> 00:18:58,860
+but look at the commercials they were
+
+460
+00:18:58,860 --> 00:19:01,080
+hedging against those rallies and they
+
+461
+00:19:01,080 --> 00:19:03,240
+really went that short selling
+
+462
+00:19:03,240 --> 00:19:05,940
+aggressively in the rally above the
+
+463
+00:19:05,940 --> 00:19:08,520
+January High and the December high of
+
+464
+00:19:08,520 --> 00:19:10,440
+2016.
+
+465
+00:19:10,440 --> 00:19:14,640
+so as we made a higher high in the euro
+
+466
+00:19:14,640 --> 00:19:16,080
+the commercials are actually selling
+
+467
+00:19:16,080 --> 00:19:18,840
+aggressively in that rally so what are
+
+468
+00:19:18,840 --> 00:19:20,640
+we seeing here a seasonal tendency
+
+469
+00:19:20,640 --> 00:19:23,340
+that's highly probable for lower Euro
+
+470
+00:19:23,340 --> 00:19:24,299
+prices
+
+471
+00:19:24,299 --> 00:19:27,480
+at the same time commercials are looking
+
+472
+00:19:27,480 --> 00:19:30,900
+to sell short or they want to exceed
+
+473
+00:19:30,900 --> 00:19:32,940
+prices going lower why because they're
+
+474
+00:19:32,940 --> 00:19:34,559
+hedging against that rally
+
+475
+00:19:34,559 --> 00:19:36,900
+they're selling into that rally why
+
+476
+00:19:36,900 --> 00:19:38,340
+would they want to do that I don't know
+
+477
+00:19:38,340 --> 00:19:39,840
+they're Banks they do it all the time
+
+478
+00:19:39,840 --> 00:19:42,179
+but logically over a period of time
+
+479
+00:19:42,179 --> 00:19:43,980
+looking at it you'll see that they kind
+
+480
+00:19:43,980 --> 00:19:46,500
+of put the brakes on a market rally by
+
+481
+00:19:46,500 --> 00:19:48,600
+selling aggressively into it
+
+482
+00:19:48,600 --> 00:19:50,640
+and that caps the market as you've seen
+
+483
+00:19:50,640 --> 00:19:52,500
+here this week so we had a blending of
+
+484
+00:19:52,500 --> 00:19:55,860
+two things commercial Short Selling
+
+485
+00:19:55,860 --> 00:19:57,840
+now if you look at a regular commitment
+
+486
+00:19:57,840 --> 00:19:59,220
+Traders report
+
+487
+00:19:59,220 --> 00:20:00,299
+you're not going to see that you're
+
+488
+00:20:00,299 --> 00:20:01,860
+going to see them net long
+
+489
+00:20:01,860 --> 00:20:04,799
+that's what screws everybody up even
+
+490
+00:20:04,799 --> 00:20:06,900
+Larry Williams because they're looking
+
+491
+00:20:06,900 --> 00:20:08,580
+at information because they're looking
+
+492
+00:20:08,580 --> 00:20:12,240
+at Price through cot data from an
+
+493
+00:20:12,240 --> 00:20:14,640
+archaic caveman approach now I'm not
+
+494
+00:20:14,640 --> 00:20:16,500
+saying it can't be used efficiently and
+
+495
+00:20:16,500 --> 00:20:18,840
+effectively in certain conditions like
+
+496
+00:20:18,840 --> 00:20:20,580
+it's traditionally taught through Larry
+
+497
+00:20:20,580 --> 00:20:22,020
+Williams and everybody else is used now
+
+498
+00:20:22,020 --> 00:20:24,120
+but if it was just that easy everybody
+
+499
+00:20:24,120 --> 00:20:26,760
+was making money right so why is it that
+
+500
+00:20:26,760 --> 00:20:28,799
+commercials aren't on the first of
+
+501
+00:20:28,799 --> 00:20:30,900
+everyone's list because nobody knows how
+
+502
+00:20:30,900 --> 00:20:31,980
+to use it
+
+503
+00:20:31,980 --> 00:20:33,720
+but you're learning how to do it now
+
+504
+00:20:33,720 --> 00:20:35,700
+because you're in the click you're in
+
+505
+00:20:35,700 --> 00:20:37,380
+the mentorship that teaches you
+
+506
+00:20:37,380 --> 00:20:39,539
+everything about smart money
+
+507
+00:20:39,539 --> 00:20:43,320
+so what we do is we use this graph okay
+
+508
+00:20:43,320 --> 00:20:45,660
+that you're going to learn about in the
+
+509
+00:20:45,660 --> 00:20:47,120
+commodity section of this teachings
+
+510
+00:20:47,120 --> 00:20:49,740
+that's later on in the months I think
+
+511
+00:20:49,740 --> 00:20:51,419
+it's in June
+
+512
+00:20:51,419 --> 00:20:54,120
+but I'll teach you how to use the
+
+513
+00:20:54,120 --> 00:20:55,559
+hedging program and actually look for
+
+514
+00:20:55,559 --> 00:20:57,780
+seasonal Tendencies for when they would
+
+515
+00:20:57,780 --> 00:20:59,640
+really be buying or selling
+
+516
+00:20:59,640 --> 00:21:01,799
+certain times of the year and also their
+
+517
+00:21:01,799 --> 00:21:03,419
+seasonal Tendencies of open interest but
+
+518
+00:21:03,419 --> 00:21:05,100
+open interest is not that important here
+
+519
+00:21:05,100 --> 00:21:07,080
+because we have two things Blended
+
+520
+00:21:07,080 --> 00:21:08,760
+together and you really only need two
+
+521
+00:21:08,760 --> 00:21:11,340
+things to couple for smart money you
+
+522
+00:21:11,340 --> 00:21:13,440
+have the seasonal tendency just in other
+
+523
+00:21:13,440 --> 00:21:15,539
+words there's a seasonal influence that
+
+524
+00:21:15,539 --> 00:21:17,340
+usually see zero dollar and I don't know
+
+525
+00:21:17,340 --> 00:21:18,840
+what it is I don't need to know
+
+526
+00:21:18,840 --> 00:21:21,960
+seasonally historically euro dollar
+
+527
+00:21:21,960 --> 00:21:25,320
+drops down in the second half of March
+
+528
+00:21:25,320 --> 00:21:27,840
+going into April okay so we're looking
+
+529
+00:21:27,840 --> 00:21:29,280
+for that seasonal tendency to take place
+
+530
+00:21:29,280 --> 00:21:31,799
+not by itself but we're looking for
+
+531
+00:21:31,799 --> 00:21:33,840
+technicals to support that idea well we
+
+532
+00:21:33,840 --> 00:21:34,980
+can see here the commercials were
+
+533
+00:21:34,980 --> 00:21:37,320
+heavily net selling into that rally
+
+534
+00:21:37,320 --> 00:21:39,840
+we've seen last week leading into
+
+535
+00:21:39,840 --> 00:21:41,940
+Monday's rally initially for this week
+
+536
+00:21:41,940 --> 00:21:44,280
+and the euro dollar and then it topped
+
+537
+00:21:44,280 --> 00:21:48,440
+and tanked going lower
+
+538
+00:21:49,140 --> 00:21:51,900
+you can see right here that new high or
+
+539
+00:21:51,900 --> 00:21:52,980
+high
+
+540
+00:21:52,980 --> 00:21:55,919
+has been met with heavy net selling by
+
+541
+00:21:55,919 --> 00:21:58,559
+the commercial Traders
+
+542
+00:21:58,559 --> 00:22:02,840
+this is smart money shorting
+
+543
+00:22:03,600 --> 00:22:06,299
+so now how do we go in and justify these
+
+544
+00:22:06,299 --> 00:22:08,520
+ideas just because we have a chart that
+
+545
+00:22:08,520 --> 00:22:10,980
+looks like it indicates that commercials
+
+546
+00:22:10,980 --> 00:22:12,360
+are selling and we look at a seasonal
+
+547
+00:22:12,360 --> 00:22:13,500
+tenants just because season Tendencies
+
+548
+00:22:13,500 --> 00:22:15,600
+are suggesting higher or lower price it
+
+549
+00:22:15,600 --> 00:22:17,520
+does not mean that it's going to happen
+
+550
+00:22:17,520 --> 00:22:19,740
+there has to be something lining up
+
+551
+00:22:19,740 --> 00:22:22,200
+technically to get in sync with the
+
+552
+00:22:22,200 --> 00:22:24,840
+markets and seasonal tendency so it's
+
+553
+00:22:24,840 --> 00:22:26,700
+not a seasonal tendency be all end-all
+
+554
+00:22:26,700 --> 00:22:29,400
+it has to happen no seasonal tendency
+
+555
+00:22:29,400 --> 00:22:33,000
+illustrates a probable condition or a
+
+556
+00:22:33,000 --> 00:22:34,140
+probable outcome for the market
+
+557
+00:22:34,140 --> 00:22:36,419
+Direction but without technicals
+
+558
+00:22:36,419 --> 00:22:38,100
+aligning with that in a market
+
+559
+00:22:38,100 --> 00:22:40,440
+environment that supports that idea the
+
+560
+00:22:40,440 --> 00:22:41,940
+seasonal tendency will get you in
+
+561
+00:22:41,940 --> 00:22:43,380
+trouble
+
+562
+00:22:43,380 --> 00:22:45,360
+so we're looking at the dollar Index
+
+563
+00:22:45,360 --> 00:22:46,200
+here
+
+564
+00:22:46,200 --> 00:22:48,179
+we're going to frame out the market
+
+565
+00:22:48,179 --> 00:22:50,820
+conditions from a macro standpoint and
+
+566
+00:22:50,820 --> 00:22:52,260
+we're going to look at the next
+
+567
+00:22:52,260 --> 00:22:53,880
+quarterly shift and we're going to look
+
+568
+00:22:53,880 --> 00:22:56,820
+at how the markets should be moving and
+
+569
+00:22:56,820 --> 00:22:58,440
+we're seeing here on a weekly chart for
+
+570
+00:22:58,440 --> 00:23:01,080
+the dollar Index we have an old
+
+571
+00:23:01,080 --> 00:23:04,260
+high and now this is whereas price is
+
+572
+00:23:04,260 --> 00:23:06,419
+trading down to it
+
+573
+00:23:06,419 --> 00:23:08,760
+for this uh this week we've traded down
+
+574
+00:23:08,760 --> 00:23:12,179
+into an old weekly High which makes this
+
+575
+00:23:12,179 --> 00:23:15,380
+a discount PD array
+
+576
+00:23:15,559 --> 00:23:18,240
+and we move down into a daily time frame
+
+577
+00:23:18,240 --> 00:23:21,240
+and we can actually see another
+
+578
+00:23:21,240 --> 00:23:26,580
+level that is a old mitigation block
+
+579
+00:23:26,580 --> 00:23:29,820
+and it comes in at 98.92
+
+580
+00:23:29,820 --> 00:23:31,740
+now if you look at that level you would
+
+581
+00:23:31,740 --> 00:23:33,659
+obviously suspect that it's going to go
+
+582
+00:23:33,659 --> 00:23:37,320
+to what we round up so it'd be 98.95 you
+
+583
+00:23:37,320 --> 00:23:40,260
+can go to 98.90 if you want to because
+
+584
+00:23:40,260 --> 00:23:41,880
+it's only like two Pips but generally
+
+585
+00:23:41,880 --> 00:23:44,280
+the rules are we round up to the nearest
+
+586
+00:23:44,280 --> 00:23:47,299
+five or zero level
+
+587
+00:23:48,960 --> 00:23:51,419
+and then breaking it down into a hourly
+
+588
+00:23:51,419 --> 00:23:54,179
+chart dollar Index we can see that this
+
+589
+00:23:54,179 --> 00:23:55,280
+is again
+
+590
+00:23:55,280 --> 00:23:57,360
+illustrating the
+
+591
+00:23:57,360 --> 00:24:00,179
+potential weekly range
+
+592
+00:24:00,179 --> 00:24:02,640
+and we're looking for price to reach up
+
+593
+00:24:02,640 --> 00:24:04,200
+from this discount level we saw on the
+
+594
+00:24:04,200 --> 00:24:06,059
+weekly chart
+
+595
+00:24:06,059 --> 00:24:09,179
+we're looking for premium PDF PD arrays
+
+596
+00:24:09,179 --> 00:24:11,940
+so we go through our Market looking at
+
+597
+00:24:11,940 --> 00:24:14,520
+where liquidity pools are bearish order
+
+598
+00:24:14,520 --> 00:24:17,880
+blocks fair value gaps mitigation blocks
+
+599
+00:24:17,880 --> 00:24:21,419
+Breakers old highs and old lows that act
+
+600
+00:24:21,419 --> 00:24:23,520
+as resistance
+
+601
+00:24:23,520 --> 00:24:26,640
+as you can see here we have a few noted
+
+602
+00:24:26,640 --> 00:24:29,220
+each one of these were draws on price
+
+603
+00:24:29,220 --> 00:24:31,320
+and you can see they are all traded to
+
+604
+00:24:31,320 --> 00:24:33,179
+with no problem with the exception of
+
+605
+00:24:33,179 --> 00:24:35,340
+the fair value Gap I suspect next week
+
+606
+00:24:35,340 --> 00:24:37,620
+maybe even on Sunday we'll probably see
+
+607
+00:24:37,620 --> 00:24:40,380
+a gap up on Sunday's trading that
+
+608
+00:24:40,380 --> 00:24:41,820
+remains to be seen but it certainly
+
+609
+00:24:41,820 --> 00:24:44,520
+looks like it wants to do that and if it
+
+610
+00:24:44,520 --> 00:24:46,440
+doesn't Gap up we'll look for it to
+
+611
+00:24:46,440 --> 00:24:48,360
+expand through Sunday into Monday into
+
+612
+00:24:48,360 --> 00:24:51,260
+that fair value Gap
+
+613
+00:24:52,740 --> 00:24:56,159
+okay and getting a better look at the
+
+614
+00:24:56,159 --> 00:24:57,840
+dollar Index this is an hourly chart
+
+615
+00:24:57,840 --> 00:24:59,700
+what I have here is I have the
+
+616
+00:24:59,700 --> 00:25:01,799
+equilibrium price point
+
+617
+00:25:01,799 --> 00:25:04,380
+identified so anything above the
+
+618
+00:25:04,380 --> 00:25:06,600
+equilibrium price point is going to be a
+
+619
+00:25:06,600 --> 00:25:08,159
+premium and anything below it is going
+
+620
+00:25:08,159 --> 00:25:09,900
+to be a discount so now what we're doing
+
+621
+00:25:09,900 --> 00:25:13,080
+is we added the PD array Matrix
+
+622
+00:25:13,080 --> 00:25:15,480
+in the form of our premium and discount
+
+623
+00:25:15,480 --> 00:25:18,000
+ranges so now we can see graphically
+
+624
+00:25:18,000 --> 00:25:21,360
+thinking like an algorithmic Trader so
+
+625
+00:25:21,360 --> 00:25:22,980
+we're getting in sync with the algorithm
+
+626
+00:25:22,980 --> 00:25:25,260
+ifta is going to pull and draw a price
+
+627
+00:25:25,260 --> 00:25:28,620
+up to these levels logically to allow
+
+628
+00:25:28,620 --> 00:25:32,100
+the bank traders to to put on trades or
+
+629
+00:25:32,100 --> 00:25:35,760
+manage their in-house book so looking at
+
+630
+00:25:35,760 --> 00:25:37,860
+what's going on in this chart we can see
+
+631
+00:25:37,860 --> 00:25:39,480
+clearly that the market has been drawn
+
+632
+00:25:39,480 --> 00:25:42,299
+back up to equilibrium so you're always
+
+633
+00:25:42,299 --> 00:25:43,679
+going to look for discounts at least try
+
+634
+00:25:43,679 --> 00:25:46,200
+to pull to equilibrium then it has to
+
+635
+00:25:46,200 --> 00:25:48,360
+determine if it wants to go into premium
+
+636
+00:25:48,360 --> 00:25:50,520
+or it could go back down deeper into a
+
+637
+00:25:50,520 --> 00:25:51,659
+discount
+
+638
+00:25:51,659 --> 00:25:53,640
+you never know that for sure but you
+
+639
+00:25:53,640 --> 00:25:56,100
+need to blend time and price with the
+
+640
+00:25:56,100 --> 00:25:58,799
+ifta data ranges looking back over the
+
+641
+00:25:58,799 --> 00:26:00,960
+last 20 40 and 60 days
+
+642
+00:26:00,960 --> 00:26:04,919
+also adding the PD array Matrix as we
+
+643
+00:26:04,919 --> 00:26:07,440
+have here and we have all of the PD
+
+644
+00:26:07,440 --> 00:26:09,960
+arrays noted that would be needed for
+
+645
+00:26:09,960 --> 00:26:12,679
+this idea
+
+646
+00:26:15,900 --> 00:26:17,700
+now we're going to look at the Euro
+
+647
+00:26:17,700 --> 00:26:18,600
+pound because we have to have
+
+648
+00:26:18,600 --> 00:26:20,820
+inter-market analysis supported as well
+
+649
+00:26:20,820 --> 00:26:23,340
+so we've seen the dollar Index
+
+650
+00:26:23,340 --> 00:26:25,740
+poised to go higher it's trading off of
+
+651
+00:26:25,740 --> 00:26:28,080
+weekly discount PD array and we have all
+
+652
+00:26:28,080 --> 00:26:29,340
+the premium
+
+653
+00:26:29,340 --> 00:26:31,799
+PD arrays above us noted in the previous
+
+654
+00:26:31,799 --> 00:26:32,940
+chart
+
+655
+00:26:32,940 --> 00:26:36,299
+that would be drawing price higher so if
+
+656
+00:26:36,299 --> 00:26:38,100
+we're looking for weak euro dollar
+
+657
+00:26:38,100 --> 00:26:41,039
+prices we need to see if the Euro pound
+
+658
+00:26:41,039 --> 00:26:43,500
+would support that idea as well and you
+
+659
+00:26:43,500 --> 00:26:46,080
+can see obviously the European has
+
+660
+00:26:46,080 --> 00:26:49,980
+tanked it went down to a very clear
+
+661
+00:26:49,980 --> 00:26:52,320
+logical bullish order block
+
+662
+00:26:52,320 --> 00:26:54,960
+on a four hour basis a series of downed
+
+663
+00:26:54,960 --> 00:26:57,059
+candles sets the tone for that bullish
+
+664
+00:26:57,059 --> 00:27:00,059
+order block so that is a discount PD
+
+665
+00:27:00,059 --> 00:27:02,580
+array it trades right down to it at
+
+666
+00:27:02,580 --> 00:27:05,940
+Friday's close but all throughout
+
+667
+00:27:05,940 --> 00:27:09,059
+the week we saw the Euro pound
+
+668
+00:27:09,059 --> 00:27:11,580
+be aggressively sold off so that's going
+
+669
+00:27:11,580 --> 00:27:14,340
+to be week for euro dollar and strong
+
+670
+00:27:14,340 --> 00:27:17,720
+for pound dollar
+
+671
+00:27:19,140 --> 00:27:22,080
+okay so we're looking at the euro dollar
+
+672
+00:27:22,080 --> 00:27:23,279
+now
+
+673
+00:27:23,279 --> 00:27:25,440
+and we can see here the Monday we opened
+
+674
+00:27:25,440 --> 00:27:27,120
+up with a gap
+
+675
+00:27:27,120 --> 00:27:28,620
+well actually it's Sunday we opened up
+
+676
+00:27:28,620 --> 00:27:30,419
+the Gap and traded higher throughout
+
+677
+00:27:30,419 --> 00:27:31,500
+Monday
+
+678
+00:27:31,500 --> 00:27:35,220
+and we traded up into the weekly bearish
+
+679
+00:27:35,220 --> 00:27:37,320
+order block for the euro dollar and I'll
+
+680
+00:27:37,320 --> 00:27:39,720
+leave you to look at your weekly bearish
+
+681
+00:27:39,720 --> 00:27:42,059
+order block on your own platform
+
+682
+00:27:42,059 --> 00:27:43,620
+but this is the only level that was
+
+683
+00:27:43,620 --> 00:27:45,120
+missing from this week's discussion
+
+684
+00:27:45,120 --> 00:27:47,100
+because I want to be able to have some
+
+685
+00:27:47,100 --> 00:27:49,980
+meat for this teaching but uh weekly
+
+686
+00:27:49,980 --> 00:27:52,140
+bearish order block was traded into on
+
+687
+00:27:52,140 --> 00:27:53,520
+Monday
+
+688
+00:27:53,520 --> 00:27:56,159
+and the question is how far into the
+
+689
+00:27:56,159 --> 00:27:57,779
+weekly order block would you expect it
+
+690
+00:27:57,779 --> 00:27:59,279
+to trade into Michael
+
+691
+00:27:59,279 --> 00:28:01,860
+well we're going to that in in the last
+
+692
+00:28:01,860 --> 00:28:04,380
+slide for this teaching but
+
+693
+00:28:04,380 --> 00:28:07,380
+we're going to assume that you have
+
+694
+00:28:07,380 --> 00:28:10,380
+studied the weekly templates that expect
+
+695
+00:28:10,380 --> 00:28:12,240
+specific
+
+696
+00:28:12,240 --> 00:28:15,179
+trading characteristics you know what
+
+697
+00:28:15,179 --> 00:28:17,460
+days make a specific higher low of the
+
+698
+00:28:17,460 --> 00:28:19,860
+week you know how the markets trade you
+
+699
+00:28:19,860 --> 00:28:21,480
+know relative to the respective
+
+700
+00:28:21,480 --> 00:28:24,179
+templates and then what manipulation do
+
+701
+00:28:24,179 --> 00:28:26,340
+we expect by the market makers with that
+
+702
+00:28:26,340 --> 00:28:29,460
+specific template well since I elected
+
+703
+00:28:29,460 --> 00:28:32,400
+to use the bearish idea that euro dollar
+
+704
+00:28:32,400 --> 00:28:33,659
+is going to go lower because the dollar
+
+705
+00:28:33,659 --> 00:28:35,880
+Index was bullish okay or should have
+
+706
+00:28:35,880 --> 00:28:38,100
+been bullish trading off of its weekly
+
+707
+00:28:38,100 --> 00:28:41,659
+discount PD array
+
+708
+00:28:42,900 --> 00:28:44,640
+couple that with we have seasonal
+
+709
+00:28:44,640 --> 00:28:46,919
+tendency for euro dollar to decline
+
+710
+00:28:46,919 --> 00:28:49,679
+we had commercials supporting lower
+
+711
+00:28:49,679 --> 00:28:53,039
+prices with heavy selling into the rally
+
+712
+00:28:53,039 --> 00:28:54,600
+we have
+
+713
+00:28:54,600 --> 00:28:56,640
+the condition
+
+714
+00:28:56,640 --> 00:28:59,220
+for lower expectation
+
+715
+00:28:59,220 --> 00:29:01,980
+in pricing on your dollar
+
+716
+00:29:01,980 --> 00:29:03,659
+that means we're going to be expecting
+
+717
+00:29:03,659 --> 00:29:07,679
+either Monday Tuesday or Wednesday to be
+
+718
+00:29:07,679 --> 00:29:09,600
+the high of the week so you always
+
+719
+00:29:09,600 --> 00:29:11,039
+obviously start with the first day of
+
+720
+00:29:11,039 --> 00:29:12,360
+the week which is going to be the Monday
+
+721
+00:29:12,360 --> 00:29:16,200
+okay so price opens up on Sunday gaps up
+
+722
+00:29:16,200 --> 00:29:17,640
+and it starts trading immediately right
+
+723
+00:29:17,640 --> 00:29:18,960
+up on Monday
+
+724
+00:29:18,960 --> 00:29:22,500
+so right away we have to assume that
+
+725
+00:29:22,500 --> 00:29:24,659
+Monday is going to be the high of the
+
+726
+00:29:24,659 --> 00:29:25,440
+week
+
+727
+00:29:25,440 --> 00:29:27,240
+so what we do is we go through the
+
+728
+00:29:27,240 --> 00:29:30,080
+procedures of potentially
+
+729
+00:29:30,080 --> 00:29:33,120
+picking the high of the week now we
+
+730
+00:29:33,120 --> 00:29:35,220
+don't try to go in here and and time
+
+731
+00:29:35,220 --> 00:29:37,320
+that Weekly High we don't try to do that
+
+732
+00:29:37,320 --> 00:29:39,600
+now you can over time do that yourself
+
+733
+00:29:39,600 --> 00:29:41,399
+but initially you don't you want to
+
+734
+00:29:41,399 --> 00:29:43,320
+teach yourself to trust these Concepts
+
+735
+00:29:43,320 --> 00:29:45,539
+okay because it can go up on Tuesday and
+
+736
+00:29:45,539 --> 00:29:47,700
+make a higher high that's why you have
+
+737
+00:29:47,700 --> 00:29:50,159
+to give it a little bit of leeway now
+
+738
+00:29:50,159 --> 00:29:52,740
+you can sell us a very small portion on
+
+739
+00:29:52,740 --> 00:29:53,640
+Monday
+
+740
+00:29:53,640 --> 00:29:55,440
+and then if Tuesday fails to make a
+
+741
+00:29:55,440 --> 00:29:56,820
+higher high at least you have a small
+
+742
+00:29:56,820 --> 00:29:58,980
+piece on the higher level
+
+743
+00:29:58,980 --> 00:30:01,980
+but if it does go higher on Tuesday
+
+744
+00:30:01,980 --> 00:30:04,080
+for Wednesday at least you're not going
+
+745
+00:30:04,080 --> 00:30:06,179
+to be at a full position underwater as
+
+746
+00:30:06,179 --> 00:30:07,980
+it makes a higher high on those later
+
+747
+00:30:07,980 --> 00:30:10,640
+days in the week
+
+748
+00:30:11,700 --> 00:30:14,880
+what we do is on the Monday
+
+749
+00:30:14,880 --> 00:30:17,940
+we look for price to trade up and then
+
+750
+00:30:17,940 --> 00:30:21,240
+have a retracement intraday so you can
+
+751
+00:30:21,240 --> 00:30:24,299
+see the London session
+
+752
+00:30:24,299 --> 00:30:26,899
+had a retracement and then an expansion
+
+753
+00:30:26,899 --> 00:30:29,039
+all through New York
+
+754
+00:30:29,039 --> 00:30:31,260
+what I did was I measured the swing
+
+755
+00:30:31,260 --> 00:30:33,779
+using the Fib from the high formed in
+
+756
+00:30:33,779 --> 00:30:37,559
+London down to the retracement low
+
+757
+00:30:37,559 --> 00:30:40,380
+prior to the New York session rally and
+
+758
+00:30:40,380 --> 00:30:42,000
+what I did was I measured That Swing
+
+759
+00:30:42,000 --> 00:30:44,880
+intraday and it gave me
+
+760
+00:30:44,880 --> 00:30:46,039
+the
+
+761
+00:30:46,039 --> 00:30:48,539
+109.09 level
+
+762
+00:30:48,539 --> 00:30:51,240
+so I do is I used one pit below that and
+
+763
+00:30:51,240 --> 00:30:54,000
+called it 109.08 because generally I'm
+
+764
+00:30:54,000 --> 00:30:57,960
+usually one pip off and in this case I
+
+765
+00:30:57,960 --> 00:31:00,179
+was one pip off still one pip short
+
+766
+00:31:00,179 --> 00:31:01,799
+because I thought I was making a
+
+767
+00:31:01,799 --> 00:31:03,899
+compensation for it but it actually went
+
+768
+00:31:03,899 --> 00:31:06,720
+right to the level of 109.09 at least on
+
+769
+00:31:06,720 --> 00:31:09,539
+Forex ltd's platform
+
+770
+00:31:09,539 --> 00:31:11,820
+so by doing that what we end up doing is
+
+771
+00:31:11,820 --> 00:31:13,559
+we can see
+
+772
+00:31:13,559 --> 00:31:16,320
+a way of projecting the weekly High
+
+773
+00:31:16,320 --> 00:31:18,600
+using the intraday stuff that we'll
+
+774
+00:31:18,600 --> 00:31:21,059
+actually teach in April and you'll be
+
+775
+00:31:21,059 --> 00:31:22,320
+able to combine a lot of other things
+
+776
+00:31:22,320 --> 00:31:25,340
+with time of day and specific uh
+
+777
+00:31:25,340 --> 00:31:28,380
+measurements that I use to to more or
+
+778
+00:31:28,380 --> 00:31:31,799
+less nail down the power three or dare I
+
+779
+00:31:31,799 --> 00:31:34,620
+say it weekly Judas swing so the initial
+
+780
+00:31:34,620 --> 00:31:36,600
+rally here we saw on Monday was a false
+
+781
+00:31:36,600 --> 00:31:39,179
+rally all that was was Heavy selling the
+
+782
+00:31:39,179 --> 00:31:41,399
+engineered price higher built in a
+
+783
+00:31:41,399 --> 00:31:44,460
+premium so they can sell it to the smart
+
+784
+00:31:44,460 --> 00:31:46,460
+or lower
+
+785
+00:31:46,460 --> 00:31:49,500
+intelligent crowd obviously the lower
+
+786
+00:31:49,500 --> 00:31:51,779
+intelligent crowd smart money sells it
+
+787
+00:31:51,779 --> 00:31:53,640
+to lesser informed money and that's what
+
+788
+00:31:53,640 --> 00:31:56,240
+we saw on Monday
+
+789
+00:31:56,760 --> 00:31:59,279
+so it takes us to the euro dollar we're
+
+790
+00:31:59,279 --> 00:32:01,799
+in the four hour chart you can see the
+
+791
+00:32:01,799 --> 00:32:04,860
+PD array in the discount Zone you can
+
+792
+00:32:04,860 --> 00:32:06,299
+see that liquidity void that we
+
+793
+00:32:06,299 --> 00:32:10,020
+identified here and at 106.50 level
+
+794
+00:32:10,020 --> 00:32:12,659
+so using the 10650 level as our Baseline
+
+795
+00:32:12,659 --> 00:32:15,779
+drawing up from that point and our
+
+796
+00:32:15,779 --> 00:32:18,240
+projected high of the week at 109.08
+
+797
+00:32:18,240 --> 00:32:20,880
+which is what I called that's our range
+
+798
+00:32:20,880 --> 00:32:22,860
+and then we can divide that in half get
+
+799
+00:32:22,860 --> 00:32:24,960
+an equilibrium price point and having
+
+800
+00:32:24,960 --> 00:32:26,880
+that we can now have a premium and
+
+801
+00:32:26,880 --> 00:32:29,520
+discount PD array Matrix then you start
+
+802
+00:32:29,520 --> 00:32:31,980
+breaking down your markets
+
+803
+00:32:31,980 --> 00:32:35,340
+PD array for premium and discount
+
+804
+00:32:35,340 --> 00:32:37,799
+we know that we have a liquidity void in
+
+805
+00:32:37,799 --> 00:32:41,100
+the lower end of the discount range so
+
+806
+00:32:41,100 --> 00:32:42,360
+that's what we're aiming for that's what
+
+807
+00:32:42,360 --> 00:32:43,980
+we are aiming for
+
+808
+00:32:43,980 --> 00:32:46,740
+we came out of a premium Market at
+
+809
+00:32:46,740 --> 00:32:48,899
+109.08
+
+810
+00:32:48,899 --> 00:32:52,320
+and as the market traded lower each one
+
+811
+00:32:52,320 --> 00:32:53,880
+of the respective
+
+812
+00:32:53,880 --> 00:32:57,559
+PD arrays gaps
+
+813
+00:32:57,559 --> 00:33:00,419
+liquidity pools
+
+814
+00:33:00,419 --> 00:33:03,480
+old highs to sell into bearish order
+
+815
+00:33:03,480 --> 00:33:04,919
+blocks all those things as the market
+
+816
+00:33:04,919 --> 00:33:07,440
+slid lower they were all contributing
+
+817
+00:33:07,440 --> 00:33:09,419
+factors as we mentioned throughout the
+
+818
+00:33:09,419 --> 00:33:11,640
+analysis this week through tweets and in
+
+819
+00:33:11,640 --> 00:33:14,340
+video production and on the daily chart
+
+820
+00:33:14,340 --> 00:33:16,100
+indexes
+
+821
+00:33:16,100 --> 00:33:19,080
+blending all these things together all
+
+822
+00:33:19,080 --> 00:33:21,240
+these things that I taught conceptually
+
+823
+00:33:21,240 --> 00:33:23,399
+the way you get to the results that you
+
+824
+00:33:23,399 --> 00:33:25,440
+saw this week is you have to use them
+
+825
+00:33:25,440 --> 00:33:27,539
+you have to practice with them there's
+
+826
+00:33:27,539 --> 00:33:30,960
+not going to be a clear cut this is how
+
+827
+00:33:30,960 --> 00:33:32,820
+you do it every single time there's
+
+828
+00:33:32,820 --> 00:33:33,779
+going to be
+
+829
+00:33:33,779 --> 00:33:35,340
+potential decisions that you're gonna
+
+830
+00:33:35,340 --> 00:33:37,320
+have to make you might think that it's
+
+831
+00:33:37,320 --> 00:33:38,340
+going to be the high of the week on
+
+832
+00:33:38,340 --> 00:33:39,120
+Monday
+
+833
+00:33:39,120 --> 00:33:41,700
+and you sell short and then Tuesday in
+
+834
+00:33:41,700 --> 00:33:43,799
+London or New York it runs up here and
+
+835
+00:33:43,799 --> 00:33:45,840
+blows that high out are you going to
+
+836
+00:33:45,840 --> 00:33:48,360
+stick with the idea and expect lower
+
+837
+00:33:48,360 --> 00:33:50,820
+prices still or are you going to be
+
+838
+00:33:50,820 --> 00:33:53,399
+whipsauled and thinking okay I was wrong
+
+839
+00:33:53,399 --> 00:33:54,720
+and they go long
+
+840
+00:33:54,720 --> 00:33:56,940
+that's going to be a demon for you to
+
+841
+00:33:56,940 --> 00:33:58,860
+wrestle with so you have to come to a
+
+842
+00:33:58,860 --> 00:34:00,840
+conclusion of what you want to do for
+
+843
+00:34:00,840 --> 00:34:02,460
+the week and come hell or high water
+
+844
+00:34:02,460 --> 00:34:04,860
+stick to that until it no longer makes
+
+845
+00:34:04,860 --> 00:34:07,860
+sense and that happens mid week and you
+
+846
+00:34:07,860 --> 00:34:09,839
+learned in the previous lesson that
+
+847
+00:34:09,839 --> 00:34:12,719
+there's many times a weekly reversal so
+
+848
+00:34:12,719 --> 00:34:15,060
+you always have a potential to mess it
+
+849
+00:34:15,060 --> 00:34:15,839
+up
+
+850
+00:34:15,839 --> 00:34:18,599
+this is what makes it difficult but it's
+
+851
+00:34:18,599 --> 00:34:21,659
+so easy to do how's that for an oxymoron
+
+852
+00:34:21,659 --> 00:34:25,139
+the point is is in this teaching we have
+
+853
+00:34:25,139 --> 00:34:27,239
+a way of looking at Price blending
+
+854
+00:34:27,239 --> 00:34:29,820
+Concepts together using experience
+
+855
+00:34:29,820 --> 00:34:33,300
+obviously okay but over time seeing it
+
+856
+00:34:33,300 --> 00:34:35,820
+studying in hindsight you can look at 10
+
+857
+00:34:35,820 --> 00:34:38,699
+15 20 years worth of data and get to
+
+858
+00:34:38,699 --> 00:34:41,699
+these outcomes okay through study and
+
+859
+00:34:41,699 --> 00:34:46,020
+build yourself a a library mentally with
+
+860
+00:34:46,020 --> 00:34:48,359
+past experiences using the information
+
+861
+00:34:48,359 --> 00:34:50,219
+you don't need to have every little
+
+862
+00:34:50,219 --> 00:34:52,020
+thing down to an hourly chart you don't
+
+863
+00:34:52,020 --> 00:34:54,839
+need that you can see the outcome based
+
+864
+00:34:54,839 --> 00:34:57,780
+on a daily chart you can see it
+
+865
+00:34:57,780 --> 00:34:59,880
+so
+
+866
+00:34:59,880 --> 00:35:02,640
+I'm going to counsel you to use this as
+
+867
+00:35:02,640 --> 00:35:05,040
+an example of how we can take the
+
+868
+00:35:05,040 --> 00:35:06,420
+information
+
+869
+00:35:06,420 --> 00:35:08,460
+blend it together
+
+870
+00:35:08,460 --> 00:35:11,040
+and then come up with the
+
+871
+00:35:11,040 --> 00:35:13,380
+nearest thing to Perfection you're going
+
+872
+00:35:13,380 --> 00:35:16,260
+to ever see in market analysis
+
+873
+00:35:16,260 --> 00:35:18,119
+being one pip off from the high of the
+
+874
+00:35:18,119 --> 00:35:20,820
+week and only five Pips off the low of
+
+875
+00:35:20,820 --> 00:35:24,839
+the week but in most platforms 106.50
+
+876
+00:35:24,839 --> 00:35:29,099
+was hit with real-time data not demo and
+
+877
+00:35:29,099 --> 00:35:31,680
+the high of the week was uh you know it
+
+878
+00:35:31,680 --> 00:35:33,119
+was called and the lower leak was called
+
+879
+00:35:33,119 --> 00:35:35,940
+so I'll leave it up to you to determine
+
+880
+00:35:35,940 --> 00:35:38,339
+whether or not this is something that
+
+881
+00:35:38,339 --> 00:35:41,579
+leads you to more proficiency as a
+
+882
+00:35:41,579 --> 00:35:45,359
+Trader or does it create new barriers
+
+883
+00:35:45,359 --> 00:35:47,760
+for your learning I think that if you go
+
+884
+00:35:47,760 --> 00:35:49,800
+through the concepts and especially when
+
+885
+00:35:49,800 --> 00:35:51,420
+you finish the mentorship you want to go
+
+886
+00:35:51,420 --> 00:35:52,800
+back through all the lessons again
+
+887
+00:35:52,800 --> 00:35:55,140
+listen to all that boring stuff I talked
+
+888
+00:35:55,140 --> 00:35:57,060
+about in January go back through all the
+
+889
+00:35:57,060 --> 00:35:58,859
+lessons in September October November
+
+890
+00:35:58,859 --> 00:36:00,599
+and December and use all that
+
+891
+00:36:00,599 --> 00:36:02,339
+information I helped pull all the free
+
+892
+00:36:02,339 --> 00:36:05,579
+tutorials together back then some of you
+
+893
+00:36:05,579 --> 00:36:07,440
+were complaining about that now you're
+
+894
+00:36:07,440 --> 00:36:09,599
+seeing the fruits of having done that
+
+895
+00:36:09,599 --> 00:36:11,400
+and
+
+896
+00:36:11,400 --> 00:36:12,780
+if you haven't watched the free
+
+897
+00:36:12,780 --> 00:36:15,599
+tutorials more than one time at the end
+
+898
+00:36:15,599 --> 00:36:16,740
+of this mentorship you want to do that
+
+899
+00:36:16,740 --> 00:36:18,780
+all over again okay so that way it kind
+
+900
+00:36:18,780 --> 00:36:21,000
+of completes your whole learning and by
+
+901
+00:36:21,000 --> 00:36:23,040
+then you have everything you ever need
+
+902
+00:36:23,040 --> 00:36:24,900
+to know you'll know procedurally what
+
+903
+00:36:24,900 --> 00:36:26,880
+you need to do and yes it requires a lot
+
+904
+00:36:26,880 --> 00:36:28,920
+of work it's going to require you to
+
+905
+00:36:28,920 --> 00:36:30,359
+think it's going to require you to come
+
+906
+00:36:30,359 --> 00:36:33,300
+to the decision and it's not going to be
+
+907
+00:36:33,300 --> 00:36:35,339
+black and white it's not going to be
+
+908
+00:36:35,339 --> 00:36:38,220
+this or that initially but when we get
+
+909
+00:36:38,220 --> 00:36:39,420
+to August
+
+910
+00:36:39,420 --> 00:36:41,579
+there's a specific procedure that you go
+
+911
+00:36:41,579 --> 00:36:44,160
+through from the top down okay and it
+
+912
+00:36:44,160 --> 00:36:46,859
+leads you to specific decision points
+
+913
+00:36:46,859 --> 00:36:49,079
+that tells you okay right now I think
+
+914
+00:36:49,079 --> 00:36:50,480
+this is what I should be doing
+
+915
+00:36:50,480 --> 00:36:53,339
+regardless of what discipline or Trader
+
+916
+00:36:53,339 --> 00:36:54,839
+you're going to be it starts from the
+
+917
+00:36:54,839 --> 00:36:56,640
+higher time frame position Traders
+
+918
+00:36:56,640 --> 00:36:59,760
+mindset as you would do with one shot
+
+919
+00:36:59,760 --> 00:37:02,579
+one kill and you reduce it down
+
+920
+00:37:02,579 --> 00:37:04,500
+and you reduce it down to swing trading
+
+921
+00:37:04,500 --> 00:37:06,720
+and you reduce it down to short-term
+
+922
+00:37:06,720 --> 00:37:08,160
+trading you need to reduce it down to
+
+923
+00:37:08,160 --> 00:37:10,200
+day trading so you can get that real low
+
+924
+00:37:10,200 --> 00:37:13,260
+risk real tight precision and if you
+
+925
+00:37:13,260 --> 00:37:14,700
+really want to get insane about it you
+
+926
+00:37:14,700 --> 00:37:17,880
+can use the scalping ideas and get
+
+927
+00:37:17,880 --> 00:37:20,579
+insane with 10 pip stops but it's not
+
+928
+00:37:20,579 --> 00:37:22,800
+necessary you don't need that but the
+
+929
+00:37:22,800 --> 00:37:24,240
+point is it's there it's made available
+
+930
+00:37:24,240 --> 00:37:25,560
+to you
+
+931
+00:37:25,560 --> 00:37:27,240
+so the police has been insightful to you
+
+932
+00:37:27,240 --> 00:37:29,099
+and it helps fill in the gaps with the
+
+933
+00:37:29,099 --> 00:37:31,079
+short-term trading that I taught in my
+
+934
+00:37:31,079 --> 00:37:33,119
+free tutorials and it gives you all the
+
+935
+00:37:33,119 --> 00:37:36,300
+elements to how I trade ICT one shot one
+
+936
+00:37:36,300 --> 00:37:38,540
+kill
+

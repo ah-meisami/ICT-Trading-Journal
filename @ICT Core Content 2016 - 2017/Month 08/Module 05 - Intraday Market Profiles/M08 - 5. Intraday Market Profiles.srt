@@ -1,0 +1,2084 @@
+1
+00:00:16,619 --> 00:00:19,560
+hey folks welcome to lesson five of the
+
+2
+00:00:19,560 --> 00:00:22,859
+April 2017 ICT mentorship ICT day
+
+3
+00:00:22,859 --> 00:00:24,660
+trading model this teaching is
+
+4
+00:00:24,660 --> 00:00:26,519
+specifically dealing with intraday
+
+5
+00:00:26,519 --> 00:00:29,599
+market profiles
+
+6
+00:00:33,360 --> 00:00:35,880
+the intraday market profiles the first
+
+7
+00:00:35,880 --> 00:00:39,020
+we're going to go over is
+
+8
+00:00:39,680 --> 00:00:42,660
+the Sell profile of London normal
+
+9
+00:00:42,660 --> 00:00:45,379
+protraction
+
+10
+00:00:46,200 --> 00:00:49,079
+and what you want to be looking for for
+
+11
+00:00:49,079 --> 00:00:51,680
+a classic Sell day for intraday trading
+
+12
+00:00:51,680 --> 00:00:54,020
+there's going to be lots of different
+
+13
+00:00:54,020 --> 00:00:57,420
+Deviation and and subtle
+
+14
+00:00:57,420 --> 00:01:00,360
+variances in in these specific themes
+
+15
+00:01:00,360 --> 00:01:02,760
+they won't look exactly like I'm
+
+16
+00:01:02,760 --> 00:01:05,159
+outlining here obviously that's what
+
+17
+00:01:05,159 --> 00:01:07,920
+makes the trading somewhat difficult
+
+18
+00:01:07,920 --> 00:01:09,540
+because you have to look for
+
+19
+00:01:09,540 --> 00:01:12,900
+similarities across the board so they're
+
+20
+00:01:12,900 --> 00:01:17,299
+going to have a great deal of
+
+21
+00:01:17,299 --> 00:01:21,180
+similarity among many Sell days and the
+
+22
+00:01:21,180 --> 00:01:23,220
+ideal scenarios will look very close to
+
+23
+00:01:23,220 --> 00:01:26,119
+what I'm outlining here
+
+24
+00:01:26,640 --> 00:01:28,500
+but you start with the Central Bank
+
+25
+00:01:28,500 --> 00:01:32,340
+dealers range and for a classic or high
+
+26
+00:01:32,340 --> 00:01:34,680
+probability London normal protraction
+
+27
+00:01:34,680 --> 00:01:36,299
+Sell day
+
+28
+00:01:36,299 --> 00:01:37,860
+the CentralBankDealersRange is going
+
+29
+00:01:37,860 --> 00:01:40,740
+to be less than 40 Pips now as soon as
+
+30
+00:01:40,740 --> 00:01:42,060
+you see a CentralBankDealersRange
+
+31
+00:01:42,060 --> 00:01:44,820
+that's greater than 40 Pips this is not
+
+32
+00:01:44,820 --> 00:01:46,920
+going to be that profile so you'll have
+
+33
+00:01:46,920 --> 00:01:48,479
+to either go to the next one we'll teach
+
+34
+00:01:48,479 --> 00:01:50,820
+in this lesson or you just going to
+
+35
+00:01:50,820 --> 00:01:52,020
+consider whether or not you're gonna be
+
+36
+00:01:52,020 --> 00:01:54,439
+trading on
+
+37
+00:01:54,540 --> 00:01:56,579
+the Asian session
+
+38
+00:01:56,579 --> 00:01:59,579
+range between eight o'clock and midnight
+
+39
+00:01:59,579 --> 00:02:01,560
+NewYork time we call that the Asian
+
+40
+00:02:01,560 --> 00:02:02,520
+range
+
+41
+00:02:02,520 --> 00:02:05,280
+this is going to also have a classic
+
+42
+00:02:05,280 --> 00:02:08,399
+range of 20 to 30 Pips if it's larger
+
+43
+00:02:08,399 --> 00:02:10,979
+than that again this profile will not be
+
+44
+00:02:10,979 --> 00:02:13,459
+existing
+
+45
+00:02:15,420 --> 00:02:17,400
+typically what you're going to see is
+
+46
+00:02:17,400 --> 00:02:21,300
+the market will rally up after 12 AM
+
+47
+00:02:21,300 --> 00:02:25,800
+NewYork time to 2 AM NewYork time now
+
+48
+00:02:25,800 --> 00:02:28,620
+think about what I'm explaining here
+
+49
+00:02:28,620 --> 00:02:30,900
+you're already looking for a bearish
+
+50
+00:02:30,900 --> 00:02:33,000
+move you're already bearish on the
+
+51
+00:02:33,000 --> 00:02:34,800
+HTF the dailies indicating
+
+52
+00:02:34,800 --> 00:02:36,959
+lower prices so what we're looking for
+
+53
+00:02:36,959 --> 00:02:39,239
+is the London High to form
+
+54
+00:02:39,239 --> 00:02:41,819
+classically the high probability
+
+55
+00:02:41,819 --> 00:02:44,580
+scenario for this profile to unfold is
+
+56
+00:02:44,580 --> 00:02:47,099
+you have to see what time it is in New
+
+57
+00:02:47,099 --> 00:02:49,379
+York at midnight and then you're going
+
+58
+00:02:49,379 --> 00:02:51,360
+to be seeing price immediately start
+
+59
+00:02:51,360 --> 00:02:54,300
+trading up from that point
+
+60
+00:02:54,300 --> 00:02:57,060
+if it does not start trading up into two
+
+61
+00:02:57,060 --> 00:02:58,379
+o'clock in the morning
+
+62
+00:02:58,379 --> 00:03:02,220
+NewYork time that is not this profile
+
+63
+00:03:02,220 --> 00:03:04,560
+so right away you have a filter
+
+64
+00:03:04,560 --> 00:03:06,660
+you have essential Bank deals range has
+
+65
+00:03:06,660 --> 00:03:09,599
+to be less than 40 Pips check agent
+
+66
+00:03:09,599 --> 00:03:12,780
+range has to be 20 30 Pips check now if
+
+67
+00:03:12,780 --> 00:03:15,180
+those two conditions are there but yet
+
+68
+00:03:15,180 --> 00:03:18,120
+we do not see price rallying after 12
+
+69
+00:03:18,120 --> 00:03:21,420
+AM NewYork time into 2 AM if that
+
+70
+00:03:21,420 --> 00:03:24,180
+does not occur again that is not the
+
+71
+00:03:24,180 --> 00:03:28,040
+London normal protractionary Sell day
+
+72
+00:03:29,340 --> 00:03:32,580
+the protractionary stage or Judah swing
+
+73
+00:03:32,580 --> 00:03:35,280
+will be one to two StandardDeviation
+
+74
+00:03:35,280 --> 00:03:37,680
+of the CentralBankDealersRange
+
+75
+00:03:37,680 --> 00:03:39,720
+now let's recap what I just explained to
+
+76
+00:03:39,720 --> 00:03:40,500
+you
+
+77
+00:03:40,500 --> 00:03:43,019
+the ideal scenario the one I like to
+
+78
+00:03:43,019 --> 00:03:45,120
+trade the one that makes me sit on the
+
+79
+00:03:45,120 --> 00:03:47,519
+sideline and wait for these specific
+
+80
+00:03:47,519 --> 00:03:48,900
+criteria
+
+81
+00:03:48,900 --> 00:03:50,519
+everyone wants to know when I'm trading
+
+82
+00:03:50,519 --> 00:03:53,580
+London this is what I'm looking for this
+
+83
+00:03:53,580 --> 00:03:55,680
+is my money making day this is the thing
+
+84
+00:03:55,680 --> 00:03:59,400
+that outlines the whole thing for my
+
+85
+00:03:59,400 --> 00:04:02,519
+Sell day for London this is my go-to I
+
+86
+00:04:02,519 --> 00:04:05,879
+like this profile if I do not have these
+
+87
+00:04:05,879 --> 00:04:09,780
+ingredients if you will I'm not bacon in
+
+88
+00:04:09,780 --> 00:04:11,760
+London I'm just not going to do it so
+
+89
+00:04:11,760 --> 00:04:14,040
+again let's consider what this is
+
+90
+00:04:14,040 --> 00:04:16,440
+outlined if the Central Bank dealers
+
+91
+00:04:16,440 --> 00:04:19,019
+range is greater than 40 Pips there's
+
+92
+00:04:19,019 --> 00:04:21,238
+been a whole lot more later afternoon
+
+93
+00:04:21,238 --> 00:04:24,000
+NewYork session price action so that
+
+94
+00:04:24,000 --> 00:04:26,880
+means it's been extended further
+
+95
+00:04:26,880 --> 00:04:29,000
+if they have allowed the price to move
+
+96
+00:04:29,000 --> 00:04:31,800
+further and arranged greater than 40
+
+97
+00:04:31,800 --> 00:04:32,699
+Pips
+
+98
+00:04:32,699 --> 00:04:35,699
+after 2 PM NewYork time that's going to
+
+99
+00:04:35,699 --> 00:04:38,220
+mess up their model for allowing the
+
+100
+00:04:38,220 --> 00:04:39,419
+float to build
+
+101
+00:04:39,419 --> 00:04:41,280
+you want to see a consolidation between
+
+102
+00:04:41,280 --> 00:04:45,360
+two o'clock PM to 8 PM NewYork time
+
+103
+00:04:45,360 --> 00:04:47,880
+if that does not exist right away you
+
+104
+00:04:47,880 --> 00:04:49,020
+have a warning sign that you're probably
+
+105
+00:04:49,020 --> 00:04:50,460
+not going to be wanting to trade London
+
+106
+00:04:50,460 --> 00:04:51,960
+now that can change
+
+107
+00:04:51,960 --> 00:04:54,780
+what makes that change is if the Asian
+
+108
+00:04:54,780 --> 00:04:57,840
+range goes down to a 20 to 30 pip range
+
+109
+00:04:57,840 --> 00:05:00,240
+and stays very tightly consolidated
+
+110
+00:05:00,240 --> 00:05:02,699
+so CentralBankDealersRange can get
+
+111
+00:05:02,699 --> 00:05:06,300
+wider than 40 Pips but it the Asian
+
+112
+00:05:06,300 --> 00:05:08,040
+range does not move down into a small
+
+113
+00:05:08,040 --> 00:05:10,979
+consolidation of 20 to 30 Pips
+
+114
+00:05:10,979 --> 00:05:12,720
+you can't take the London session
+
+115
+00:05:12,720 --> 00:05:14,400
+because you've already seen a lot of
+
+116
+00:05:14,400 --> 00:05:16,320
+volatility both in Central Bank dealers
+
+117
+00:05:16,320 --> 00:05:18,479
+range so it means late NewYork going to
+
+118
+00:05:18,479 --> 00:05:20,160
+bonds close there's probably been
+
+119
+00:05:20,160 --> 00:05:22,259
+something going on and they are not
+
+120
+00:05:22,259 --> 00:05:24,960
+allowing float to build up and you have
+
+121
+00:05:24,960 --> 00:05:27,300
+to wait until 8 PM for the Asian session
+
+122
+00:05:27,300 --> 00:05:30,780
+to begin and then between 8 PM NewYork
+
+123
+00:05:30,780 --> 00:05:33,780
+time midnight NewYork time we'll be
+
+124
+00:05:33,780 --> 00:05:36,120
+looking for consolidation in a range of
+
+125
+00:05:36,120 --> 00:05:38,100
+20 to 30 Pips
+
+126
+00:05:38,100 --> 00:05:40,380
+if they can consolidate the Asian range
+
+127
+00:05:40,380 --> 00:05:42,840
+20 30 Pips after a larger than 40 Pips
+
+128
+00:05:42,840 --> 00:05:44,400
+CentralBankDealersRange
+
+129
+00:05:44,400 --> 00:05:46,560
+then we can go back to electing to look
+
+130
+00:05:46,560 --> 00:05:47,820
+for this profile
+
+131
+00:05:47,820 --> 00:05:51,000
+now the market again has to Rally
+
+132
+00:05:51,000 --> 00:05:54,720
+immediately after midnight NewYork time
+
+133
+00:05:54,720 --> 00:05:56,460
+and you want to see that sustained
+
+134
+00:05:56,460 --> 00:05:59,280
+movement higher moving up into towards
+
+135
+00:05:59,280 --> 00:06:02,220
+the two o'clock hour in NewYork time so
+
+136
+00:06:02,220 --> 00:06:04,320
+what that's doing is it's creating that
+
+137
+00:06:04,320 --> 00:06:06,300
+initial move that protractionary state
+
+138
+00:06:06,300 --> 00:06:09,000
+you are looking for the move to be going
+
+139
+00:06:09,000 --> 00:06:13,979
+up but the entry can occur as early as 1
+
+140
+00:06:13,979 --> 00:06:16,380
+30 AM NewYork time one o'clock in the
+
+141
+00:06:16,380 --> 00:06:18,479
+morning NewYork time
+
+142
+00:06:18,479 --> 00:06:20,600
+you want to see immediate movement up
+
+143
+00:06:20,600 --> 00:06:24,600
+after 12 AM now it might have a small
+
+144
+00:06:24,600 --> 00:06:27,360
+little move down after 12 AM but it'll
+
+145
+00:06:27,360 --> 00:06:29,520
+be modest you're expecting that to turn
+
+146
+00:06:29,520 --> 00:06:31,860
+up shortly after midnight then you have
+
+147
+00:06:31,860 --> 00:06:36,060
+to be looking for Price movement at 1am
+
+148
+00:06:36,060 --> 00:06:38,639
+to 1 30 it should have made a higher
+
+149
+00:06:38,639 --> 00:06:40,620
+high than that what was seen in the
+
+150
+00:06:40,620 --> 00:06:42,660
+Asian range or the Central Bank dealers
+
+151
+00:06:42,660 --> 00:06:43,500
+range
+
+152
+00:06:43,500 --> 00:06:45,479
+that's the protractionary stage in the
+
+153
+00:06:45,479 --> 00:06:47,880
+marketplace but ideally it will trade up
+
+154
+00:06:47,880 --> 00:06:51,300
+from 12 AM to 2 AM
+
+155
+00:06:51,300 --> 00:06:55,020
+that movement up is IPDA expanding the
+
+156
+00:06:55,020 --> 00:06:57,120
+range with a projectionary state or
+
+157
+00:06:57,120 --> 00:07:01,740
+sucking in buyers or squeezing on those
+
+158
+00:07:01,740 --> 00:07:03,780
+people that have stops just above the
+
+159
+00:07:03,780 --> 00:07:07,280
+marketplace they're already short
+
+160
+00:07:07,560 --> 00:07:09,479
+when the progress when the protraction a
+
+161
+00:07:09,479 --> 00:07:11,699
+stage or due to swing occurs we're
+
+162
+00:07:11,699 --> 00:07:13,080
+looking for one to two Standard
+
+163
+00:07:13,080 --> 00:07:14,460
+Deviation of the Central Bank dealer's
+
+164
+00:07:14,460 --> 00:07:16,919
+range if all these criterias are met and
+
+165
+00:07:16,919 --> 00:07:18,360
+then you end up nailing the high of the
+
+166
+00:07:18,360 --> 00:07:20,520
+day between two o'clock and four o'clock
+
+167
+00:07:20,520 --> 00:07:22,319
+in the morning typically
+
+168
+00:07:22,319 --> 00:07:25,020
+for your classic Sell profile London
+
+169
+00:07:25,020 --> 00:07:27,740
+normal protection
+
+170
+00:07:29,819 --> 00:07:31,680
+as an example this is what it would look
+
+171
+00:07:31,680 --> 00:07:32,940
+like
+
+172
+00:07:32,940 --> 00:07:34,199
+as you can see here we have a small
+
+173
+00:07:34,199 --> 00:07:38,280
+consolidation Asian range and we have an
+
+174
+00:07:38,280 --> 00:07:40,919
+immediately after midnight time frame
+
+175
+00:07:40,919 --> 00:07:43,500
+price goes straight up
+
+176
+00:07:43,500 --> 00:07:45,900
+and then from there creates the high
+
+177
+00:07:45,900 --> 00:07:47,759
+today and trades down
+
+178
+00:07:47,759 --> 00:07:49,919
+creating the LOD around the
+
+179
+00:07:49,919 --> 00:07:51,419
+monthly closed time period and then
+
+180
+00:07:51,419 --> 00:07:55,639
+coming off the low into consolidation
+
+181
+00:07:58,280 --> 00:08:00,919
+the projectionary stage is seen here
+
+182
+00:08:00,919 --> 00:08:06,199
+immediately after that midnight candle
+
+183
+00:08:09,180 --> 00:08:11,039
+okay intraday market profiles continue
+
+184
+00:08:11,039 --> 00:08:14,639
+to our Sell profile with London delayed
+
+185
+00:08:14,639 --> 00:08:17,240
+protraction
+
+186
+00:08:17,639 --> 00:08:19,860
+the market may or may not have a
+
+187
+00:08:19,860 --> 00:08:21,720
+favorable Central Bank dealer's range
+
+188
+00:08:21,720 --> 00:08:23,819
+that means it could be
+
+189
+00:08:23,819 --> 00:08:26,580
+an ideal stage set it could be less than
+
+190
+00:08:26,580 --> 00:08:28,199
+40 Pips or it could be greater than 40
+
+191
+00:08:28,199 --> 00:08:31,379
+Pips this profile can go either way when
+
+192
+00:08:31,379 --> 00:08:32,580
+we're using the Central Bank dealers
+
+193
+00:08:32,580 --> 00:08:34,880
+range
+
+194
+00:08:35,059 --> 00:08:37,440
+the DirectionalBias is going to be
+
+195
+00:08:37,440 --> 00:08:40,020
+bearish but the protractionary stage is
+
+196
+00:08:40,020 --> 00:08:41,339
+going to be delayed in the day in other
+
+197
+00:08:41,339 --> 00:08:43,320
+words we're not going to see the rally
+
+198
+00:08:43,320 --> 00:08:44,940
+right after
+
+199
+00:08:44,940 --> 00:08:47,459
+midnight in NewYork time it may just
+
+200
+00:08:47,459 --> 00:08:51,860
+erode and go lower right after midnight
+
+201
+00:08:52,620 --> 00:08:55,440
+IPDA will enter a protectionary stage at
+
+202
+00:08:55,440 --> 00:08:58,980
+or shortly after 2 AM NewYork so what
+
+203
+00:08:58,980 --> 00:09:00,779
+you're going to be doing is you have a
+
+204
+00:09:00,779 --> 00:09:03,000
+vertical line on your 15-minute time
+
+205
+00:09:03,000 --> 00:09:05,940
+frame and you're looking for price to
+
+206
+00:09:05,940 --> 00:09:10,260
+Stage a rally at or just shortly after 2
+
+207
+00:09:10,260 --> 00:09:11,339
+AM
+
+208
+00:09:11,339 --> 00:09:13,860
+that rally is going to be a intraday
+
+209
+00:09:13,860 --> 00:09:15,660
+inside the range it's already existing
+
+210
+00:09:15,660 --> 00:09:17,640
+or inside the the height it's already
+
+211
+00:09:17,640 --> 00:09:18,959
+formed for the day it's going to be
+
+212
+00:09:18,959 --> 00:09:22,200
+creating a smaller little Judas swing
+
+213
+00:09:22,200 --> 00:09:23,820
+it's going to Rally up from two o'clock
+
+214
+00:09:23,820 --> 00:09:25,800
+and making your
+
+215
+00:09:25,800 --> 00:09:30,060
+London entry comes in fruition
+
+216
+00:09:30,060 --> 00:09:32,279
+you'll be looking for an intraday
+
+217
+00:09:32,279 --> 00:09:35,339
+premium PD array to short on inside that
+
+218
+00:09:35,339 --> 00:09:36,839
+retracement now again that retracement
+
+219
+00:09:36,839 --> 00:09:41,040
+is going to occur at or just after 2 AM
+
+220
+00:09:41,040 --> 00:09:43,080
+when do you look for that when the
+
+221
+00:09:43,080 --> 00:09:46,560
+market does not create that 12 AM New
+
+222
+00:09:46,560 --> 00:09:48,660
+York time rally in other words the price
+
+223
+00:09:48,660 --> 00:09:50,399
+does not go into a pretractionary stage
+
+224
+00:09:50,399 --> 00:09:53,339
+higher after midnight it just rolls over
+
+225
+00:09:53,339 --> 00:09:55,920
+goes soft and this makes a progressively
+
+226
+00:09:55,920 --> 00:09:58,860
+lower move going into 2 AM not a
+
+227
+00:09:58,860 --> 00:10:01,980
+problem draw vertical line at 2 AM wait
+
+228
+00:10:01,980 --> 00:10:04,860
+for a retracement higher that will be if
+
+229
+00:10:04,860 --> 00:10:06,720
+this protractionary stage it will not
+
+230
+00:10:06,720 --> 00:10:09,540
+want to make a higher high and price
+
+231
+00:10:09,540 --> 00:10:11,940
+will go to a premium PD array bearish
+
+232
+00:10:11,940 --> 00:10:13,980
+order block close the fair value Gap or
+
+233
+00:10:13,980 --> 00:10:15,899
+liquidity void and then you'll be
+
+234
+00:10:15,899 --> 00:10:17,459
+selling short on the day and again the
+
+235
+00:10:17,459 --> 00:10:19,380
+primary premises is you already have to
+
+236
+00:10:19,380 --> 00:10:21,660
+have a bearish Outlook
+
+237
+00:10:21,660 --> 00:10:25,920
+the daily is respecting resistance ideas
+
+238
+00:10:25,920 --> 00:10:27,779
+and it should be seeking sell side
+
+239
+00:10:27,779 --> 00:10:31,019
+liquidity if you have this criteria this
+
+240
+00:10:31,019 --> 00:10:32,700
+is the London delayed protractionary
+
+241
+00:10:32,700 --> 00:10:34,440
+profile that you look to trade off of
+
+242
+00:10:34,440 --> 00:10:36,899
+but the key is having that two o'clock
+
+243
+00:10:36,899 --> 00:10:40,680
+time frame there must be a rally up at
+
+244
+00:10:40,680 --> 00:10:44,160
+or just after 2 AM trading up into a
+
+245
+00:10:44,160 --> 00:10:46,500
+premium PD array in the time frame
+
+246
+00:10:46,500 --> 00:10:48,060
+you're trading on which is the 15-minute
+
+247
+00:10:48,060 --> 00:10:50,240
+chart
+
+248
+00:10:52,860 --> 00:10:55,800
+an example that would be seen here
+
+249
+00:10:55,800 --> 00:10:59,040
+price rolls over just doesn't make any
+
+250
+00:10:59,040 --> 00:11:00,060
+higher high
+
+251
+00:11:00,060 --> 00:11:02,220
+then we have a protraction a stage rate
+
+252
+00:11:02,220 --> 00:11:04,860
+after two o'clock on this time frame
+
+253
+00:11:04,860 --> 00:11:07,920
+this is  seen with 70 Mt which would
+
+254
+00:11:07,920 --> 00:11:10,079
+be two o'clock in NewYork time price
+
+255
+00:11:10,079 --> 00:11:12,240
+creates a rally trades back up into a
+
+256
+00:11:12,240 --> 00:11:14,519
+bearish order block and then creates the
+
+257
+00:11:14,519 --> 00:11:18,380
+London session High trading lower
+
+258
+00:11:20,279 --> 00:11:21,899
+and you can see the projectionary stage
+
+259
+00:11:21,899 --> 00:11:23,100
+here
+
+260
+00:11:23,100 --> 00:11:26,660
+after 2 AM
+
+261
+00:11:27,959 --> 00:11:30,839
+okay intra market profiles continued now
+
+262
+00:11:30,839 --> 00:11:33,180
+we'll look at the buy profiles
+
+263
+00:11:33,180 --> 00:11:34,920
+now this is the one I like to trade when
+
+264
+00:11:34,920 --> 00:11:36,720
+I'm looking to buy in the London session
+
+265
+00:11:36,720 --> 00:11:38,940
+this is the London normal protraction
+
+266
+00:11:38,940 --> 00:11:41,220
+stage CentralBankDealersRange again
+
+267
+00:11:41,220 --> 00:11:45,079
+is going to be less than 40 Pips
+
+268
+00:11:46,200 --> 00:11:49,320
+the Asian range is 20 to 30 Pips again a
+
+269
+00:11:49,320 --> 00:11:52,100
+narrow consolidation
+
+270
+00:11:52,560 --> 00:11:55,440
+the Market's going to decline lower
+
+271
+00:11:55,440 --> 00:11:59,040
+after 12 AM NewYork time into 2 AM
+
+272
+00:11:59,040 --> 00:12:01,140
+NewYork that's the fingerprint if you
+
+273
+00:12:01,140 --> 00:12:02,940
+will that if does doing what we're
+
+274
+00:12:02,940 --> 00:12:04,079
+outlining here in terms of
+
+275
+00:12:04,079 --> 00:12:06,839
+characteristics so if we do not see an
+
+276
+00:12:06,839 --> 00:12:09,420
+immediate decline from 12 AM NewYork
+
+277
+00:12:09,420 --> 00:12:12,060
+down into 2 AM NewYork
+
+278
+00:12:12,060 --> 00:12:14,880
+this is not going to be a London normal
+
+279
+00:12:14,880 --> 00:12:18,200
+protraction BuyDay
+
+280
+00:12:18,240 --> 00:12:20,459
+the projectionary stage or Judah swing
+
+281
+00:12:20,459 --> 00:12:22,260
+will be one to two StandardDeviation
+
+282
+00:12:22,260 --> 00:12:25,700
+of the Central Bank dealer's range
+
+283
+00:12:27,779 --> 00:12:29,820
+so what we're looking at here again
+
+284
+00:12:29,820 --> 00:12:31,680
+CentralBankDealersRange is going to
+
+285
+00:12:31,680 --> 00:12:33,240
+be less than 40 Pips
+
+286
+00:12:33,240 --> 00:12:36,540
+so they are consolidating the late New
+
+287
+00:12:36,540 --> 00:12:39,600
+York session going into Bond close
+
+288
+00:12:39,600 --> 00:12:43,320
+then an Asian range has a small narrow
+
+289
+00:12:43,320 --> 00:12:45,600
+20 to 30 pip range as well so they are
+
+290
+00:12:45,600 --> 00:12:47,639
+allowing orders to build up above and
+
+291
+00:12:47,639 --> 00:12:50,040
+below the marketplace
+
+292
+00:12:50,040 --> 00:12:52,380
+the market starts dropping immediately
+
+293
+00:12:52,380 --> 00:12:55,560
+after 12 AM NewYork time at midnight
+
+294
+00:12:55,560 --> 00:12:59,160
+and it trades lower down into 2 AM now
+
+295
+00:12:59,160 --> 00:13:03,120
+again the London low can form just ahead
+
+296
+00:13:03,120 --> 00:13:04,980
+of 2 AM but we're looking for a price
+
+297
+00:13:04,980 --> 00:13:07,800
+to be trending towards or making lower
+
+298
+00:13:07,800 --> 00:13:12,660
+lows going into that 2 AM time period
+
+299
+00:13:12,660 --> 00:13:14,639
+the market can start with an initial
+
+300
+00:13:14,639 --> 00:13:17,160
+move up very modest little move after 12
+
+301
+00:13:17,160 --> 00:13:20,339
+AM but it has to start trending lower
+
+302
+00:13:20,339 --> 00:13:23,880
+after 12 AM or shortly thereafter and
+
+303
+00:13:23,880 --> 00:13:26,040
+it has to consistently move lower past
+
+304
+00:13:26,040 --> 00:13:30,660
+ideally 1am 1 30 AM and right about
+
+305
+00:13:30,660 --> 00:13:33,360
+then you have a confirmation that the
+
+306
+00:13:33,360 --> 00:13:35,940
+London normal protraction by profile is
+
+307
+00:13:35,940 --> 00:13:37,800
+unfolding
+
+308
+00:13:37,800 --> 00:13:39,899
+you're gonna be looking for that Judas
+
+309
+00:13:39,899 --> 00:13:41,459
+swing or protractionary stage in the
+
+310
+00:13:41,459 --> 00:13:43,800
+marketplace to reach down one to two
+
+311
+00:13:43,800 --> 00:13:45,779
+StandardDeviation
+
+312
+00:13:45,779 --> 00:13:47,760
+in the CentralBankDealersRange and
+
+313
+00:13:47,760 --> 00:13:50,779
+that'll be your projected low
+
+314
+00:13:52,800 --> 00:13:56,540
+an example that is seen here
+
+315
+00:13:56,639 --> 00:13:59,459
+the market enters a small Central Bank
+
+316
+00:13:59,459 --> 00:14:02,040
+dealers range and Asian range is also a
+
+317
+00:14:02,040 --> 00:14:03,600
+respectable
+
+318
+00:14:03,600 --> 00:14:06,180
+range in terms of Pips
+
+319
+00:14:06,180 --> 00:14:09,240
+then price drops
+
+320
+00:14:09,240 --> 00:14:12,180
+lower right after
+
+321
+00:14:12,180 --> 00:14:15,320
+the midnight candle
+
+322
+00:14:16,740 --> 00:14:19,440
+finds the LOD and expands up
+
+323
+00:14:19,440 --> 00:14:22,339
+for higher close
+
+324
+00:14:23,820 --> 00:14:25,320
+as you can see here this is the
+
+325
+00:14:25,320 --> 00:14:27,959
+protraction stage
+
+326
+00:14:27,959 --> 00:14:32,300
+immediately after 12 AM NewYork time
+
+327
+00:14:33,180 --> 00:14:35,100
+okay intraday market profiles continuing
+
+328
+00:14:35,100 --> 00:14:37,380
+with our buy profile of the London
+
+329
+00:14:37,380 --> 00:14:40,459
+delayed protraction
+
+330
+00:14:41,040 --> 00:14:42,540
+for this we're going to be looking for
+
+331
+00:14:42,540 --> 00:14:45,480
+the market may or may not have a
+
+332
+00:14:45,480 --> 00:14:47,220
+favorable CentralBankDealersRange so
+
+333
+00:14:47,220 --> 00:14:49,740
+it can happen either or it can be in a
+
+334
+00:14:49,740 --> 00:14:51,060
+day where the CentralBankDealersRange
+
+335
+00:14:51,060 --> 00:14:53,160
+is less than 40 Pips or greater than 40
+
+336
+00:14:53,160 --> 00:14:57,420
+Pips the filter moves over to the Asian
+
+337
+00:14:57,420 --> 00:14:59,820
+range that is also a defining Factor it
+
+338
+00:14:59,820 --> 00:15:02,579
+helps build this a little bit more as a
+
+339
+00:15:02,579 --> 00:15:04,620
+favorable trading profile if the Asian
+
+340
+00:15:04,620 --> 00:15:07,500
+range creates a small range
+
+341
+00:15:07,500 --> 00:15:09,660
+but it's not necessary because the
+
+342
+00:15:09,660 --> 00:15:12,420
+profile could be seen with or without
+
+343
+00:15:12,420 --> 00:15:15,060
+the Asian range being in a range or the
+
+344
+00:15:15,060 --> 00:15:16,800
+Central Bank dealer's range being in a
+
+345
+00:15:16,800 --> 00:15:19,680
+small consolidation as well
+
+346
+00:15:19,680 --> 00:15:21,660
+main premise is the DirectionalBias is
+
+347
+00:15:21,660 --> 00:15:26,120
+bullish but the protraction is delayed
+
+348
+00:15:26,519 --> 00:15:28,740
+IPDA will enter a protraction stage at
+
+349
+00:15:28,740 --> 00:15:32,720
+or shortly after 2 AM NewYork
+
+350
+00:15:32,940 --> 00:15:34,500
+and you're gonna be looking for a
+
+351
+00:15:34,500 --> 00:15:38,040
+discount PD array to buy at during a
+
+352
+00:15:38,040 --> 00:15:39,899
+retracement that will occur
+
+353
+00:15:39,899 --> 00:15:42,300
+at or shortly after
+
+354
+00:15:42,300 --> 00:15:45,420
+2 AM NewYork time
+
+355
+00:15:45,420 --> 00:15:47,519
+so what are we saying here we have a
+
+356
+00:15:47,519 --> 00:15:49,800
+market that has a questionable Central
+
+357
+00:15:49,800 --> 00:15:51,420
+Bank dealers range that doesn't mean
+
+358
+00:15:51,420 --> 00:15:53,699
+that we just toss it out we have to look
+
+359
+00:15:53,699 --> 00:15:55,440
+at what's going on at midnight so we
+
+360
+00:15:55,440 --> 00:15:56,940
+have to get up or make ourselves
+
+361
+00:15:56,940 --> 00:15:59,760
+available at midnight and see okay we're
+
+362
+00:15:59,760 --> 00:16:01,079
+going to be looking for the
+
+363
+00:16:01,079 --> 00:16:02,699
+characteristics that's being described
+
+364
+00:16:02,699 --> 00:16:04,860
+here if we have wider than 40 Pips
+
+365
+00:16:04,860 --> 00:16:06,779
+CentralBankDealersRange okay then we
+
+366
+00:16:06,779 --> 00:16:08,459
+probably are going to be seeing a London
+
+367
+00:16:08,459 --> 00:16:10,320
+delayed protractionary stage
+
+368
+00:16:10,320 --> 00:16:12,180
+the DirectionalBias has to be clearly
+
+369
+00:16:12,180 --> 00:16:13,199
+bullish
+
+370
+00:16:13,199 --> 00:16:15,540
+and if we don't see the characteristics
+
+371
+00:16:15,540 --> 00:16:18,779
+that we saw for the London
+
+372
+00:16:18,779 --> 00:16:21,300
+protractionary Day for buy profile then
+
+373
+00:16:21,300 --> 00:16:22,560
+we have to look for these types of
+
+374
+00:16:22,560 --> 00:16:25,019
+things for the delay
+
+375
+00:16:25,019 --> 00:16:26,940
+so if it will enter a protractionary
+
+376
+00:16:26,940 --> 00:16:29,399
+stage at or shortly after 2 AM so what
+
+377
+00:16:29,399 --> 00:16:31,740
+we can do is if we see all those
+
+378
+00:16:31,740 --> 00:16:34,260
+indications are there at midnight we can
+
+379
+00:16:34,260 --> 00:16:37,320
+either take a nap or we can stay up and
+
+380
+00:16:37,320 --> 00:16:40,680
+wait to see if there's that delayed
+
+381
+00:16:40,680 --> 00:16:42,720
+protractionary stage or due to swing
+
+382
+00:16:42,720 --> 00:16:46,220
+that begins at 2 AM and will retrace
+
+383
+00:16:46,220 --> 00:16:49,500
+lower and it will seek a intraday
+
+384
+00:16:49,500 --> 00:16:51,899
+discount PD array
+
+385
+00:16:51,899 --> 00:16:53,820
+and you'll be buying that during that
+
+386
+00:16:53,820 --> 00:16:55,320
+retracement so basically it would be
+
+387
+00:16:55,320 --> 00:16:56,820
+like a classic intraday optimal trade
+
+388
+00:16:56,820 --> 00:16:58,019
+entry long
+
+389
+00:16:58,019 --> 00:17:00,420
+or a bowl of shoulder block closing in a
+
+390
+00:17:00,420 --> 00:17:03,180
+fair value Gap below market price or a
+
+391
+00:17:03,180 --> 00:17:04,980
+liquidity void
+
+392
+00:17:04,980 --> 00:17:07,500
+that movement lower
+
+393
+00:17:07,500 --> 00:17:11,400
+that will create that London entry for a
+
+394
+00:17:11,400 --> 00:17:14,780
+London delayed protractionary day
+
+395
+00:17:15,359 --> 00:17:18,059
+an example seen here the market starts
+
+396
+00:17:18,059 --> 00:17:21,480
+up and it doesn't give us a real clear
+
+397
+00:17:21,480 --> 00:17:23,760
+picture right away it starts moving
+
+398
+00:17:23,760 --> 00:17:25,619
+higher doesn't give us that big move
+
+399
+00:17:25,619 --> 00:17:26,579
+lower
+
+400
+00:17:26,579 --> 00:17:29,340
+or initial drop down so we have a
+
+401
+00:17:29,340 --> 00:17:30,720
+questionable
+
+402
+00:17:30,720 --> 00:17:32,220
+CentralBankDealersRange or agent
+
+403
+00:17:32,220 --> 00:17:33,780
+range scenario
+
+404
+00:17:33,780 --> 00:17:36,299
+we can be looking for
+
+405
+00:17:36,299 --> 00:17:38,039
+our DirectionalBias to unfold which is
+
+406
+00:17:38,039 --> 00:17:40,080
+a bullish day IPDA will enter a
+
+407
+00:17:40,080 --> 00:17:41,880
+processionary stage at or shortly after
+
+408
+00:17:41,880 --> 00:17:44,220
+2 AM NewYork that's the blue line here
+
+409
+00:17:44,220 --> 00:17:47,340
+Market drops down and dips into an
+
+410
+00:17:47,340 --> 00:17:49,799
+intraday discount PD array in this
+
+411
+00:17:49,799 --> 00:17:51,179
+example here you can see it trades down
+
+412
+00:17:51,179 --> 00:17:53,520
+into a previous down closed candle or
+
+413
+00:17:53,520 --> 00:17:55,620
+bowl of shorter block creating the
+
+414
+00:17:55,620 --> 00:17:57,840
+London setup to unfold for the rest of
+
+415
+00:17:57,840 --> 00:17:59,460
+the bullish close day
+
+416
+00:17:59,460 --> 00:18:01,020
+and the rest of the template is seen
+
+417
+00:18:01,020 --> 00:18:03,600
+here making the high today in
+
+418
+00:18:03,600 --> 00:18:05,880
+London close trading off of London to
+
+419
+00:18:05,880 --> 00:18:07,140
+close High
+
+420
+00:18:07,140 --> 00:18:10,140
+into consolidation for the daily close
+
+421
+00:18:10,140 --> 00:18:14,820
+so we have two dominant profiles that I
+
+422
+00:18:14,820 --> 00:18:16,559
+like to trade and look for the
+
+423
+00:18:16,559 --> 00:18:18,419
+characteristics are highly specific
+
+424
+00:18:18,419 --> 00:18:20,400
+they're not ambiguous
+
+425
+00:18:20,400 --> 00:18:23,220
+they have specific criteria that we look
+
+426
+00:18:23,220 --> 00:18:24,179
+for
+
+427
+00:18:24,179 --> 00:18:27,299
+if the first one which is the London
+
+428
+00:18:27,299 --> 00:18:28,919
+protraction whether it be buy or sell
+
+429
+00:18:28,919 --> 00:18:31,320
+profiles con characteristics are not
+
+430
+00:18:31,320 --> 00:18:33,960
+there then I look for justification for
+
+431
+00:18:33,960 --> 00:18:36,960
+the delay in the protractionary stages
+
+432
+00:18:36,960 --> 00:18:38,460
+of
+
+433
+00:18:38,460 --> 00:18:42,179
+the London session so the key is 2 AM
+
+434
+00:18:42,179 --> 00:18:43,200
+NewYork
+
+435
+00:18:43,200 --> 00:18:46,200
+so we're looking at 12 AM for a classic
+
+436
+00:18:46,200 --> 00:18:49,740
+London protraction or Judah swing
+
+437
+00:18:49,740 --> 00:18:52,799
+if we don't see that movement in favor
+
+438
+00:18:52,799 --> 00:18:56,880
+of our up close day with a down move
+
+439
+00:18:56,880 --> 00:19:00,120
+after 12 AM at due to swing lower if we
+
+440
+00:19:00,120 --> 00:19:01,320
+don't see that then we're going to be
+
+441
+00:19:01,320 --> 00:19:04,919
+looking for this scenario here 2 AM
+
+442
+00:19:04,919 --> 00:19:07,500
+so here's the criteria
+
+443
+00:19:07,500 --> 00:19:09,780
+you have to be up if you're going to be
+
+444
+00:19:09,780 --> 00:19:11,760
+a London Trader the ideal scenario is
+
+445
+00:19:11,760 --> 00:19:14,039
+you're going to be up at 12 AM
+
+446
+00:19:14,039 --> 00:19:16,080
+NewYork time
+
+447
+00:19:16,080 --> 00:19:19,980
+all the way up to at least in my opinion
+
+448
+00:19:19,980 --> 00:19:23,460
+2 30 AM to 3 AM that's the that's that
+
+449
+00:19:23,460 --> 00:19:25,799
+three hour window once you see what's
+
+450
+00:19:25,799 --> 00:19:27,600
+being outlined in both of these profiles
+
+451
+00:19:27,600 --> 00:19:29,340
+whether you're a buyer or seller I'm
+
+452
+00:19:29,340 --> 00:19:31,860
+only looking for four types of
+
+453
+00:19:31,860 --> 00:19:33,960
+conditions and I should already have
+
+454
+00:19:33,960 --> 00:19:35,880
+just two conditions set for London
+
+455
+00:19:35,880 --> 00:19:37,559
+either I'm going to be bullish or
+
+456
+00:19:37,559 --> 00:19:38,940
+bearish that's going to be this
+
+457
+00:19:38,940 --> 00:19:40,860
+determined by looking at the daily chart
+
+458
+00:19:40,860 --> 00:19:43,679
+and where are we trading off of recently
+
+459
+00:19:43,679 --> 00:19:45,780
+are we moving higher or lower if we're
+
+460
+00:19:45,780 --> 00:19:47,460
+going to be expanding higher then I'm
+
+461
+00:19:47,460 --> 00:19:48,419
+going to be looking for bullish
+
+462
+00:19:48,419 --> 00:19:50,520
+scenarios in London and I'm going to be
+
+463
+00:19:50,520 --> 00:19:51,960
+using the two criterias for the buy
+
+464
+00:19:51,960 --> 00:19:53,640
+profile either it's going to be a London
+
+465
+00:19:53,640 --> 00:19:55,320
+protraction or a London delayed
+
+466
+00:19:55,320 --> 00:19:58,440
+protraction day that's it nothing else
+
+467
+00:19:58,440 --> 00:20:00,059
+is slipping through the cracks nothing
+
+468
+00:20:00,059 --> 00:20:01,919
+else is going to surprise me I'm looking
+
+469
+00:20:01,919 --> 00:20:03,660
+for two criteria I'm looking for a
+
+470
+00:20:03,660 --> 00:20:05,700
+scenario to unfold at 12 AM going into
+
+471
+00:20:05,700 --> 00:20:07,919
+2 AM if that does not happen then I
+
+472
+00:20:07,919 --> 00:20:09,299
+know what I'm looking for at 2 AM I'm
+
+473
+00:20:09,299 --> 00:20:12,780
+looking for that delay of a Judah swing
+
+474
+00:20:12,780 --> 00:20:14,340
+the only difference is I'm going to be
+
+475
+00:20:14,340 --> 00:20:15,900
+either a buyer or seller based on my
+
+476
+00:20:15,900 --> 00:20:18,000
+HTF premise that's it
+
+477
+00:20:18,000 --> 00:20:20,340
+there's no magic to it than that I
+
+478
+00:20:20,340 --> 00:20:22,380
+understand that if they will do these
+
+479
+00:20:22,380 --> 00:20:24,120
+scenarios
+
+480
+00:20:24,120 --> 00:20:26,880
+and it'll also keep you out of Trades
+
+481
+00:20:26,880 --> 00:20:29,039
+there's going to be times where it won't
+
+482
+00:20:29,039 --> 00:20:31,080
+provide you an entry the market will
+
+483
+00:20:31,080 --> 00:20:33,240
+just probably keep on going up and it'll
+
+484
+00:20:33,240 --> 00:20:35,280
+probably be a 90 pip day it might be a
+
+485
+00:20:35,280 --> 00:20:38,100
+150 pip day and you aren't getting in
+
+486
+00:20:38,100 --> 00:20:39,780
+with either one of these profiles and
+
+487
+00:20:39,780 --> 00:20:41,520
+guess what that means that's a trade
+
+488
+00:20:41,520 --> 00:20:43,559
+that you missed you can send me emails
+
+489
+00:20:43,559 --> 00:20:45,900
+and complain about it I'm just telling
+
+490
+00:20:45,900 --> 00:20:48,419
+you some days I miss it too but by far
+
+491
+00:20:48,419 --> 00:20:49,980
+and large if you look for these two
+
+492
+00:20:49,980 --> 00:20:52,020
+characteristics for a buy or sell
+
+493
+00:20:52,020 --> 00:20:55,080
+profile intraday when you already have a
+
+494
+00:20:55,080 --> 00:20:57,000
+HTF notion that price
+
+495
+00:20:57,000 --> 00:20:59,100
+should be higher or lower based on that
+
+496
+00:20:59,100 --> 00:21:00,660
+daily chart
+
+497
+00:21:00,660 --> 00:21:02,880
+your criteria for trading the London
+
+498
+00:21:02,880 --> 00:21:05,940
+session is simple as this there's
+
+499
+00:21:05,940 --> 00:21:07,799
+nothing else that you're looking for
+
+500
+00:21:07,799 --> 00:21:09,360
+the framework we're going to give you
+
+501
+00:21:09,360 --> 00:21:10,760
+from the HTF down
+
+502
+00:21:10,760 --> 00:21:14,820
+obviously in later teaching but for here
+
+503
+00:21:14,820 --> 00:21:17,100
+you're only looking for two things a
+
+504
+00:21:17,100 --> 00:21:19,440
+movement after 12 AM going into two
+
+505
+00:21:19,440 --> 00:21:21,000
+o'clock in the morning and if that
+
+506
+00:21:21,000 --> 00:21:22,740
+doesn't happen then you draw a vertical
+
+507
+00:21:22,740 --> 00:21:25,260
+line at 2 AM then you expect it there so
+
+508
+00:21:25,260 --> 00:21:28,200
+between two o'clock and 3 AM that Judah
+
+509
+00:21:28,200 --> 00:21:29,640
+swing should occur
+
+510
+00:21:29,640 --> 00:21:31,919
+now think about I just told you I just
+
+511
+00:21:31,919 --> 00:21:34,340
+loaded your 50 caliber
+
+512
+00:21:34,340 --> 00:21:37,740
+Barrett ready to take down big game
+
+513
+00:21:37,740 --> 00:21:41,039
+you're able to find long and open setups
+
+514
+00:21:41,039 --> 00:21:43,500
+now with very specific criteria and
+
+515
+00:21:43,500 --> 00:21:44,820
+filters
+
+516
+00:21:44,820 --> 00:21:46,500
+go back and look at your old charts and
+
+517
+00:21:46,500 --> 00:21:47,940
+you'll see that these are going to be
+
+518
+00:21:47,940 --> 00:21:50,880
+the two dominant forces to outline all
+
+519
+00:21:50,880 --> 00:21:52,919
+of the best London open sessions until
+
+520
+00:21:52,919 --> 00:21:54,360
+next lesson I wish you good luck and
+
+521
+00:21:54,360 --> 00:21:56,900
+good Trading
+

@@ -1,0 +1,3048 @@
+1
+00:00:11,639 --> 00:00:14,700
+welcome back folks to the April 2017 ICT
+
+2
+00:00:14,700 --> 00:00:17,699
+mentorship content
+
+3
+00:00:17,699 --> 00:00:20,400
+for teaching ICT day trading model this
+
+4
+00:00:20,400 --> 00:00:22,080
+is Lesson Four
+
+5
+00:00:22,080 --> 00:00:24,180
+specifically teaching projecting daily
+
+6
+00:00:24,180 --> 00:00:26,960
+highs and lows
+
+7
+00:00:31,560 --> 00:00:33,660
+okay as we just mentioned in the
+
+8
+00:00:33,660 --> 00:00:37,440
+previous teaching lesson number three
+
+9
+00:00:37,440 --> 00:00:39,780
+potential Bank dealers range
+
+10
+00:00:39,780 --> 00:00:42,840
+when we talk about the most likely Sell
+
+11
+00:00:42,840 --> 00:00:43,800
+days
+
+12
+00:00:43,800 --> 00:00:46,320
+moving up as high as three Standard
+
+13
+00:00:46,320 --> 00:00:47,579
+Deviation
+
+14
+00:00:47,579 --> 00:00:50,579
+and most buy days moving down making the
+
+15
+00:00:50,579 --> 00:00:53,039
+LOD as low as three Standard
+
+16
+00:00:53,039 --> 00:00:54,600
+Deviation from the CentralBankDealersRange
+
+18
+00:00:55,559 --> 00:00:58,980
+we can take this one step further
+
+19
+00:00:58,980 --> 00:01:03,120
+the range at which price Works Within
+
+20
+00:01:03,120 --> 00:01:06,060
+the protractionary state away from the
+
+21
+00:01:06,060 --> 00:01:07,200
+CentralBankDealersRange in other
+
+22
+00:01:07,200 --> 00:01:10,140
+words are we moving higher away from the
+
+23
+00:01:10,140 --> 00:01:11,760
+CentralBankDealersRange for a sell-off
+
+24
+00:01:11,760 --> 00:01:13,200
+or a Sell day
+
+25
+00:01:13,200 --> 00:01:16,680
+how much of that range are we moving
+
+26
+00:01:16,680 --> 00:01:19,020
+now this is not Fibonacci extensions or
+
+27
+00:01:19,020 --> 00:01:20,340
+projections or anything like that we're
+
+28
+00:01:20,340 --> 00:01:23,040
+looking specifically at the range that
+
+29
+00:01:23,040 --> 00:01:25,860
+IPDA will go into protractionary State
+
+30
+00:01:25,860 --> 00:01:27,420
+and move
+
+31
+00:01:27,420 --> 00:01:29,880
+counter the direction of the intended
+
+32
+00:01:29,880 --> 00:01:31,619
+direction of the day
+
+33
+00:01:31,619 --> 00:01:35,479
+in other words it's the Judas swing
+
+34
+00:01:35,579 --> 00:01:38,240
+we don't necessarily have to know
+
+35
+00:01:38,240 --> 00:01:42,900
+beforehand to the PIP what the extension
+
+36
+00:01:42,900 --> 00:01:44,759
+is going to be away from
+
+37
+00:01:44,759 --> 00:01:47,460
+the CentralBankDealersRange we just
+
+38
+00:01:47,460 --> 00:01:48,780
+need to know
+
+39
+00:01:48,780 --> 00:01:51,299
+what it is after the move has already
+
+40
+00:01:51,299 --> 00:01:53,159
+ensued so even if we get it wrong okay
+
+41
+00:01:53,159 --> 00:01:54,540
+I'm gonna play double tap against for a
+
+42
+00:01:54,540 --> 00:01:56,700
+moment say you don't get it right in
+
+43
+00:01:56,700 --> 00:01:58,920
+London but you're able to capitalize on
+
+44
+00:01:58,920 --> 00:02:01,860
+a continuation in NewYork
+
+45
+00:02:01,860 --> 00:02:03,899
+how far in
+
+46
+00:02:03,899 --> 00:02:06,540
+the future will price reach based on
+
+47
+00:02:06,540 --> 00:02:08,520
+IPDA and using the CentralBankDealersRange that's what this teaching will
+
+49
+00:02:10,500 --> 00:02:12,860
+give us
+
+50
+00:02:13,620 --> 00:02:15,599
+and just like we showed with the
+
+51
+00:02:15,599 --> 00:02:17,280
+previous slide
+
+52
+00:02:17,280 --> 00:02:19,440
+ideal scenarios are going to be seen
+
+53
+00:02:19,440 --> 00:02:21,720
+with no more than two Standard
+
+54
+00:02:21,720 --> 00:02:24,000
+Deviation usually that's about the the
+
+55
+00:02:24,000 --> 00:02:27,000
+bulk of buy and sell days you'll see
+
+56
+00:02:27,000 --> 00:02:28,800
+price go down many times just one
+
+57
+00:02:28,800 --> 00:02:31,500
+StandardDeviation but two is generally
+
+58
+00:02:31,500 --> 00:02:33,900
+the general rule of thumb but across the
+
+59
+00:02:33,900 --> 00:02:35,879
+board as a general thumb they generally
+
+60
+00:02:35,879 --> 00:02:38,099
+don't like to go beyond three Standard
+
+61
+00:02:38,099 --> 00:02:39,239
+Deviation
+
+62
+00:02:39,239 --> 00:02:41,840
+and we already assumed
+
+63
+00:02:41,840 --> 00:02:45,720
+the role for the use of four Standard
+
+64
+00:02:45,720 --> 00:02:49,340
+Deviation in the previous teaching
+
+65
+00:02:50,160 --> 00:02:53,400
+okay just a quick Brief Review because I
+
+66
+00:02:53,400 --> 00:02:55,019
+don't know when you're gonna watch
+
+67
+00:02:55,019 --> 00:02:57,720
+the lesson three in review so I'm going
+
+68
+00:02:57,720 --> 00:02:59,580
+to use these slides again because it's
+
+69
+00:02:59,580 --> 00:03:01,680
+Salient for this topic
+
+70
+00:03:01,680 --> 00:03:03,180
+when we look at the CentralBankDealersRange again
+
+72
+00:03:04,319 --> 00:03:05,760
+the range between two o'clock and eight
+
+73
+00:03:05,760 --> 00:03:07,500
+PM
+
+74
+00:03:07,500 --> 00:03:09,900
+that range is ideally best suited for
+
+75
+00:03:09,900 --> 00:03:12,780
+our use less than 40 Pips and again
+
+76
+00:03:12,780 --> 00:03:15,239
+preferably 20 to 30 Pips
+
+77
+00:03:15,239 --> 00:03:17,220
+we move to the sidelines and we do not
+
+78
+00:03:17,220 --> 00:03:19,620
+look to trade with the CentralBankDealersRange in our repertoire
+
+80
+00:03:22,680 --> 00:03:27,440
+when the range is greater than 40 Pips
+
+81
+00:03:28,500 --> 00:03:30,540
+and again we're focusing on
+
+82
+00:03:30,540 --> 00:03:32,640
+nailing down where the high or the day
+
+83
+00:03:32,640 --> 00:03:36,319
+on the low of the date may be formed
+
+84
+00:03:39,959 --> 00:03:41,879
+okay and we always look at the CentralBankDealersRange in terms of using
+
+86
+00:03:43,560 --> 00:03:46,440
+the spread of the wick to Wick high to
+
+87
+00:03:46,440 --> 00:03:50,040
+low range between 2 PM and 8 PM New
+
+88
+00:03:50,040 --> 00:03:52,200
+York time
+
+89
+00:03:52,200 --> 00:03:55,680
+and I like to look at the bodies
+
+90
+00:03:55,680 --> 00:03:59,099
+highest high in the form of open or
+
+91
+00:03:59,099 --> 00:04:01,319
+close and the lowest low in the form of
+
+92
+00:04:01,319 --> 00:04:04,080
+an open or close not the Wicks so I get
+
+93
+00:04:04,080 --> 00:04:05,640
+the range in the bodies but then I also
+
+94
+00:04:05,640 --> 00:04:07,080
+do it on the Wicks as well because you
+
+95
+00:04:07,080 --> 00:04:09,299
+want to do everything you see in this
+
+96
+00:04:09,299 --> 00:04:10,500
+teaching here you're going to do the
+
+97
+00:04:10,500 --> 00:04:12,720
+same thing using the Wicks but I'm
+
+98
+00:04:12,720 --> 00:04:14,280
+teaching it through the use of the
+
+99
+00:04:14,280 --> 00:04:15,480
+bodies because that's predominantly what
+
+100
+00:04:15,480 --> 00:04:17,880
+I go to first I get the ranges and
+
+101
+00:04:17,880 --> 00:04:19,680
+projections and measurements based on
+
+102
+00:04:19,680 --> 00:04:22,519
+the bodies of the candles
+
+103
+00:04:27,120 --> 00:04:30,180
+okay so now
+
+104
+00:04:30,180 --> 00:04:32,940
+now we get to the part where most of you
+
+105
+00:04:32,940 --> 00:04:35,280
+have been waiting for a long time to
+
+106
+00:04:35,280 --> 00:04:36,360
+learn this
+
+107
+00:04:36,360 --> 00:04:38,040
+and to be quite honest with you I'm not
+
+108
+00:04:38,040 --> 00:04:40,620
+sure why I'm doing it
+
+109
+00:04:40,620 --> 00:04:42,419
+it's one of those things that I've kept
+
+110
+00:04:42,419 --> 00:04:45,300
+for a long long time and I promised that
+
+111
+00:04:45,300 --> 00:04:47,479
+you would learn it in this mentorship so
+
+112
+00:04:47,479 --> 00:04:50,400
+if you are ever
+
+113
+00:04:50,400 --> 00:04:53,520
+in the sharing Spirit if you're ever in
+
+114
+00:04:53,520 --> 00:04:56,400
+the Robin Hood Mentality you know you
+
+115
+00:04:56,400 --> 00:04:57,900
+want to give to everyone else that
+
+116
+00:04:57,900 --> 00:05:01,080
+aren't a part of this mentorship
+
+117
+00:05:01,080 --> 00:05:02,880
+um this is one of those things you just
+
+118
+00:05:02,880 --> 00:05:04,620
+really really really want to keep to
+
+119
+00:05:04,620 --> 00:05:07,380
+yourself it's not common knowledge it's
+
+120
+00:05:07,380 --> 00:05:09,540
+not out there anywhere else believe me
+
+121
+00:05:09,540 --> 00:05:11,699
+when you start looking at it and seeing
+
+122
+00:05:11,699 --> 00:05:13,340
+it you'll it's
+
+123
+00:05:13,340 --> 00:05:15,600
+mind-boggling it really is mind-boggling
+
+124
+00:05:15,600 --> 00:05:17,400
+how precise you can get
+
+125
+00:05:17,400 --> 00:05:19,380
+but
+
+126
+00:05:19,380 --> 00:05:22,139
+we we showed the StandardDeviation and
+
+127
+00:05:22,139 --> 00:05:24,660
+the application of thereof okay and
+
+128
+00:05:24,660 --> 00:05:26,520
+obviously it looks like just grabbing
+
+129
+00:05:26,520 --> 00:05:29,400
+the best ones and doing that and there
+
+130
+00:05:29,400 --> 00:05:31,320
+it is it's as simple as that and it's
+
+131
+00:05:31,320 --> 00:05:33,539
+all pure hindsight but if you look at
+
+132
+00:05:33,539 --> 00:05:35,520
+what I want to show you in this teaching
+
+133
+00:05:35,520 --> 00:05:37,919
+and go back to the analysis during the
+
+134
+00:05:37,919 --> 00:05:39,660
+time when we are looking at the market
+
+135
+00:05:39,660 --> 00:05:41,940
+like this you'll see the levels that I
+
+136
+00:05:41,940 --> 00:05:44,460
+had given on the chart index they're all
+
+137
+00:05:44,460 --> 00:05:46,380
+there okay
+
+138
+00:05:46,380 --> 00:05:48,000
+so we're going to take a look at every
+
+139
+00:05:48,000 --> 00:05:49,440
+one of these examples with the exception
+
+140
+00:05:49,440 --> 00:05:52,139
+of the 58 pip CentralBankDealersRange because that's a NYX we don't do
+
+142
+00:05:54,180 --> 00:05:57,000
+anything for that particular day
+
+143
+00:05:57,000 --> 00:05:59,039
+but we will comment on that
+
+144
+00:05:59,039 --> 00:06:03,240
+when we get to that second example
+
+145
+00:06:03,240 --> 00:06:05,400
+okay so let's go out to a daily chart
+
+146
+00:06:05,400 --> 00:06:07,199
+and I'm going to ask you what do you see
+
+147
+00:06:07,199 --> 00:06:09,320
+here
+
+148
+00:06:14,639 --> 00:06:16,680
+okay I'm drawing your attention to a
+
+149
+00:06:16,680 --> 00:06:18,600
+specific level with that little trend
+
+150
+00:06:18,600 --> 00:06:20,280
+line Blue Line
+
+151
+00:06:20,280 --> 00:06:22,080
+and that's the segment of price action
+
+152
+00:06:22,080 --> 00:06:23,940
+that we're looking at in terms of those
+
+153
+00:06:23,940 --> 00:06:26,220
+examples
+
+154
+00:06:26,220 --> 00:06:28,139
+and highlight that little area in this
+
+155
+00:06:28,139 --> 00:06:29,100
+white box
+
+156
+00:06:29,100 --> 00:06:31,139
+okay so we're looking at this whole
+
+157
+00:06:31,139 --> 00:06:33,479
+entire reference point here
+
+158
+00:06:33,479 --> 00:06:34,800
+and again I'm going to count you to go
+
+159
+00:06:34,800 --> 00:06:36,060
+back to the time
+
+160
+00:06:36,060 --> 00:06:38,460
+when we were talking about the cable and
+
+161
+00:06:38,460 --> 00:06:40,680
+Analysis and all of the charts that were
+
+162
+00:06:40,680 --> 00:06:41,639
+shared
+
+163
+00:06:41,639 --> 00:06:43,440
+okay go back and look at that so none of
+
+164
+00:06:43,440 --> 00:06:46,919
+this stuff is cherry picking okay
+
+165
+00:06:46,919 --> 00:06:48,780
+so what we're doing is we're looking at
+
+166
+00:06:48,780 --> 00:06:51,060
+the marketplace using the PD array
+
+167
+00:06:51,060 --> 00:06:53,699
+Matrix and we're blending it with time
+
+168
+00:06:53,699 --> 00:06:55,800
+and price Theory so we're looking at if
+
+169
+00:06:55,800 --> 00:06:58,500
+the data ranges we're looking at PD
+
+170
+00:06:58,500 --> 00:07:00,060
+array Matrix are we in a premium
+
+171
+00:07:00,060 --> 00:07:02,699
+discount the market trades down in the
+
+172
+00:07:02,699 --> 00:07:05,400
+lower range of that white rectangle
+
+173
+00:07:05,400 --> 00:07:08,460
+until it hits a bullish order block
+
+174
+00:07:08,460 --> 00:07:10,080
+what I've done there is I've taken the
+
+175
+00:07:10,080 --> 00:07:12,419
+Sunday candle and the Monday candle
+
+176
+00:07:12,419 --> 00:07:15,120
+blending that small little Sunday candle
+
+177
+00:07:15,120 --> 00:07:17,220
+and Monday candle
+
+178
+00:07:17,220 --> 00:07:20,759
+into one candle blending the two bodies
+
+179
+00:07:20,759 --> 00:07:22,740
+together and I got a measurement of that
+
+180
+00:07:22,740 --> 00:07:25,560
+and I projected it across the chart and
+
+181
+00:07:25,560 --> 00:07:26,759
+you can actually go back and look at
+
+182
+00:07:26,759 --> 00:07:29,759
+your notes and look at the Forum and I
+
+183
+00:07:29,759 --> 00:07:31,500
+counsel you to download the charts every
+
+184
+00:07:31,500 --> 00:07:33,660
+day I do them because you can keep track
+
+185
+00:07:33,660 --> 00:07:35,880
+and see that I don't make any changes I
+
+186
+00:07:35,880 --> 00:07:37,740
+don't go back and re-edit them you get
+
+187
+00:07:37,740 --> 00:07:39,599
+them as I see it so that way you can
+
+188
+00:07:39,599 --> 00:07:41,099
+compare what I'm explaining to you here
+
+189
+00:07:41,099 --> 00:07:43,560
+was exactly outlined in terms of the PD
+
+190
+00:07:43,560 --> 00:07:46,259
+arrays specifically I even tell you
+
+191
+00:07:46,259 --> 00:07:47,819
+that's a mean threshold of a bull
+
+192
+00:07:47,819 --> 00:07:49,319
+shoulder block there
+
+193
+00:07:49,319 --> 00:07:50,639
+so
+
+194
+00:07:50,639 --> 00:07:52,500
+price hits that level
+
+195
+00:07:52,500 --> 00:07:56,819
+creates the first of three up candles
+
+196
+00:07:56,819 --> 00:07:57,840
+and now we're going to go into those
+
+197
+00:07:57,840 --> 00:08:01,460
+examples and break it down
+
+198
+00:08:01,740 --> 00:08:03,479
+okay folks
+
+199
+00:08:03,479 --> 00:08:05,520
+okay here we are we're at that point
+
+200
+00:08:05,520 --> 00:08:06,479
+where
+
+201
+00:08:06,479 --> 00:08:08,220
+this stuff starts to get really really
+
+202
+00:08:08,220 --> 00:08:09,539
+interesting
+
+203
+00:08:09,539 --> 00:08:11,039
+so
+
+204
+00:08:11,039 --> 00:08:13,860
+when we look at these examples okay this
+
+205
+00:08:13,860 --> 00:08:15,960
+is where the price has traded up into a
+
+206
+00:08:15,960 --> 00:08:18,599
+premium on the daily chart
+
+207
+00:08:18,599 --> 00:08:20,759
+and we did our
+
+208
+00:08:20,759 --> 00:08:22,740
+StandardDeviation
+
+209
+00:08:22,740 --> 00:08:25,199
+okay and
+
+210
+00:08:25,199 --> 00:08:27,360
+we see price that was on a daily chart
+
+211
+00:08:27,360 --> 00:08:30,660
+in a premium at this time
+
+212
+00:08:30,660 --> 00:08:33,299
+we have a
+
+213
+00:08:33,299 --> 00:08:34,860
+bullish candle right for the download
+
+214
+00:08:34,860 --> 00:08:39,179
+here that gives us a bearish order block
+
+215
+00:08:39,179 --> 00:08:42,859
+that low comes in at
+
+216
+00:08:43,799 --> 00:08:46,800
+125.93
+
+217
+00:08:47,100 --> 00:08:50,360
+the high comes in at
+
+218
+00:08:50,360 --> 00:08:54,060
+125.97 so it trades up into the body of
+
+219
+00:08:54,060 --> 00:08:55,620
+the bear shoulder block
+
+220
+00:08:55,620 --> 00:08:59,220
+StandardDeviation of two
+
+221
+00:08:59,220 --> 00:09:01,440
+price extends up to the Standard
+
+222
+00:09:01,440 --> 00:09:02,760
+Deviation
+
+223
+00:09:02,760 --> 00:09:04,500
+right to the PIP
+
+224
+00:09:04,500 --> 00:09:06,180
+and starts to trade off for the rest of
+
+225
+00:09:06,180 --> 00:09:08,420
+the day
+
+226
+00:09:09,000 --> 00:09:11,760
+when we have the StandardDeviation
+
+227
+00:09:11,760 --> 00:09:13,440
+arrived at
+
+228
+00:09:13,440 --> 00:09:15,420
+based on a PD array in other words we're
+
+229
+00:09:15,420 --> 00:09:17,339
+looking at a
+
+230
+00:09:17,339 --> 00:09:21,120
+premium PD array they are shorter block
+
+231
+00:09:21,120 --> 00:09:24,360
+price in a daily premium
+
+232
+00:09:24,360 --> 00:09:26,940
+hits it in London have a protractionary
+
+233
+00:09:26,940 --> 00:09:29,040
+state in the marketplace due to swing in
+
+234
+00:09:29,040 --> 00:09:30,000
+London
+
+235
+00:09:30,000 --> 00:09:33,420
+goes right to the PIP And Trades lower
+
+236
+00:09:33,420 --> 00:09:37,380
+the question is is how low will it go
+
+237
+00:09:37,380 --> 00:09:39,000
+well you have to look at the range that
+
+238
+00:09:39,000 --> 00:09:40,620
+is created by the CentralBankDealersRange protractionary state in other
+
+240
+00:09:43,080 --> 00:09:45,360
+words how much of a StandardDeviation
+
+241
+00:09:45,360 --> 00:09:47,220
+did we see
+
+242
+00:09:47,220 --> 00:09:50,220
+because that becomes the known range to
+
+243
+00:09:50,220 --> 00:09:51,120
+work with
+
+244
+00:09:51,120 --> 00:09:53,640
+and it becomes our multiplier as well
+
+245
+00:09:53,640 --> 00:09:55,320
+so when the market looks to fill the
+
+246
+00:09:55,320 --> 00:09:56,820
+numbers and I'll tell you what that
+
+247
+00:09:56,820 --> 00:09:58,260
+means when we get to it
+
+248
+00:09:58,260 --> 00:10:00,839
+we use this reference point here so it
+
+249
+00:10:00,839 --> 00:10:02,640
+has to actually the actual Standard
+
+250
+00:10:02,640 --> 00:10:04,080
+Deviation range
+
+251
+00:10:04,080 --> 00:10:06,660
+that we use for the CentralBankDealersRange and all the StandardDeviation it
+
+253
+00:10:08,700 --> 00:10:11,760
+uses to make the high or LOD
+
+254
+00:10:11,760 --> 00:10:15,360
+in London that becomes your measurement
+
+255
+00:10:15,360 --> 00:10:18,000
+Okay so
+
+256
+00:10:18,000 --> 00:10:21,240
+what we have here is the market showing
+
+257
+00:10:21,240 --> 00:10:23,640
+us a midnight
+
+258
+00:10:23,640 --> 00:10:26,160
+in NewYork candle vertical line and
+
+259
+00:10:26,160 --> 00:10:30,120
+then 1800 or 2 o'clock in the afternoon
+
+260
+00:10:30,120 --> 00:10:32,040
+NewYork time and again each day
+
+261
+00:10:32,040 --> 00:10:33,660
+midnight NewYork two o'clock in the
+
+262
+00:10:33,660 --> 00:10:35,040
+afternoon midnight NewYork two o'clock
+
+263
+00:10:35,040 --> 00:10:37,080
+in the afternoon midnight NewYork two
+
+264
+00:10:37,080 --> 00:10:38,279
+o'clock in the afternoon
+
+265
+00:10:38,279 --> 00:10:41,519
+okay and I'm going to give you the
+
+266
+00:10:41,519 --> 00:10:43,560
+London killZone
+
+267
+00:10:43,560 --> 00:10:46,820
+reference point now
+
+268
+00:10:47,160 --> 00:10:50,160
+and this is that Weekly I'm sorry daily
+
+269
+00:10:50,160 --> 00:10:54,800
+premium PD array here
+
+270
+00:10:58,620 --> 00:11:00,600
+so price trades up into it
+
+271
+00:11:00,600 --> 00:11:03,480
+and starts to sell off so in this time
+
+272
+00:11:03,480 --> 00:11:05,399
+element here this gives us our London
+
+273
+00:11:05,399 --> 00:11:08,160
+close time of the day so
+
+274
+00:11:08,160 --> 00:11:10,620
+this candle here starts it
+
+275
+00:11:10,620 --> 00:11:13,260
+this is the middle of the London Kill
+
+276
+00:11:13,260 --> 00:11:15,660
+Zone close
+
+277
+00:11:15,660 --> 00:11:19,019
+and we have this candle here right there
+
+278
+00:11:19,019 --> 00:11:22,440
+that creates the  the projected London
+
+279
+00:11:22,440 --> 00:11:23,700
+close
+
+280
+00:11:23,700 --> 00:11:25,800
+time window but then we have ultimately
+
+281
+00:11:25,800 --> 00:11:27,779
+two o'clock where we actually see the
+
+282
+00:11:27,779 --> 00:11:30,360
+close of
+
+283
+00:11:30,360 --> 00:11:32,640
+our highest point in other words usually
+
+284
+00:11:32,640 --> 00:11:34,620
+the higher low even when a really long
+
+285
+00:11:34,620 --> 00:11:37,620
+winded trending day two o'clock usually
+
+286
+00:11:37,620 --> 00:11:39,360
+caps the
+
+287
+00:11:39,360 --> 00:11:41,220
+higher LOD if we if we
+
+288
+00:11:41,220 --> 00:11:43,920
+continue through London close Killzone
+
+289
+00:11:43,920 --> 00:11:46,019
+or basically if we go past noon NewYork
+
+290
+00:11:46,019 --> 00:11:48,000
+time  we look forward to go to two
+
+291
+00:11:48,000 --> 00:11:50,579
+o'clock and dribble down or run up until
+
+292
+00:11:50,579 --> 00:11:52,860
+that that specific time of the day
+
+293
+00:11:52,860 --> 00:11:54,240
+so all of these days we don't have
+
+294
+00:11:54,240 --> 00:11:57,120
+anything on this day here because the
+
+295
+00:11:57,120 --> 00:11:58,980
+CentralBankDealersRange was 58 Pips
+
+296
+00:11:58,980 --> 00:12:01,800
+regardless if we used to Wix as a high
+
+297
+00:12:01,800 --> 00:12:03,959
+and low or if we use the body's high and
+
+298
+00:12:03,959 --> 00:12:05,519
+low it doesn't make a difference the
+
+299
+00:12:05,519 --> 00:12:07,560
+point is it's still too much of a
+
+300
+00:12:07,560 --> 00:12:09,300
+CentralBankDealersRange to use for
+
+301
+00:12:09,300 --> 00:12:11,160
+our projections in here so we have to
+
+302
+00:12:11,160 --> 00:12:13,019
+skip on this day here but we use other
+
+303
+00:12:13,019 --> 00:12:15,720
+tools which we'll explain in a moment
+
+304
+00:12:15,720 --> 00:12:17,820
+ the daily bullish order block price
+
+305
+00:12:17,820 --> 00:12:19,620
+trades down into that on this big
+
+306
+00:12:19,620 --> 00:12:21,959
+CentralBankDealersRange day trades
+
+307
+00:12:21,959 --> 00:12:23,700
+down into the bullish order block here
+
+308
+00:12:23,700 --> 00:12:26,940
+and finds momentum to trade higher and
+
+309
+00:12:26,940 --> 00:12:28,680
+we have the scenario we would expect to
+
+310
+00:12:28,680 --> 00:12:31,740
+see price move higher on a bullish
+
+311
+00:12:31,740 --> 00:12:34,320
+discount PD array
+
+312
+00:12:34,320 --> 00:12:36,180
+and the same thing here continuing up
+
+313
+00:12:36,180 --> 00:12:38,339
+looking to close in
+
+314
+00:12:38,339 --> 00:12:40,200
+our gaps over here which we'll look at
+
+315
+00:12:40,200 --> 00:12:41,279
+in a moment
+
+316
+00:12:41,279 --> 00:12:43,920
+so when we have this range here price
+
+317
+00:12:43,920 --> 00:12:45,720
+point moves into a projectionary state
+
+318
+00:12:45,720 --> 00:12:48,480
+about two StandardDeviation what you
+
+319
+00:12:48,480 --> 00:12:52,200
+do is you take that range
+
+320
+00:12:52,200 --> 00:12:55,620
+and yes I do all this by hand okay so we
+
+321
+00:12:55,620 --> 00:12:57,420
+have our range
+
+322
+00:12:57,420 --> 00:13:00,060
+and just lay that on the bottom
+
+323
+00:13:00,060 --> 00:13:02,040
+of the CentralBankDealersRange and
+
+324
+00:13:02,040 --> 00:13:05,700
+you start layering layering them down
+
+325
+00:13:05,700 --> 00:13:08,519
+hold down control drag your
+
+326
+00:13:08,519 --> 00:13:10,800
+image away click on it and drag away
+
+327
+00:13:10,800 --> 00:13:15,139
+with the control button held down
+
+328
+00:13:15,240 --> 00:13:16,920
+right there
+
+329
+00:13:16,920 --> 00:13:19,260
+okay so we have
+
+330
+00:13:19,260 --> 00:13:21,180
+to blend two things now time and price
+
+331
+00:13:21,180 --> 00:13:23,760
+Theory so we're looking for this whole
+
+332
+00:13:23,760 --> 00:13:25,139
+range of two StandardDeviation
+
+333
+00:13:25,139 --> 00:13:27,060
+projected from the CentralBankDealersRange low but it's going to be a bearish
+
+335
+00:13:28,980 --> 00:13:31,500
+day so we have one StandardDeviation of
+
+336
+00:13:31,500 --> 00:13:34,200
+the total StandardDeviation used for
+
+337
+00:13:34,200 --> 00:13:35,459
+the CentralBankDealersRange to call
+
+338
+00:13:35,459 --> 00:13:36,779
+the HOD
+
+339
+00:13:36,779 --> 00:13:38,820
+so we have one of those Standard
+
+340
+00:13:38,820 --> 00:13:40,680
+Deviation to their StandardDeviation
+
+341
+00:13:40,680 --> 00:13:42,720
+three of their StandardDeviation why
+
+342
+00:13:42,720 --> 00:13:44,700
+AM I doing three is because price kept
+
+343
+00:13:44,700 --> 00:13:47,160
+going lower lower lower until we get to
+
+344
+00:13:47,160 --> 00:13:50,100
+the time of day right in here okay so
+
+345
+00:13:50,100 --> 00:13:53,180
+I'm going to draw
+
+346
+00:13:54,300 --> 00:13:55,860
+a vertical line
+
+347
+00:13:55,860 --> 00:14:00,980
+delineating the beginning and the end
+
+348
+00:14:01,680 --> 00:14:04,380
+of the killZone
+
+349
+00:14:04,380 --> 00:14:06,779
+we'll put it on the close rather so this
+
+350
+00:14:06,779 --> 00:14:10,139
+candle closes it at noon this is 11 and
+
+351
+00:14:10,139 --> 00:14:11,940
+it starts as early as 10 o'clock in New
+
+352
+00:14:11,940 --> 00:14:13,320
+York time
+
+353
+00:14:13,320 --> 00:14:17,160
+okay and we have this projected low
+
+354
+00:14:17,160 --> 00:14:20,700
+so I'm going to use this line here
+
+355
+00:14:20,700 --> 00:14:22,200
+and yes the charts will look a little
+
+356
+00:14:22,200 --> 00:14:25,220
+bit busy for a moment
+
+357
+00:14:26,100 --> 00:14:30,500
+and we'll project this out in time
+
+358
+00:14:32,100 --> 00:14:33,720
+Okay so
+
+359
+00:14:33,720 --> 00:14:35,720
+we could take profit here on this day
+
+360
+00:14:35,720 --> 00:14:39,480
+the low comes in at
+
+361
+00:14:39,480 --> 00:14:42,480
+124.76
+
+362
+00:14:42,839 --> 00:14:45,060
+with the close on that candle it stops
+
+363
+00:14:45,060 --> 00:14:47,519
+right at two StandardDeviation of the
+
+364
+00:14:47,519 --> 00:14:49,139
+CentralBankDealersRange right there
+
+365
+00:14:49,139 --> 00:14:50,279
+you see that
+
+366
+00:14:50,279 --> 00:14:53,459
+boom hits it okay yes it Wicks down a
+
+367
+00:14:53,459 --> 00:14:55,800
+little bit more and let you see it
+
+368
+00:14:55,800 --> 00:14:57,300
+a little bit more than that but not by
+
+369
+00:14:57,300 --> 00:14:58,560
+much
+
+370
+00:14:58,560 --> 00:14:59,940
+okay and now we're going to look at the
+
+371
+00:14:59,940 --> 00:15:03,860
+1800 which is the cap of the day
+
+372
+00:15:05,720 --> 00:15:08,220
+there's the low and there's our
+
+373
+00:15:08,220 --> 00:15:11,660
+projected low right here
+
+374
+00:15:12,620 --> 00:15:14,519
+124.40
+
+375
+00:15:14,519 --> 00:15:19,620
+we called 124 41 so I was off by one pit
+
+376
+00:15:19,620 --> 00:15:21,839
+okay so time wise we looked for it to
+
+377
+00:15:21,839 --> 00:15:23,040
+occur here
+
+378
+00:15:23,040 --> 00:15:24,660
+it just fell a little bit short but had
+
+379
+00:15:24,660 --> 00:15:25,800
+to go one more StandardDeviation
+
+380
+00:15:25,800 --> 00:15:27,480
+because it kept drifting lower so
+
+381
+00:15:27,480 --> 00:15:29,040
+there's nothing wrong with just taking
+
+382
+00:15:29,040 --> 00:15:31,139
+profits here and leaving something on
+
+383
+00:15:31,139 --> 00:15:33,060
+for the rest of the day because there's
+
+384
+00:15:33,060 --> 00:15:35,339
+a discount PD array of a bullish order
+
+385
+00:15:35,339 --> 00:15:37,019
+block down here that we saw on the
+
+386
+00:15:37,019 --> 00:15:38,459
+previous slide
+
+387
+00:15:38,459 --> 00:15:40,440
+that would be your objective but you can
+
+388
+00:15:40,440 --> 00:15:43,079
+take profits time of day wise here with
+
+389
+00:15:43,079 --> 00:15:45,839
+two StandardDeviation of the CentralBankDealersRange two Standard
+
+391
+00:15:47,820 --> 00:15:49,440
+Deviation used to make the high of the
+
+392
+00:15:49,440 --> 00:15:51,300
+day so again in summary we're taking the
+
+393
+00:15:51,300 --> 00:15:54,180
+total range used of all the Standard
+
+394
+00:15:54,180 --> 00:15:55,860
+Deviation one
+
+395
+00:15:55,860 --> 00:15:58,079
+two three accounting CentralBankDealersRange always
+
+397
+00:15:59,519 --> 00:16:02,279
+so we have three of them so we get a
+
+398
+00:16:02,279 --> 00:16:03,959
+mock-up of that range and then project
+
+399
+00:16:03,959 --> 00:16:06,959
+it from the low on Sell days is one two
+
+400
+00:16:06,959 --> 00:16:09,300
+three it gives you the  if the
+
+401
+00:16:09,300 --> 00:16:12,800
+projected DailyRange low
+
+402
+00:16:13,079 --> 00:16:16,579
+okay I'm going to take this off
+
+403
+00:16:16,620 --> 00:16:18,120
+okay and we can't do anything with this
+
+404
+00:16:18,120 --> 00:16:19,440
+one here
+
+405
+00:16:19,440 --> 00:16:21,360
+um we'll have to wait get new
+
+406
+00:16:21,360 --> 00:16:23,339
+information and the next day here we
+
+407
+00:16:23,339 --> 00:16:24,540
+have our criteria here where it's a
+
+408
+00:16:24,540 --> 00:16:26,100
+small enough range of CentralBankDealersRange we do one Standard
+
+410
+00:16:28,019 --> 00:16:29,760
+Deviation down
+
+411
+00:16:29,760 --> 00:16:31,440
+why are we going down one Standard
+
+412
+00:16:31,440 --> 00:16:33,540
+Deviation because we have the bullish
+
+413
+00:16:33,540 --> 00:16:35,760
+order blocks in here and an old bullet
+
+414
+00:16:35,760 --> 00:16:37,800
+order block back here
+
+415
+00:16:37,800 --> 00:16:40,019
+price trades down into it clears out
+
+416
+00:16:40,019 --> 00:16:41,820
+even the rejection block which would be
+
+417
+00:16:41,820 --> 00:16:43,620
+the bodies of the candle sweeps through
+
+418
+00:16:43,620 --> 00:16:46,139
+that in London one StandardDeviation
+
+419
+00:16:46,139 --> 00:16:49,620
+misses it by two Pips okay so this is
+
+420
+00:16:49,620 --> 00:16:50,880
+going to be a time where you just don't
+
+421
+00:16:50,880 --> 00:16:53,040
+get it exactly but it's still calm one
+
+422
+00:16:53,040 --> 00:16:55,259
+StandardDeviation so we get a range
+
+423
+00:16:55,259 --> 00:16:59,220
+okay of these two together
+
+424
+00:16:59,220 --> 00:17:01,560
+so what you do
+
+425
+00:17:01,560 --> 00:17:04,759
+I'll borrow this
+
+426
+00:17:05,640 --> 00:17:08,220
+okay I'm getting a measurement of that
+
+427
+00:17:08,220 --> 00:17:09,540
+total range
+
+428
+00:17:09,540 --> 00:17:11,099
+it's almost the same thing actually it's
+
+429
+00:17:11,099 --> 00:17:13,559
+pretty interesting
+
+430
+00:17:13,559 --> 00:17:17,579
+okay so we have one
+
+431
+00:17:20,040 --> 00:17:21,780
+two
+
+432
+00:17:21,780 --> 00:17:25,020
+okay two projected StandardDeviation
+
+433
+00:17:25,020 --> 00:17:26,939
+up
+
+434
+00:17:26,939 --> 00:17:29,040
+that gives us a projected High
+
+435
+00:17:29,040 --> 00:17:30,540
+and I'm going to tell you why I stopped
+
+436
+00:17:30,540 --> 00:17:31,559
+here
+
+437
+00:17:31,559 --> 00:17:33,120
+before you start thinking oh you're
+
+438
+00:17:33,120 --> 00:17:35,780
+cherry picking
+
+439
+00:17:36,299 --> 00:17:38,940
+okay so we have the projected High
+
+440
+00:17:38,940 --> 00:17:43,020
+called here notice that this Wick right
+
+441
+00:17:43,020 --> 00:17:45,419
+here goes through our projected idea of
+
+442
+00:17:45,419 --> 00:17:46,980
+where price should go
+
+443
+00:17:46,980 --> 00:17:50,820
+but this one stops right to the pit
+
+444
+00:17:50,820 --> 00:17:52,440
+here's our time when and when it starts
+
+445
+00:17:52,440 --> 00:17:54,000
+on this candle so it's a little bit
+
+446
+00:17:54,000 --> 00:17:56,820
+early one hour early making the
+
+447
+00:17:56,820 --> 00:17:58,799
+well not one hour early but in the nine
+
+448
+00:17:58,799 --> 00:18:00,299
+o'clock hour of NewYork time it made
+
+449
+00:18:00,299 --> 00:18:02,220
+the HOD then 10 o'clock it
+
+450
+00:18:02,220 --> 00:18:03,780
+made this candle's High
+
+451
+00:18:03,780 --> 00:18:06,720
+11 and then noon here
+
+452
+00:18:06,720 --> 00:18:09,600
+why did it go up to this level here
+
+453
+00:18:09,600 --> 00:18:10,980
+forget the time element because you're
+
+454
+00:18:10,980 --> 00:18:12,120
+never going to have that perfectly but
+
+455
+00:18:12,120 --> 00:18:14,160
+it just gives us a ballpark figure time
+
+456
+00:18:14,160 --> 00:18:15,600
+wise when they anticipate the move to
+
+457
+00:18:15,600 --> 00:18:17,820
+unfold but I want you to look back over
+
+458
+00:18:17,820 --> 00:18:20,580
+here we have a candle it makes a low and
+
+459
+00:18:20,580 --> 00:18:22,559
+the close comes off that low
+
+460
+00:18:22,559 --> 00:18:24,660
+by a little bit then this candle opens
+
+461
+00:18:24,660 --> 00:18:27,120
+trades up a little bit so all this buy
+
+462
+00:18:27,120 --> 00:18:31,020
+side delivery vacancy okay or void of
+
+463
+00:18:31,020 --> 00:18:32,940
+buy side delivery it's only sell side
+
+464
+00:18:32,940 --> 00:18:36,120
+delivery begins at this candle's low
+
+465
+00:18:36,120 --> 00:18:39,000
+okay at 125.26
+
+466
+00:18:39,000 --> 00:18:41,940
+so from this candle's High here
+
+467
+00:18:41,940 --> 00:18:44,419
+at
+
+468
+00:18:44,419 --> 00:18:47,460
+2503 to this candle's low
+
+469
+00:18:47,460 --> 00:18:50,400
+at 25.26
+
+470
+00:18:50,400 --> 00:18:54,419
+we have 23 Pips of range to close in
+
+471
+00:18:54,419 --> 00:18:56,460
+right out to this point here
+
+472
+00:18:56,460 --> 00:18:59,400
+so we can look at that
+
+473
+00:18:59,400 --> 00:19:00,780
+like this
+
+474
+00:19:00,780 --> 00:19:03,780
+here is the fair value Gap that needs to
+
+475
+00:19:03,780 --> 00:19:05,760
+be closed in it does it right there and
+
+476
+00:19:05,760 --> 00:19:08,640
+goes Just A fifth or two above it
+
+477
+00:19:08,640 --> 00:19:11,280
+closing in this fair value Gap from this
+
+478
+00:19:11,280 --> 00:19:12,240
+high
+
+479
+00:19:12,240 --> 00:19:15,000
+to this low so it closes that in
+
+480
+00:19:15,000 --> 00:19:17,220
+so there's a reasonable expectation for
+
+481
+00:19:17,220 --> 00:19:18,480
+us to take profit there because we want
+
+482
+00:19:18,480 --> 00:19:20,280
+to get out early anyway but that's why
+
+483
+00:19:20,280 --> 00:19:22,740
+it went to that price point using the PD
+
+484
+00:19:22,740 --> 00:19:24,900
+arrays okay so nothing's changed there's
+
+485
+00:19:24,900 --> 00:19:25,740
+no
+
+486
+00:19:25,740 --> 00:19:28,740
+home you know new Hocus Pocus it's all
+
+487
+00:19:28,740 --> 00:19:30,780
+stuff that you've learned but now we're
+
+488
+00:19:30,780 --> 00:19:32,700
+applying it with great deal of precision
+
+489
+00:19:32,700 --> 00:19:35,580
+and using time elements okay so we went
+
+490
+00:19:35,580 --> 00:19:38,340
+two StandardDeviation up if we were to
+
+491
+00:19:38,340 --> 00:19:41,120
+go three
+
+492
+00:19:41,340 --> 00:19:44,100
+if we went 3 up that would took us up to
+
+493
+00:19:44,100 --> 00:19:45,960
+the bear shoulder block but we were
+
+494
+00:19:45,960 --> 00:19:47,580
+getting close to the time window so
+
+495
+00:19:47,580 --> 00:19:49,140
+while we could have expected this to
+
+496
+00:19:49,140 --> 00:19:50,100
+occur
+
+497
+00:19:50,100 --> 00:19:51,780
+two is about right because we're going
+
+498
+00:19:51,780 --> 00:19:53,100
+to close in the fair value Gap as we
+
+499
+00:19:53,100 --> 00:19:54,840
+were running up here
+
+500
+00:19:54,840 --> 00:19:58,140
+and it came late in the day on NewYork
+
+501
+00:19:58,140 --> 00:20:00,419
+for London close overlap so that's why
+
+502
+00:20:00,419 --> 00:20:02,700
+we'd expect to see price Peter out at
+
+503
+00:20:02,700 --> 00:20:03,720
+that point
+
+504
+00:20:03,720 --> 00:20:05,220
+again here we have
+
+505
+00:20:05,220 --> 00:20:07,440
+two StandardDeviation down
+
+506
+00:20:07,440 --> 00:20:09,539
+it goes right to the PIP
+
+507
+00:20:09,539 --> 00:20:11,220
+so we get a measurement of this tire
+
+508
+00:20:11,220 --> 00:20:12,720
+range of two StandardDeviation for
+
+509
+00:20:12,720 --> 00:20:15,440
+that particular day
+
+510
+00:20:20,340 --> 00:20:25,220
+okay so we have our range defined
+
+511
+00:20:28,320 --> 00:20:32,120
+so you have that one
+
+512
+00:20:34,200 --> 00:20:36,600
+and two
+
+513
+00:20:36,600 --> 00:20:38,100
+okay so we have two potential Standard
+
+514
+00:20:38,100 --> 00:20:41,419
+Deviation up
+
+515
+00:20:43,140 --> 00:20:45,240
+and also when price trades down two
+
+516
+00:20:45,240 --> 00:20:46,620
+StandardDeviation what we're actually
+
+517
+00:20:46,620 --> 00:20:48,179
+seeing is it trades down to another
+
+518
+00:20:48,179 --> 00:20:49,919
+discount PD array
+
+519
+00:20:49,919 --> 00:20:52,500
+which is these three consecutive Down
+
+520
+00:20:52,500 --> 00:20:54,299
+Candles
+
+521
+00:20:54,299 --> 00:20:55,740
+all we're going to do is extend this
+
+522
+00:20:55,740 --> 00:20:58,380
+over and you'll see the overlap
+
+523
+00:20:58,380 --> 00:21:00,900
+boom
+
+524
+00:21:00,900 --> 00:21:04,320
+okay so price trades down hits it
+
+525
+00:21:04,320 --> 00:21:08,220
+the opening on this candle is 124.36 the
+
+526
+00:21:08,220 --> 00:21:10,340
+low on this candle is
+
+527
+00:21:10,340 --> 00:21:13,440
+124.36 precision
+
+528
+00:21:13,440 --> 00:21:16,080
+two StandardDeviation okay and as a
+
+529
+00:21:16,080 --> 00:21:17,039
+general rule of thumb I like to always
+
+530
+00:21:17,039 --> 00:21:18,900
+throw two on just to see what would line
+
+531
+00:21:18,900 --> 00:21:21,660
+up so on the first one we see price
+
+532
+00:21:21,660 --> 00:21:25,080
+could reach up to
+
+533
+00:21:25,080 --> 00:21:28,020
+this fair value Gap in here so this
+
+534
+00:21:28,020 --> 00:21:28,980
+candle
+
+535
+00:21:28,980 --> 00:21:31,200
+hi and this candle low we left a little
+
+536
+00:21:31,200 --> 00:21:32,000
+bit of
+
+537
+00:21:32,000 --> 00:21:35,520
+sell side delivery only so as a buy side
+
+538
+00:21:35,520 --> 00:21:38,159
+liquidity void that we can see it trade
+
+539
+00:21:38,159 --> 00:21:39,659
+up into it's more specifically this
+
+540
+00:21:39,659 --> 00:21:41,400
+candle not this one I'm sorry this
+
+541
+00:21:41,400 --> 00:21:42,659
+candle here
+
+542
+00:21:42,659 --> 00:21:45,240
+so we can look at that
+
+543
+00:21:45,240 --> 00:21:46,980
+frame that out
+
+544
+00:21:46,980 --> 00:21:48,600
+here
+
+545
+00:21:48,600 --> 00:21:50,460
+okay so in this day price trades up
+
+546
+00:21:50,460 --> 00:21:52,559
+here's the noon
+
+547
+00:21:52,559 --> 00:21:56,039
+close of London this candle right here
+
+548
+00:21:56,039 --> 00:21:58,799
+trades up closes in
+
+549
+00:21:58,799 --> 00:22:01,260
+to the bearish order block it goes
+
+550
+00:22:01,260 --> 00:22:03,480
+inside of the second Deviation so while
+
+551
+00:22:03,480 --> 00:22:06,000
+there still may be some range permitted
+
+552
+00:22:06,000 --> 00:22:08,820
+based on the projections it's the PD
+
+553
+00:22:08,820 --> 00:22:11,039
+arrays that call the shot okay just it's
+
+554
+00:22:11,039 --> 00:22:13,620
+not the magic of these projections these
+
+555
+00:22:13,620 --> 00:22:16,020
+projections will lead you to
+
+556
+00:22:16,020 --> 00:22:19,080
+an overlap of time and price so we're
+
+557
+00:22:19,080 --> 00:22:20,820
+looking at the extension of the range
+
+558
+00:22:20,820 --> 00:22:22,740
+two StandardDeviation measure that
+
+559
+00:22:22,740 --> 00:22:25,320
+projected above from the eight 
+
+560
+00:22:25,320 --> 00:22:27,000
+consolidation of the CentralBankDealersRange High
+
+562
+00:22:28,740 --> 00:22:31,020
+we place that on there one Standard
+
+563
+00:22:31,020 --> 00:22:32,880
+Deviation that one alone would have been
+
+564
+00:22:32,880 --> 00:22:34,440
+enough and you could have took profits
+
+565
+00:22:34,440 --> 00:22:35,340
+right there
+
+566
+00:22:35,340 --> 00:22:37,020
+and that would be fine and just left
+
+567
+00:22:37,020 --> 00:22:38,340
+that little piece on there for the fair
+
+568
+00:22:38,340 --> 00:22:39,900
+value got The Fill in and let the rest
+
+569
+00:22:39,900 --> 00:22:41,700
+of the people chase that
+
+570
+00:22:41,700 --> 00:22:44,039
+the second one you can have a little
+
+571
+00:22:44,039 --> 00:22:45,720
+piece of one still
+
+572
+00:22:45,720 --> 00:22:47,340
+once it closes in the fair value Gap
+
+573
+00:22:47,340 --> 00:22:48,659
+again you would take another portion of
+
+574
+00:22:48,659 --> 00:22:50,340
+your trade-off and then see if it has
+
+575
+00:22:50,340 --> 00:22:52,799
+any room to trade higher
+
+576
+00:22:52,799 --> 00:22:55,799
+ultimately it never does but that's the
+
+577
+00:22:55,799 --> 00:22:57,659
+that's the way you'd use it in order to
+
+578
+00:22:57,659 --> 00:23:00,059
+read from the London close
+
+579
+00:23:00,059 --> 00:23:02,280
+Killzone when they cut lows Killzone
+
+580
+00:23:02,280 --> 00:23:04,740
+that includes killZone the Standard
+
+581
+00:23:04,740 --> 00:23:06,960
+Deviation range from the Central Bank
+
+582
+00:23:06,960 --> 00:23:08,940
+range per tractionary state in other
+
+583
+00:23:08,940 --> 00:23:10,919
+words how many StandardDeviation go up
+
+584
+00:23:10,919 --> 00:23:13,799
+that's your key okay that's the thing
+
+585
+00:23:13,799 --> 00:23:17,039
+that makes IPDA reach for it now it will
+
+586
+00:23:17,039 --> 00:23:20,460
+go those many blocks down until it
+
+587
+00:23:20,460 --> 00:23:23,280
+reaches the time of day where
+
+588
+00:23:23,280 --> 00:23:25,200
+we expect the range to cap that means
+
+589
+00:23:25,200 --> 00:23:29,299
+it's if it's a NewYork  session
+
+590
+00:23:29,299 --> 00:23:32,100
+reversal like we see here now we're not
+
+591
+00:23:32,100 --> 00:23:33,539
+using the range here because the Central
+
+592
+00:23:33,539 --> 00:23:36,780
+Bank dealer's range is too too extended
+
+593
+00:23:36,780 --> 00:23:39,360
+but price trades down into a NewYork
+
+594
+00:23:39,360 --> 00:23:41,520
+session reversal because it hits a daily
+
+595
+00:23:41,520 --> 00:23:42,960
+bullish order block
+
+596
+00:23:42,960 --> 00:23:45,780
+and then that's our weekly low and price
+
+597
+00:23:45,780 --> 00:23:48,299
+has a slightly bullish day intraday on
+
+598
+00:23:48,299 --> 00:23:50,820
+the next day and then we have our setup
+
+599
+00:23:50,820 --> 00:23:54,240
+going into the
+
+600
+00:23:54,419 --> 00:23:56,700
+rally on March 30th
+
+601
+00:23:56,700 --> 00:23:58,320
+trading down into a rejection blockable
+
+602
+00:23:58,320 --> 00:24:00,480
+shoulder block overlap and then two
+
+603
+00:24:00,480 --> 00:24:02,580
+StandardDeviation up Nails it now we
+
+604
+00:24:02,580 --> 00:24:04,080
+didn't get the exact
+
+605
+00:24:04,080 --> 00:24:07,500
+Range High in here but using the
+
+606
+00:24:07,500 --> 00:24:09,900
+fair value Gap in here and we've got you
+
+607
+00:24:09,900 --> 00:24:11,400
+real close two Pips away from it so you
+
+608
+00:24:11,400 --> 00:24:12,960
+can't argue about that that's sometimes
+
+609
+00:24:12,960 --> 00:24:14,460
+you're going to be right to the PIP
+
+610
+00:24:14,460 --> 00:24:16,020
+sometimes you'll be just short one or
+
+611
+00:24:16,020 --> 00:24:17,760
+two Pips and other times it'll be just
+
+612
+00:24:17,760 --> 00:24:19,980
+maybe five or six Pips above and there's
+
+613
+00:24:19,980 --> 00:24:21,059
+nothing wrong with leaving a little bit
+
+614
+00:24:21,059 --> 00:24:22,320
+of that on the table and if you're
+
+615
+00:24:22,320 --> 00:24:24,419
+looking for that always I'm not going to
+
+616
+00:24:24,419 --> 00:24:25,620
+be able to help you with that measure of
+
+617
+00:24:25,620 --> 00:24:27,480
+precision
+
+618
+00:24:27,480 --> 00:24:29,940
+so by blending these things like this
+
+619
+00:24:29,940 --> 00:24:32,400
+it gives us an overlap of Central Bank
+
+620
+00:24:32,400 --> 00:24:36,299
+dealers range projections okay and let
+
+621
+00:24:36,299 --> 00:24:37,980
+me remind you that the Precision really
+
+622
+00:24:37,980 --> 00:24:41,640
+is on the entry side of the low on the
+
+623
+00:24:41,640 --> 00:24:43,440
+BuyDays and the high on the Sell days
+
+624
+00:24:43,440 --> 00:24:46,260
+that's the StandardDeviation  tactic
+
+625
+00:24:46,260 --> 00:24:48,900
+now where this will get you in trouble
+
+626
+00:24:48,900 --> 00:24:50,520
+is you're going to try to apply the
+
+627
+00:24:50,520 --> 00:24:52,320
+StandardDeviation based on the range
+
+628
+00:24:52,320 --> 00:24:54,120
+between two o'clock in the afternoon and
+
+629
+00:24:54,120 --> 00:24:55,799
+8 PM NewYork time you're going to try
+
+630
+00:24:55,799 --> 00:24:57,179
+to do it every single day and you're
+
+631
+00:24:57,179 --> 00:24:58,679
+going to forget about the importance of
+
+632
+00:24:58,679 --> 00:25:00,360
+having a range between 20 and 30 Pips
+
+633
+00:25:00,360 --> 00:25:02,400
+for the CentralBankDealersRange it
+
+634
+00:25:02,400 --> 00:25:04,679
+has to be less than 40. and you have to
+
+635
+00:25:04,679 --> 00:25:06,960
+have a DirectionalBias remember we were
+
+636
+00:25:06,960 --> 00:25:08,640
+in a premium up here we saw a price
+
+637
+00:25:08,640 --> 00:25:10,980
+coming down to a discount PD array which
+
+638
+00:25:10,980 --> 00:25:12,600
+is the bullish order block recently
+
+639
+00:25:12,600 --> 00:25:14,640
+expected to bounce bounce it does okay
+
+640
+00:25:14,640 --> 00:25:16,740
+so to get into buy side
+
+641
+00:25:16,740 --> 00:25:19,020
+boom one StandardDeviation now I could
+
+642
+00:25:19,020 --> 00:25:21,059
+have done two StandardDeviation okay
+
+643
+00:25:21,059 --> 00:25:23,280
+and trade down below these Wicks could
+
+644
+00:25:23,280 --> 00:25:25,380
+have done that but it already hit this
+
+645
+00:25:25,380 --> 00:25:27,900
+order block and we found this low in
+
+646
+00:25:27,900 --> 00:25:31,020
+here the body's equal in here we swept
+
+647
+00:25:31,020 --> 00:25:32,880
+it didn't get quite down there no
+
+648
+00:25:32,880 --> 00:25:36,179
+problem big deal even if you missed this
+
+649
+00:25:36,179 --> 00:25:38,400
+move look at this one here you make up
+
+650
+00:25:38,400 --> 00:25:39,840
+for it the next day
+
+651
+00:25:39,840 --> 00:25:43,080
+is it a trade every single day no
+
+652
+00:25:43,080 --> 00:25:45,240
+that's what I'm trying to show you by
+
+653
+00:25:45,240 --> 00:25:47,039
+sitting down with you every single
+
+654
+00:25:47,039 --> 00:25:48,779
+trading day and using the things that
+
+655
+00:25:48,779 --> 00:25:50,640
+you've learned thus far in the order
+
+656
+00:25:50,640 --> 00:25:52,140
+that you've been learning them you can
+
+657
+00:25:52,140 --> 00:25:54,539
+see that it doesn't equate to getting
+
+658
+00:25:54,539 --> 00:25:56,640
+money every single day now some of you
+
+659
+00:25:56,640 --> 00:25:59,159
+are in here using other tools and using
+
+660
+00:25:59,159 --> 00:26:01,260
+things of your own  in your own
+
+661
+00:26:01,260 --> 00:26:03,360
+discovery of my tools and such and
+
+662
+00:26:03,360 --> 00:26:04,919
+you'll be able to find some setups
+
+663
+00:26:04,919 --> 00:26:07,559
+that's fine that's great but when we do
+
+664
+00:26:07,559 --> 00:26:09,480
+live sessions I don't want folks trying
+
+665
+00:26:09,480 --> 00:26:10,980
+to call out what they think is going to
+
+666
+00:26:10,980 --> 00:26:12,480
+happen unless I'm specifically asking
+
+667
+00:26:12,480 --> 00:26:14,279
+you because I'm trying to keep the
+
+668
+00:26:14,279 --> 00:26:17,100
+learning curve basically everyone in the
+
+669
+00:26:17,100 --> 00:26:18,600
+same mindset
+
+670
+00:26:18,600 --> 00:26:20,580
+because if I can hold you all
+
+671
+00:26:20,580 --> 00:26:22,679
+collectively as long as I can in that
+
+672
+00:26:22,679 --> 00:26:25,679
+mindset you'll hopefully learn in its
+
+673
+00:26:25,679 --> 00:26:28,260
+closest way possible step by step with
+
+674
+00:26:28,260 --> 00:26:29,279
+each other
+
+675
+00:26:29,279 --> 00:26:30,480
+and some of you are a little bit more
+
+676
+00:26:30,480 --> 00:26:31,860
+advanced because you've been using my
+
+677
+00:26:31,860 --> 00:26:32,760
+stuff a little bit longer than the
+
+678
+00:26:32,760 --> 00:26:35,039
+mentorship started but a lot of us are
+
+679
+00:26:35,039 --> 00:26:37,620
+in here are talking for the first time
+
+680
+00:26:37,620 --> 00:26:40,799
+and we're using the content you know in
+
+681
+00:26:40,799 --> 00:26:43,440
+a graduate modular State and this is the
+
+682
+00:26:43,440 --> 00:26:46,260
+way you learn it so by blending these
+
+683
+00:26:46,260 --> 00:26:48,539
+things again this has nothing to do with
+
+684
+00:26:48,539 --> 00:26:49,919
+Elliott wave it doesn't have anything of
+
+685
+00:26:49,919 --> 00:26:52,919
+supply and demand it's all interpanc
+
+686
+00:26:52,919 --> 00:26:56,580
+delivery okay so this is the science if
+
+687
+00:26:56,580 --> 00:26:58,440
+you will behind IPDA calling the daily
+
+688
+00:26:58,440 --> 00:27:01,200
+high and low please
+
+689
+00:27:01,200 --> 00:27:04,080
+please understand that this is something
+
+690
+00:27:04,080 --> 00:27:05,820
+that should not be out there on YouTube
+
+691
+00:27:05,820 --> 00:27:08,520
+if you see this on YouTube send me an
+
+692
+00:27:08,520 --> 00:27:11,220
+email at Inner Circle Trader gmail.com
+
+693
+00:27:11,220 --> 00:27:13,140
+tell me that's on there send me the link
+
+694
+00:27:13,140 --> 00:27:15,419
+and I will flag it and have YouTube take
+
+695
+00:27:15,419 --> 00:27:17,279
+it down none of you would have
+
+696
+00:27:17,279 --> 00:27:18,659
+permission none of you have permission
+
+697
+00:27:18,659 --> 00:27:20,580
+to post this anywhere and I certainly
+
+698
+00:27:20,580 --> 00:27:22,679
+don't want to post it on online video
+
+699
+00:27:22,679 --> 00:27:24,840
+hosting mediums or meet available to
+
+700
+00:27:24,840 --> 00:27:26,640
+other people so
+
+701
+00:27:26,640 --> 00:27:28,559
+it's just too good to be out there in
+
+702
+00:27:28,559 --> 00:27:31,380
+the public I debated whether or not I
+
+703
+00:27:31,380 --> 00:27:32,940
+wasn't even going to include this if
+
+704
+00:27:32,940 --> 00:27:34,080
+y'all would have kept it out you never
+
+705
+00:27:34,080 --> 00:27:36,720
+would have known it anyway but
+
+706
+00:27:36,720 --> 00:27:39,000
+you would have you would have missed how
+
+707
+00:27:39,000 --> 00:27:40,740
+I'm pretty much calling the highs and
+
+708
+00:27:40,740 --> 00:27:42,900
+lows when there's specific times of the
+
+709
+00:27:42,900 --> 00:27:44,760
+day and Times of the week and Times of
+
+710
+00:27:44,760 --> 00:27:47,159
+the month where it lines up this is how
+
+711
+00:27:47,159 --> 00:27:50,220
+I do it so hopefully you found this 
+
+712
+00:27:50,220 --> 00:27:51,600
+insightful I'm sure some of you are
+
+713
+00:27:51,600 --> 00:27:53,159
+going to be nuts about it go through all
+
+714
+00:27:53,159 --> 00:27:55,380
+your charts and  this weekend will
+
+715
+00:27:55,380 --> 00:27:57,419
+probably be a very  light sleeping
+
+716
+00:27:57,419 --> 00:27:59,760
+week but I can assure you that this
+
+717
+00:27:59,760 --> 00:28:01,320
+isn't all there is we get a lot more
+
+718
+00:28:01,320 --> 00:28:03,299
+precise than this but there's some
+
+719
+00:28:03,299 --> 00:28:04,679
+things that you have to take in
+
+720
+00:28:04,679 --> 00:28:07,440
+consideration obviously if I gave this
+
+721
+00:28:07,440 --> 00:28:10,080
+on a YouTube video and mentioned  you
+
+722
+00:28:10,080 --> 00:28:10,980
+know all the things that we've learned
+
+723
+00:28:10,980 --> 00:28:14,039
+so far in the mentorship it still
+
+724
+00:28:14,039 --> 00:28:15,720
+wouldn't serve many people because they
+
+725
+00:28:15,720 --> 00:28:17,580
+would try to over use it they would try
+
+726
+00:28:17,580 --> 00:28:19,260
+to use it every single day they wouldn't
+
+727
+00:28:19,260 --> 00:28:21,539
+understand the PDA rate Matrix they
+
+728
+00:28:21,539 --> 00:28:23,460
+wouldn't understand the if the data
+
+729
+00:28:23,460 --> 00:28:25,440
+ranges they would just not have all the
+
+730
+00:28:25,440 --> 00:28:28,020
+insights that you have so
+
+731
+00:28:28,020 --> 00:28:30,179
+again this gets back to why it can't be
+
+732
+00:28:30,179 --> 00:28:31,799
+done in a video it can't be just one
+
+733
+00:28:31,799 --> 00:28:33,299
+video does it you have to have all the
+
+734
+00:28:33,299 --> 00:28:35,039
+stuff that's been taught thus far and
+
+735
+00:28:35,039 --> 00:28:36,960
+now you can see how they start to draw
+
+736
+00:28:36,960 --> 00:28:39,000
+together and there's some symmetry here
+
+737
+00:28:39,000 --> 00:28:40,919
+so now because we are understanding
+
+738
+00:28:40,919 --> 00:28:43,980
+these ranges we can take our Precision a
+
+739
+00:28:43,980 --> 00:28:46,980
+little bit more further and now start to
+
+740
+00:28:46,980 --> 00:28:48,659
+understand when we don't really want to
+
+741
+00:28:48,659 --> 00:28:50,760
+be taking specific day trades so now
+
+742
+00:28:50,760 --> 00:28:52,799
+instead of trading every single trading
+
+743
+00:28:52,799 --> 00:28:55,200
+day while I will be forced to try to do
+
+744
+00:28:55,200 --> 00:28:56,940
+it I will remind you based on these
+
+745
+00:28:56,940 --> 00:28:59,520
+rules that there is or is not the high
+
+746
+00:28:59,520 --> 00:29:01,860
+probability setup based on the Central
+
+747
+00:29:01,860 --> 00:29:03,900
+Bank dealers range being in an area of
+
+748
+00:29:03,900 --> 00:29:07,380
+discount or premium and
+
+749
+00:29:07,380 --> 00:29:09,720
+we're not in a Range that is conducive
+
+750
+00:29:09,720 --> 00:29:12,120
+in other words 2030 is ideal in terms of
+
+751
+00:29:12,120 --> 00:29:13,500
+Pips for the CentralBankDealersRange
+
+752
+00:29:13,500 --> 00:29:16,140
+if it's bigger than that we have a
+
+753
+00:29:16,140 --> 00:29:18,000
+harder time getting these measurements
+
+754
+00:29:18,000 --> 00:29:19,799
+okay so remember it goes back to Power
+
+755
+00:29:19,799 --> 00:29:21,419
+Three average DailyRange is about 100
+
+756
+00:29:21,419 --> 00:29:23,580
+Pips not always but generally and we
+
+757
+00:29:23,580 --> 00:29:25,620
+look for an average about 33 Pips for a
+
+758
+00:29:25,620 --> 00:29:27,240
+protractionary state in London it
+
+759
+00:29:27,240 --> 00:29:28,799
+doesn't have to do that it can be just
+
+760
+00:29:28,799 --> 00:29:31,440
+six Pips okay but generally we allow up
+
+761
+00:29:31,440 --> 00:29:34,620
+to 33 but if we have a central bank
+
+762
+00:29:34,620 --> 00:29:36,299
+deals range that's greater than 40 Pips
+
+763
+00:29:36,299 --> 00:29:38,580
+it usually messes up the synchronization
+
+764
+00:29:38,580 --> 00:29:41,340
+for the London open killZone so
+
+765
+00:29:41,340 --> 00:29:42,659
+hopefully you found this insightful
+
+766
+00:29:42,659 --> 00:29:45,000
+please do not share it please don't be
+
+767
+00:29:45,000 --> 00:29:46,980
+your best friend to somebody else and
+
+768
+00:29:46,980 --> 00:29:49,559
+give this out to someone keep it to your
+
+769
+00:29:49,559 --> 00:29:52,020
+close to your vest don't share it trust
+
+770
+00:29:52,020 --> 00:29:54,120
+me it's just way way too good to be out
+
+771
+00:29:54,120 --> 00:29:55,919
+there for everyone else to know you paid
+
+772
+00:29:55,919 --> 00:29:57,720
+for it be greedy with it there's nothing
+
+773
+00:29:57,720 --> 00:29:59,940
+wrong with that you earned it until next
+
+774
+00:29:59,940 --> 00:30:01,200
+lesson wish you good luck and good
+
+775
+00:30:01,200 --> 00:30:03,440
+training
+

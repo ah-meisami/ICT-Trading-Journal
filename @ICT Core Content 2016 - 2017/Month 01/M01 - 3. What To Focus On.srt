@@ -1,0 +1,2932 @@
+1
+00:00:36,640 --> 00:00:38,480
+okay folks welcome back
+
+2
+00:00:38,480 --> 00:00:40,879
+this is the third teaching of a series
+
+3
+00:00:40,879 --> 00:00:43,680
+of eight for the first month of the ict
+
+4
+00:00:43,680 --> 00:00:45,520
+mentorship
+
+5
+00:00:45,520 --> 00:00:47,760
+okay we're going to continue continuing
+
+6
+00:00:47,760 --> 00:00:49,760
+on our theme of understanding the
+
+7
+00:00:49,760 --> 00:00:51,680
+mindset that you have to have
+
+8
+00:00:51,680 --> 00:00:53,199
+going into the marketplace looking at
+
+9
+00:00:53,199 --> 00:00:56,000
+things in a little bit reverse order
+
+10
+00:00:56,000 --> 00:00:57,199
+then you're normally taught from a
+
+11
+00:00:57,199 --> 00:00:59,039
+retail perspective
+
+12
+00:00:59,039 --> 00:01:00,160
+and this is one
+
+13
+00:01:00,160 --> 00:01:01,760
+this is one of those teachings that
+
+14
+00:01:01,760 --> 00:01:04,319
+you're going to have that if you're new
+
+15
+00:01:04,319 --> 00:01:06,560
+you actually have the advantage here
+
+16
+00:01:06,560 --> 00:01:08,960
+for folks that have been trading for a
+
+17
+00:01:08,960 --> 00:01:10,080
+while that
+
+18
+00:01:10,080 --> 00:01:12,720
+have adopted bad habits or
+
+19
+00:01:12,720 --> 00:01:14,720
+an understanding or a belief that they
+
+20
+00:01:14,720 --> 00:01:16,720
+have an understanding
+
+21
+00:01:16,720 --> 00:01:18,000
+it's going to be a little bit expensive
+
+22
+00:01:18,000 --> 00:01:19,040
+for them because they're going to have
+
+23
+00:01:19,040 --> 00:01:19,920
+to
+
+24
+00:01:19,920 --> 00:01:21,600
+purge some of the things that they
+
+25
+00:01:21,600 --> 00:01:24,720
+either subscribe to or
+
+26
+00:01:24,720 --> 00:01:27,280
+wrestle with it until they either do or
+
+27
+00:01:27,280 --> 00:01:30,880
+elect not to use this insight at all
+
+28
+00:01:31,840 --> 00:01:33,680
+i mapped out a
+
+29
+00:01:33,680 --> 00:01:35,280
+a crude depiction here and i've been
+
+30
+00:01:35,280 --> 00:01:37,360
+using it for months actually um as a
+
+31
+00:01:37,360 --> 00:01:38,880
+teaching tool
+
+32
+00:01:38,880 --> 00:01:40,640
+but we're gonna really hammer it down in
+
+33
+00:01:40,640 --> 00:01:42,960
+this mentorship because it's imperative
+
+34
+00:01:42,960 --> 00:01:44,159
+that you know
+
+35
+00:01:44,159 --> 00:01:46,799
+how we as
+
+36
+00:01:46,799 --> 00:01:48,320
+traders are supposed to be viewing
+
+37
+00:01:48,320 --> 00:01:52,159
+marketplace uh data delivery um
+
+38
+00:01:52,159 --> 00:01:54,560
+reverse psychology
+
+39
+00:01:54,560 --> 00:01:57,360
+whatever the psychology of this
+
+40
+00:01:57,360 --> 00:01:59,439
+informed money is
+
+41
+00:01:59,439 --> 00:02:01,280
+it's going to be diametrically opposed
+
+42
+00:02:01,280 --> 00:02:04,240
+to that of the uninformed or speculative
+
+43
+00:02:04,240 --> 00:02:07,840
+money or quote unquote dumb
+
+44
+00:02:07,840 --> 00:02:09,520
+and when we have these ideas when we
+
+45
+00:02:09,520 --> 00:02:11,760
+look at price okay the first thing we
+
+46
+00:02:11,760 --> 00:02:13,360
+have to do is establish
+
+47
+00:02:13,360 --> 00:02:15,680
+who is the victim here you know
+
+48
+00:02:15,680 --> 00:02:17,599
+generally there's a victim always in
+
+49
+00:02:17,599 --> 00:02:19,280
+every crime
+
+50
+00:02:19,280 --> 00:02:20,560
+and
+
+51
+00:02:20,560 --> 00:02:22,640
+the perspective that the speculative
+
+52
+00:02:22,640 --> 00:02:24,319
+uninformed money has
+
+53
+00:02:24,319 --> 00:02:26,319
+is that number one they don't
+
+54
+00:02:26,319 --> 00:02:28,400
+acknowledge that there's a smart money
+
+55
+00:02:28,400 --> 00:02:30,400
+there is not an entity out there that
+
+56
+00:02:30,400 --> 00:02:33,280
+has uh quote unquote the right things
+
+57
+00:02:33,280 --> 00:02:36,720
+always on uh the right perspective
+
+58
+00:02:36,720 --> 00:02:39,360
+or that a market is rigged or controlled
+
+59
+00:02:39,360 --> 00:02:41,599
+or manipulated or has any influence over
+
+60
+00:02:41,599 --> 00:02:44,160
+long-term price delivery
+
+61
+00:02:44,160 --> 00:02:46,640
+the uninformed money
+
+62
+00:02:46,640 --> 00:02:48,640
+okay or
+
+63
+00:02:48,640 --> 00:02:50,879
+those that are uninformed in regards to
+
+64
+00:02:50,879 --> 00:02:52,640
+how smart money actually operates and
+
+65
+00:02:52,640 --> 00:02:55,040
+exists in the in the marketplace their
+
+66
+00:02:55,040 --> 00:02:56,720
+actual perspective really is that
+
+67
+00:02:56,720 --> 00:02:58,720
+indicators are the answer
+
+68
+00:02:58,720 --> 00:03:01,599
+and uninformed money their perspective
+
+69
+00:03:01,599 --> 00:03:03,760
+holds
+
+70
+00:03:03,760 --> 00:03:05,040
+belief that
+
+71
+00:03:05,040 --> 00:03:07,840
+price moves by indicators influence okay
+
+72
+00:03:07,840 --> 00:03:09,920
+and the influence of an indicator being
+
+73
+00:03:09,920 --> 00:03:12,480
+overbought or sold that is what the
+
+74
+00:03:12,480 --> 00:03:14,560
+precursor is to a market moving higher
+
+75
+00:03:14,560 --> 00:03:17,440
+or lower and i can tell you i subscribed
+
+76
+00:03:17,440 --> 00:03:19,840
+to that for years as a new trader and it
+
+77
+00:03:19,840 --> 00:03:22,159
+took a long time for me to actually be
+
+78
+00:03:22,159 --> 00:03:24,400
+broken away from
+
+79
+00:03:24,400 --> 00:03:26,400
+that type of mindset
+
+80
+00:03:26,400 --> 00:03:28,000
+so if you're new and you haven't been
+
+81
+00:03:28,000 --> 00:03:30,640
+exposed to indicator itis and you're not
+
+82
+00:03:30,640 --> 00:03:32,159
+infected with that yet you're actually
+
+83
+00:03:32,159 --> 00:03:35,360
+pretty good uh in in terms of advantage
+
+84
+00:03:35,360 --> 00:03:37,040
+uh those that like
+
+85
+00:03:37,040 --> 00:03:38,959
+to use it indicators are going to have a
+
+86
+00:03:38,959 --> 00:03:40,159
+little bit of a
+
+87
+00:03:40,159 --> 00:03:42,000
+struggle with this mentorship because
+
+88
+00:03:42,000 --> 00:03:43,280
+i'm telling you basically you need to
+
+89
+00:03:43,280 --> 00:03:44,799
+get that out of your system get that off
+
+90
+00:03:44,799 --> 00:03:47,440
+your charts because it is not how you're
+
+91
+00:03:47,440 --> 00:03:48,799
+going to be able to see smart money in
+
+92
+00:03:48,799 --> 00:03:50,560
+fact we're going to be able to use these
+
+93
+00:03:50,560 --> 00:03:52,239
+indicators to be
+
+94
+00:03:52,239 --> 00:03:54,799
+uh informed as to what the uninformed
+
+95
+00:03:54,799 --> 00:03:56,720
+traders are actually uh thinking so when
+
+96
+00:03:56,720 --> 00:03:58,159
+we talk about sentiment next month
+
+97
+00:03:58,159 --> 00:03:59,280
+you'll have a lot more understanding
+
+98
+00:03:59,280 --> 00:04:01,519
+about what that is how it's developed
+
+99
+00:04:01,519 --> 00:04:04,879
+and what you can do with it
+
+100
+00:04:04,879 --> 00:04:05,760
+now
+
+101
+00:04:05,760 --> 00:04:07,760
+obviously we only exposed one side of
+
+102
+00:04:07,760 --> 00:04:09,760
+the the paradigm here by
+
+103
+00:04:09,760 --> 00:04:11,519
+specifically dealing with the
+
+104
+00:04:11,519 --> 00:04:12,959
+speculative uninformed monies
+
+105
+00:04:12,959 --> 00:04:15,040
+perspective uh you're not here to really
+
+106
+00:04:15,040 --> 00:04:17,040
+so much learn about those individuals
+
+107
+00:04:17,040 --> 00:04:18,798
+because obviously no we all know that
+
+108
+00:04:18,798 --> 00:04:19,839
+there's a losing crowd in the
+
+109
+00:04:19,839 --> 00:04:22,479
+marketplace and your idea
+
+110
+00:04:22,479 --> 00:04:24,560
+of uh you know being a part of that
+
+111
+00:04:24,560 --> 00:04:26,960
+group is foolish so we're here only to
+
+112
+00:04:26,960 --> 00:04:28,800
+focus on what the smart money view is on
+
+113
+00:04:28,800 --> 00:04:31,040
+the marketplace and that begins by
+
+114
+00:04:31,040 --> 00:04:34,320
+understanding that there is a huge vast
+
+115
+00:04:34,320 --> 00:04:35,600
+enormous
+
+116
+00:04:35,600 --> 00:04:37,280
+new pool of liquidity coming into the
+
+117
+00:04:37,280 --> 00:04:40,240
+marketplace every single day
+
+118
+00:04:40,240 --> 00:04:42,080
+even though there's new busted accounts
+
+119
+00:04:42,080 --> 00:04:44,080
+all the time the statistics stated tell
+
+120
+00:04:44,080 --> 00:04:47,280
+us that 90 of traders lose their money
+
+121
+00:04:47,280 --> 00:04:49,199
+large funds are in the same category not
+
+122
+00:04:49,199 --> 00:04:51,360
+every fund is profitable just because
+
+123
+00:04:51,360 --> 00:04:52,240
+there's a lot of people that are
+
+124
+00:04:52,240 --> 00:04:54,479
+investing money into this fund or this
+
+125
+00:04:54,479 --> 00:04:56,960
+fund manager does not no way guarantee
+
+126
+00:04:56,960 --> 00:04:58,639
+that that fund will exist a year two
+
+127
+00:04:58,639 --> 00:05:00,800
+years five years from now
+
+128
+00:05:00,800 --> 00:05:02,960
+so we as
+
+129
+00:05:02,960 --> 00:05:04,960
+informed traders our perspective is to
+
+130
+00:05:04,960 --> 00:05:07,520
+hold the perspective of what a liquidity
+
+131
+00:05:07,520 --> 00:05:09,680
+provider or smart money view is on the
+
+132
+00:05:09,680 --> 00:05:12,960
+marketplace and they put a spotlight on
+
+133
+00:05:12,960 --> 00:05:15,440
+the aspects of uninformed money because
+
+134
+00:05:15,440 --> 00:05:16,880
+that's what makes the world go around in
+
+135
+00:05:16,880 --> 00:05:19,120
+the marketplace the smart money is there
+
+136
+00:05:19,120 --> 00:05:21,039
+to provide liquidity but they're doing
+
+137
+00:05:21,039 --> 00:05:23,680
+it at a exchange premium
+
+138
+00:05:23,680 --> 00:05:25,360
+in other words they're putting in in
+
+139
+00:05:25,360 --> 00:05:28,320
+trades that they're gonna most likely
+
+140
+00:05:28,320 --> 00:05:31,600
+come back to to either offset or
+
+141
+00:05:31,600 --> 00:05:33,520
+neutralize for their
+
+142
+00:05:33,520 --> 00:05:35,280
+interests and we'll talk more about that
+
+143
+00:05:35,280 --> 00:05:37,199
+as we go but for now understand that the
+
+144
+00:05:37,199 --> 00:05:39,680
+smart money knows in fact that there is
+
+145
+00:05:39,680 --> 00:05:41,600
+a large body of uninformed money out
+
+146
+00:05:41,600 --> 00:05:44,240
+there contrast that with what we spoke
+
+147
+00:05:44,240 --> 00:05:45,919
+of concerning the uninformed money's
+
+148
+00:05:45,919 --> 00:05:48,400
+perspective is there's a lack of an
+
+149
+00:05:48,400 --> 00:05:50,560
+entity out there that has a smart money
+
+150
+00:05:50,560 --> 00:05:52,080
+perspective on the price they don't have
+
+151
+00:05:52,080 --> 00:05:53,759
+an opinion or
+
+152
+00:05:53,759 --> 00:05:56,240
+an idea based
+
+153
+00:05:56,240 --> 00:05:59,440
+uh perspective that there is someone or
+
+154
+00:05:59,440 --> 00:06:01,759
+some entity or entities out there that
+
+155
+00:06:01,759 --> 00:06:03,759
+have a smart money perspective
+
+156
+00:06:03,759 --> 00:06:05,919
+or that the banks would actually
+
+157
+00:06:05,919 --> 00:06:07,520
+you know trade against
+
+158
+00:06:07,520 --> 00:06:11,039
+large uh firms or funds that that goes
+
+159
+00:06:11,039 --> 00:06:12,800
+against the grain of what a free market
+
+160
+00:06:12,800 --> 00:06:14,639
+is
+
+161
+00:06:14,639 --> 00:06:16,319
+so when we have a smart money
+
+162
+00:06:16,319 --> 00:06:18,000
+perspective in the marketplace we
+
+163
+00:06:18,000 --> 00:06:19,520
+actually use
+
+164
+00:06:19,520 --> 00:06:22,080
+their perspective as everybody else is
+
+165
+00:06:22,080 --> 00:06:23,840
+liquidity
+
+166
+00:06:23,840 --> 00:06:25,440
+and price is delivered to engineer
+
+167
+00:06:25,440 --> 00:06:27,520
+efficiency for the smart money entities
+
+168
+00:06:27,520 --> 00:06:28,960
+only
+
+169
+00:06:28,960 --> 00:06:32,160
+it's not anything outside that
+
+170
+00:06:32,160 --> 00:06:33,280
+so to hold the perspective of a
+
+171
+00:06:33,280 --> 00:06:35,600
+liquidity provider you are adopting a
+
+172
+00:06:35,600 --> 00:06:37,919
+smart money perspective and everybody
+
+173
+00:06:37,919 --> 00:06:38,880
+else
+
+174
+00:06:38,880 --> 00:06:40,319
+is liquidity
+
+175
+00:06:40,319 --> 00:06:41,919
+and the liquidity is going to be in the
+
+176
+00:06:41,919 --> 00:06:44,960
+form of buy stops sell stops pending
+
+177
+00:06:44,960 --> 00:06:46,880
+orders above and below the market highs
+
+178
+00:06:46,880 --> 00:06:48,639
+that are most recently
+
+179
+00:06:48,639 --> 00:06:51,599
+formed on your charts
+
+180
+00:06:52,560 --> 00:06:54,639
+once we understand that there's two
+
+181
+00:06:54,639 --> 00:06:56,479
+distinct perspectives that's what
+
+182
+00:06:56,479 --> 00:06:58,880
+creates the market efficiency paradigm
+
+183
+00:06:58,880 --> 00:07:00,160
+both of
+
+184
+00:07:00,160 --> 00:07:02,560
+both groups okay have
+
+185
+00:07:02,560 --> 00:07:04,639
+their individual perspectives
+
+186
+00:07:04,639 --> 00:07:07,120
+the one that is smart money they have
+
+187
+00:07:07,120 --> 00:07:08,800
+the unique perspective of understanding
+
+188
+00:07:08,800 --> 00:07:10,560
+already what the uninformed money is
+
+189
+00:07:10,560 --> 00:07:12,080
+going to believe about the marketplace
+
+190
+00:07:12,080 --> 00:07:14,240
+and that gives them their edge on top of
+
+191
+00:07:14,240 --> 00:07:16,080
+that they're actually in control of
+
+192
+00:07:16,080 --> 00:07:18,479
+price just like anything else if you own
+
+193
+00:07:18,479 --> 00:07:20,000
+a storefront or if you're owning a
+
+194
+00:07:20,000 --> 00:07:23,039
+business and your commodity is sold who
+
+195
+00:07:23,039 --> 00:07:25,680
+sets the price for that commodity you
+
+196
+00:07:25,680 --> 00:07:28,319
+you're the store owner well currency is
+
+197
+00:07:28,319 --> 00:07:30,400
+owned by the bank and they set the price
+
+198
+00:07:30,400 --> 00:07:33,520
+on the value of that bank note or that
+
+199
+00:07:33,520 --> 00:07:34,960
+digit on your screen that says you have
+
+200
+00:07:34,960 --> 00:07:38,960
+xyz number of dollars in or francs or
+
+201
+00:07:38,960 --> 00:07:40,720
+pounds or whatever it is that you're uh
+
+202
+00:07:40,720 --> 00:07:43,680
+you measuring your currency in
+
+203
+00:07:43,680 --> 00:07:46,080
+that's east that value is set by the
+
+204
+00:07:46,080 --> 00:07:48,960
+central bank that has printed that money
+
+205
+00:07:48,960 --> 00:07:51,520
+and why this is such a uh
+
+206
+00:07:51,520 --> 00:07:53,919
+speed bump for people's understanding
+
+207
+00:07:53,919 --> 00:07:55,599
+is beyond me because if you look at the
+
+208
+00:07:55,599 --> 00:07:56,639
+state of the world we're in right now
+
+209
+00:07:56,639 --> 00:07:59,120
+obviously corruption and deceit is the
+
+210
+00:07:59,120 --> 00:08:00,639
+name of the game so
+
+211
+00:08:00,639 --> 00:08:03,199
+it's not a shock to hear if you first
+
+212
+00:08:03,199 --> 00:08:04,800
+time being exposed to this that the
+
+213
+00:08:04,800 --> 00:08:06,400
+central banks are in absolute control of
+
+214
+00:08:06,400 --> 00:08:08,400
+what their price of their currency is
+
+215
+00:08:08,400 --> 00:08:10,160
+and they can set it at any time at any
+
+216
+00:08:10,160 --> 00:08:12,240
+price they want don't believe me look at
+
+217
+00:08:12,240 --> 00:08:13,840
+what they did with the swiss franc and
+
+218
+00:08:13,840 --> 00:08:15,599
+the euro when it was d-pegged
+
+219
+00:08:15,599 --> 00:08:18,960
+instantaneous wipeout okay
+
+220
+00:08:18,960 --> 00:08:21,840
+so once we understand both perspectives
+
+221
+00:08:21,840 --> 00:08:25,360
+okay intimately okay we no longer have a
+
+222
+00:08:25,360 --> 00:08:26,639
+at odds
+
+223
+00:08:26,639 --> 00:08:28,560
+perspective on the marketplace we don't
+
+224
+00:08:28,560 --> 00:08:30,879
+vilify the market maker we don't vilify
+
+225
+00:08:30,879 --> 00:08:33,839
+smart money we don't beat up or
+
+226
+00:08:33,839 --> 00:08:36,958
+make fun of the uninformed money in fact
+
+227
+00:08:36,958 --> 00:08:38,559
+what we do is we find a balance in
+
+228
+00:08:38,559 --> 00:08:40,719
+between that and we don't think in terms
+
+229
+00:08:40,719 --> 00:08:43,519
+of victim or aggressor we just think in
+
+230
+00:08:43,519 --> 00:08:45,760
+terms of efficiency because the markets
+
+231
+00:08:45,760 --> 00:08:46,880
+are always going to trade in an
+
+232
+00:08:46,880 --> 00:08:49,680
+efficient manner but it's slanted and
+
+233
+00:08:49,680 --> 00:08:51,120
+more prone
+
+234
+00:08:51,120 --> 00:08:54,080
+to lace the pockets of the smart money
+
+235
+00:08:54,080 --> 00:08:55,279
+because they have the advantage of
+
+236
+00:08:55,279 --> 00:08:56,800
+pricing wherever they want price to go
+
+237
+00:08:56,800 --> 00:08:58,480
+to and they already know what the
+
+238
+00:08:58,480 --> 00:09:00,000
+perspective is of the uninformed money
+
+239
+00:09:00,000 --> 00:09:01,760
+and they also know how to manipulate
+
+240
+00:09:01,760 --> 00:09:04,399
+that perspective at any given time based
+
+241
+00:09:04,399 --> 00:09:06,240
+on chart patterns based on indicators
+
+242
+00:09:06,240 --> 00:09:11,519
+based on just reactions to market news
+
+243
+00:09:13,920 --> 00:09:15,600
+now as we go through this mentorship
+
+244
+00:09:15,600 --> 00:09:17,040
+we're going to be focusing primarily on
+
+245
+00:09:17,040 --> 00:09:20,320
+your understanding of these four primary
+
+246
+00:09:20,320 --> 00:09:21,920
+drivers in price delivery it's
+
+247
+00:09:21,920 --> 00:09:24,080
+retracement expansion reversal and
+
+248
+00:09:24,080 --> 00:09:25,680
+consolidation now we're not going to
+
+249
+00:09:25,680 --> 00:09:27,279
+talk specifically about that but i want
+
+250
+00:09:27,279 --> 00:09:28,399
+you to understand that all the things
+
+251
+00:09:28,399 --> 00:09:29,920
+we're teaching here they're all
+
+252
+00:09:29,920 --> 00:09:31,760
+frameworks for you to understand those
+
+253
+00:09:31,760 --> 00:09:34,080
+four general principles
+
+254
+00:09:34,080 --> 00:09:35,440
+we can't
+
+255
+00:09:35,440 --> 00:09:37,279
+teach specific
+
+256
+00:09:37,279 --> 00:09:39,040
+contexts or
+
+257
+00:09:39,040 --> 00:09:41,920
+topics without having a broad based
+
+258
+00:09:41,920 --> 00:09:43,680
+understanding of foundation and that's
+
+259
+00:09:43,680 --> 00:09:45,279
+what this entire month of september is
+
+260
+00:09:45,279 --> 00:09:47,440
+doing it brings everybody to a reference
+
+261
+00:09:47,440 --> 00:09:50,080
+point to start at the same location some
+
+262
+00:09:50,080 --> 00:09:51,360
+of you that are advanced that watch a
+
+263
+00:09:51,360 --> 00:09:53,040
+lot of my free tutorials over the years
+
+264
+00:09:53,040 --> 00:09:54,720
+you need to put that aside for a moment
+
+265
+00:09:54,720 --> 00:09:56,640
+and start with this perspective in mind
+
+266
+00:09:56,640 --> 00:09:58,320
+and i promise you it's going to deliver
+
+267
+00:09:58,320 --> 00:10:00,399
+everything that you skipped over we're
+
+268
+00:10:00,399 --> 00:10:02,720
+going to fill in all those gaps
+
+269
+00:10:02,720 --> 00:10:05,040
+but understanding that the interbank
+
+270
+00:10:05,040 --> 00:10:07,600
+price delivery algorithm okay to
+
+271
+00:10:07,600 --> 00:10:09,200
+understand that it's going to have to
+
+272
+00:10:09,200 --> 00:10:12,240
+come by exposure and exposure creates
+
+273
+00:10:12,240 --> 00:10:14,160
+experience that experience is going to
+
+274
+00:10:14,160 --> 00:10:16,079
+give you the understanding going into
+
+275
+00:10:16,079 --> 00:10:18,640
+the charts seeing what they ex what they
+
+276
+00:10:18,640 --> 00:10:20,320
+should be doing with price what you
+
+277
+00:10:20,320 --> 00:10:23,680
+should be seeing in price
+
+278
+00:10:26,880 --> 00:10:30,000
+by seeing each individual component
+
+279
+00:10:30,000 --> 00:10:33,360
+explained in detail and context
+
+280
+00:10:33,360 --> 00:10:35,680
+each individual part or component of the
+
+281
+00:10:35,680 --> 00:10:38,240
+hole will be able to dovetail nicely and
+
+282
+00:10:38,240 --> 00:10:39,760
+you'll understand how everything fits
+
+283
+00:10:39,760 --> 00:10:42,160
+together but suppress that desire to
+
+284
+00:10:42,160 --> 00:10:43,760
+feel like you have to have techniques
+
+285
+00:10:43,760 --> 00:10:45,279
+and and
+
+286
+00:10:45,279 --> 00:10:46,720
+patterns and
+
+287
+00:10:46,720 --> 00:10:48,880
+intricate secrets about how the chart
+
+288
+00:10:48,880 --> 00:10:50,480
+does this or chart does that
+
+289
+00:10:50,480 --> 00:10:52,399
+you have to have the framework in mind
+
+290
+00:10:52,399 --> 00:10:54,000
+and the foundation of why these things
+
+291
+00:10:54,000 --> 00:10:56,079
+exist otherwise all those little things
+
+292
+00:10:56,079 --> 00:10:57,120
+ain't going to make any sense to you
+
+293
+00:10:57,120 --> 00:11:01,399
+when i'm calling on you to refer to them
+
+294
+00:11:03,040 --> 00:11:04,399
+so with all that
+
+295
+00:11:04,399 --> 00:11:06,240
+what specifically should you be focusing
+
+296
+00:11:06,240 --> 00:11:08,480
+on right now as a new student in this
+
+297
+00:11:08,480 --> 00:11:09,839
+mentorship
+
+298
+00:11:09,839 --> 00:11:12,160
+the first thing you need to know is
+
+299
+00:11:12,160 --> 00:11:13,279
+there are
+
+300
+00:11:13,279 --> 00:11:15,040
+very little things you should be
+
+301
+00:11:15,040 --> 00:11:18,240
+bringing into your expectations and what
+
+302
+00:11:18,240 --> 00:11:19,920
+your
+
+303
+00:11:19,920 --> 00:11:21,600
+understanding should be
+
+304
+00:11:21,600 --> 00:11:23,040
+in other words basically what i'm saying
+
+305
+00:11:23,040 --> 00:11:25,120
+is you need to have
+
+306
+00:11:25,120 --> 00:11:28,640
+no previous knowledge brought in with
+
+307
+00:11:28,640 --> 00:11:29,680
+this
+
+308
+00:11:29,680 --> 00:11:31,200
+kind of like put everything aside and
+
+309
+00:11:31,200 --> 00:11:32,560
+assume it's very difficult for those who
+
+310
+00:11:32,560 --> 00:11:34,320
+have already gone through
+
+311
+00:11:34,320 --> 00:11:36,079
+different disciplines of trading
+
+312
+00:11:36,079 --> 00:11:38,000
+because they have to try to forget what
+
+313
+00:11:38,000 --> 00:11:39,279
+they already know
+
+314
+00:11:39,279 --> 00:11:40,880
+and even if they've made money with it
+
+315
+00:11:40,880 --> 00:11:41,839
+which is the worst thing that could have
+
+316
+00:11:41,839 --> 00:11:45,360
+ever happened is if anything outside of
+
+317
+00:11:45,360 --> 00:11:47,920
+institutional order flow led to your
+
+318
+00:11:47,920 --> 00:11:49,920
+profitability it really was just
+
+319
+00:11:49,920 --> 00:11:51,839
+coincidence and coincidence can happen
+
+320
+00:11:51,839 --> 00:11:53,600
+for a long time i did it for nine months
+
+321
+00:11:53,600 --> 00:11:55,600
+and was all pure luck and then it no
+
+322
+00:11:55,600 --> 00:11:57,680
+longer worked again so
+
+323
+00:11:57,680 --> 00:11:59,519
+understanding right now what it is
+
+324
+00:11:59,519 --> 00:12:00,720
+specifically you're supposed to be doing
+
+325
+00:12:00,720 --> 00:12:03,360
+that's important as a new mentor student
+
+326
+00:12:03,360 --> 00:12:05,200
+the first thing you need to be doing is
+
+327
+00:12:05,200 --> 00:12:07,279
+creating a daily price action log with
+
+328
+00:12:07,279 --> 00:12:08,560
+price charts
+
+329
+00:12:08,560 --> 00:12:10,320
+now i know some of you don't want to do
+
+330
+00:12:10,320 --> 00:12:12,639
+this some of you have resisted me uh
+
+331
+00:12:12,639 --> 00:12:14,720
+telling you for years to do this but i'm
+
+332
+00:12:14,720 --> 00:12:16,800
+telling you you all are here and you've
+
+333
+00:12:16,800 --> 00:12:19,040
+paid for this mentorship you paid for
+
+334
+00:12:19,040 --> 00:12:20,560
+the understanding and expecting
+
+335
+00:12:20,560 --> 00:12:22,480
+experience that i've gained over the
+
+336
+00:12:22,480 --> 00:12:24,639
+last 23 plus years
+
+337
+00:12:24,639 --> 00:12:26,000
+i can tell you
+
+338
+00:12:26,000 --> 00:12:28,160
+how i got it was doing the very things
+
+339
+00:12:28,160 --> 00:12:29,600
+i'm going to tell you to do in this
+
+340
+00:12:29,600 --> 00:12:32,720
+specific video it starts here if you
+
+341
+00:12:32,720 --> 00:12:34,560
+skip this video if you skip what i'm
+
+342
+00:12:34,560 --> 00:12:37,120
+teaching you in this video if you ignore
+
+343
+00:12:37,120 --> 00:12:38,560
+what i'm telling you what to do in
+
+344
+00:12:38,560 --> 00:12:40,720
+regards to what specific things you
+
+345
+00:12:40,720 --> 00:12:43,040
+should start with right now it does not
+
+346
+00:12:43,040 --> 00:12:44,800
+mean okay just because you've been
+
+347
+00:12:44,800 --> 00:12:46,399
+trading longer than anybody else and
+
+348
+00:12:46,399 --> 00:12:47,920
+because you have i understand what
+
+349
+00:12:47,920 --> 00:12:49,279
+optimal trade entry is because you
+
+350
+00:12:49,279 --> 00:12:50,959
+understand what an order block bullish
+
+351
+00:12:50,959 --> 00:12:52,480
+embarrasses before because you
+
+352
+00:12:52,480 --> 00:12:54,800
+understand what a liquidity void is that
+
+353
+00:12:54,800 --> 00:12:57,600
+is not an advantage okay you need to go
+
+354
+00:12:57,600 --> 00:12:59,920
+back to square one and understand that
+
+355
+00:12:59,920 --> 00:13:02,720
+this is strength in your development if
+
+356
+00:13:02,720 --> 00:13:04,000
+you don't do these types of things
+
+357
+00:13:04,000 --> 00:13:05,200
+you're actually going to hurt your
+
+358
+00:13:05,200 --> 00:13:06,560
+development you're going to hurt and
+
+359
+00:13:06,560 --> 00:13:08,079
+stunt your growth throughout this
+
+360
+00:13:08,079 --> 00:13:09,200
+mentorship
+
+361
+00:13:09,200 --> 00:13:10,160
+so
+
+362
+00:13:10,160 --> 00:13:11,839
+go back to square one you're the new
+
+363
+00:13:11,839 --> 00:13:13,839
+student do everything that's been
+
+364
+00:13:13,839 --> 00:13:16,000
+described here and advise because this
+
+365
+00:13:16,000 --> 00:13:18,639
+is where the money starts coming in if
+
+366
+00:13:18,639 --> 00:13:20,399
+you have these things in place and you
+
+367
+00:13:20,399 --> 00:13:23,839
+start right at this very core principle
+
+368
+00:13:23,839 --> 00:13:25,279
+it will develop we're going to be
+
+369
+00:13:25,279 --> 00:13:27,279
+focusing on this throughout the entire
+
+370
+00:13:27,279 --> 00:13:29,120
+12 months every month we're going to
+
+371
+00:13:29,120 --> 00:13:31,839
+build on what rules and what things that
+
+372
+00:13:31,839 --> 00:13:32,959
+you're supposed to be looking for in the
+
+373
+00:13:32,959 --> 00:13:34,959
+charts but for right now primarily the
+
+374
+00:13:34,959 --> 00:13:36,720
+only thing i want you to be doing is
+
+375
+00:13:36,720 --> 00:13:38,639
+starting with a daily chart
+
+376
+00:13:38,639 --> 00:13:40,639
+okay your daily chart needs to show 12
+
+377
+00:13:40,639 --> 00:13:42,959
+months no less than nine months view you
+
+378
+00:13:42,959 --> 00:13:44,240
+have to have that much perspective on
+
+379
+00:13:44,240 --> 00:13:46,560
+your chart don't have so much of a
+
+380
+00:13:46,560 --> 00:13:48,000
+perspective you have multiple years on
+
+381
+00:13:48,000 --> 00:13:49,040
+your chart
+
+382
+00:13:49,040 --> 00:13:52,800
+12 months to nine months ideally
+
+383
+00:13:52,800 --> 00:13:55,440
+okay you have a four hour chart and your
+
+384
+00:13:55,440 --> 00:13:56,880
+four hour chart needs to have three
+
+385
+00:13:56,880 --> 00:14:00,399
+months of price action viewed
+
+386
+00:14:00,399 --> 00:14:02,399
+the 60 minute chart or one hour chart
+
+387
+00:14:02,399 --> 00:14:06,160
+has to have at least three weeks view
+
+388
+00:14:06,160 --> 00:14:08,000
+and the 15 minute chart needs to have at
+
+389
+00:14:08,000 --> 00:14:10,160
+least three to four days view that means
+
+390
+00:14:10,160 --> 00:14:12,639
+for every chart here i'm recommending a
+
+391
+00:14:12,639 --> 00:14:15,040
+specific amount of data that needs to be
+
+392
+00:14:15,040 --> 00:14:19,279
+displayed for that respective time frame
+
+393
+00:14:19,600 --> 00:14:22,079
+what you need to resist doing right now
+
+394
+00:14:22,079 --> 00:14:23,519
+is you need to resist the urge to
+
+395
+00:14:23,519 --> 00:14:26,079
+forecast price movements that's not for
+
+396
+00:14:26,079 --> 00:14:28,399
+your stage of development right now
+
+397
+00:14:28,399 --> 00:14:30,160
+do not try to rush ahead and try to
+
+398
+00:14:30,160 --> 00:14:31,680
+figure out what the market's going to do
+
+399
+00:14:31,680 --> 00:14:32,959
+next because that's going to be a
+
+400
+00:14:32,959 --> 00:14:34,560
+problem for you and it's only going to
+
+401
+00:14:34,560 --> 00:14:36,639
+lead to frustration we will get you
+
+402
+00:14:36,639 --> 00:14:38,320
+there and it's going to happen in due
+
+403
+00:14:38,320 --> 00:14:41,040
+time but for now resist that urge but
+
+404
+00:14:41,040 --> 00:14:42,880
+there are some things you need to be
+
+405
+00:14:42,880 --> 00:14:45,440
+specifically dealing with these charts
+
+406
+00:14:45,440 --> 00:14:47,440
+you need to note where
+
+407
+00:14:47,440 --> 00:14:49,440
+price shown a quick movement from a
+
+408
+00:14:49,440 --> 00:14:51,279
+specific level in other words if it's
+
+409
+00:14:51,279 --> 00:14:52,959
+run quickly higher or lower from a
+
+410
+00:14:52,959 --> 00:14:55,040
+particular level that's noteworthy you
+
+411
+00:14:55,040 --> 00:14:56,800
+need to note that on your chart you need
+
+412
+00:14:56,800 --> 00:14:59,040
+to also note recent highs and lows that
+
+413
+00:14:59,040 --> 00:15:00,959
+haven't been retested that means if a
+
+414
+00:15:00,959 --> 00:15:03,519
+high's formed on your chart if the price
+
+415
+00:15:03,519 --> 00:15:05,040
+has not come back up to that level in
+
+416
+00:15:05,040 --> 00:15:06,800
+recent time okay you need to make a
+
+417
+00:15:06,800 --> 00:15:08,079
+special note of that because it's going
+
+418
+00:15:08,079 --> 00:15:09,519
+to probably be influential going in the
+
+419
+00:15:09,519 --> 00:15:12,079
+future vice versa just contrarily
+
+420
+00:15:12,079 --> 00:15:13,440
+speaking you're going to be able to look
+
+421
+00:15:13,440 --> 00:15:15,279
+for the lows that have formed that have
+
+422
+00:15:15,279 --> 00:15:17,839
+not been recently traded to and that low
+
+423
+00:15:17,839 --> 00:15:20,240
+will be influential later on in future
+
+424
+00:15:20,240 --> 00:15:23,120
+price delivery as well
+
+425
+00:15:23,120 --> 00:15:25,199
+note areas on the charts where price has
+
+426
+00:15:25,199 --> 00:15:27,199
+left clean highs and clean lows
+
+427
+00:15:27,199 --> 00:15:29,199
+basically that looks like two equal
+
+428
+00:15:29,199 --> 00:15:30,959
+highs that formed in
+
+429
+00:15:30,959 --> 00:15:33,759
+close proximity to one another um
+
+430
+00:15:33,759 --> 00:15:36,720
+when we whenever we see a high go
+
+431
+00:15:36,720 --> 00:15:39,199
+up and form and then it trades away from
+
+432
+00:15:39,199 --> 00:15:40,079
+that for a little while and comes right
+
+433
+00:15:40,079 --> 00:15:42,160
+back to it and doesn't make a new high
+
+434
+00:15:42,160 --> 00:15:43,440
+or maybe it falls just a little bit
+
+435
+00:15:43,440 --> 00:15:45,519
+shorter just a little bit above it
+
+436
+00:15:45,519 --> 00:15:48,639
+i note that as a clean high and usually
+
+437
+00:15:48,639 --> 00:15:50,320
+buy stops will form above that and the
+
+438
+00:15:50,320 --> 00:15:51,759
+market will usually come back up there
+
+439
+00:15:51,759 --> 00:15:53,199
+and run through that
+
+440
+00:15:53,199 --> 00:15:55,120
+it doesn't mean it won't continue
+
+441
+00:15:55,120 --> 00:15:57,519
+through it but it's usually a big
+
+442
+00:15:57,519 --> 00:15:59,680
+bullseye for a price to want to go up
+
+443
+00:15:59,680 --> 00:16:01,680
+into that area and the reverse is said
+
+444
+00:16:01,680 --> 00:16:04,320
+for double bottoms or equal lows when a
+
+445
+00:16:04,320 --> 00:16:06,639
+low is formed and another low is equally
+
+446
+00:16:06,639 --> 00:16:08,560
+formed in close proximity to the initial
+
+447
+00:16:08,560 --> 00:16:09,360
+one
+
+448
+00:16:09,360 --> 00:16:12,240
+that's a big area for sell stops to pull
+
+449
+00:16:12,240 --> 00:16:14,720
+or build up underneath those lows and
+
+450
+00:16:14,720 --> 00:16:16,160
+the market tends to have a willingness
+
+451
+00:16:16,160 --> 00:16:18,399
+to go down there and test that liquidity
+
+452
+00:16:18,399 --> 00:16:20,240
+that means the market will go down into
+
+453
+00:16:20,240 --> 00:16:22,000
+that area whether it continues to go
+
+454
+00:16:22,000 --> 00:16:23,519
+lower or if it goes down and then
+
+455
+00:16:23,519 --> 00:16:25,600
+reverses there's conditions that we look
+
+456
+00:16:25,600 --> 00:16:27,440
+for to frame all that and you will know
+
+457
+00:16:27,440 --> 00:16:29,839
+when to expect the specific conditions
+
+458
+00:16:29,839 --> 00:16:31,680
+but for now i want you to start
+
+459
+00:16:31,680 --> 00:16:33,120
+practicing looking for that in your
+
+460
+00:16:33,120 --> 00:16:34,560
+charts and having them noted on your
+
+461
+00:16:34,560 --> 00:16:36,320
+chart
+
+462
+00:16:36,320 --> 00:16:38,320
+note what days the highs and the lows
+
+463
+00:16:38,320 --> 00:16:39,199
+form
+
+464
+00:16:39,199 --> 00:16:40,399
+and
+
+465
+00:16:40,399 --> 00:16:41,920
+this is for the weekly range and you
+
+466
+00:16:41,920 --> 00:16:43,440
+want to know what time of day that
+
+467
+00:16:43,440 --> 00:16:45,839
+occurs what kill zone is it the high and
+
+468
+00:16:45,839 --> 00:16:46,880
+low of the
+
+469
+00:16:46,880 --> 00:16:49,680
+week forming in london or is it forming
+
+470
+00:16:49,680 --> 00:16:51,519
+in new york because all those things are
+
+471
+00:16:51,519 --> 00:16:52,959
+going to lend well to
+
+472
+00:16:52,959 --> 00:16:54,639
+prognostication and what should happen
+
+473
+00:16:54,639 --> 00:16:56,480
+going forward
+
+474
+00:16:56,480 --> 00:16:58,079
+and you want to note the daily high and
+
+475
+00:16:58,079 --> 00:17:00,399
+the daily low every single trading day
+
+476
+00:17:00,399 --> 00:17:02,800
+and you want to note when the daily high
+
+477
+00:17:02,800 --> 00:17:04,880
+and the daily low forms for every
+
+478
+00:17:04,880 --> 00:17:06,000
+individual
+
+479
+00:17:06,000 --> 00:17:08,799
+uh trading day
+
+480
+00:17:08,959 --> 00:17:10,240
+now what does that look like well it
+
+481
+00:17:10,240 --> 00:17:11,839
+starts off with a bare bones chart this
+
+482
+00:17:11,839 --> 00:17:14,000
+is a daily chart and i'm using the swiss
+
+483
+00:17:14,000 --> 00:17:15,760
+franc here it could be any chart any
+
+484
+00:17:15,760 --> 00:17:17,599
+pair but you want to start with one
+
+485
+00:17:17,599 --> 00:17:19,039
+currency pair and then it's mentorship
+
+486
+00:17:19,039 --> 00:17:21,359
+you want to specifically deal with one
+
+487
+00:17:21,359 --> 00:17:23,039
+i would recommend you doing something
+
+488
+00:17:23,039 --> 00:17:25,839
+apart from the british pound and the
+
+489
+00:17:25,839 --> 00:17:27,919
+euro only because you're going to see me
+
+490
+00:17:27,919 --> 00:17:29,760
+specifically dealing with that
+
+491
+00:17:29,760 --> 00:17:32,400
+in this individual mentorship but you
+
+492
+00:17:32,400 --> 00:17:33,520
+want to be doing something with a
+
+493
+00:17:33,520 --> 00:17:35,840
+currency pair that is not being utilized
+
+494
+00:17:35,840 --> 00:17:37,200
+in this mentorship that way you're
+
+495
+00:17:37,200 --> 00:17:39,039
+getting a unique perspective that you
+
+496
+00:17:39,039 --> 00:17:41,200
+yourself have arrived at
+
+497
+00:17:41,200 --> 00:17:43,360
+using this as a guideline
+
+498
+00:17:43,360 --> 00:17:44,400
+but the first thing you want to do is
+
+499
+00:17:44,400 --> 00:17:45,919
+obviously note the most recent highs in
+
+500
+00:17:45,919 --> 00:17:47,919
+the recent lows where markets have
+
+501
+00:17:47,919 --> 00:17:50,240
+shown a willingness to repel from that's
+
+502
+00:17:50,240 --> 00:17:51,679
+the first thing you want to note because
+
+503
+00:17:51,679 --> 00:17:53,679
+this is how you identify order blocks
+
+504
+00:17:53,679 --> 00:17:55,440
+this is how you identify liquidity voids
+
+505
+00:17:55,440 --> 00:17:56,960
+this is all the beginning frameworks of
+
+506
+00:17:56,960 --> 00:17:58,480
+that but you need to be able to note
+
+507
+00:17:58,480 --> 00:18:00,240
+those recent highs and recent lows
+
+508
+00:18:00,240 --> 00:18:03,919
+that's what's been done for you here
+
+509
+00:18:04,240 --> 00:18:06,080
+next you're going to drop down into a
+
+510
+00:18:06,080 --> 00:18:07,840
+four hour chart and those same levels of
+
+511
+00:18:07,840 --> 00:18:09,840
+this noted on the daily chart are shown
+
+512
+00:18:09,840 --> 00:18:10,720
+here
+
+513
+00:18:10,720 --> 00:18:12,400
+and there's more highs and more lows
+
+514
+00:18:12,400 --> 00:18:15,039
+that come into visibility by doing a
+
+515
+00:18:15,039 --> 00:18:17,440
+lower time frame perspective we went
+
+516
+00:18:17,440 --> 00:18:18,960
+from again
+
+517
+00:18:18,960 --> 00:18:21,520
+the chart was a daily chart before
+
+518
+00:18:21,520 --> 00:18:22,880
+now we're looking at the same levels
+
+519
+00:18:22,880 --> 00:18:23,840
+just
+
+520
+00:18:23,840 --> 00:18:25,440
+drop down into a four-hour chart those
+
+521
+00:18:25,440 --> 00:18:27,760
+levels will be transposed immediately to
+
+522
+00:18:27,760 --> 00:18:30,160
+what the four-hour chart shows then you
+
+523
+00:18:30,160 --> 00:18:31,360
+go through doing the same thing you're
+
+524
+00:18:31,360 --> 00:18:33,919
+looking for areas where it's too clean
+
+525
+00:18:33,919 --> 00:18:35,919
+equal highs and equal lows and close
+
+526
+00:18:35,919 --> 00:18:37,840
+proximity to one another and you look
+
+527
+00:18:37,840 --> 00:18:39,600
+for where the market has moved quickly
+
+528
+00:18:39,600 --> 00:18:41,520
+away from a particular level when it
+
+529
+00:18:41,520 --> 00:18:44,880
+creates these real big candles or bars
+
+530
+00:18:44,880 --> 00:18:46,400
+okay on your chart you want to note that
+
+531
+00:18:46,400 --> 00:18:47,919
+because they're going to be influential
+
+532
+00:18:47,919 --> 00:18:49,520
+in your expectations of where price
+
+533
+00:18:49,520 --> 00:18:53,280
+should go and where they should not go
+
+534
+00:18:53,280 --> 00:18:54,720
+you're going to go down to an hourly
+
+535
+00:18:54,720 --> 00:18:56,480
+chart okay an hourly chart you're going
+
+536
+00:18:56,480 --> 00:18:58,559
+to be looking at
+
+537
+00:18:58,559 --> 00:18:59,919
+individual
+
+538
+00:18:59,919 --> 00:19:02,080
+days okay over a course of one or two
+
+539
+00:19:02,080 --> 00:19:03,679
+weeks and
+
+540
+00:19:03,679 --> 00:19:05,919
+you can get the weekly range
+
+541
+00:19:05,919 --> 00:19:07,679
+defined with the hourly chart and you
+
+542
+00:19:07,679 --> 00:19:10,080
+can look at the intraday highs and lows
+
+543
+00:19:10,080 --> 00:19:11,440
+with an hour already charge a really
+
+544
+00:19:11,440 --> 00:19:12,559
+good bellwether chart if you're a
+
+545
+00:19:12,559 --> 00:19:15,120
+short-term trader or a day trader that's
+
+546
+00:19:15,120 --> 00:19:17,440
+like the daily chart for uh you know the
+
+547
+00:19:17,440 --> 00:19:18,880
+barometer whether you should be a buyer
+
+548
+00:19:18,880 --> 00:19:20,559
+or seller and we'll teach all those
+
+549
+00:19:20,559 --> 00:19:22,000
+things all those instant details will be
+
+550
+00:19:22,000 --> 00:19:24,160
+taught in this mentorship for now you'll
+
+551
+00:19:24,160 --> 00:19:25,679
+be taking all those levels you found on
+
+552
+00:19:25,679 --> 00:19:26,799
+the daily chart the four hour and
+
+553
+00:19:26,799 --> 00:19:29,200
+transposing those to an hourly chart
+
+554
+00:19:29,200 --> 00:19:32,160
+now you want to keep this chart
+
+555
+00:19:32,160 --> 00:19:34,000
+okay in this format
+
+556
+00:19:34,000 --> 00:19:36,080
+separate from all the other charts that
+
+557
+00:19:36,080 --> 00:19:37,600
+i'm going to talk about now okay
+
+558
+00:19:37,600 --> 00:19:39,120
+anything else we talk about in terms of
+
+559
+00:19:39,120 --> 00:19:41,039
+what we're specifically looking for
+
+560
+00:19:41,039 --> 00:19:43,679
+they don't get utilized on the same
+
+561
+00:19:43,679 --> 00:19:44,880
+chart you create another chart so you're
+
+562
+00:19:44,880 --> 00:19:48,400
+going to have two individual independent
+
+563
+00:19:48,400 --> 00:19:50,160
+us swissy
+
+564
+00:19:50,160 --> 00:19:51,840
+charts okay but you're going to carry
+
+565
+00:19:51,840 --> 00:19:54,000
+the information on two separate charts
+
+566
+00:19:54,000 --> 00:19:55,120
+that way you don't have charts that are
+
+567
+00:19:55,120 --> 00:19:56,880
+too busy have too many things on there
+
+568
+00:19:56,880 --> 00:19:58,240
+and you get confused and all kinds of
+
+569
+00:19:58,240 --> 00:19:59,919
+things that we're worrying about then
+
+570
+00:19:59,919 --> 00:20:02,000
+you'll kind of create another swiss
+
+571
+00:20:02,000 --> 00:20:04,400
+franc chart okay and for that you're
+
+572
+00:20:04,400 --> 00:20:06,080
+going to use a 15-minute chart and when
+
+573
+00:20:06,080 --> 00:20:07,760
+it's loaded obviously it's going to be
+
+574
+00:20:07,760 --> 00:20:09,760
+naked bare nothing on there and the
+
+575
+00:20:09,760 --> 00:20:11,039
+15-minute chart looks like a lot of
+
+576
+00:20:11,039 --> 00:20:12,080
+noise it doesn't give you any
+
+577
+00:20:12,080 --> 00:20:13,679
+perspective without any frames of
+
+578
+00:20:13,679 --> 00:20:16,080
+reference and you want to take
+
+579
+00:20:16,080 --> 00:20:18,000
+the course of action we talked about
+
+580
+00:20:18,000 --> 00:20:20,000
+using the daily the four hour in
+
+581
+00:20:20,000 --> 00:20:23,120
+one hour chart do that same thing with
+
+582
+00:20:23,120 --> 00:20:23,840
+the
+
+583
+00:20:23,840 --> 00:20:25,360
+individual 15 minute chart but you only
+
+584
+00:20:25,360 --> 00:20:27,520
+need to be applying it to the last 15
+
+585
+00:20:27,520 --> 00:20:29,039
+i'm sorry last
+
+586
+00:20:29,039 --> 00:20:31,520
+three days three to four days and using
+
+587
+00:20:31,520 --> 00:20:33,120
+those reference points in the last three
+
+588
+00:20:33,120 --> 00:20:35,679
+to four days on a 15-minute chart
+
+589
+00:20:35,679 --> 00:20:37,679
+okay you're gonna be looking at also the
+
+590
+00:20:37,679 --> 00:20:40,159
+daily highs and the daily lows and you
+
+591
+00:20:40,159 --> 00:20:42,080
+can see this is how i do my charts on a
+
+592
+00:20:42,080 --> 00:20:43,760
+15-minute basis you're actually going to
+
+593
+00:20:43,760 --> 00:20:45,919
+see me actually do this very practice
+
+594
+00:20:45,919 --> 00:20:48,240
+every single day going forward starting
+
+595
+00:20:48,240 --> 00:20:49,600
+with this week that we're going to enter
+
+596
+00:20:49,600 --> 00:20:51,200
+into the mentorship
+
+597
+00:20:51,200 --> 00:20:53,280
+i note the previous days highs in the
+
+598
+00:20:53,280 --> 00:20:55,440
+previous days lows and then draw them
+
+599
+00:20:55,440 --> 00:20:58,000
+out to where zero gmt is which is eight
+
+600
+00:20:58,000 --> 00:21:00,640
+o'clock in that evening time in my time
+
+601
+00:21:00,640 --> 00:21:02,400
+frame and in this delivery
+
+602
+00:21:02,400 --> 00:21:04,320
+of data with this platform
+
+603
+00:21:04,320 --> 00:21:05,760
+this is how i know my daily highs and
+
+604
+00:21:05,760 --> 00:21:08,320
+daily lows it's important to note also
+
+605
+00:21:08,320 --> 00:21:10,480
+the days of the week now i'm not going
+
+606
+00:21:10,480 --> 00:21:12,640
+to give you all the specifics here
+
+607
+00:21:12,640 --> 00:21:13,280
+because you're actually going to be
+
+608
+00:21:13,280 --> 00:21:15,520
+watching me do it on a day-to-day basis
+
+609
+00:21:15,520 --> 00:21:17,919
+so you'll be able to get a rough idea
+
+610
+00:21:17,919 --> 00:21:20,000
+in this tutorial but more specifically
+
+611
+00:21:20,000 --> 00:21:21,440
+you can actually see me actually
+
+612
+00:21:21,440 --> 00:21:23,120
+creating documents
+
+613
+00:21:23,120 --> 00:21:25,120
+for my individual
+
+614
+00:21:25,120 --> 00:21:26,640
+record keeping so you're going to see
+
+615
+00:21:26,640 --> 00:21:28,880
+actually how i do my charts how i log
+
+616
+00:21:28,880 --> 00:21:30,720
+them and yes even after 23 years of
+
+617
+00:21:30,720 --> 00:21:32,480
+trading i still do this
+
+618
+00:21:32,480 --> 00:21:33,919
+it's important to do it it's
+
+619
+00:21:33,919 --> 00:21:35,919
+understanding it's clarity it gives you
+
+620
+00:21:35,919 --> 00:21:38,000
+perspective and it's what professionals
+
+621
+00:21:38,000 --> 00:21:40,159
+do sorry it's just there's no way around
+
+622
+00:21:40,159 --> 00:21:42,000
+it the folks that are really
+
+623
+00:21:42,000 --> 00:21:43,520
+concerned about the market they have
+
+624
+00:21:43,520 --> 00:21:44,960
+logs they keep journals these are the
+
+625
+00:21:44,960 --> 00:21:46,880
+types of things they do
+
+626
+00:21:46,880 --> 00:21:48,880
+if you notice real quick why noting the
+
+627
+00:21:48,880 --> 00:21:50,480
+previous day's highs in previous days
+
+628
+00:21:50,480 --> 00:21:53,360
+lows if you look at wednesday's data
+
+629
+00:21:53,360 --> 00:21:54,159
+okay
+
+630
+00:21:54,159 --> 00:21:55,600
+you see the little
+
+631
+00:21:55,600 --> 00:21:58,000
+delineation where it says wednesday if
+
+632
+00:21:58,000 --> 00:21:59,600
+you look at the previous day obviously
+
+633
+00:21:59,600 --> 00:22:01,360
+it would be tuesday in the course of a
+
+634
+00:22:01,360 --> 00:22:03,039
+normal week
+
+635
+00:22:03,039 --> 00:22:05,520
+the high that was formed on tuesday
+
+636
+00:22:05,520 --> 00:22:07,280
+on wednesday price came right up there
+
+637
+00:22:07,280 --> 00:22:10,559
+and ran through that around the 97 90
+
+638
+00:22:10,559 --> 00:22:11,360
+level
+
+639
+00:22:11,360 --> 00:22:12,960
+uh notice it did not continue through
+
+640
+00:22:12,960 --> 00:22:14,960
+that it just went up through the
+
+641
+00:22:14,960 --> 00:22:17,360
+previous days or tuesday's high
+
+642
+00:22:17,360 --> 00:22:18,880
+then it sold off
+
+643
+00:22:18,880 --> 00:22:20,400
+when it sold off
+
+644
+00:22:20,400 --> 00:22:22,000
+it went all the way down where did it go
+
+645
+00:22:22,000 --> 00:22:23,760
+down to just any old level it went down
+
+646
+00:22:23,760 --> 00:22:26,000
+to tuesday's low just breaching it by a
+
+647
+00:22:26,000 --> 00:22:27,919
+pip or two and then came back off into
+
+648
+00:22:27,919 --> 00:22:29,440
+consolidation
+
+649
+00:22:29,440 --> 00:22:31,360
+then look at what happened on thursday
+
+650
+00:22:31,360 --> 00:22:33,679
+thursday we had price retraced back into
+
+651
+00:22:33,679 --> 00:22:35,600
+the range that was created from
+
+652
+00:22:35,600 --> 00:22:38,080
+wednesday's high down into wednesday's
+
+653
+00:22:38,080 --> 00:22:38,880
+low
+
+654
+00:22:38,880 --> 00:22:40,720
+thursday starts today with trading and
+
+655
+00:22:40,720 --> 00:22:43,760
+consolidation it rallies up closes in a
+
+656
+00:22:43,760 --> 00:22:44,720
+range
+
+657
+00:22:44,720 --> 00:22:47,280
+okay that was formed from wednesday's
+
+658
+00:22:47,280 --> 00:22:49,360
+high and wednesday's low then it sells
+
+659
+00:22:49,360 --> 00:22:51,200
+off and where does it sell off to
+
+660
+00:22:51,200 --> 00:22:52,799
+moving just below
+
+661
+00:22:52,799 --> 00:22:55,360
+then it pulls off that low and goes into
+
+662
+00:22:55,360 --> 00:22:56,720
+consolidation
+
+663
+00:22:56,720 --> 00:22:58,480
+then we have friday
+
+664
+00:22:58,480 --> 00:23:00,480
+the market just goes straight on up
+
+665
+00:23:00,480 --> 00:23:02,000
+rolls right on through
+
+666
+00:23:02,000 --> 00:23:03,360
+thursday's high
+
+667
+00:23:03,360 --> 00:23:06,320
+and creating a new high prior to friday
+
+668
+00:23:06,320 --> 00:23:08,559
+the weekly high was formed on wednesday
+
+669
+00:23:08,559 --> 00:23:10,480
+it ran out the stops and all the
+
+670
+00:23:10,480 --> 00:23:12,000
+liquidity that would be resting above
+
+671
+00:23:12,000 --> 00:23:13,520
+wednesday's high
+
+672
+00:23:13,520 --> 00:23:16,400
+all done on friday so we're going to be
+
+673
+00:23:16,400 --> 00:23:17,919
+using these reference points and giving
+
+674
+00:23:17,919 --> 00:23:19,440
+you a lot more insight
+
+675
+00:23:19,440 --> 00:23:21,039
+about specifics and what you're doing
+
+676
+00:23:21,039 --> 00:23:22,799
+with it but for now i want you to know
+
+677
+00:23:22,799 --> 00:23:23,679
+that this is what you're going to be
+
+678
+00:23:23,679 --> 00:23:24,720
+doing
+
+679
+00:23:24,720 --> 00:23:26,480
+going forward every single trading day
+
+680
+00:23:26,480 --> 00:23:28,720
+you're going to document price action
+
+681
+00:23:28,720 --> 00:23:29,679
+you're going to build on your
+
+682
+00:23:29,679 --> 00:23:30,880
+understanding
+
+683
+00:23:30,880 --> 00:23:32,400
+every month i give you more reference
+
+684
+00:23:32,400 --> 00:23:34,159
+points to add to your charts and why
+
+685
+00:23:34,159 --> 00:23:36,400
+it's important what specific what the
+
+686
+00:23:36,400 --> 00:23:39,360
+information will do for you what uh
+
+687
+00:23:39,360 --> 00:23:41,039
+with advantages it gives to you by
+
+688
+00:23:41,039 --> 00:23:42,720
+having it and
+
+689
+00:23:42,720 --> 00:23:45,039
+by having your charts very uniformly
+
+690
+00:23:45,039 --> 00:23:46,799
+organized like this
+
+691
+00:23:46,799 --> 00:23:48,480
+when you're trading
+
+692
+00:23:48,480 --> 00:23:50,400
+your chart is going to have its
+
+693
+00:23:50,400 --> 00:23:52,720
+independent uh analysis you're not going
+
+694
+00:23:52,720 --> 00:23:54,880
+to have all these things on your chart
+
+695
+00:23:54,880 --> 00:23:56,080
+but these charts are always going to be
+
+696
+00:23:56,080 --> 00:23:57,919
+referred to while you're watching price
+
+697
+00:23:57,919 --> 00:23:58,720
+because
+
+698
+00:23:58,720 --> 00:24:01,200
+by having three charts okay because
+
+699
+00:24:01,200 --> 00:24:02,559
+you're gonna have one that's executable
+
+700
+00:24:02,559 --> 00:24:03,840
+in other words what you're watching on
+
+701
+00:24:03,840 --> 00:24:05,840
+the setup right now because you never
+
+702
+00:24:05,840 --> 00:24:07,679
+want to marry the ideas that you have in
+
+703
+00:24:07,679 --> 00:24:09,600
+your analysis you need to reflect on
+
+704
+00:24:09,600 --> 00:24:12,240
+them but you don't want to be so cast
+
+705
+00:24:12,240 --> 00:24:14,320
+iron can't do it any other way it has to
+
+706
+00:24:14,320 --> 00:24:16,799
+be that way otherwise if you're watching
+
+707
+00:24:16,799 --> 00:24:18,159
+real-time price action if you see
+
+708
+00:24:18,159 --> 00:24:20,400
+something that doesn't make sense for
+
+709
+00:24:20,400 --> 00:24:21,919
+what the underlying conditions that
+
+710
+00:24:21,919 --> 00:24:23,120
+you're expecting occurs in the
+
+711
+00:24:23,120 --> 00:24:24,320
+marketplace
+
+712
+00:24:24,320 --> 00:24:26,000
+you won't have the flexibility to switch
+
+713
+00:24:26,000 --> 00:24:28,000
+gears or go to the sidelines you'll just
+
+714
+00:24:28,000 --> 00:24:29,760
+hold on to the market with strong
+
+715
+00:24:29,760 --> 00:24:32,320
+conviction and that that's imposing your
+
+716
+00:24:32,320 --> 00:24:33,600
+will that the market's going to do what
+
+717
+00:24:33,600 --> 00:24:35,039
+they're going to do and it's not going
+
+718
+00:24:35,039 --> 00:24:36,640
+to happen because you want it to happen
+
+719
+00:24:36,640 --> 00:24:37,679
+it's going to happen because it's going
+
+720
+00:24:37,679 --> 00:24:39,760
+to happen and we try to get in sync with
+
+721
+00:24:39,760 --> 00:24:41,440
+what the market's going to do whether
+
+722
+00:24:41,440 --> 00:24:43,440
+it's going to be moving sideways whether
+
+723
+00:24:43,440 --> 00:24:44,320
+it's going to go higher whether it's
+
+724
+00:24:44,320 --> 00:24:46,159
+going to lower we don't know any of
+
+725
+00:24:46,159 --> 00:24:48,960
+those uh directions with a great deal
+
+726
+00:24:48,960 --> 00:24:51,120
+of certainty we just know probabilities
+
+727
+00:24:51,120 --> 00:24:52,480
+and but we know how to go into the
+
+728
+00:24:52,480 --> 00:24:54,000
+marketplace looking for these types of
+
+729
+00:24:54,000 --> 00:24:55,200
+things over and over and over again they
+
+730
+00:24:55,200 --> 00:24:56,799
+repeat and you'll be able to find those
+
+731
+00:24:56,799 --> 00:24:57,760
+repeating
+
+732
+00:24:57,760 --> 00:25:00,000
+uh occurrences in price action after
+
+733
+00:25:00,000 --> 00:25:03,480
+going through this mentorship
+
