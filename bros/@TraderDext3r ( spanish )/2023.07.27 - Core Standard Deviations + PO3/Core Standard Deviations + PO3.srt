@@ -1,0 +1,916 @@
+1
+00:00:00,000 --> 00:00:00,060
+[Music]
+
+2
+00:00:00,060 --> 00:00:03,300
+hey Dexter huh some kid told me you have
+
+3
+00:00:03,300 --> 00:00:06,899
+a laboratory a laboratory Dexter your
+
+4
+00:00:06,899 --> 00:00:09,000
+lab it is the one thing he does not have
+
+5
+00:00:09,000 --> 00:00:11,219
+and it will still make you the smartest
+
+6
+00:00:11,219 --> 00:00:16,160
+one of all go ahead show him your lab
+
+7
+00:00:16,619 --> 00:00:19,080
+come and be amazed that the world of
+
+8
+00:00:19,080 --> 00:00:23,039
+Dexter's Laboratory hello welcome to the
+
+9
+00:00:23,039 --> 00:00:25,800
+Monster Lab here Dexter
+
+10
+00:00:25,800 --> 00:00:29,400
+today we are going to dipping into the
+
+11
+00:00:29,400 --> 00:00:34,880
+standard deviations lose power of three
+
+12
+00:00:35,660 --> 00:00:40,079
+language is Spanish I wish I called
+
+13
+00:00:40,079 --> 00:00:44,100
+sight a lot but I will be very direct
+
+14
+00:00:44,100 --> 00:00:47,520
+and clear if you don't understand most
+
+15
+00:00:47,520 --> 00:00:50,760
+things you are probably new this content
+
+16
+00:00:50,760 --> 00:00:53,280
+it's not for newbies or newcomers
+
+17
+00:00:53,280 --> 00:00:58,520
+everything was learning from ICT but
+
+18
+00:00:58,520 --> 00:01:01,680
+with my own research
+
+19
+00:01:01,680 --> 00:01:05,580
+all start with an opening a power of
+
+20
+00:01:05,580 --> 00:01:08,580
+three this can be any power of three
+
+21
+00:01:08,580 --> 00:01:10,799
+monthly power of three
+
+22
+00:01:10,799 --> 00:01:14,159
+weekly power of three daily power of
+
+23
+00:01:14,159 --> 00:01:18,000
+three four all power of 3 any power of
+
+24
+00:01:18,000 --> 00:01:19,320
+3.
+
+25
+00:01:19,320 --> 00:01:22,500
+the first element for power of 3 is the
+
+26
+00:01:22,500 --> 00:01:26,460
+accumulation or consolidation
+
+27
+00:01:26,460 --> 00:01:30,600
+the second phase the power of 3 is the
+
+28
+00:01:30,600 --> 00:01:32,580
+manipulation
+
+29
+00:01:32,580 --> 00:01:36,540
+and the third phase of power of 3 is
+
+30
+00:01:36,540 --> 00:01:39,659
+distribution or expansion
+
+31
+00:01:39,659 --> 00:01:42,119
+okay all
+
+32
+00:01:42,119 --> 00:01:43,460
+face
+
+33
+00:01:43,460 --> 00:01:46,140
+accumulation manipulation and
+
+34
+00:01:46,140 --> 00:01:50,340
+distribution in one single candle one
+
+35
+00:01:50,340 --> 00:01:51,899
+single candle it's
+
+36
+00:01:51,899 --> 00:01:55,100
+alt okay
+
+37
+00:01:55,680 --> 00:01:57,680
+must think
+
+38
+00:01:57,680 --> 00:02:02,040
+the that expansion is only measured with
+
+39
+00:02:02,040 --> 00:02:05,840
+manipulation but we can also measure
+
+40
+00:02:05,840 --> 00:02:10,220
+manipulation with accumulation
+
+41
+00:02:10,520 --> 00:02:13,739
+once the expansion is finished
+
+42
+00:02:13,739 --> 00:02:17,280
+we can also measure the retracement or
+
+43
+00:02:17,280 --> 00:02:19,319
+reversal
+
+44
+00:02:19,319 --> 00:02:22,260
+we are looking for synchronization
+
+45
+00:02:22,260 --> 00:02:26,220
+to know if price is in accumulation
+
+46
+00:02:26,220 --> 00:02:31,080
+phase or manipulation first phase or
+
+47
+00:02:31,080 --> 00:02:33,360
+distribution phase
+
+48
+00:02:33,360 --> 00:02:35,520
+identify
+
+49
+00:02:35,520 --> 00:02:37,560
+where
+
+50
+00:02:37,560 --> 00:02:40,200
+price delivery it's in the present
+
+51
+00:02:40,200 --> 00:02:43,980
+moment when it's finished and when it's
+
+52
+00:02:43,980 --> 00:02:48,420
+start the next phase of the power of 3.
+
+53
+00:02:48,420 --> 00:02:52,140
+we start with the opening
+
+54
+00:02:52,140 --> 00:02:53,459
+on
+
+55
+00:02:53,459 --> 00:02:57,720
+we identify the accumulation range
+
+56
+00:02:57,720 --> 00:03:02,459
+inside the accumulation range we will
+
+57
+00:03:02,459 --> 00:03:06,300
+look for the most discernible range
+
+58
+00:03:06,300 --> 00:03:10,560
+highest swing High and the most recent
+
+59
+00:03:10,560 --> 00:03:16,440
+swing low that was broken the dog will
+
+60
+00:03:16,440 --> 00:03:20,159
+or two and a half deviations will be the
+
+61
+00:03:20,159 --> 00:03:23,220
+projection for the manipulation
+
+62
+00:03:23,220 --> 00:03:28,019
+phase okay in right now the monthly or
+
+63
+00:03:28,019 --> 00:03:31,620
+the candle the power of three
+
+64
+00:03:31,620 --> 00:03:34,280
+it's
+
+65
+00:03:35,840 --> 00:03:40,819
+in bearish right but your anticipate
+
+66
+00:03:40,819 --> 00:03:45,659
+that this mob price is the manipulation
+
+67
+00:03:45,659 --> 00:03:50,280
+and look for one reversals in the two or
+
+68
+00:03:50,280 --> 00:03:52,799
+two and a half deviations for the next
+
+69
+00:03:52,799 --> 00:03:55,620
+phase of delivery yeah the distribution
+
+70
+00:03:55,620 --> 00:03:57,440
+or expansion
+
+71
+00:03:57,440 --> 00:04:02,040
+once the manipulation is finished in the
+
+72
+00:04:02,040 --> 00:04:05,819
+two or two and half deviations
+
+73
+00:04:05,819 --> 00:04:10,500
+we will look for the lower swing low and
+
+74
+00:04:10,500 --> 00:04:14,879
+the swing High most recent
+
+75
+00:04:14,879 --> 00:04:18,959
+is it will it is the last move in
+
+76
+00:04:18,959 --> 00:04:23,820
+direction of money manipulation phase
+
+77
+00:04:23,820 --> 00:04:27,479
+okay this high and this low
+
+78
+00:04:27,479 --> 00:04:28,979
+um project
+
+79
+00:04:28,979 --> 00:04:33,840
+upside for the distribution or expansion
+
+80
+00:04:33,840 --> 00:04:38,340
+phase for this power of three
+
+81
+00:04:38,340 --> 00:04:43,259
+that will be the range project
+
+82
+00:04:43,259 --> 00:04:46,500
+for distribution or expansion
+
+83
+00:04:46,500 --> 00:04:50,280
+the double or two and a half two or two
+
+84
+00:04:50,280 --> 00:04:53,400
+and a half deviations for the
+
+85
+00:04:53,400 --> 00:04:56,400
+projections for expansions
+
+86
+00:04:56,400 --> 00:05:00,060
+there are some rules to look for
+
+87
+00:05:00,060 --> 00:05:04,139
+a standard deviations if price close
+
+88
+00:05:04,139 --> 00:05:08,820
+above the two and a half deviations with
+
+89
+00:05:08,820 --> 00:05:11,220
+body candle
+
+90
+00:05:11,220 --> 00:05:15,440
+um but we'll have that for another video
+
+91
+00:05:15,440 --> 00:05:18,320
+once price
+
+92
+00:05:18,320 --> 00:05:23,060
+complete the expansion
+
+93
+00:05:23,160 --> 00:05:28,460
+in two or two and half deviations
+
+94
+00:05:28,740 --> 00:05:33,780
+we anticipate retracements or reversals
+
+95
+00:05:33,780 --> 00:05:36,979
+to the
+
+96
+00:05:36,979 --> 00:05:40,320
+equilibrium range
+
+97
+00:05:40,320 --> 00:05:43,440
+of the current dealing range that is low
+
+98
+00:05:43,440 --> 00:05:45,860
+and is high
+
+99
+00:05:45,860 --> 00:05:49,020
+anticipate retracements to equilibrium
+
+100
+00:05:49,020 --> 00:05:53,780
+range to know if it's a retracement or a
+
+101
+00:05:53,780 --> 00:05:57,479
+reversals depends on the high time frame
+
+102
+00:05:57,479 --> 00:05:59,400
+premise
+
+103
+00:05:59,400 --> 00:06:03,780
+if price has unfinished business he will
+
+104
+00:06:03,780 --> 00:06:05,900
+continue in the same direction
+
+105
+00:06:05,900 --> 00:06:10,919
+once have finished his retracement
+
+106
+00:06:10,919 --> 00:06:15,720
+if price no help unfinished business a
+
+107
+00:06:15,720 --> 00:06:18,479
+reversals is very likely
+
+108
+00:06:18,479 --> 00:06:22,139
+we look for the highest swing High and
+
+109
+00:06:22,139 --> 00:06:25,979
+the most recent broke swing low to
+
+110
+00:06:25,979 --> 00:06:30,960
+project the retracement or reversals
+
+111
+00:06:30,960 --> 00:06:32,759
+this low
+
+112
+00:06:32,759 --> 00:06:34,800
+and this high
+
+113
+00:06:34,800 --> 00:06:37,680
+same Dynamics we will look for two or
+
+114
+00:06:37,680 --> 00:06:40,440
+two and a half deviations for these
+
+115
+00:06:40,440 --> 00:06:43,020
+projections the retracements or
+
+116
+00:06:43,020 --> 00:06:46,740
+reversals let's look an example in every
+
+117
+00:06:46,740 --> 00:06:48,360
+Z
+
+118
+00:06:48,360 --> 00:06:53,060
+with the monthly power of three
+
+119
+00:06:53,280 --> 00:06:55,080
+here
+
+120
+00:06:55,080 --> 00:06:58,560
+we have the opening of the monthly power
+
+121
+00:06:58,560 --> 00:07:01,500
+of three we can visualize the
+
+122
+00:07:01,500 --> 00:07:03,259
+accumulation
+
+123
+00:07:03,259 --> 00:07:07,259
+manipulation expansion
+
+124
+00:07:08,479 --> 00:07:12,199
+retracements if we see it it's very
+
+125
+00:07:12,199 --> 00:07:16,319
+ambiguous to know where one's the genes
+
+126
+00:07:16,319 --> 00:07:20,160
+and another ends circumulations or
+
+127
+00:07:20,160 --> 00:07:23,479
+consolidation manipulation expansion
+
+128
+00:07:23,479 --> 00:07:26,880
+retracement or reversals very very
+
+129
+00:07:26,880 --> 00:07:28,919
+ambiguous
+
+130
+00:07:28,919 --> 00:07:33,479
+I show you how deep the rabbit hole goes
+
+131
+00:07:33,479 --> 00:07:35,699
+let's dig deeper
+
+132
+00:07:35,699 --> 00:07:38,639
+inside the accumulation phase
+
+133
+00:07:38,639 --> 00:07:42,360
+this is the opening the monthly power of
+
+134
+00:07:42,360 --> 00:07:43,860
+three
+
+135
+00:07:43,860 --> 00:07:47,160
+accumulation phase we look for the most
+
+136
+00:07:47,160 --> 00:07:49,560
+discernible range to project the
+
+137
+00:07:49,560 --> 00:07:51,120
+manipulation
+
+138
+00:07:51,120 --> 00:07:54,979
+and you look this high
+
+139
+00:07:54,979 --> 00:07:59,099
+on this low this will be below the
+
+140
+00:07:59,099 --> 00:08:01,800
+opening the projection for manipulation
+
+141
+00:08:01,800 --> 00:08:06,599
+it's below of the opening power of three
+
+142
+00:08:06,599 --> 00:08:10,080
+it is important to identify the
+
+143
+00:08:10,080 --> 00:08:12,240
+direction of the institutional order
+
+144
+00:08:12,240 --> 00:08:15,960
+flow and identify which standard
+
+145
+00:08:15,960 --> 00:08:19,979
+deviations match with high time frame PD
+
+146
+00:08:19,979 --> 00:08:22,800
+arrays of the same time frame of the
+
+147
+00:08:22,800 --> 00:08:25,800
+power of three under development
+
+148
+00:08:25,800 --> 00:08:29,400
+if you work with the monthly power of
+
+149
+00:08:29,400 --> 00:08:37,560
+three you can search or identify monthly
+
+150
+00:08:39,919 --> 00:08:43,620
+deviations for the accumulation range
+
+151
+00:08:43,620 --> 00:08:45,240
+projection
+
+152
+00:08:45,240 --> 00:08:48,019
+anticipate
+
+153
+00:08:48,019 --> 00:08:53,760
+then finish for the manipulation move we
+
+154
+00:08:53,760 --> 00:08:56,040
+can see the last movement of
+
+155
+00:08:56,040 --> 00:08:57,839
+manipulation
+
+156
+00:08:57,839 --> 00:09:00,500
+in downside
+
+157
+00:09:00,500 --> 00:09:06,779
+identify this single o and swing High
+
+158
+00:09:06,779 --> 00:09:10,800
+must discernible for projecting the
+
+159
+00:09:10,800 --> 00:09:14,760
+distribution or expansion phase look
+
+160
+00:09:14,760 --> 00:09:18,120
+this high and this low I will project
+
+161
+00:09:18,120 --> 00:09:21,420
+for the expansion or distribution phase
+
+162
+00:09:21,420 --> 00:09:25,580
+to the 2R or two and a half divisions
+
+163
+00:09:25,580 --> 00:09:29,459
+once the start of the distribution phase
+
+164
+00:09:29,459 --> 00:09:33,899
+we can't find specific areas where price
+
+165
+00:09:33,899 --> 00:09:37,080
+will have recumulation or
+
+166
+00:09:37,080 --> 00:09:39,240
+pre-distribution
+
+167
+00:09:39,240 --> 00:09:40,700
+to continue
+
+168
+00:09:40,700 --> 00:09:44,279
+towards its or two or two and half
+
+169
+00:09:44,279 --> 00:09:45,839
+divisions
+
+170
+00:09:45,839 --> 00:09:48,600
+these areas will be found in divisions
+
+171
+00:09:48,600 --> 00:09:51,360
+one and one and half one and one and
+
+172
+00:09:51,360 --> 00:09:56,180
+half this area also it's the Silver
+
+173
+00:09:56,180 --> 00:10:01,640
+Bullet Zone it's very very powerful
+
+174
+00:10:01,940 --> 00:10:05,480
+you have a power of three in development
+
+175
+00:10:05,480 --> 00:10:11,640
+and in this point price is an expansion
+
+176
+00:10:11,640 --> 00:10:13,740
+phase
+
+177
+00:10:13,740 --> 00:10:16,980
+you know you you already have the
+
+178
+00:10:16,980 --> 00:10:18,260
+accumulation
+
+179
+00:10:18,260 --> 00:10:23,399
+manipulation and when price is an
+
+180
+00:10:23,399 --> 00:10:28,140
+expansion phase is more easy look for
+
+181
+00:10:28,140 --> 00:10:32,040
+a specific areas there is distribution
+
+182
+00:10:32,040 --> 00:10:35,940
+or re-accumulation I look for internal
+
+183
+00:10:35,940 --> 00:10:39,959
+liquidity in this area it's
+
+184
+00:10:39,959 --> 00:10:43,579
+um any internal liquidity verbalog apps
+
+185
+00:10:43,579 --> 00:10:45,680
+by side
+
+186
+00:10:45,680 --> 00:10:49,440
+imbalance cell site imbalance
+
+187
+00:10:49,440 --> 00:10:53,700
+any internal liquidity inside this Zone
+
+188
+00:10:53,700 --> 00:10:56,760
+the Silver Bullet Zone and look for
+
+189
+00:10:56,760 --> 00:10:59,660
+moods there
+
+190
+00:11:04,140 --> 00:11:08,700
+and if if price had unfinished business
+
+191
+00:11:08,700 --> 00:11:13,260
+in utsai I will look for both deviations
+
+192
+00:11:13,260 --> 00:11:17,459
+or five deviations if price have one
+
+193
+00:11:17,459 --> 00:11:22,140
+pdra or imbalance in this area in this
+
+194
+00:11:22,140 --> 00:11:26,579
+case we Excel the power deviations even
+
+195
+00:11:26,579 --> 00:11:31,440
+five deviations this is because price
+
+196
+00:11:31,440 --> 00:11:34,380
+looking for monthly
+
+197
+00:11:34,380 --> 00:11:39,980
+pdra monthly order Block in this area
+
+198
+00:11:40,320 --> 00:11:43,980
+in this point you can see the
+
+199
+00:11:43,980 --> 00:11:46,200
+multi-cernibular range for retracements
+
+200
+00:11:46,200 --> 00:11:47,820
+or reversals
+
+201
+00:11:47,820 --> 00:11:51,959
+this high and three this swing low it's
+
+202
+00:11:51,959 --> 00:11:52,980
+four
+
+203
+00:11:52,980 --> 00:11:57,899
+the predictions for the retracement or
+
+204
+00:11:57,899 --> 00:11:59,399
+reversals
+
+205
+00:11:59,399 --> 00:12:03,600
+face between High swing low
+
+206
+00:12:03,600 --> 00:12:07,260
+the same Dynamics we will look for in
+
+207
+00:12:07,260 --> 00:12:11,160
+each phase of delivery you can look for
+
+208
+00:12:11,160 --> 00:12:13,800
+one and one and a half deviations for
+
+209
+00:12:13,800 --> 00:12:17,760
+the Silver Bullet Zone you can use two
+
+210
+00:12:17,760 --> 00:12:19,700
+and two and a half for
+
+211
+00:12:19,700 --> 00:12:23,040
+anticipate one when
+
+212
+00:12:23,040 --> 00:12:25,920
+the face of delivery is finished and
+
+213
+00:12:25,920 --> 00:12:29,820
+when the next phase of delivery is start
+
+214
+00:12:29,820 --> 00:12:34,019
+here we can see the three phase of the
+
+215
+00:12:34,019 --> 00:12:36,899
+power of three being measured with
+
+216
+00:12:36,899 --> 00:12:40,740
+Precision the piece if together like a
+
+217
+00:12:40,740 --> 00:12:45,300
+fossil the conclusion we don't not only
+
+218
+00:12:45,300 --> 00:12:48,120
+mature the manipulation phase as
+
+219
+00:12:48,120 --> 00:12:51,180
+everyone thinks we can measure the
+
+220
+00:12:51,180 --> 00:12:54,740
+accumulation range manipulation range
+
+221
+00:12:54,740 --> 00:12:58,320
+retracements range it all depends on
+
+222
+00:12:58,320 --> 00:13:01,200
+which phase of delivery its price in the
+
+223
+00:13:01,200 --> 00:13:04,279
+present moment
+
+224
+00:13:05,540 --> 00:13:08,700
+your your own back testing with
+
+225
+00:13:08,700 --> 00:13:10,800
+different power of three in different
+
+226
+00:13:10,800 --> 00:13:14,459
+time frames I only warned you and you
+
+227
+00:13:14,459 --> 00:13:17,339
+will not learn your City Market in the
+
+228
+00:13:17,339 --> 00:13:18,779
+same way
+
+229
+00:13:18,779 --> 00:13:21,779
+Alex
+
