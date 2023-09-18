@@ -1,0 +1,1820 @@
+1
+00:00:04,670 --> 00:00:07,800
+[Music]
+
+2
+00:00:12,000 --> 00:00:15,560
+[Music]
+
+3
+00:00:15,560 --> 00:00:18,619
+thank you
+
+4
+00:00:19,859 --> 00:00:22,859
+hello welcome to the Monster Lab here
+
+5
+00:00:22,859 --> 00:00:24,119
+Dexter
+
+6
+00:00:24,119 --> 00:00:27,060
+this is the first video for the correct
+
+7
+00:00:27,060 --> 00:00:29,820
+content the Monster Lab standard
+
+8
+00:00:29,820 --> 00:00:34,559
+deviations Theory Blues Market maker by
+
+9
+00:00:34,559 --> 00:00:37,820
+or cell model
+
+10
+00:00:37,980 --> 00:00:41,579
+I remember you my native language is
+
+11
+00:00:41,579 --> 00:00:43,559
+Spanish
+
+12
+00:00:43,559 --> 00:00:47,579
+so please patience
+
+13
+00:00:47,579 --> 00:00:49,440
+some things
+
+14
+00:00:49,440 --> 00:00:53,360
+I will tell you in Spanish because
+
+15
+00:00:53,360 --> 00:00:59,219
+I need more words to explain some things
+
+16
+00:00:59,219 --> 00:01:02,760
+I don't think it is a problem to
+
+17
+00:01:02,760 --> 00:01:05,420
+understand you can add automatic
+
+18
+00:01:05,420 --> 00:01:09,060
+subtitles or captions to English at the
+
+19
+00:01:09,060 --> 00:01:10,799
+bottom right
+
+20
+00:01:10,799 --> 00:01:13,340
+okay
+
+21
+00:01:15,000 --> 00:01:18,420
+everything starts with an opening
+
+22
+00:01:18,420 --> 00:01:21,780
+it is important to know that power of 3
+
+23
+00:01:21,780 --> 00:01:24,740
+or candle you are working too
+
+24
+00:01:24,740 --> 00:01:28,680
+identify your accumulation manipulation
+
+25
+00:01:28,680 --> 00:01:31,619
+and distribution phase with high
+
+26
+00:01:31,619 --> 00:01:32,640
+precision
+
+27
+00:01:32,640 --> 00:01:36,780
+if you do not know what you are
+
+28
+00:01:36,780 --> 00:01:39,479
+measuring you will hit lows in the price
+
+29
+00:01:39,479 --> 00:01:41,579
+fluctuations
+
+30
+00:01:41,579 --> 00:01:45,240
+time it's now limited to kill zones or
+
+31
+00:01:45,240 --> 00:01:50,460
+macros the openings timings are supports
+
+32
+00:01:50,460 --> 00:01:54,420
+Naturals and provide context by knowing
+
+33
+00:01:54,420 --> 00:01:58,680
+if we are below or above the opening
+
+34
+00:01:58,680 --> 00:02:01,920
+power of three in development
+
+35
+00:02:01,920 --> 00:02:04,740
+the three phase of price delivery are
+
+36
+00:02:04,740 --> 00:02:07,860
+the ones we can measure looking for the
+
+37
+00:02:07,860 --> 00:02:11,580
+right sample for each of them
+
+38
+00:02:11,580 --> 00:02:13,200
+okay
+
+39
+00:02:13,200 --> 00:02:16,319
+um in the description you can see the
+
+40
+00:02:16,319 --> 00:02:18,840
+last video for the standard deviation
+
+41
+00:02:18,840 --> 00:02:23,040
+correct content plus power of three
+
+42
+00:02:23,040 --> 00:02:25,080
+you need more
+
+43
+00:02:25,080 --> 00:02:29,340
+context for this presentation so here is
+
+44
+00:02:29,340 --> 00:02:32,280
+the last previous video standard
+
+45
+00:02:32,280 --> 00:02:34,980
+deviation Theory number one
+
+46
+00:02:34,980 --> 00:02:39,360
+price being algorithmic moves according
+
+47
+00:02:39,360 --> 00:02:41,459
+to the previous range
+
+48
+00:02:41,459 --> 00:02:43,980
+if the manipulation range
+
+49
+00:02:43,980 --> 00:02:47,819
+was to the expansion we will follow the
+
+50
+00:02:47,819 --> 00:02:50,280
+double or a little more
+
+51
+00:02:50,280 --> 00:02:53,160
+be taking a sample the manipulation
+
+52
+00:02:53,160 --> 00:02:57,480
+range and reaching two or two and half
+
+53
+00:02:57,480 --> 00:03:00,239
+deviations we will anticipate that price
+
+54
+00:03:00,239 --> 00:03:03,300
+will have a one retracement or one
+
+55
+00:03:03,300 --> 00:03:04,980
+reversal
+
+56
+00:03:04,980 --> 00:03:07,640
+this is because price is not
+
+57
+00:03:07,640 --> 00:03:10,440
+unidirectional and will seek to
+
+58
+00:03:10,440 --> 00:03:13,920
+rebalance the inefficiencies henerate
+
+59
+00:03:13,920 --> 00:03:16,640
+the previous range okay
+
+60
+00:03:16,640 --> 00:03:19,739
+rebalance inefficiencies below the
+
+61
+00:03:19,739 --> 00:03:22,680
+equilibrium range
+
+62
+00:03:22,680 --> 00:03:26,540
+the priority of our retracement it's the
+
+63
+00:03:26,540 --> 00:03:30,420
+inefficiencies or salsa liquidity or by
+
+64
+00:03:30,420 --> 00:03:34,620
+side liquidity below or above the
+
+65
+00:03:34,620 --> 00:03:38,459
+equilibrium Branch for the current range
+
+66
+00:03:38,459 --> 00:03:42,659
+to know if it will be a retracement or
+
+67
+00:03:42,659 --> 00:03:46,500
+one reversal it's it's necessary to have
+
+68
+00:03:46,500 --> 00:03:50,640
+a big picture of a high time frame
+
+69
+00:03:50,640 --> 00:03:54,360
+the easiest way to identify a
+
+70
+00:03:54,360 --> 00:03:57,840
+manipulation range it's to observe the
+
+71
+00:03:57,840 --> 00:04:01,620
+week of the current candle and in lower
+
+72
+00:04:01,620 --> 00:04:05,580
+time frame find the most discernible
+
+73
+00:04:05,580 --> 00:04:08,239
+range
+
+74
+00:04:09,920 --> 00:04:13,860
+Market maker Dex model
+
+75
+00:04:13,860 --> 00:04:16,860
+pronunciation
+
+76
+00:04:18,238 --> 00:04:22,620
+Market maker models they will be format
+
+77
+00:04:22,620 --> 00:04:27,600
+from a pdra high time frame and will end
+
+78
+00:04:27,600 --> 00:04:32,160
+in a opposite PD array of the same time
+
+79
+00:04:32,160 --> 00:04:33,680
+frame
+
+80
+00:04:33,680 --> 00:04:36,960
+among these two high time frame Speedy
+
+81
+00:04:36,960 --> 00:04:41,060
+arrays we will identify the
+
+82
+00:04:41,060 --> 00:04:45,360
+openings and accumulation manipulation
+
+83
+00:04:45,360 --> 00:04:47,940
+distribution phase
+
+84
+00:04:47,940 --> 00:04:52,440
+that are format on the way from the pdra
+
+85
+00:04:52,440 --> 00:04:54,300
+a
+
+86
+00:04:54,300 --> 00:04:59,000
+for the pdra B
+
+87
+00:04:59,000 --> 00:05:02,160
+so in one market maker
+
+88
+00:05:02,160 --> 00:05:07,080
+buy or sell model you need two high time
+
+89
+00:05:07,080 --> 00:05:10,020
+frames PDR rates from the same time
+
+90
+00:05:10,020 --> 00:05:14,040
+frame in this case have this pdra a pdra
+
+91
+00:05:14,040 --> 00:05:16,860
+b and bdra
+
+92
+00:05:16,860 --> 00:05:19,340
+C
+
+93
+00:05:19,800 --> 00:05:22,560
+in the words of standard division
+
+94
+00:05:22,560 --> 00:05:27,419
+theories we could say that one and one
+
+95
+00:05:27,419 --> 00:05:29,639
+Uncle deviations it's the
+
+96
+00:05:29,639 --> 00:05:32,639
+re-accumulation or redistributions
+
+97
+00:05:32,639 --> 00:05:34,620
+levels
+
+98
+00:05:34,620 --> 00:05:38,280
+in other words Silver Bullet Zone in the
+
+99
+00:05:38,280 --> 00:05:40,940
+words of a standard deviation theories
+
+100
+00:05:40,940 --> 00:05:44,280
+two two and hard deviations and four
+
+101
+00:05:44,280 --> 00:05:47,400
+deviations it's the smart money reversal
+
+102
+00:05:47,400 --> 00:05:52,320
+for the market maker models
+
+103
+00:05:52,620 --> 00:05:57,360
+so in this point you can combine the
+
+104
+00:05:57,360 --> 00:06:00,660
+high time frame pdra a
+
+105
+00:06:00,660 --> 00:06:04,979
+and two or two deviations for the
+
+106
+00:06:04,979 --> 00:06:08,340
+previous range on the left
+
+107
+00:06:08,340 --> 00:06:11,460
+um you can anticipate the smart money
+
+108
+00:06:11,460 --> 00:06:12,900
+reversal
+
+109
+00:06:12,900 --> 00:06:15,259
+one retracement or
+
+110
+00:06:15,259 --> 00:06:20,400
+reversal today pdra oppose pdra High
+
+111
+00:06:20,400 --> 00:06:22,259
+time frame B
+
+112
+00:06:22,259 --> 00:06:25,080
+so in this point
+
+113
+00:06:25,080 --> 00:06:28,560
+you will expect one
+
+114
+00:06:28,560 --> 00:06:31,979
+Market maker cell model do the high time
+
+115
+00:06:31,979 --> 00:06:36,139
+frame pdra B and
+
+116
+00:06:38,240 --> 00:06:42,300
+you will expect one market maker by
+
+117
+00:06:42,300 --> 00:06:46,740
+model to the high time frame pdra C in
+
+118
+00:06:46,740 --> 00:06:51,180
+this case your order flow is bullish so
+
+119
+00:06:51,180 --> 00:06:54,600
+you can anticipate retracement and one
+
+120
+00:06:54,600 --> 00:06:56,720
+continuation
+
+121
+00:06:56,720 --> 00:07:01,699
+simplicize this low and this high
+
+122
+00:07:01,699 --> 00:07:04,860
+deviations for the previous Range pdra
+
+123
+00:07:04,860 --> 00:07:07,860
+High time frame
+
+124
+00:07:07,860 --> 00:07:10,220
+and you
+
+125
+00:07:10,220 --> 00:07:13,860
+anticipate one retracement so I take
+
+126
+00:07:13,860 --> 00:07:17,220
+this high and this low for the sample
+
+127
+00:07:17,220 --> 00:07:18,419
+size
+
+128
+00:07:18,419 --> 00:07:22,500
+in one deviations for this range
+
+129
+00:07:22,500 --> 00:07:26,639
+Silver Bullet Zone you anticipate one
+
+130
+00:07:26,639 --> 00:07:29,220
+retracement
+
+131
+00:07:29,220 --> 00:07:32,039
+for the redistributions
+
+132
+00:07:32,039 --> 00:07:34,919
+levels
+
+133
+00:07:34,919 --> 00:07:38,720
+you anticipate or identify the
+
+134
+00:07:38,720 --> 00:07:42,360
+displacements in this area
+
+135
+00:07:42,360 --> 00:07:43,800
+look for
+
+136
+00:07:43,800 --> 00:07:46,139
+value gaps or
+
+137
+00:07:46,139 --> 00:07:50,660
+any internal liquidity
+
+138
+00:07:51,139 --> 00:07:56,180
+distribution zones it's the same
+
+139
+00:07:56,759 --> 00:07:59,099
+Silver Bullet Zone
+
+140
+00:07:59,099 --> 00:08:01,979
+price continuations little retracement
+
+141
+00:08:01,979 --> 00:08:04,800
+this this point is other level for
+
+142
+00:08:04,800 --> 00:08:07,020
+redistribution
+
+143
+00:08:07,020 --> 00:08:12,860
+and you anticipate that this move
+
+144
+00:08:13,800 --> 00:08:18,180
+reaction to the evasions level for the
+
+145
+00:08:18,180 --> 00:08:22,080
+sample size this high and this low you
+
+146
+00:08:22,080 --> 00:08:25,160
+will expect the double
+
+147
+00:08:25,199 --> 00:08:29,580
+to standard deviations and look little
+
+148
+00:08:29,580 --> 00:08:32,940
+retracement and continuations to the
+
+149
+00:08:32,940 --> 00:08:36,059
+high time frame pdra B
+
+150
+00:08:36,059 --> 00:08:40,399
+in this point to the deviations
+
+151
+00:08:40,399 --> 00:08:45,600
+how to truth in this move it's one
+
+152
+00:08:45,600 --> 00:08:49,019
+retracement and no reversal
+
+153
+00:08:49,019 --> 00:08:52,440
+you can choose in this move or continue
+
+154
+00:08:52,440 --> 00:08:56,660
+ages if price have unfinished business
+
+155
+00:08:56,660 --> 00:09:01,519
+in this case is one high time frame pdra
+
+156
+00:09:01,519 --> 00:09:05,279
+oppose it for the main range in the high
+
+157
+00:09:05,279 --> 00:09:07,200
+time frame PD array
+
+158
+00:09:07,200 --> 00:09:09,380
+a
+
+159
+00:09:09,380 --> 00:09:13,620
+so you can choose in this move it's only
+
+160
+00:09:13,620 --> 00:09:17,339
+one retracement for the continuations do
+
+161
+00:09:17,339 --> 00:09:20,700
+the two and hard deviations and when
+
+162
+00:09:20,700 --> 00:09:24,779
+price reacted to 100 deviations and PD
+
+163
+00:09:24,779 --> 00:09:28,680
+array B you anticipate the smart money
+
+164
+00:09:28,680 --> 00:09:31,980
+reversal for the next moves the market
+
+165
+00:09:31,980 --> 00:09:36,060
+maker by Model start in this point this
+
+166
+00:09:36,060 --> 00:09:39,480
+point is your action point smart money
+
+167
+00:09:39,480 --> 00:09:43,920
+reversal you need two things two and
+
+168
+00:09:43,920 --> 00:09:47,220
+hard deviations and pdra high time frame
+
+169
+00:09:47,220 --> 00:09:50,120
+opposite
+
+170
+00:09:50,700 --> 00:09:54,600
+Market maker by Model start I take this
+
+171
+00:09:54,600 --> 00:09:57,660
+high and this low for the sample size
+
+172
+00:09:57,660 --> 00:10:01,440
+for the next moves
+
+173
+00:10:01,440 --> 00:10:04,100
+price
+
+174
+00:10:04,800 --> 00:10:06,779
+one deviations
+
+175
+00:10:06,779 --> 00:10:08,940
+for the sample size
+
+176
+00:10:08,940 --> 00:10:13,339
+you will expect one retracement
+
+177
+00:10:13,440 --> 00:10:16,560
+any internal liquidity in this area you
+
+178
+00:10:16,560 --> 00:10:19,620
+look for displacements
+
+179
+00:10:19,620 --> 00:10:22,500
+will anticipate one retracement and
+
+180
+00:10:22,500 --> 00:10:27,800
+continuations to the to the deviations
+
+181
+00:10:27,839 --> 00:10:30,779
+to the aviation's reaction and price
+
+182
+00:10:30,779 --> 00:10:34,560
+retracement but it's different this
+
+183
+00:10:34,560 --> 00:10:36,899
+retracement in two deviations it's
+
+184
+00:10:36,899 --> 00:10:39,839
+different for this retracement in the
+
+185
+00:10:39,839 --> 00:10:42,060
+market maker cell model in two
+
+186
+00:10:42,060 --> 00:10:44,700
+deviations you see one little
+
+187
+00:10:44,700 --> 00:10:47,700
+retracement for the continuations to the
+
+188
+00:10:47,700 --> 00:10:51,180
+Chua Hull deviations in this point in
+
+189
+00:10:51,180 --> 00:10:55,440
+two deviations you see one more deeper
+
+190
+00:10:55,440 --> 00:10:59,640
+retracement to the cell side liquidity
+
+191
+00:10:59,640 --> 00:11:04,500
+you can take this low on this high in
+
+192
+00:11:04,500 --> 00:11:07,160
+two deviations you
+
+193
+00:11:07,160 --> 00:11:10,560
+anticipate one retracement in one case
+
+194
+00:11:10,560 --> 00:11:13,260
+is in one little retracement and in
+
+195
+00:11:13,260 --> 00:11:17,640
+other case it's more deeper
+
+196
+00:11:17,640 --> 00:11:20,940
+if you look one market
+
+197
+00:11:20,940 --> 00:11:23,339
+with high correlation
+
+198
+00:11:23,339 --> 00:11:27,660
+in this point you can find one crash
+
+199
+00:11:27,660 --> 00:11:30,120
+correlation lows this is one
+
+200
+00:11:30,120 --> 00:11:33,839
+confirmations for the continuations Okay
+
+201
+00:11:33,839 --> 00:11:36,540
+so
+
+202
+00:11:36,540 --> 00:11:37,920
+if
+
+203
+00:11:37,920 --> 00:11:42,839
+how you choose in this move it's no
+
+204
+00:11:42,839 --> 00:11:46,440
+reversal and it's one retracement
+
+205
+00:11:46,440 --> 00:11:49,019
+you can choose in this move
+
+206
+00:11:49,019 --> 00:11:54,500
+only if you have unfinished business
+
+207
+00:11:55,500 --> 00:11:58,980
+in this point pdra High time frame C
+
+208
+00:11:58,980 --> 00:12:03,000
+it's the unfinished business so you can
+
+209
+00:12:03,000 --> 00:12:06,560
+choose in this move it's only for
+
+210
+00:12:06,560 --> 00:12:09,660
+re-accumulation phase
+
+211
+00:12:09,660 --> 00:12:11,279
+price
+
+212
+00:12:11,279 --> 00:12:13,440
+continuations
+
+213
+00:12:13,440 --> 00:12:17,160
+Market Chief in this high
+
+214
+00:12:17,160 --> 00:12:19,740
+displacements
+
+215
+00:12:19,740 --> 00:12:23,880
+fair value Gap other accumulation Zone
+
+216
+00:12:23,880 --> 00:12:28,019
+and in this point you can confirm the
+
+217
+00:12:28,019 --> 00:12:32,220
+prices continuations the upside price to
+
+218
+00:12:32,220 --> 00:12:35,040
+unhull deviations reacted smart money
+
+219
+00:12:35,040 --> 00:12:37,380
+reversal Zone
+
+220
+00:12:37,380 --> 00:12:39,420
+but
+
+221
+00:12:39,420 --> 00:12:43,680
+the same Dynamics how truth
+
+222
+00:12:43,680 --> 00:12:47,339
+price don't have one reversal in this
+
+223
+00:12:47,339 --> 00:12:48,060
+point
+
+224
+00:12:48,060 --> 00:12:51,740
+the only way you can choose in there
+
+225
+00:12:51,740 --> 00:12:55,100
+continuations it's if you have
+
+226
+00:12:55,100 --> 00:12:57,720
+unfinished business if price Hub
+
+227
+00:12:57,720 --> 00:13:01,380
+unfinished business to the upside you
+
+228
+00:13:01,380 --> 00:13:04,980
+can choose this move it's only one the
+
+229
+00:13:04,980 --> 00:13:09,860
+accumulation level and when price
+
+230
+00:13:10,740 --> 00:13:14,639
+have this retracement you anticipate one
+
+231
+00:13:14,639 --> 00:13:18,360
+move to the pdra high time frame C and
+
+232
+00:13:18,360 --> 00:13:21,480
+moves to the four deviations for the
+
+233
+00:13:21,480 --> 00:13:25,500
+sample size in this case this high and
+
+234
+00:13:25,500 --> 00:13:27,600
+this low
+
+235
+00:13:27,600 --> 00:13:32,279
+in every phase of redistribution or
+
+236
+00:13:32,279 --> 00:13:36,180
+re-accumulations you can find crash
+
+237
+00:13:36,180 --> 00:13:38,940
+correlations highs or crash correlation
+
+238
+00:13:38,940 --> 00:13:42,779
+laws for the confirmations for the next
+
+239
+00:13:42,779 --> 00:13:46,800
+moves in this point you can find crash
+
+240
+00:13:46,800 --> 00:13:49,380
+correlation highs in this high and this
+
+241
+00:13:49,380 --> 00:13:50,339
+high
+
+242
+00:13:50,339 --> 00:13:55,260
+and in this low this low or this low in
+
+243
+00:13:55,260 --> 00:13:58,139
+other short-term low
+
+244
+00:13:58,139 --> 00:14:02,040
+this is one way to confirm the
+
+245
+00:14:02,040 --> 00:14:04,680
+continuations
+
+246
+00:14:04,680 --> 00:14:07,320
+how to apply the standard deviations
+
+247
+00:14:07,320 --> 00:14:10,260
+Theory number one
+
+248
+00:14:10,260 --> 00:14:13,560
+you need understanding of high time
+
+249
+00:14:13,560 --> 00:14:14,459
+frame
+
+250
+00:14:14,459 --> 00:14:16,160
+be aware of
+
+251
+00:14:16,160 --> 00:14:19,920
+developing power of trees of the present
+
+252
+00:14:19,920 --> 00:14:21,480
+moment
+
+253
+00:14:21,480 --> 00:14:24,540
+High time frames PD arrays
+
+254
+00:14:24,540 --> 00:14:28,260
+time window data the you looked three
+
+255
+00:14:28,260 --> 00:14:31,500
+previous candle look back
+
+256
+00:14:31,500 --> 00:14:34,260
+if you look the weekly power of three
+
+257
+00:14:34,260 --> 00:14:37,740
+your data is for the three previous
+
+258
+00:14:37,740 --> 00:14:42,720
+scandals in other words three weeks data
+
+259
+00:14:42,720 --> 00:14:46,320
+if you look the monthly you anticipate
+
+260
+00:14:46,320 --> 00:14:49,079
+monthly hour of three
+
+261
+00:14:49,079 --> 00:14:52,980
+your data time data time window it's for
+
+262
+00:14:52,980 --> 00:14:55,680
+the three previous scandals in other
+
+263
+00:14:55,680 --> 00:14:58,740
+words three months data
+
+264
+00:14:58,740 --> 00:15:02,639
+your targets if you worked with the two
+
+265
+00:15:02,639 --> 00:15:05,699
+or two and half deviations your targets
+
+266
+00:15:05,699 --> 00:15:08,699
+its internal liquidity below
+
+267
+00:15:08,699 --> 00:15:12,060
+or above the equilibrium by stops or
+
+268
+00:15:12,060 --> 00:15:14,040
+cell stops above or below the
+
+269
+00:15:14,040 --> 00:15:17,160
+equilibrium or the youth
+
+270
+00:15:17,160 --> 00:15:19,380
+trade or you anticipate one
+
+271
+00:15:19,380 --> 00:15:22,560
+continuations your target it's for
+
+272
+00:15:22,560 --> 00:15:26,040
+external liquidity for the current range
+
+273
+00:15:26,040 --> 00:15:30,959
+or the current market maker model
+
+274
+00:15:30,959 --> 00:15:34,199
+your confirmation tool
+
+275
+00:15:34,199 --> 00:15:38,160
+it's the smart money tool SMD
+
+276
+00:15:38,160 --> 00:15:42,600
+this will help use identify when smart
+
+277
+00:15:42,600 --> 00:15:45,779
+money is ready to make a change in the
+
+278
+00:15:45,779 --> 00:15:48,660
+state of delivery the expansions to
+
+279
+00:15:48,660 --> 00:15:51,720
+retracement or reversals or the
+
+280
+00:15:51,720 --> 00:15:54,720
+accumulation to manipulations or the
+
+281
+00:15:54,720 --> 00:15:58,860
+manipulations to distribution
+
+282
+00:15:58,860 --> 00:16:03,899
+use the apy example for
+
+283
+00:16:03,899 --> 00:16:06,720
+this week
+
+284
+00:16:06,720 --> 00:16:09,779
+this is the weekly chart
+
+285
+00:16:09,779 --> 00:16:12,120
+I take the
+
+286
+00:16:12,120 --> 00:16:16,440
+the XY chart and compare with
+
+287
+00:16:16,440 --> 00:16:21,000
+USD JPY and you see the last moves it's
+
+288
+00:16:21,000 --> 00:16:24,480
+bullish the order flow for this Market
+
+289
+00:16:24,480 --> 00:16:28,199
+it's bullish okay you can't see the
+
+290
+00:16:28,199 --> 00:16:31,519
+crash correlation lows in this point
+
+291
+00:16:31,519 --> 00:16:35,360
+write the last previous candles it's
+
+292
+00:16:35,360 --> 00:16:39,240
+totality bullish
+
+293
+00:16:39,240 --> 00:16:42,959
+I take the three previous candles for
+
+294
+00:16:42,959 --> 00:16:47,339
+data for the work in the next
+
+295
+00:16:47,339 --> 00:16:49,680
+power of three
+
+296
+00:16:49,680 --> 00:16:52,920
+this this is the one
+
+297
+00:16:52,920 --> 00:16:55,620
+the first candle second candle and three
+
+298
+00:16:55,620 --> 00:16:58,560
+candle data
+
+299
+00:16:58,560 --> 00:17:04,199
+you can identify the PDR rates in this
+
+300
+00:17:04,199 --> 00:17:07,520
+portion of price
+
+301
+00:17:07,919 --> 00:17:12,419
+in the three previous scandals brights
+
+302
+00:17:12,419 --> 00:17:16,559
+the previous weekly low taken this fair
+
+303
+00:17:16,559 --> 00:17:20,160
+value Gap continuations to this weekly
+
+304
+00:17:20,160 --> 00:17:22,740
+volume a balance
+
+305
+00:17:22,740 --> 00:17:26,400
+and right now price is in this point
+
+306
+00:17:26,400 --> 00:17:29,840
+this weekly volume imbalance and I
+
+307
+00:17:29,840 --> 00:17:31,799
+identify the
+
+308
+00:17:31,799 --> 00:17:35,520
+PD arrays opposite for the same time
+
+309
+00:17:35,520 --> 00:17:39,059
+frame in the three previous scandals in
+
+310
+00:17:39,059 --> 00:17:42,539
+this point I have this
+
+311
+00:17:42,539 --> 00:17:46,260
+preview Scandal this reaction block
+
+312
+00:17:46,260 --> 00:17:48,480
+previous weekly low
+
+313
+00:17:48,480 --> 00:17:53,400
+and the mid of this week the large week
+
+314
+00:17:53,400 --> 00:17:57,660
+this week taking the previous weekly low
+
+315
+00:17:57,660 --> 00:17:58,880
+um
+
+316
+00:17:58,880 --> 00:18:02,400
+reversal continuation to the weekly
+
+317
+00:18:02,400 --> 00:18:06,960
+volume imbalance so this High time frame
+
+318
+00:18:06,960 --> 00:18:08,820
+Speedy arrays
+
+319
+00:18:08,820 --> 00:18:12,720
+it's transport or overlapping in lower
+
+320
+00:18:12,720 --> 00:18:15,480
+time frames told us to speed the arrays
+
+321
+00:18:15,480 --> 00:18:17,780
+customers
+
+322
+00:18:17,780 --> 00:18:21,860
+a lower time frame in lower time
+
+323
+00:18:21,860 --> 00:18:25,500
+framesa identificarlos Market maker by
+
+324
+00:18:25,500 --> 00:18:27,900
+models or Market maker cell models
+
+325
+00:18:27,900 --> 00:18:30,900
+foreign
+
+326
+00:18:31,980 --> 00:18:35,820
+one old Shard you can see the three
+
+327
+00:18:35,820 --> 00:18:39,600
+weeks data this is the one week two week
+
+328
+00:18:39,600 --> 00:18:43,500
+and three weeks Okay so
+
+329
+00:18:43,500 --> 00:18:46,500
+you
+
+330
+00:18:46,559 --> 00:18:51,120
+can identify in this time frame in lower
+
+331
+00:18:51,120 --> 00:18:55,200
+time frame with high time frame speeder
+
+332
+00:18:55,200 --> 00:18:56,280
+rate
+
+333
+00:18:56,280 --> 00:18:59,820
+you look for the most these are nibbly
+
+334
+00:18:59,820 --> 00:19:03,240
+range for projections your standard
+
+335
+00:19:03,240 --> 00:19:06,360
+deviations okay you have the three weeks
+
+336
+00:19:06,360 --> 00:19:09,240
+data for the standard deviations and the
+
+337
+00:19:09,240 --> 00:19:11,039
+previous range
+
+338
+00:19:11,039 --> 00:19:13,799
+is this week in the
+
+339
+00:19:13,799 --> 00:19:18,539
+two weeks look back I take this high and
+
+340
+00:19:18,539 --> 00:19:21,120
+this low for the sample size the
+
+341
+00:19:21,120 --> 00:19:23,700
+manipulation range taking this previous
+
+342
+00:19:23,700 --> 00:19:26,280
+weekly low this is the high time frame
+
+343
+00:19:26,280 --> 00:19:27,620
+pdra
+
+344
+00:19:27,620 --> 00:19:30,840
+and look for the moves to the weekly
+
+345
+00:19:30,840 --> 00:19:34,559
+volume imbalance so I take this sample
+
+346
+00:19:34,559 --> 00:19:36,480
+size
+
+347
+00:19:36,480 --> 00:19:37,940
+um projection today
+
+348
+00:19:37,940 --> 00:19:41,400
+one one and a half two and one whole
+
+349
+00:19:41,400 --> 00:19:46,580
+deviations so when you start new week
+
+350
+00:19:46,580 --> 00:19:48,960
+you need
+
+351
+00:19:48,960 --> 00:19:52,740
+three questions the few questions
+
+352
+00:19:52,740 --> 00:19:56,960
+where does price come from
+
+353
+00:20:00,240 --> 00:20:02,880
+in this case
+
+354
+00:20:02,880 --> 00:20:05,820
+price come from here
+
+355
+00:20:05,820 --> 00:20:10,080
+is the low I Stay High
+
+356
+00:20:10,080 --> 00:20:12,840
+is the primary information
+
+357
+00:20:12,840 --> 00:20:17,419
+the second question is where is price
+
+358
+00:20:17,419 --> 00:20:20,820
+right now
+
+359
+00:20:20,820 --> 00:20:25,140
+price right now is in two and you are
+
+360
+00:20:25,140 --> 00:20:27,780
+all deviations for the previous range
+
+361
+00:20:27,780 --> 00:20:30,720
+the D is high and this low
+
+362
+00:20:30,720 --> 00:20:36,059
+so the next question is where is it
+
+363
+00:20:36,059 --> 00:20:38,700
+likely to go
+
+364
+00:20:38,700 --> 00:20:40,679
+In This Moment
+
+365
+00:20:40,679 --> 00:20:44,460
+in the standard deviation Theory you can
+
+366
+00:20:44,460 --> 00:20:47,960
+anticipate one retracement or reversal
+
+367
+00:20:47,960 --> 00:20:51,780
+smart money reversal in this point two
+
+368
+00:20:51,780 --> 00:20:54,299
+and two on Hull deviations
+
+369
+00:20:54,299 --> 00:20:57,600
+standard deviations Theory
+
+370
+00:20:57,600 --> 00:21:00,840
+be taken a sample the manipulation range
+
+371
+00:21:00,840 --> 00:21:03,360
+this high and this low this is the
+
+372
+00:21:03,360 --> 00:21:07,440
+manipulation range or the sample size
+
+373
+00:21:07,440 --> 00:21:08,620
+deviations
+
+374
+00:21:08,620 --> 00:21:11,690
+[Music]
+
+375
+00:21:13,559 --> 00:21:15,000
+price
+
+376
+00:21:15,000 --> 00:21:18,020
+will seek to rebalance the
+
+377
+00:21:18,020 --> 00:21:22,200
+inefficiencies and rate below
+
+378
+00:21:22,200 --> 00:21:24,900
+the equilibrium range in the previous
+
+379
+00:21:24,900 --> 00:21:28,200
+expansions this is the equilibrium
+
+380
+00:21:28,200 --> 00:21:32,480
+previous expansion where is the most
+
+381
+00:21:32,480 --> 00:21:35,900
+discernible internal liquidity or
+
+382
+00:21:35,900 --> 00:21:40,200
+displacement is in this area look these
+
+383
+00:21:40,200 --> 00:21:45,059
+are a price action you don't find
+
+384
+00:21:45,059 --> 00:21:45,600
+um
+
+385
+00:21:45,600 --> 00:21:49,080
+internal liquidity of use
+
+386
+00:21:49,080 --> 00:21:52,799
+but in this point below the equilibrium
+
+387
+00:21:52,799 --> 00:21:56,820
+you can find these areas for internal
+
+388
+00:21:56,820 --> 00:22:00,780
+liquidity so in this point you will
+
+389
+00:22:00,780 --> 00:22:05,340
+anticipate one retracement or reversal
+
+390
+00:22:05,340 --> 00:22:09,620
+to discount for the current range
+
+391
+00:22:09,940 --> 00:22:23,470
+[Music]
+
+392
+00:22:34,340 --> 00:22:38,160
+thank you foreign
+
+393
+00:22:38,160 --> 00:23:06,299
+[Music]
+
+394
+00:23:06,299 --> 00:23:10,260
+Market maker modeling the weekly power
+
+395
+00:23:10,260 --> 00:23:11,280
+of three
+
+396
+00:23:11,280 --> 00:23:16,260
+the more important question it's where
+
+397
+00:23:16,260 --> 00:23:19,020
+it's the opening
+
+398
+00:23:19,020 --> 00:23:22,320
+for the present candle
+
+399
+00:23:22,320 --> 00:23:27,240
+in function for the previous range
+
+400
+00:23:27,240 --> 00:23:29,960
+is
+
+401
+00:23:36,120 --> 00:23:38,820
+seminal
+
+402
+00:23:38,820 --> 00:23:41,820
+is
+
+403
+00:23:46,340 --> 00:23:48,960
+standard deviations
+
+404
+00:23:48,960 --> 00:23:51,960
+foreign
+
+405
+00:24:25,020 --> 00:24:28,520
+okay entonces surprise
+
+406
+00:24:28,520 --> 00:24:31,500
+apertura in one or one and half
+
+407
+00:24:31,500 --> 00:24:34,400
+deviations two percent
+
+408
+00:24:34,400 --> 00:24:37,580
+this is
+
+409
+00:24:52,380 --> 00:24:55,380
+a
+
+410
+00:24:58,679 --> 00:25:02,400
+in this point some precise this high and
+
+411
+00:25:02,400 --> 00:25:04,860
+this low price
+
+412
+00:25:04,860 --> 00:25:06,419
+retracement
+
+413
+00:25:06,419 --> 00:25:10,380
+to the high time frame pdre B in this
+
+414
+00:25:10,380 --> 00:25:15,059
+case previous weekly low and to a whole
+
+415
+00:25:15,059 --> 00:25:17,700
+deviations this is the
+
+416
+00:25:17,700 --> 00:25:21,840
+action point is more money reversal
+
+417
+00:25:21,840 --> 00:25:23,460
+price
+
+418
+00:25:23,460 --> 00:25:27,860
+Market shift this high and you have new
+
+419
+00:25:27,860 --> 00:25:31,980
+sample size or the New Market maker by
+
+420
+00:25:31,980 --> 00:25:35,279
+Model start in this point
+
+421
+00:25:35,279 --> 00:25:39,120
+sample size this high and this low and
+
+422
+00:25:39,120 --> 00:25:41,580
+price low risk buy the first
+
+423
+00:25:41,580 --> 00:25:45,299
+accumulation level disorder block is
+
+424
+00:25:45,299 --> 00:25:48,120
+changing the state of delivery
+
+425
+00:25:48,120 --> 00:25:50,700
+and in this point the previous weekly
+
+426
+00:25:50,700 --> 00:25:53,820
+low you can
+
+427
+00:25:53,820 --> 00:25:58,080
+find one crash correlation laws with dxy
+
+428
+00:25:58,080 --> 00:26:00,779
+in this point so this is one
+
+429
+00:26:00,779 --> 00:26:04,320
+confirmations for this Market maker by
+
+430
+00:26:04,320 --> 00:26:07,140
+model and the next phase of
+
+431
+00:26:07,140 --> 00:26:11,240
+re-accumulations is in
+
+432
+00:26:11,240 --> 00:26:14,279
+internal liquidity
+
+433
+00:26:14,279 --> 00:26:19,320
+on the right of or on the left in this
+
+434
+00:26:19,320 --> 00:26:22,080
+point is one inversion for Value up
+
+435
+00:26:22,080 --> 00:26:24,059
+reaccumulation
+
+436
+00:26:24,059 --> 00:26:27,360
+other accumulation so this fair value
+
+437
+00:26:27,360 --> 00:26:30,960
+Gap look what is the candle it's above
+
+438
+00:26:30,960 --> 00:26:34,140
+this level this is the real accumulation
+
+439
+00:26:34,140 --> 00:26:37,760
+level in one deviation one deviation
+
+440
+00:26:37,760 --> 00:26:42,419
+Silver Bullet Zone retracement to the
+
+441
+00:26:42,419 --> 00:26:46,039
+One internal liquidity
+
+442
+00:26:46,039 --> 00:26:49,679
+retracement 4 continuations to the two
+
+443
+00:26:49,679 --> 00:26:52,100
+deviations or two and a half deviations
+
+444
+00:26:52,100 --> 00:26:55,400
+in this case price one deviation
+
+445
+00:26:55,400 --> 00:26:57,720
+retracement this fair value Gap
+
+446
+00:26:57,720 --> 00:27:00,659
+re-accumulation
+
+447
+00:27:00,659 --> 00:27:04,140
+other level for a accumulation this
+
+448
+00:27:04,140 --> 00:27:07,940
+internal liquidity BC and price continue
+
+449
+00:27:07,940 --> 00:27:11,580
+above the weekly open weekly open it's
+
+450
+00:27:11,580 --> 00:27:14,700
+the level for the candle in development
+
+451
+00:27:14,700 --> 00:27:16,380
+development
+
+452
+00:27:16,380 --> 00:27:20,100
+okay so this is all for this
+
+453
+00:27:20,100 --> 00:27:21,840
+presentation
+
+454
+00:27:21,840 --> 00:27:24,840
+a
+
+455
+00:27:26,100 --> 00:27:30,960
+qualcare commentario is bye
+
