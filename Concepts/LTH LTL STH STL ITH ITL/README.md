@@ -7,4 +7,4 @@ STL - Short-Term-Low
 ITH - Intermediate-Term-High
 ITL - Intermediate-Term-Low
 
-If ITH is not higher than two STH, That is telling you market is very weak.
+If ITH is not higher than two STH, That is telling you market is very weak. 

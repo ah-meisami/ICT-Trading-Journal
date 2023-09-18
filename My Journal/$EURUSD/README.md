@@ -1,0 +1,2 @@
+2023.09.16 - Weekly Review - @TraderMva [https://twitter.com/TraderMva/status/1702990890787086689] 
+2023.09.16 - Weekly Review - @I_Am_The_Algo [https://twitter.com/I_Am_The_Algo/status/1703004531854868536]
