@@ -1,0 +1,2644 @@
+1
+00:00:04,319 --> 00:00:07,020
+welcome to the ICT mentorship short-term
+
+2
+00:00:07,020 --> 00:00:09,120
+trading lesson number six
+
+3
+00:00:09,120 --> 00:00:11,219
+we're teaching low resistance liquidity
+
+4
+00:00:11,219 --> 00:00:14,660
+runs in trending conditions
+
+5
+00:00:19,080 --> 00:00:21,779
+okay much like we mentioned in the low
+
+6
+00:00:21,779 --> 00:00:23,279
+resistance liquidity runs in
+
+7
+00:00:23,279 --> 00:00:25,019
+consolidations
+
+8
+00:00:25,019 --> 00:00:27,060
+the same thing applies obviously in
+
+9
+00:00:27,060 --> 00:00:28,740
+training conditions because we
+
+10
+00:00:28,740 --> 00:00:30,420
+understand that the market moves from a
+
+11
+00:00:30,420 --> 00:00:32,340
+time and price Theory
+
+12
+00:00:32,340 --> 00:00:34,739
+for looking back 20 40 and 60 trading
+
+13
+00:00:34,739 --> 00:00:37,620
+days for if the data ranges and
+
+14
+00:00:37,620 --> 00:00:39,180
+referencing time
+
+15
+00:00:39,180 --> 00:00:41,340
+and for one shot one kill or short-term
+
+16
+00:00:41,340 --> 00:00:43,800
+trading we focus primarily in the last
+
+17
+00:00:43,800 --> 00:00:46,860
+three months for the most Salient
+
+18
+00:00:46,860 --> 00:00:49,680
+institutional reference points
+
+19
+00:00:49,680 --> 00:00:52,680
+we key off of obviously the PD arrays
+
+20
+00:00:52,680 --> 00:00:55,860
+based on a premium or discount Market
+
+21
+00:00:55,860 --> 00:00:57,899
+and we're looking to trade from one PD
+
+22
+00:00:57,899 --> 00:01:00,360
+array to the next ideally from a
+
+23
+00:01:00,360 --> 00:01:02,760
+discount to a premium range that can be
+
+24
+00:01:02,760 --> 00:01:05,539
+easily defined
+
+25
+00:01:08,400 --> 00:01:11,460
+okay for our case study for liquidity
+
+26
+00:01:11,460 --> 00:01:13,260
+runs and training conditions we're going
+
+27
+00:01:13,260 --> 00:01:15,060
+to be looking at the pound again
+
+28
+00:01:15,060 --> 00:01:16,680
+and this time we're going to be looking
+
+29
+00:01:16,680 --> 00:01:22,020
+at a different fractal of the larger
+
+30
+00:01:22,020 --> 00:01:23,460
+consolidation so we're going to be
+
+31
+00:01:23,460 --> 00:01:25,320
+looking at a smaller segment of this
+
+32
+00:01:25,320 --> 00:01:26,759
+price action
+
+33
+00:01:26,759 --> 00:01:29,340
+and because price is universally fractal
+
+34
+00:01:29,340 --> 00:01:31,259
+what could be a consolidation on one
+
+35
+00:01:31,259 --> 00:01:32,820
+time frame can be a trending environment
+
+36
+00:01:32,820 --> 00:01:35,220
+in another
+
+37
+00:01:35,220 --> 00:01:39,240
+so we're going to add our PD arrays from
+
+38
+00:01:39,240 --> 00:01:41,820
+the monthly weekly daily and we're going
+
+39
+00:01:41,820 --> 00:01:44,340
+to use this information in conjunction
+
+40
+00:01:44,340 --> 00:01:46,860
+with the trending environment conditions
+
+41
+00:01:46,860 --> 00:01:50,399
+that we use to trade from a low end
+
+42
+00:01:50,399 --> 00:01:54,299
+discount to a high-end premium Market in
+
+43
+00:01:54,299 --> 00:01:55,439
+other words we're going to be looking at
+
+44
+00:01:55,439 --> 00:01:59,220
+an example of buying during a upswing or
+
+45
+00:01:59,220 --> 00:02:02,600
+a trending bull market
+
+46
+00:02:02,880 --> 00:02:04,860
+our case studies going to be focusing on
+
+47
+00:02:04,860 --> 00:02:06,780
+this price lag here
+
+48
+00:02:06,780 --> 00:02:09,179
+as identified in the Shaded area
+
+49
+00:02:09,179 --> 00:02:10,860
+and this is going to be our trending
+
+50
+00:02:10,860 --> 00:02:12,540
+condition
+
+51
+00:02:12,540 --> 00:02:14,700
+now before we get into it notice that we
+
+52
+00:02:14,700 --> 00:02:16,800
+are originating the
+
+53
+00:02:16,800 --> 00:02:19,620
+basis of that swing up
+
+54
+00:02:19,620 --> 00:02:24,360
+from a deep discount Market overall
+
+55
+00:02:24,360 --> 00:02:27,000
+the larger consolidation we can see
+
+56
+00:02:27,000 --> 00:02:28,500
+clearly that the market has found
+
+57
+00:02:28,500 --> 00:02:29,940
+support
+
+58
+00:02:29,940 --> 00:02:32,099
+and because we're in a discount Market
+
+59
+00:02:32,099 --> 00:02:34,260
+the market generally is going to want to
+
+60
+00:02:34,260 --> 00:02:37,140
+move to a premium either by a short-term
+
+61
+00:02:37,140 --> 00:02:39,300
+basis or any turn basis or a long-term
+
+62
+00:02:39,300 --> 00:02:41,220
+basis so since we're looking for
+
+63
+00:02:41,220 --> 00:02:42,680
+short-term trades we know that
+
+64
+00:02:42,680 --> 00:02:46,200
+predominantly the market in the March
+
+65
+00:02:46,200 --> 00:02:47,700
+time period
+
+66
+00:02:47,700 --> 00:02:50,280
+is in a oversold condition
+
+67
+00:02:50,280 --> 00:02:52,260
+in oversold condition
+
+68
+00:02:52,260 --> 00:02:54,660
+or defined as we refer to it as a
+
+69
+00:02:54,660 --> 00:02:56,459
+discount market so the market is going
+
+70
+00:02:56,459 --> 00:02:58,680
+to want to reach up into some measure of
+
+71
+00:02:58,680 --> 00:03:00,360
+a premium
+
+72
+00:03:00,360 --> 00:03:02,160
+if there's a displacement and the market
+
+73
+00:03:02,160 --> 00:03:04,440
+trades higher we'll know that because
+
+74
+00:03:04,440 --> 00:03:06,840
+the market is showing a aggressive
+
+75
+00:03:06,840 --> 00:03:09,120
+nature to trade higher and if that is
+
+76
+00:03:09,120 --> 00:03:10,800
+being shown in price then we know that
+
+77
+00:03:10,800 --> 00:03:13,080
+institutions are funneling money and
+
+78
+00:03:13,080 --> 00:03:16,140
+they're also building positions in that
+
+79
+00:03:16,140 --> 00:03:18,540
+up move now obviously if they are
+
+80
+00:03:18,540 --> 00:03:20,099
+building long positions and the market
+
+81
+00:03:20,099 --> 00:03:22,319
+is accelerating on the upside they're
+
+82
+00:03:22,319 --> 00:03:24,180
+reaching for some institutional
+
+83
+00:03:24,180 --> 00:03:25,800
+reference point where they can unload
+
+84
+00:03:25,800 --> 00:03:27,900
+that long position at a profitable point
+
+85
+00:03:27,900 --> 00:03:31,379
+they have to find willing buyers at a
+
+86
+00:03:31,379 --> 00:03:33,060
+higher level so we have to look for
+
+87
+00:03:33,060 --> 00:03:35,940
+premium PD arrays where willing
+
+88
+00:03:35,940 --> 00:03:38,159
+participants in the marketplace will
+
+89
+00:03:38,159 --> 00:03:42,120
+want to buy from a lower holding long
+
+90
+00:03:42,120 --> 00:03:46,640
+holder or in this case smart money
+
+91
+00:03:48,180 --> 00:03:50,700
+okay for one shot one kill uh we're
+
+92
+00:03:50,700 --> 00:03:53,400
+gonna be dealing specifically with the
+
+93
+00:03:53,400 --> 00:03:55,019
+four hour chart now the four hour chart
+
+94
+00:03:55,019 --> 00:03:59,099
+is in my opinion the easiest Trading
+
+95
+00:03:59,099 --> 00:04:01,739
+time frame for one shot one kill setups
+
+96
+00:04:01,739 --> 00:04:03,720
+or how to frame that's set up
+
+97
+00:04:03,720 --> 00:04:05,640
+uh because it's my cup of tea if you
+
+98
+00:04:05,640 --> 00:04:08,760
+will it's my forte my my go-to trading
+
+99
+00:04:08,760 --> 00:04:09,720
+model
+
+100
+00:04:09,720 --> 00:04:10,379
+um
+
+101
+00:04:10,379 --> 00:04:13,260
+I have learned that the four hour chart
+
+102
+00:04:13,260 --> 00:04:15,480
+can give us all the insights that's
+
+103
+00:04:15,480 --> 00:04:19,019
+necessary for using all the details and
+
+104
+00:04:19,019 --> 00:04:21,358
+and components to finding one shot one
+
+105
+00:04:21,358 --> 00:04:23,220
+kill or short-term trading with high
+
+106
+00:04:23,220 --> 00:04:25,560
+probability trading conditions
+
+107
+00:04:25,560 --> 00:04:27,780
+so by using a four hour chart
+
+108
+00:04:27,780 --> 00:04:30,840
+it's easier to frame a One-Shot one kill
+
+109
+00:04:30,840 --> 00:04:32,820
+or short-term trade
+
+110
+00:04:32,820 --> 00:04:34,919
+in this time frame because you can see
+
+111
+00:04:34,919 --> 00:04:38,160
+with a simple couple clicks of your mt4
+
+112
+00:04:38,160 --> 00:04:40,380
+platform and if your platform doesn't
+
+113
+00:04:40,380 --> 00:04:42,000
+use this whatever the equivalent would
+
+114
+00:04:42,000 --> 00:04:45,780
+be but if you hold down
+
+115
+00:04:45,780 --> 00:04:48,840
+control and touch the letter Y
+
+116
+00:04:48,840 --> 00:04:51,479
+it'll give you the date dividers
+
+117
+00:04:51,479 --> 00:04:54,180
+okay and specifically when you're in
+
+118
+00:04:54,180 --> 00:04:55,740
+four hour it's not giving you the daily
+
+119
+00:04:55,740 --> 00:04:58,139
+dividers it's actually giving you the
+
+120
+00:04:58,139 --> 00:05:00,840
+weekly dividers so every vertical dotted
+
+121
+00:05:00,840 --> 00:05:02,759
+line here represents the beginning and
+
+122
+00:05:02,759 --> 00:05:05,220
+end of a new trading week
+
+123
+00:05:05,220 --> 00:05:07,139
+when we look at Price like this and we
+
+124
+00:05:07,139 --> 00:05:09,479
+have the PD arrays on our chart it's
+
+125
+00:05:09,479 --> 00:05:12,120
+very easy to see where price will reach
+
+126
+00:05:12,120 --> 00:05:14,880
+up to notice that we're also looking at
+
+127
+00:05:14,880 --> 00:05:18,360
+this pair with the gradients shown
+
+128
+00:05:18,360 --> 00:05:21,840
+across all of the discount and premium
+
+129
+00:05:21,840 --> 00:05:24,120
+ranges so we not only have the discount
+
+130
+00:05:24,120 --> 00:05:26,160
+premium range divided
+
+131
+00:05:26,160 --> 00:05:28,440
+then we have the upper portion divided
+
+132
+00:05:28,440 --> 00:05:30,360
+and then we have those smaller divisions
+
+133
+00:05:30,360 --> 00:05:33,120
+in half as well so we can see how the
+
+134
+00:05:33,120 --> 00:05:35,639
+market has different levels of
+
+135
+00:05:35,639 --> 00:05:38,100
+progressive premium and Progressive
+
+136
+00:05:38,100 --> 00:05:40,979
+discount levels in other words lower
+
+137
+00:05:40,979 --> 00:05:43,259
+levels of discount and higher levels of
+
+138
+00:05:43,259 --> 00:05:44,580
+Premium
+
+139
+00:05:44,580 --> 00:05:46,500
+when we look at the four hour chart and
+
+140
+00:05:46,500 --> 00:05:49,740
+we can see a PD array for instance a
+
+141
+00:05:49,740 --> 00:05:51,780
+discount PD array this could be in the
+
+142
+00:05:51,780 --> 00:05:54,419
+form of a bullish order block an old low
+
+143
+00:05:54,419 --> 00:05:58,860
+a fair value Gap a breaker any of these
+
+144
+00:05:58,860 --> 00:06:01,199
+types of PD arrays
+
+145
+00:06:01,199 --> 00:06:03,479
+if we're looking to go long
+
+146
+00:06:03,479 --> 00:06:07,800
+if that occurs or forms near a
+
+147
+00:06:07,800 --> 00:06:10,919
+divider level or a quadrant level as I
+
+148
+00:06:10,919 --> 00:06:13,380
+call it you'll be able to see high
+
+149
+00:06:13,380 --> 00:06:14,460
+probability
+
+150
+00:06:14,460 --> 00:06:17,280
+movement away from that level and then
+
+151
+00:06:17,280 --> 00:06:19,860
+reach for an opposing level for instance
+
+152
+00:06:19,860 --> 00:06:22,520
+if we look at the market
+
+153
+00:06:22,520 --> 00:06:24,720
+in March
+
+154
+00:06:24,720 --> 00:06:28,440
+15th where price had come down into the
+
+155
+00:06:28,440 --> 00:06:30,720
+fair value Gap it also trades back to a
+
+156
+00:06:30,720 --> 00:06:32,639
+breaker
+
+157
+00:06:32,639 --> 00:06:34,020
+seen here
+
+158
+00:06:34,020 --> 00:06:35,460
+that move
+
+159
+00:06:35,460 --> 00:06:37,319
+trading to that level
+
+160
+00:06:37,319 --> 00:06:40,139
+gives us an ideal scenario to get along
+
+161
+00:06:40,139 --> 00:06:43,440
+we may have missed the entry at a lower
+
+162
+00:06:43,440 --> 00:06:44,880
+level
+
+163
+00:06:44,880 --> 00:06:48,120
+but we can see this return to a breaker
+
+164
+00:06:48,120 --> 00:06:48,960
+or
+
+165
+00:06:48,960 --> 00:06:51,060
+fair value
+
+166
+00:06:51,060 --> 00:06:52,919
+and Market explodes on the upside And
+
+167
+00:06:52,919 --> 00:06:54,180
+Trades higher
+
+168
+00:06:54,180 --> 00:06:57,000
+you don't need the absolute low in a
+
+169
+00:06:57,000 --> 00:07:00,660
+bullish weekly close or up weekly range
+
+170
+00:07:00,660 --> 00:07:03,240
+to be a One-Shot one kill you just need
+
+171
+00:07:03,240 --> 00:07:05,460
+one setup that you wait for that makes
+
+172
+00:07:05,460 --> 00:07:08,460
+logical sense that gives you a realistic
+
+173
+00:07:08,460 --> 00:07:10,940
+pip objective and I think realistically
+
+174
+00:07:10,940 --> 00:07:13,259
+uh for starters you should be looking
+
+175
+00:07:13,259 --> 00:07:15,660
+for 30 to 50 Pips a week those types of
+
+176
+00:07:15,660 --> 00:07:17,940
+scenarios and then graduate into 50 to
+
+177
+00:07:17,940 --> 00:07:21,300
+75 and then 75 to 100 Pips per week I
+
+178
+00:07:21,300 --> 00:07:24,000
+wouldn't try to go more than 100 Pips
+
+179
+00:07:24,000 --> 00:07:25,860
+and I like to live in a 50 to 75 pit
+
+180
+00:07:25,860 --> 00:07:28,740
+range myself personally but you do to
+
+181
+00:07:28,740 --> 00:07:30,539
+suit yourself I just know that you're
+
+182
+00:07:30,539 --> 00:07:32,340
+not always going to get big weekly
+
+183
+00:07:32,340 --> 00:07:33,960
+ranges sometimes you'll get small weekly
+
+184
+00:07:33,960 --> 00:07:35,220
+ranges and it's going to be harder for
+
+185
+00:07:35,220 --> 00:07:37,259
+you to get that 100 pit range if it only
+
+186
+00:07:37,259 --> 00:07:39,660
+moves about 150 Pips for the week so
+
+187
+00:07:39,660 --> 00:07:42,240
+you're going to really Define a perfect
+
+188
+00:07:42,240 --> 00:07:45,300
+entry and exit strategy to get that I'm
+
+189
+00:07:45,300 --> 00:07:46,800
+not saying it can't be done folks but
+
+190
+00:07:46,800 --> 00:07:47,940
+you know just give yourself some
+
+191
+00:07:47,940 --> 00:07:50,220
+flexibility on both ends getting in and
+
+192
+00:07:50,220 --> 00:07:51,479
+getting out and so if you're looking for
+
+193
+00:07:51,479 --> 00:07:53,520
+the lines portion of the weekly range
+
+194
+00:07:53,520 --> 00:07:55,500
+you know
+
+195
+00:07:55,500 --> 00:07:58,560
+taking a portion of that is all that's
+
+196
+00:07:58,560 --> 00:08:01,580
+necessary for your career
+
+197
+00:08:05,099 --> 00:08:06,479
+so if you look at the four hour chart
+
+198
+00:08:06,479 --> 00:08:08,819
+what we're doing is we're encapsulating
+
+199
+00:08:08,819 --> 00:08:11,340
+the weekly range and you can see this is
+
+200
+00:08:11,340 --> 00:08:13,380
+the entire weekly range for this
+
+201
+00:08:13,380 --> 00:08:14,880
+particular week
+
+202
+00:08:14,880 --> 00:08:16,500
+shaded in yellow
+
+203
+00:08:16,500 --> 00:08:19,500
+you can also see that the market reaches
+
+204
+00:08:19,500 --> 00:08:23,879
+up into logical areas of Premium PD
+
+205
+00:08:23,879 --> 00:08:25,680
+arrays and we'll cover that in a few
+
+206
+00:08:25,680 --> 00:08:28,020
+moments but look at this for a second
+
+207
+00:08:28,020 --> 00:08:30,180
+and think about the power three that I
+
+208
+00:08:30,180 --> 00:08:32,760
+teach where if the Market's bullish the
+
+209
+00:08:32,760 --> 00:08:35,279
+open will be near the low or the range
+
+210
+00:08:35,279 --> 00:08:36,899
+and the close will be near the high of
+
+211
+00:08:36,899 --> 00:08:38,099
+the range
+
+212
+00:08:38,099 --> 00:08:40,380
+you can see that here
+
+213
+00:08:40,380 --> 00:08:43,740
+the market has a initial move lower
+
+214
+00:08:43,740 --> 00:08:45,420
+in the beginning of the week makes the
+
+215
+00:08:45,420 --> 00:08:47,519
+low of the week and then it explodes on
+
+216
+00:08:47,519 --> 00:08:50,959
+the upside it gives a few not many a few
+
+217
+00:08:50,959 --> 00:08:54,420
+high probability entry points if you
+
+218
+00:08:54,420 --> 00:08:56,160
+missed a very low point it's not a
+
+219
+00:08:56,160 --> 00:08:59,399
+problem look at the four hour chart with
+
+220
+00:08:59,399 --> 00:09:01,980
+all of the monthly weekly daily PD
+
+221
+00:09:01,980 --> 00:09:04,620
+arrays obviously in the four hour to
+
+222
+00:09:04,620 --> 00:09:06,060
+keep this chart clean
+
+223
+00:09:06,060 --> 00:09:08,880
+I didn't add the four hour PD arrays you
+
+224
+00:09:08,880 --> 00:09:11,700
+can add them and you'll have more detail
+
+225
+00:09:11,700 --> 00:09:13,560
+on this chart and you'll have more
+
+226
+00:09:13,560 --> 00:09:15,959
+insights to trade off of but to keep
+
+227
+00:09:15,959 --> 00:09:18,060
+things germane and only on the higher
+
+228
+00:09:18,060 --> 00:09:20,160
+time frame we're just using the PD
+
+229
+00:09:20,160 --> 00:09:22,019
+arrays from the monthly weekly and daily
+
+230
+00:09:22,019 --> 00:09:24,500
+levels
+
+231
+00:09:26,399 --> 00:09:29,399
+and the subsequent week
+
+232
+00:09:29,399 --> 00:09:32,040
+is seen here same scenario the market
+
+233
+00:09:32,040 --> 00:09:34,200
+trades down initially making the low of
+
+234
+00:09:34,200 --> 00:09:36,360
+the week and look at the response off of
+
+235
+00:09:36,360 --> 00:09:39,899
+the divider between the total
+
+236
+00:09:39,899 --> 00:09:42,660
+macro consolidation that we did and we
+
+237
+00:09:42,660 --> 00:09:45,240
+discussed in the beginning of lesson
+
+238
+00:09:45,240 --> 00:09:47,339
+number five for cable
+
+239
+00:09:47,339 --> 00:09:50,899
+that removing
+
+240
+00:09:51,000 --> 00:09:54,120
+that movement down into the the Midway
+
+241
+00:09:54,120 --> 00:09:56,100
+point or equilibrium of the overall
+
+242
+00:09:56,100 --> 00:09:57,300
+consolidation
+
+243
+00:09:57,300 --> 00:10:00,300
+that is a high probability level in
+
+244
+00:10:00,300 --> 00:10:01,920
+itself now if you don't understand how
+
+245
+00:10:01,920 --> 00:10:05,700
+to break a range down or grade a range
+
+246
+00:10:05,700 --> 00:10:07,680
+or Price swing you're going to miss
+
+247
+00:10:07,680 --> 00:10:09,120
+these types of moves so you have to
+
+248
+00:10:09,120 --> 00:10:10,500
+always look at the trading ranges that
+
+249
+00:10:10,500 --> 00:10:12,600
+the Market's trading in look at the
+
+250
+00:10:12,600 --> 00:10:14,040
+highest high and the lowest low in the
+
+251
+00:10:14,040 --> 00:10:15,959
+form of the bodies not the Wicks and
+
+252
+00:10:15,959 --> 00:10:17,820
+Define that and then once you have that
+
+253
+00:10:17,820 --> 00:10:19,680
+that's like your master blueprint if you
+
+254
+00:10:19,680 --> 00:10:21,240
+will and you start breaking that down
+
+255
+00:10:21,240 --> 00:10:22,860
+because the algorithm is going to work
+
+256
+00:10:22,860 --> 00:10:25,260
+within that range it's going to go back
+
+257
+00:10:25,260 --> 00:10:28,140
+to reference points based on time and
+
+258
+00:10:28,140 --> 00:10:29,880
+price where price is already traded
+
+259
+00:10:29,880 --> 00:10:32,519
+where it hasn't been traded to in
+
+260
+00:10:32,519 --> 00:10:35,220
+reference to time so
+
+261
+00:10:35,220 --> 00:10:37,320
+we're looking for that same move that
+
+262
+00:10:37,320 --> 00:10:39,140
+originated in
+
+263
+00:10:39,140 --> 00:10:42,180
+March 14th uh
+
+264
+00:10:42,180 --> 00:10:45,480
+going into the 15th that low formed in
+
+265
+00:10:45,480 --> 00:10:47,339
+cable
+
+266
+00:10:47,339 --> 00:10:50,160
+that was in a discount Market the second
+
+267
+00:10:50,160 --> 00:10:52,680
+week that shaded in yellow here sees us
+
+268
+00:10:52,680 --> 00:10:57,240
+reaching up into a halfway point of the
+
+269
+00:10:57,240 --> 00:10:59,700
+upper portion of the total range or in
+
+270
+00:10:59,700 --> 00:11:02,100
+other words half of the premium
+
+271
+00:11:02,100 --> 00:11:04,800
+range that we defined by the daily chart
+
+272
+00:11:04,800 --> 00:11:08,060
+in its larger trading range
+
+273
+00:11:08,220 --> 00:11:11,700
+it moves from one level of logical
+
+274
+00:11:11,700 --> 00:11:14,339
+discount to another level of logical
+
+275
+00:11:14,339 --> 00:11:17,399
+premium it's very discernible you can
+
+276
+00:11:17,399 --> 00:11:19,019
+clearly see it
+
+277
+00:11:19,019 --> 00:11:21,240
+just by just grazing over this chart
+
+278
+00:11:21,240 --> 00:11:23,459
+real quickly you're not going to get the
+
+279
+00:11:23,459 --> 00:11:25,980
+benefit of looking at Price like this if
+
+280
+00:11:25,980 --> 00:11:27,480
+you just if you don't study it basically
+
+281
+00:11:27,480 --> 00:11:29,820
+and see the reactions how price is
+
+282
+00:11:29,820 --> 00:11:32,459
+moving and gravitating towards how I've
+
+283
+00:11:32,459 --> 00:11:35,160
+broken down the range
+
+284
+00:11:35,160 --> 00:11:37,260
+they act like
+
+285
+00:11:37,260 --> 00:11:40,019
+um magnets if you will there's a
+
+286
+00:11:40,019 --> 00:11:42,540
+component to trading that people like to
+
+287
+00:11:42,540 --> 00:11:44,700
+put on a truck I and I used to use I
+
+288
+00:11:44,700 --> 00:11:47,779
+used to trade with it as well
+
+289
+00:11:48,899 --> 00:11:51,000
+I used to trade with it as well they
+
+290
+00:11:51,000 --> 00:11:53,579
+were called pivot Points and well they
+
+291
+00:11:53,579 --> 00:11:54,959
+still are called private points to be
+
+292
+00:11:54,959 --> 00:11:57,060
+honest but they came from the four
+
+293
+00:11:57,060 --> 00:11:59,279
+Traders and and pit Traders where they
+
+294
+00:11:59,279 --> 00:12:00,660
+would do calculations based on the high
+
+295
+00:12:00,660 --> 00:12:03,720
+and the low and and adding specific uh
+
+296
+00:12:03,720 --> 00:12:05,760
+measurements to get the projected highs
+
+297
+00:12:05,760 --> 00:12:09,360
+and lows and supposed resistance now
+
+298
+00:12:09,360 --> 00:12:11,160
+that was like a self-fulfilling prophecy
+
+299
+00:12:11,160 --> 00:12:14,640
+but when you look at the the grades of a
+
+300
+00:12:14,640 --> 00:12:18,000
+trading range or a price swing it helps
+
+301
+00:12:18,000 --> 00:12:20,459
+you really discern where the market has
+
+302
+00:12:20,459 --> 00:12:22,800
+its highest probable support or
+
+303
+00:12:22,800 --> 00:12:25,079
+resistance without really having a
+
+304
+00:12:25,079 --> 00:12:27,540
+logical old reference point like when we
+
+305
+00:12:27,540 --> 00:12:29,880
+do support and resistance we look for an
+
+306
+00:12:29,880 --> 00:12:31,740
+old level we draw it out in time and
+
+307
+00:12:31,740 --> 00:12:33,240
+just because it did something back then
+
+308
+00:12:33,240 --> 00:12:35,640
+we expected to do it again in the future
+
+309
+00:12:35,640 --> 00:12:37,740
+and you've seen how that's worked out in
+
+310
+00:12:37,740 --> 00:12:39,660
+your own trading it doesn't have any
+
+311
+00:12:39,660 --> 00:12:42,180
+consistency so you have to look at what
+
+312
+00:12:42,180 --> 00:12:43,800
+the institutions are doing and look
+
+313
+00:12:43,800 --> 00:12:45,899
+behind the scenes and what's the
+
+314
+00:12:45,899 --> 00:12:48,300
+institutional order flow so if we can
+
+315
+00:12:48,300 --> 00:12:51,000
+grade A price swing from a premium or
+
+316
+00:12:51,000 --> 00:12:53,519
+discount measure we can see the market
+
+317
+00:12:53,519 --> 00:12:57,300
+was clearly in a discount range in the
+
+318
+00:12:57,300 --> 00:13:00,480
+14th of March so by trading down there
+
+319
+00:13:00,480 --> 00:13:01,920
+trading into the fair value you got to
+
+320
+00:13:01,920 --> 00:13:03,720
+shaded in green the natural response
+
+321
+00:13:03,720 --> 00:13:06,060
+with BC price trade higher it does that
+
+322
+00:13:06,060 --> 00:13:08,700
+and then it starts finding new levels of
+
+323
+00:13:08,700 --> 00:13:10,980
+support institutionally based
+
+324
+00:13:10,980 --> 00:13:13,740
+based on a discount
+
+325
+00:13:13,740 --> 00:13:15,839
+PD array in other words we're looking
+
+326
+00:13:15,839 --> 00:13:18,000
+for reasons to support price it could be
+
+327
+00:13:18,000 --> 00:13:19,139
+in the form of a bullish order block
+
+328
+00:13:19,139 --> 00:13:22,980
+fair value Gap a breaker a mitigation
+
+329
+00:13:22,980 --> 00:13:26,880
+block it could be a old low or an old
+
+330
+00:13:26,880 --> 00:13:28,139
+High
+
+331
+00:13:28,139 --> 00:13:31,200
+once broken now turning support all
+
+332
+00:13:31,200 --> 00:13:34,860
+those ideas okay lend well to supporting
+
+333
+00:13:34,860 --> 00:13:36,720
+price going higher and you you start
+
+334
+00:13:36,720 --> 00:13:40,500
+working towards a premium Market intra
+
+335
+00:13:40,500 --> 00:13:43,560
+week the more we get closer to another
+
+336
+00:13:43,560 --> 00:13:46,500
+level of Premium based on defining your
+
+337
+00:13:46,500 --> 00:13:48,959
+range and defining your price swing
+
+338
+00:13:48,959 --> 00:13:50,459
+and Grading it
+
+339
+00:13:50,459 --> 00:13:52,260
+you know it's breaking it down into
+
+340
+00:13:52,260 --> 00:13:53,940
+quadrants and then splitting in half
+
+341
+00:13:53,940 --> 00:13:55,980
+when the market reaches for these
+
+342
+00:13:55,980 --> 00:13:58,620
+measures okay it's almost like a mile
+
+343
+00:13:58,620 --> 00:14:00,600
+marker for the algorithm it will reach
+
+344
+00:14:00,600 --> 00:14:03,959
+for it and then give the participants at
+
+345
+00:14:03,959 --> 00:14:06,120
+the bank opportunities to facilitate
+
+346
+00:14:06,120 --> 00:14:08,279
+trade if it
+
+347
+00:14:08,279 --> 00:14:11,220
+breaks through a level okay and it
+
+348
+00:14:11,220 --> 00:14:12,720
+trades right through it you know that
+
+349
+00:14:12,720 --> 00:14:14,160
+it's going to most likely reach for the
+
+350
+00:14:14,160 --> 00:14:16,500
+next level up okay very rarely do you
+
+351
+00:14:16,500 --> 00:14:19,200
+see any Midway points uh between the the
+
+352
+00:14:19,200 --> 00:14:20,700
+grades that I've already given you here
+
+353
+00:14:20,700 --> 00:14:22,380
+in or it's the way we Define the market
+
+354
+00:14:22,380 --> 00:14:24,779
+breaking it down and cutting the the
+
+355
+00:14:24,779 --> 00:14:26,399
+ranges in half
+
+356
+00:14:26,399 --> 00:14:28,139
+the way we did that in lesson five
+
+357
+00:14:28,139 --> 00:14:29,700
+that's the same levels we're seeing here
+
+358
+00:14:29,700 --> 00:14:31,200
+so I didn't add anything new except for
+
+359
+00:14:31,200 --> 00:14:32,880
+the shading of the yellow the box I'm
+
+360
+00:14:32,880 --> 00:14:34,440
+just giving you the context behind the
+
+361
+00:14:34,440 --> 00:14:35,940
+market and why it was doing what it was
+
+362
+00:14:35,940 --> 00:14:37,500
+doing now clearly obviously one would
+
+363
+00:14:37,500 --> 00:14:39,360
+say okay well this is obvious you know
+
+364
+00:14:39,360 --> 00:14:41,040
+armchair quarterbacking it's a hindsight
+
+365
+00:14:41,040 --> 00:14:43,500
+but if you go through the charts it's
+
+366
+00:14:43,500 --> 00:14:45,720
+the same thing happening almost all the
+
+367
+00:14:45,720 --> 00:14:49,019
+time so by having the theory behind why
+
+368
+00:14:49,019 --> 00:14:51,420
+it's doing what it's doing we can look
+
+369
+00:14:51,420 --> 00:14:53,040
+for how
+
+370
+00:14:53,040 --> 00:14:54,600
+each week
+
+371
+00:14:54,600 --> 00:14:57,959
+this same component or element to one
+
+372
+00:14:57,959 --> 00:15:00,839
+shot one kill will repeat itself
+
+373
+00:15:00,839 --> 00:15:04,079
+looking closer
+
+374
+00:15:04,079 --> 00:15:06,540
+looking closer
+
+375
+00:15:06,540 --> 00:15:08,820
+we can see that each week that the
+
+376
+00:15:08,820 --> 00:15:09,720
+market
+
+377
+00:15:09,720 --> 00:15:12,240
+we trade is going to seek to trade from
+
+378
+00:15:12,240 --> 00:15:14,160
+one PD array to another
+
+379
+00:15:14,160 --> 00:15:16,199
+it will trade from one quadrant to
+
+380
+00:15:16,199 --> 00:15:18,540
+another with the least resistance it can
+
+381
+00:15:18,540 --> 00:15:20,579
+move from premium to discount or
+
+382
+00:15:20,579 --> 00:15:23,639
+discount to premium Market valuation now
+
+383
+00:15:23,639 --> 00:15:25,380
+the determination of whether it's going
+
+384
+00:15:25,380 --> 00:15:27,420
+to move higher or lower is based on
+
+385
+00:15:27,420 --> 00:15:28,920
+where we're trading at at the time when
+
+386
+00:15:28,920 --> 00:15:31,320
+you're sitting in front of the charts if
+
+387
+00:15:31,320 --> 00:15:33,000
+we're in a premium Market it means we're
+
+388
+00:15:33,000 --> 00:15:34,800
+really pushed up and we are into a
+
+389
+00:15:34,800 --> 00:15:37,199
+logical area of where price has shown a
+
+390
+00:15:37,199 --> 00:15:39,720
+willingness to sell off before it's away
+
+391
+00:15:39,720 --> 00:15:42,180
+from its lowest levels of historical
+
+392
+00:15:42,180 --> 00:15:44,160
+buys or where old lows have formed
+
+393
+00:15:44,160 --> 00:15:46,139
+basically how we framed premium and
+
+394
+00:15:46,139 --> 00:15:47,579
+discount Works we've already taught in
+
+395
+00:15:47,579 --> 00:15:48,899
+this mentorship
+
+396
+00:15:48,899 --> 00:15:51,839
+but when we have the levels on our chart
+
+397
+00:15:51,839 --> 00:15:54,360
+and it's in a four hour basis it gives
+
+398
+00:15:54,360 --> 00:15:57,420
+us context it tells us how we can
+
+399
+00:15:57,420 --> 00:15:59,220
+anticipate the full weekly range because
+
+400
+00:15:59,220 --> 00:16:01,620
+these daily or in this case you know
+
+401
+00:16:01,620 --> 00:16:03,720
+four hours a weekly divider by hitting
+
+402
+00:16:03,720 --> 00:16:06,600
+control and tapping y you get these
+
+403
+00:16:06,600 --> 00:16:09,060
+vertical lines on mt4 what you'll end up
+
+404
+00:16:09,060 --> 00:16:11,519
+doing is each week before the market
+
+405
+00:16:11,519 --> 00:16:13,680
+starts trading on a Sunday and what you
+
+406
+00:16:13,680 --> 00:16:14,820
+want to do is just load up your four
+
+407
+00:16:14,820 --> 00:16:17,279
+hour chart have your PD arrays loaded on
+
+408
+00:16:17,279 --> 00:16:18,240
+there
+
+409
+00:16:18,240 --> 00:16:20,160
+and make notations on where you think
+
+410
+00:16:20,160 --> 00:16:23,100
+price May logically reach up to when
+
+411
+00:16:23,100 --> 00:16:24,540
+it's in a discount Market
+
+412
+00:16:24,540 --> 00:16:27,000
+or where it may reach down to when it's
+
+413
+00:16:27,000 --> 00:16:29,160
+in a premium Market
+
+414
+00:16:29,160 --> 00:16:32,279
+by looking at where the PD arrays are
+
+415
+00:16:32,279 --> 00:16:34,380
+in a four hour chart it's almost like
+
+416
+00:16:34,380 --> 00:16:36,540
+you can anticipate what the weekly range
+
+417
+00:16:36,540 --> 00:16:37,800
+will do
+
+418
+00:16:37,800 --> 00:16:40,440
+in a completed sense in order to what
+
+419
+00:16:40,440 --> 00:16:42,120
+the market looks like after the week
+
+420
+00:16:42,120 --> 00:16:44,699
+closes on Friday and in a good example
+
+421
+00:16:44,699 --> 00:16:47,579
+or exercise in this case would be to do
+
+422
+00:16:47,579 --> 00:16:50,600
+this every single week try to anticipate
+
+423
+00:16:50,600 --> 00:16:53,940
+what the weekly range will look like now
+
+424
+00:16:53,940 --> 00:16:55,380
+you're not going to get this all the
+
+425
+00:16:55,380 --> 00:16:56,940
+time it's not going to be perfect and
+
+426
+00:16:56,940 --> 00:16:58,259
+many times you're not going to be close
+
+427
+00:16:58,259 --> 00:17:00,899
+to it at all but what it will do is it
+
+428
+00:17:00,899 --> 00:17:02,940
+will help build your anticipatory price
+
+429
+00:17:02,940 --> 00:17:05,280
+skills which is necessary to start
+
+430
+00:17:05,280 --> 00:17:06,980
+seeing this stuff before it happens
+
+431
+00:17:06,980 --> 00:17:09,540
+we're trading in probabilities we're
+
+432
+00:17:09,540 --> 00:17:12,299
+looking at a statistical Edge that the
+
+433
+00:17:12,299 --> 00:17:14,339
+market if it's in a premium it's most
+
+434
+00:17:14,339 --> 00:17:15,540
+likely going to want to trade lower
+
+435
+00:17:15,540 --> 00:17:18,059
+where does it trade down to it's not
+
+436
+00:17:18,059 --> 00:17:19,559
+just looking for a support level it's
+
+437
+00:17:19,559 --> 00:17:21,419
+looking for an old area of institutional
+
+438
+00:17:21,419 --> 00:17:24,900
+order flow where was their old buying
+
+439
+00:17:24,900 --> 00:17:27,240
+where was their old institutional order
+
+440
+00:17:27,240 --> 00:17:29,520
+flow seen in the marketplace and it's
+
+441
+00:17:29,520 --> 00:17:32,160
+going to be in the form of a PD array
+
+442
+00:17:32,160 --> 00:17:34,260
+so we look at our PD array Matrix to
+
+443
+00:17:34,260 --> 00:17:36,960
+determine what are those PD arrays that
+
+444
+00:17:36,960 --> 00:17:39,299
+exist in your chart at the time and you
+
+445
+00:17:39,299 --> 00:17:41,940
+look at how reasonable it is for it to
+
+446
+00:17:41,940 --> 00:17:43,919
+reach down into or up into that level
+
+447
+00:17:43,919 --> 00:17:46,320
+between the two vertical lines
+
+448
+00:17:46,320 --> 00:17:48,419
+you only have Monday through Friday well
+
+449
+00:17:48,419 --> 00:17:51,000
+Sunday's opening until Friday so you
+
+450
+00:17:51,000 --> 00:17:52,380
+have an element of time that you have to
+
+451
+00:17:52,380 --> 00:17:53,580
+work within
+
+452
+00:17:53,580 --> 00:17:56,640
+so because it's relatively short term in
+
+453
+00:17:56,640 --> 00:17:59,760
+nature it's easy to predict where the
+
+454
+00:17:59,760 --> 00:18:01,559
+market may go between
+
+455
+00:18:01,559 --> 00:18:03,960
+a Monday and a Friday and you don't have
+
+456
+00:18:03,960 --> 00:18:05,160
+to have the highest high and you don't
+
+457
+00:18:05,160 --> 00:18:06,780
+have to have the lowest low you just
+
+458
+00:18:06,780 --> 00:18:08,039
+need to know what's the probable
+
+459
+00:18:08,039 --> 00:18:10,260
+Direction and what levels will it most
+
+460
+00:18:10,260 --> 00:18:13,020
+likely key off of that's the benefit of
+
+461
+00:18:13,020 --> 00:18:14,820
+using a four hour chart and using the
+
+462
+00:18:14,820 --> 00:18:16,260
+PDA arrays from the monthly weekly and
+
+463
+00:18:16,260 --> 00:18:17,820
+daily and
+
+464
+00:18:17,820 --> 00:18:19,380
+four hour if you want to have all that
+
+465
+00:18:19,380 --> 00:18:21,419
+on here but nonetheless if you key off a
+
+466
+00:18:21,419 --> 00:18:24,299
+daily weekly and monthly PD arrays on a
+
+467
+00:18:24,299 --> 00:18:25,620
+four hour chart you're going to get the
+
+468
+00:18:25,620 --> 00:18:28,860
+highest probable trade reactions and
+
+469
+00:18:28,860 --> 00:18:30,900
+that's where the institutions step in
+
+470
+00:18:30,900 --> 00:18:33,179
+now when you refine it down to a lower
+
+471
+00:18:33,179 --> 00:18:34,980
+time frame obviously in an hourly chart
+
+472
+00:18:34,980 --> 00:18:36,840
+you get more detail you get more
+
+473
+00:18:36,840 --> 00:18:39,059
+opportunities to you know reduce the
+
+474
+00:18:39,059 --> 00:18:40,500
+risk and you might get another
+
+475
+00:18:40,500 --> 00:18:42,860
+opportunity if you missed the overall
+
+476
+00:18:42,860 --> 00:18:45,960
+daily or weekly
+
+477
+00:18:45,960 --> 00:18:48,240
+PD array in other words if you missed
+
+478
+00:18:48,240 --> 00:18:50,460
+that entry it may give you one more shot
+
+479
+00:18:50,460 --> 00:18:53,580
+to get on it with an hourly chart but
+
+480
+00:18:53,580 --> 00:18:55,559
+it's better if you just train yourself
+
+481
+00:18:55,559 --> 00:18:57,600
+to work off of a four hour chart and
+
+482
+00:18:57,600 --> 00:18:59,039
+start to Envision
+
+483
+00:18:59,039 --> 00:19:01,320
+and kind of more or less predict what
+
+484
+00:19:01,320 --> 00:19:04,460
+the weekly range is going to look like
+
+485
+00:19:06,360 --> 00:19:07,860
+here's an example here where the market
+
+486
+00:19:07,860 --> 00:19:10,320
+trades down into the fair value Gap
+
+487
+00:19:10,320 --> 00:19:13,020
+we're in a deep discount Market
+
+488
+00:19:13,020 --> 00:19:15,539
+and for that week it trades up into a
+
+489
+00:19:15,539 --> 00:19:18,320
+bearish order block
+
+490
+00:19:19,320 --> 00:19:21,059
+the subsequent week we have the price
+
+491
+00:19:21,059 --> 00:19:23,580
+trading down into the equilibrium price
+
+492
+00:19:23,580 --> 00:19:24,419
+point
+
+493
+00:19:24,419 --> 00:19:27,360
+of the total macro range from the daily
+
+494
+00:19:27,360 --> 00:19:30,600
+chart that we showed in lesson five and
+
+495
+00:19:30,600 --> 00:19:32,880
+it also trades back down into an old
+
+496
+00:19:32,880 --> 00:19:34,320
+bullish order block from the previous
+
+497
+00:19:34,320 --> 00:19:36,299
+week
+
+498
+00:19:36,299 --> 00:19:37,980
+and then the market trades up and closes
+
+499
+00:19:37,980 --> 00:19:39,780
+in a fair value Gap
+
+500
+00:19:39,780 --> 00:19:43,760
+seeing back in February
+
+501
+00:19:46,080 --> 00:19:48,059
+now taking this information and refine
+
+502
+00:19:48,059 --> 00:19:50,340
+it even further down into a 60 Minute
+
+503
+00:19:50,340 --> 00:19:52,320
+chart you'll start to see a little bit
+
+504
+00:19:52,320 --> 00:19:55,380
+more definition in the market and
+
+505
+00:19:55,380 --> 00:19:57,600
+looking closely you'll see that there
+
+506
+00:19:57,600 --> 00:19:59,880
+are many times you'll see Breakers and
+
+507
+00:19:59,880 --> 00:20:02,340
+mitigation blocks that didn't exist on
+
+508
+00:20:02,340 --> 00:20:03,600
+your four hour chart
+
+509
+00:20:03,600 --> 00:20:04,860
+so
+
+510
+00:20:04,860 --> 00:20:06,960
+anything less than a one hour chart when
+
+511
+00:20:06,960 --> 00:20:07,980
+you're looking for one shot one kill
+
+512
+00:20:07,980 --> 00:20:10,679
+really reduces the effectiveness because
+
+513
+00:20:10,679 --> 00:20:13,980
+what you're looking for is that impulse
+
+514
+00:20:13,980 --> 00:20:17,039
+price swing to help facilitate the
+
+515
+00:20:17,039 --> 00:20:18,600
+weekly range or complete the weekly
+
+516
+00:20:18,600 --> 00:20:20,520
+range anything less than a 60 Minute
+
+517
+00:20:20,520 --> 00:20:23,760
+chart you're really just day trading or
+
+518
+00:20:23,760 --> 00:20:25,799
+you're scalping
+
+519
+00:20:25,799 --> 00:20:27,000
+so that's why you want to focus
+
+520
+00:20:27,000 --> 00:20:29,280
+primarily on a four hour chart for the
+
+521
+00:20:29,280 --> 00:20:31,740
+the levels you want to key off of but
+
+522
+00:20:31,740 --> 00:20:33,480
+once you get down into an hourly chart
+
+523
+00:20:33,480 --> 00:20:35,340
+then you can break the market down into
+
+524
+00:20:35,340 --> 00:20:37,820
+a day by day basis and then we can start
+
+525
+00:20:37,820 --> 00:20:41,160
+incorporating day of week phenomenon so
+
+526
+00:20:41,160 --> 00:20:42,299
+if we're looking for a bullish Market
+
+527
+00:20:42,299 --> 00:20:45,120
+moving from a discount Market to a
+
+528
+00:20:45,120 --> 00:20:47,940
+premium each week
+
+529
+00:20:47,940 --> 00:20:49,620
+what we're looking essentially for is
+
+530
+00:20:49,620 --> 00:20:50,940
+the low of the week to form between
+
+531
+00:20:50,940 --> 00:20:52,919
+Monday Tuesday and Wednesday they are
+
+532
+00:20:52,919 --> 00:20:55,140
+the highest probable trading days in
+
+533
+00:20:55,140 --> 00:20:57,360
+this environment so the criteria is in a
+
+534
+00:20:57,360 --> 00:20:59,640
+trending environment we expect price to
+
+535
+00:20:59,640 --> 00:21:01,020
+trade from a discount to a premium in
+
+536
+00:21:01,020 --> 00:21:03,000
+this case we would reverse everything if
+
+537
+00:21:03,000 --> 00:21:04,860
+we were expecting lower prices from a
+
+538
+00:21:04,860 --> 00:21:06,840
+premium down to a discount Market
+
+539
+00:21:06,840 --> 00:21:08,880
+but we have all our PD arrays on our
+
+540
+00:21:08,880 --> 00:21:10,919
+chart and our levels and our quadrants
+
+541
+00:21:10,919 --> 00:21:12,840
+on so we have all of our natural support
+
+542
+00:21:12,840 --> 00:21:15,299
+resistance which is the grading of all
+
+543
+00:21:15,299 --> 00:21:16,500
+of
+
+544
+00:21:16,500 --> 00:21:19,260
+the levels that we did in lesson five
+
+545
+00:21:19,260 --> 00:21:21,480
+and then incorporating the actual PD
+
+546
+00:21:21,480 --> 00:21:24,600
+arrays in reference to the if the data
+
+547
+00:21:24,600 --> 00:21:27,360
+range in the last 60 20 and 40 days
+
+548
+00:21:27,360 --> 00:21:29,880
+the low of the week in bullish
+
+549
+00:21:29,880 --> 00:21:31,740
+conditions in trending environments we
+
+550
+00:21:31,740 --> 00:21:33,240
+look for the Monday Tuesday or Wednesday
+
+551
+00:21:33,240 --> 00:21:34,980
+low to form
+
+552
+00:21:34,980 --> 00:21:37,799
+in the first week we see here Monday
+
+553
+00:21:37,799 --> 00:21:39,720
+Tuesday and Wednesday the low forms on
+
+554
+00:21:39,720 --> 00:21:42,539
+Tuesday notice the low forms off of a
+
+555
+00:21:42,539 --> 00:21:46,140
+logical PD array in a discount fashion
+
+556
+00:21:46,140 --> 00:21:47,940
+trades down to a fair value Gap that's
+
+557
+00:21:47,940 --> 00:21:50,820
+seen on the daily chart so price trades
+
+558
+00:21:50,820 --> 00:21:53,760
+up creates a high that's slightly higher
+
+559
+00:21:53,760 --> 00:21:56,280
+than Monday's high on Wednesday and then
+
+560
+00:21:56,280 --> 00:21:58,799
+breaks through it and creates a higher
+
+561
+00:21:58,799 --> 00:22:00,960
+high for the week so the intra week high
+
+562
+00:22:00,960 --> 00:22:03,299
+is formed on Wednesday notice on
+
+563
+00:22:03,299 --> 00:22:05,220
+Thursday it trades down into the fair
+
+564
+00:22:05,220 --> 00:22:06,360
+value Gap
+
+565
+00:22:06,360 --> 00:22:08,760
+into a mitigation block also from
+
+566
+00:22:08,760 --> 00:22:11,039
+Wednesday's intradays trading and the
+
+567
+00:22:11,039 --> 00:22:12,720
+market does what another impulse print
+
+568
+00:22:12,720 --> 00:22:14,700
+price selling higher all the way into
+
+569
+00:22:14,700 --> 00:22:16,679
+Thursday goes into consolidation and
+
+570
+00:22:16,679 --> 00:22:18,720
+then Friday it has a small little Judas
+
+571
+00:22:18,720 --> 00:22:21,240
+swing trades down into equilibrium
+
+572
+00:22:21,240 --> 00:22:23,580
+and then expands on the upside
+
+573
+00:22:23,580 --> 00:22:26,539
+going into the close
+
+574
+00:22:27,360 --> 00:22:29,220
+the second week or subsequent week in
+
+575
+00:22:29,220 --> 00:22:32,640
+our case study we see the low forms on
+
+576
+00:22:32,640 --> 00:22:34,740
+Monday after it hits the equilibrium
+
+577
+00:22:34,740 --> 00:22:37,919
+price point of the overall macro
+
+578
+00:22:37,919 --> 00:22:40,020
+consolidation as we defined in lesson
+
+579
+00:22:40,020 --> 00:22:41,400
+number five
+
+580
+00:22:41,400 --> 00:22:43,559
+and then Tuesday we have a read trade
+
+581
+00:22:43,559 --> 00:22:46,380
+back down into that same old low so we
+
+582
+00:22:46,380 --> 00:22:48,539
+had another retouch of
+
+583
+00:22:48,539 --> 00:22:51,179
+the equilibrium price point and then
+
+584
+00:22:51,179 --> 00:22:53,100
+acceleration on the upside
+
+585
+00:22:53,100 --> 00:22:54,720
+and then Wednesday we have another
+
+586
+00:22:54,720 --> 00:22:57,900
+opportunity to get long trading off of a
+
+587
+00:22:57,900 --> 00:23:00,299
+breaker that's formed on that week's
+
+588
+00:23:00,299 --> 00:23:02,520
+Monday so we have Wednesdays trading
+
+589
+00:23:02,520 --> 00:23:04,860
+trading down into a breaker
+
+590
+00:23:04,860 --> 00:23:07,860
+uh
+
+591
+00:23:08,460 --> 00:23:10,260
+a bullish breaker
+
+592
+00:23:10,260 --> 00:23:13,260
+formed on Monday's high Wednesday's low
+
+593
+00:23:13,260 --> 00:23:14,340
+is
+
+594
+00:23:14,340 --> 00:23:16,080
+formed off of that
+
+595
+00:23:16,080 --> 00:23:19,320
+trades higher and then notice also while
+
+596
+00:23:19,320 --> 00:23:21,539
+we had slightly bullishness on Thursday
+
+597
+00:23:21,539 --> 00:23:25,500
+and then a relatively flat close on that
+
+598
+00:23:25,500 --> 00:23:27,240
+week's Friday
+
+599
+00:23:27,240 --> 00:23:27,900
+um
+
+600
+00:23:27,900 --> 00:23:29,940
+one of the things I want you to see is
+
+601
+00:23:29,940 --> 00:23:33,600
+when we go through this com this process
+
+602
+00:23:33,600 --> 00:23:35,280
+you're going to quickly learn that
+
+603
+00:23:35,280 --> 00:23:38,580
+typically the weekly ranges they have a
+
+604
+00:23:38,580 --> 00:23:40,320
+30 to 50 percent of the weekly range
+
+605
+00:23:40,320 --> 00:23:43,440
+completed between Monday to Wednesday in
+
+606
+00:23:43,440 --> 00:23:45,539
+other words by London close on Wednesday
+
+607
+00:23:45,539 --> 00:23:48,299
+30 to 50 percent generally the range is
+
+608
+00:23:48,299 --> 00:23:50,940
+completed so what does that mean
+
+609
+00:23:50,940 --> 00:23:55,260
+if we have the willingness to to look
+
+610
+00:23:55,260 --> 00:23:57,179
+for Longs only we expect the market from
+
+611
+00:23:57,179 --> 00:24:00,120
+a discount to a premium to unfold for
+
+612
+00:24:00,120 --> 00:24:01,620
+the week
+
+613
+00:24:01,620 --> 00:24:04,260
+if we do not capture the long
+
+614
+00:24:04,260 --> 00:24:06,659
+either Monday Tuesday or Wednesday and
+
+615
+00:24:06,659 --> 00:24:09,960
+it has happened to potentially form and
+
+616
+00:24:09,960 --> 00:24:12,419
+we've seen some price actions that
+
+617
+00:24:12,419 --> 00:24:15,059
+suggest that that Weekly range is going
+
+618
+00:24:15,059 --> 00:24:17,280
+to be up close or bullish as we expected
+
+619
+00:24:17,280 --> 00:24:19,080
+but we didn't get to trade on
+
+620
+00:24:19,080 --> 00:24:20,940
+uh maybe we're stopped out maybe we
+
+621
+00:24:20,940 --> 00:24:22,380
+missed it all together
+
+622
+00:24:22,380 --> 00:24:24,120
+or maybe we were wrong and we found out
+
+623
+00:24:24,120 --> 00:24:25,740
+later in the week that oh yeah this is
+
+624
+00:24:25,740 --> 00:24:26,580
+probably what's going to happen now
+
+625
+00:24:26,580 --> 00:24:27,780
+because that's going to happen as well
+
+626
+00:24:27,780 --> 00:24:30,780
+uh you may expect something to unfold uh
+
+627
+00:24:30,780 --> 00:24:32,100
+for the week and then it doesn't do that
+
+628
+00:24:32,100 --> 00:24:33,480
+and you have to be flexible and change
+
+629
+00:24:33,480 --> 00:24:35,039
+gears and we're going to talk about that
+
+630
+00:24:35,039 --> 00:24:38,159
+in lesson number seven but
+
+631
+00:24:38,159 --> 00:24:40,200
+if you've missed the Monday through
+
+632
+00:24:40,200 --> 00:24:41,880
+Wednesday phenomenon
+
+633
+00:24:41,880 --> 00:24:44,220
+and the Market's already traded just
+
+634
+00:24:44,220 --> 00:24:45,960
+know that
+
+635
+00:24:45,960 --> 00:24:48,900
+it's important not to get PIP drunk
+
+636
+00:24:48,900 --> 00:24:51,720
+trying to get a lion's portion of a move
+
+637
+00:24:51,720 --> 00:24:54,419
+by Friday's close
+
+638
+00:24:54,419 --> 00:24:56,580
+because the weekly range may end up
+
+639
+00:24:56,580 --> 00:24:58,980
+being smaller or less volatile than
+
+640
+00:24:58,980 --> 00:25:02,960
+you've anticipated so just know that
+
+641
+00:25:02,960 --> 00:25:06,840
+generally a third or half of the weekly
+
+642
+00:25:06,840 --> 00:25:08,820
+range is done by Wednesday's London
+
+643
+00:25:08,820 --> 00:25:09,780
+close
+
+644
+00:25:09,780 --> 00:25:14,640
+and don't expect a massive move higher
+
+645
+00:25:14,640 --> 00:25:17,220
+or lower in in the last two days of the
+
+646
+00:25:17,220 --> 00:25:18,299
+trading week
+
+647
+00:25:18,299 --> 00:25:20,520
+generally if you get an explosive move
+
+648
+00:25:20,520 --> 00:25:22,860
+usually on Tuesday or Wednesday Thursday
+
+649
+00:25:22,860 --> 00:25:24,600
+May see a little bit of following follow
+
+650
+00:25:24,600 --> 00:25:26,340
+through but then Friday has either
+
+651
+00:25:26,340 --> 00:25:28,320
+retracement or does what you see here in
+
+652
+00:25:28,320 --> 00:25:30,120
+the second week where it's basically in
+
+653
+00:25:30,120 --> 00:25:31,500
+neutral close it doesn't really do
+
+654
+00:25:31,500 --> 00:25:33,659
+anything more stunning than what was
+
+655
+00:25:33,659 --> 00:25:37,080
+seen in Thursday or Wednesday's Trading
+
+656
+00:25:37,080 --> 00:25:39,480
+so we're going to build on the idea of
+
+657
+00:25:39,480 --> 00:25:42,720
+this and incorporate how to know when
+
+658
+00:25:42,720 --> 00:25:44,039
+there's going to be an inch or week
+
+659
+00:25:44,039 --> 00:25:46,020
+reversal
+
+660
+00:25:46,020 --> 00:25:47,580
+so until next lesson I wish you good
+
+661
+00:25:47,580 --> 00:25:50,600
+luck and good Trading
+

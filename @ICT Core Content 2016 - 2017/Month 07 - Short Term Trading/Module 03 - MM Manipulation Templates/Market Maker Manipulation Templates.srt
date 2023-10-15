@@ -1,0 +1,4136 @@
+1
+00:00:11,639 --> 00:00:14,460
+welcome back folks this is lesson three
+
+2
+00:00:14,460 --> 00:00:17,460
+short-term Trading
+
+3
+00:00:17,460 --> 00:00:19,140
+just lessons going to be teaching Market
+
+4
+00:00:19,140 --> 00:00:22,580
+maker manipulation templates
+
+5
+00:00:26,460 --> 00:00:29,699
+okay in lesson two we went over the
+
+6
+00:00:29,699 --> 00:00:31,800
+weekly profiles
+
+7
+00:00:31,800 --> 00:00:35,280
+how the market generally unfolds not
+
+8
+00:00:35,280 --> 00:00:38,280
+every single subtle Nuance of price
+
+9
+00:00:38,280 --> 00:00:40,559
+action is covered obviously
+
+10
+00:00:40,559 --> 00:00:42,059
+but the majority of the time you're
+
+11
+00:00:42,059 --> 00:00:44,640
+going to find that one of these market
+
+12
+00:00:44,640 --> 00:00:46,379
+profiles will
+
+13
+00:00:46,379 --> 00:00:49,200
+basically classify the price action
+
+14
+00:00:49,200 --> 00:00:52,079
+you've seen it'll classically Define the
+
+15
+00:00:52,079 --> 00:00:54,660
+weekly profile if you go through each
+
+16
+00:00:54,660 --> 00:00:56,699
+one of these templates
+
+17
+00:00:56,699 --> 00:00:59,219
+it'll give you basically the idea of how
+
+18
+00:00:59,219 --> 00:01:01,199
+the market manipulation has taken place
+
+19
+00:01:01,199 --> 00:01:04,379
+along with the market profile for that
+
+20
+00:01:04,379 --> 00:01:06,060
+week so we're going to be blending the
+
+21
+00:01:06,060 --> 00:01:08,939
+two ideas on why the market does what it
+
+22
+00:01:08,939 --> 00:01:10,920
+does in these individual weekly profiles
+
+23
+00:01:10,920 --> 00:01:14,580
+and applying it to a template idea so
+
+24
+00:01:14,580 --> 00:01:16,560
+you can almost forecast what the market
+
+25
+00:01:16,560 --> 00:01:18,060
+makers are going to be doing in advance
+
+26
+00:01:18,060 --> 00:01:20,460
+based on the conditions currently in the
+
+27
+00:01:20,460 --> 00:01:22,979
+market that you're Trading
+
+28
+00:01:22,979 --> 00:01:25,619
+before we get in to the details of it
+
+29
+00:01:25,619 --> 00:01:26,340
+all
+
+30
+00:01:26,340 --> 00:01:29,700
+every example here much like in lesson
+
+31
+00:01:29,700 --> 00:01:31,320
+two
+
+32
+00:01:31,320 --> 00:01:34,680
+all of the charts or diagrams are
+
+33
+00:01:34,680 --> 00:01:37,680
+represented in and depicted as a 60
+
+34
+00:01:37,680 --> 00:01:39,119
+Minute chart
+
+35
+00:01:39,119 --> 00:01:40,680
+so the perspective I'm trying to show
+
+36
+00:01:40,680 --> 00:01:42,360
+you is if you were to go through your
+
+37
+00:01:42,360 --> 00:01:44,400
+charts and open them up in a 60 Minute
+
+38
+00:01:44,400 --> 00:01:46,200
+or one hour chart basis
+
+39
+00:01:46,200 --> 00:01:48,060
+Monday through Friday this is generally
+
+40
+00:01:48,060 --> 00:01:50,640
+the theme of which you see the market
+
+41
+00:01:50,640 --> 00:01:53,460
+trade in
+
+42
+00:01:53,460 --> 00:01:54,899
+okay the first one we're going to cover
+
+43
+00:01:54,899 --> 00:01:57,240
+is classic Tuesday low of the week now
+
+44
+00:01:57,240 --> 00:01:58,680
+there's going to be a few
+
+45
+00:01:58,680 --> 00:02:01,200
+instances where we go through a few
+
+46
+00:02:01,200 --> 00:02:04,200
+scenarios each template and there's a
+
+47
+00:02:04,200 --> 00:02:06,000
+few that only have one or two ideas
+
+48
+00:02:06,000 --> 00:02:07,979
+around it but for the classic Tuesday
+
+49
+00:02:07,979 --> 00:02:10,619
+low of the week
+
+50
+00:02:10,619 --> 00:02:12,780
+what you've been looking for is a market
+
+51
+00:02:12,780 --> 00:02:15,660
+that is primarily bullish
+
+52
+00:02:15,660 --> 00:02:17,580
+and the market trades down on Tuesday
+
+53
+00:02:17,580 --> 00:02:20,400
+into a discount now this is going to be
+
+54
+00:02:20,400 --> 00:02:22,620
+in the form of either old monthly weekly
+
+55
+00:02:22,620 --> 00:02:24,599
+or daily low
+
+56
+00:02:24,599 --> 00:02:27,000
+to run a liquidity pool in other words
+
+57
+00:02:27,000 --> 00:02:30,319
+it's running out cell stops
+
+58
+00:02:30,720 --> 00:02:33,660
+Thursday end or going into Friday but
+
+59
+00:02:33,660 --> 00:02:34,620
+generally you want to look for the high
+
+60
+00:02:34,620 --> 00:02:37,379
+the form for the week by Thursday's New
+
+61
+00:02:37,379 --> 00:02:39,000
+York session
+
+62
+00:02:39,000 --> 00:02:40,680
+I can carry over into Friday a little
+
+63
+00:02:40,680 --> 00:02:43,200
+bit but in the general rule of thumb
+
+64
+00:02:43,200 --> 00:02:45,000
+just look for Thursday as the lines
+
+65
+00:02:45,000 --> 00:02:47,040
+portion of the weekly range and you're
+
+66
+00:02:47,040 --> 00:02:48,360
+looking for it to trade up into a
+
+67
+00:02:48,360 --> 00:02:50,940
+premium Market PD array now the key is
+
+68
+00:02:50,940 --> 00:02:53,340
+you're looking for a time frame lesser
+
+69
+00:02:53,340 --> 00:02:55,140
+than the discount liquidity pool that
+
+70
+00:02:55,140 --> 00:02:56,640
+you used to buy off of
+
+71
+00:02:56,640 --> 00:02:59,400
+for an example if you bought a monthly
+
+72
+00:02:59,400 --> 00:03:01,019
+liquidity pool
+
+73
+00:03:01,019 --> 00:03:02,940
+you're gonna be looking for a weekly or
+
+74
+00:03:02,940 --> 00:03:08,239
+daily premium PD array to trade up into
+
+75
+00:03:11,400 --> 00:03:13,980
+another scenario for the market maker
+
+76
+00:03:13,980 --> 00:03:15,900
+template for a classic Tuesday low of
+
+77
+00:03:15,900 --> 00:03:17,700
+the week again the market condition is
+
+78
+00:03:17,700 --> 00:03:19,500
+you're bullish
+
+79
+00:03:19,500 --> 00:03:21,780
+the discount Market you see the market
+
+80
+00:03:21,780 --> 00:03:23,879
+trade down to an old monthly weekly or
+
+81
+00:03:23,879 --> 00:03:25,620
+daily high that means the market has
+
+82
+00:03:25,620 --> 00:03:27,959
+already broken out above a historical
+
+83
+00:03:27,959 --> 00:03:30,120
+high or an old high and the market has
+
+84
+00:03:30,120 --> 00:03:33,120
+now come back and retested that area as
+
+85
+00:03:33,120 --> 00:03:35,480
+support
+
+86
+00:03:35,519 --> 00:03:37,080
+you'll be looking for this Market to
+
+87
+00:03:37,080 --> 00:03:41,220
+trade up into a premium PD array and or
+
+88
+00:03:41,220 --> 00:03:44,819
+a fib extension combination of 127 or
+
+89
+00:03:44,819 --> 00:03:49,459
+168 extensions for or a 100 percent
+
+90
+00:03:49,459 --> 00:03:51,780
+symmetrical price link or what I
+
+91
+00:03:51,780 --> 00:03:54,840
+classify as a perfect Market structure
+
+92
+00:03:54,840 --> 00:03:57,140
+swing
+
+93
+00:03:57,900 --> 00:03:59,459
+you're gonna be looking for it to trade
+
+94
+00:03:59,459 --> 00:04:02,580
+up to this premium Market PD array
+
+95
+00:04:02,580 --> 00:04:05,879
+and overlapping FIB in a time frame
+
+96
+00:04:05,879 --> 00:04:09,840
+lesser than the discount old High
+
+97
+00:04:09,840 --> 00:04:11,700
+so in other words if you're treating
+
+98
+00:04:11,700 --> 00:04:14,819
+at a weekly high as support
+
+99
+00:04:14,819 --> 00:04:17,339
+in the form of a discount Market you're
+
+100
+00:04:17,339 --> 00:04:18,720
+buying down there
+
+101
+00:04:18,720 --> 00:04:20,760
+as a support idea
+
+102
+00:04:20,760 --> 00:04:22,500
+if it's the weekly high that you bought
+
+103
+00:04:22,500 --> 00:04:24,240
+you're going to be looking for a daily
+
+104
+00:04:24,240 --> 00:04:28,860
+or four hour PD array and an extension
+
+105
+00:04:28,860 --> 00:04:33,479
+of either 127 or 168. or preferably a
+
+106
+00:04:33,479 --> 00:04:35,820
+perfect symmetrical price swing of 100
+
+107
+00:04:35,820 --> 00:04:38,240
+percent
+
+108
+00:04:42,540 --> 00:04:44,220
+another scenario for the classic Tuesday
+
+109
+00:04:44,220 --> 00:04:46,440
+low of the week
+
+110
+00:04:46,440 --> 00:04:47,940
+we'd be looking for the market to trade
+
+111
+00:04:47,940 --> 00:04:49,620
+down into a discount Market
+
+112
+00:04:49,620 --> 00:04:51,600
+and trading into a bullish order block
+
+113
+00:04:51,600 --> 00:04:53,639
+this could be either a monthly a weekly
+
+114
+00:04:53,639 --> 00:04:55,199
+and or daily
+
+115
+00:04:55,199 --> 00:04:57,060
+or any combination of an overlap of
+
+116
+00:04:57,060 --> 00:04:59,880
+those three time frames
+
+117
+00:04:59,880 --> 00:05:02,220
+it can also be a four hour
+
+118
+00:05:02,220 --> 00:05:03,840
+just for the sake of space I didn't have
+
+119
+00:05:03,840 --> 00:05:05,340
+that in here but you could be trading
+
+120
+00:05:05,340 --> 00:05:08,460
+that to a four hour bullish order block
+
+121
+00:05:08,460 --> 00:05:12,060
+and or this can occur as a market has
+
+122
+00:05:12,060 --> 00:05:14,699
+already been trading higher and you've
+
+123
+00:05:14,699 --> 00:05:18,720
+determined the overall price move may be
+
+124
+00:05:18,720 --> 00:05:21,240
+much significantly and higher than what
+
+125
+00:05:21,240 --> 00:05:23,340
+you see graphically depicted here in
+
+126
+00:05:23,340 --> 00:05:24,840
+this diagram in other words it could be
+
+127
+00:05:24,840 --> 00:05:26,639
+a multi-week scenario where the market
+
+128
+00:05:26,639 --> 00:05:28,620
+could trade higher for more than one
+
+129
+00:05:28,620 --> 00:05:30,960
+week so if that's the case you could be
+
+130
+00:05:30,960 --> 00:05:33,120
+seeing the trade trade down into support
+
+131
+00:05:33,120 --> 00:05:36,120
+or below shoulder block on Tuesday where
+
+132
+00:05:36,120 --> 00:05:39,720
+you'll see the first swing grade or it
+
+133
+00:05:39,720 --> 00:05:41,699
+could be happening in at the equilibrium
+
+134
+00:05:41,699 --> 00:05:43,020
+price point
+
+135
+00:05:43,020 --> 00:05:45,720
+where price could be expanding up and
+
+136
+00:05:45,720 --> 00:05:48,539
+seeing equal measured move higher or it
+
+137
+00:05:48,539 --> 00:05:51,419
+could be a third swing grade now
+
+138
+00:05:51,419 --> 00:05:54,180
+generally third swing grades are the
+
+139
+00:05:54,180 --> 00:05:55,800
+halfway point between the equilibrium
+
+140
+00:05:55,800 --> 00:05:57,720
+and the ultimate objective in your price
+
+141
+00:05:57,720 --> 00:06:00,360
+objective or the for the trade
+
+142
+00:06:00,360 --> 00:06:03,780
+generally you don't see a stop run
+
+143
+00:06:03,780 --> 00:06:06,479
+in the third swing grade right before
+
+144
+00:06:06,479 --> 00:06:08,699
+the determinants of the price move
+
+145
+00:06:08,699 --> 00:06:10,860
+you're looking to trade entirely as a
+
+146
+00:06:10,860 --> 00:06:12,300
+profit
+
+147
+00:06:12,300 --> 00:06:14,039
+go back to the lessons where we talked
+
+148
+00:06:14,039 --> 00:06:16,199
+about grading the swings and you'll see
+
+149
+00:06:16,199 --> 00:06:18,780
+what I'm referring to that third area
+
+150
+00:06:18,780 --> 00:06:21,360
+or midpoint between equilibrium and your
+
+151
+00:06:21,360 --> 00:06:23,340
+target generally you don't see a stop
+
+152
+00:06:23,340 --> 00:06:25,380
+run there but you do get a little
+
+153
+00:06:25,380 --> 00:06:26,819
+shorter box sometimes that you can trade
+
+154
+00:06:26,819 --> 00:06:28,380
+off of them this is that type of
+
+155
+00:06:28,380 --> 00:06:31,280
+scenario we can use this template
+
+156
+00:06:31,280 --> 00:06:33,780
+regardless of what time frame you use
+
+157
+00:06:33,780 --> 00:06:35,039
+you'll be looking for it to trade up
+
+158
+00:06:35,039 --> 00:06:38,100
+into your premium Market PD array and or
+
+159
+00:06:38,100 --> 00:06:41,699
+if extension overlapping of 127 or 168
+
+160
+00:06:41,699 --> 00:06:45,539
+or a perfect symmetrical price swing
+
+161
+00:06:45,539 --> 00:06:48,720
+or basically a 100 duplication or
+
+162
+00:06:48,720 --> 00:06:50,400
+measured move of the price swing and
+
+163
+00:06:50,400 --> 00:06:53,039
+traded down into the Tuesday low
+
+164
+00:06:53,039 --> 00:06:54,300
+and you'll be looking forward to trade
+
+165
+00:06:54,300 --> 00:06:56,759
+up into a time frame lesser than that of
+
+166
+00:06:56,759 --> 00:06:58,380
+what you use for the bullish order block
+
+167
+00:06:58,380 --> 00:07:01,139
+so again if we used a weekly
+
+168
+00:07:01,139 --> 00:07:02,940
+quarter block we're gonna be looking for
+
+169
+00:07:02,940 --> 00:07:06,180
+a daily or four hour premium PD array to
+
+170
+00:07:06,180 --> 00:07:08,819
+take our profits at something lining up
+
+171
+00:07:08,819 --> 00:07:10,979
+with price above us in the premium
+
+172
+00:07:10,979 --> 00:07:12,840
+Market but in a time frame lesser than
+
+173
+00:07:12,840 --> 00:07:16,940
+that which we traded our entry on
+
+174
+00:07:18,360 --> 00:07:21,660
+fair value or a liquidity void also
+
+175
+00:07:21,660 --> 00:07:24,120
+could be an instance where this trade
+
+176
+00:07:24,120 --> 00:07:27,020
+could materialize
+
+177
+00:07:28,080 --> 00:07:30,660
+okay the classic Tuesday high of the
+
+178
+00:07:30,660 --> 00:07:32,160
+week okay the first scenario you're
+
+179
+00:07:32,160 --> 00:07:34,440
+going to look at is a market trading up
+
+180
+00:07:34,440 --> 00:07:35,940
+into a premium Market
+
+181
+00:07:35,940 --> 00:07:37,800
+could be trading up to an old monthly
+
+182
+00:07:37,800 --> 00:07:40,080
+weekly or daily high in the form of
+
+183
+00:07:40,080 --> 00:07:41,880
+running a liquidity pool in other words
+
+184
+00:07:41,880 --> 00:07:45,139
+buy stops above and on high
+
+185
+00:07:45,240 --> 00:07:47,099
+and we'll be looking to frame the trade
+
+186
+00:07:47,099 --> 00:07:50,400
+with a time frame lesser than that which
+
+187
+00:07:50,400 --> 00:07:53,460
+we used for the premium liquidity pool
+
+188
+00:07:53,460 --> 00:07:54,840
+and we're gonna be trading down into a
+
+189
+00:07:54,840 --> 00:07:56,699
+discount Market PD array what you'll be
+
+190
+00:07:56,699 --> 00:07:58,740
+framing is
+
+191
+00:07:58,740 --> 00:08:00,660
+for instance an example would be if you
+
+192
+00:08:00,660 --> 00:08:04,080
+sold short at a daily High being ran out
+
+193
+00:08:04,080 --> 00:08:07,740
+for a liquidity run on buy stops you
+
+194
+00:08:07,740 --> 00:08:10,560
+could see a four hour
+
+195
+00:08:10,560 --> 00:08:13,080
+discount PD array
+
+196
+00:08:13,080 --> 00:08:15,780
+to trade down into as your objective so
+
+197
+00:08:15,780 --> 00:08:17,280
+that would be your weekly range Being
+
+198
+00:08:17,280 --> 00:08:19,139
+Framed another example would be if
+
+199
+00:08:19,139 --> 00:08:21,840
+you're looking for a weekly High to run
+
+200
+00:08:21,840 --> 00:08:24,720
+out buy stops you'd be looking for a
+
+201
+00:08:24,720 --> 00:08:27,360
+daily or four hour discount Market PD
+
+202
+00:08:27,360 --> 00:08:29,220
+array again you're looking for a time
+
+203
+00:08:29,220 --> 00:08:30,840
+frame lesser than that which you use to
+
+204
+00:08:30,840 --> 00:08:32,458
+trade with since we're using monthly
+
+205
+00:08:32,458 --> 00:08:34,620
+weekly and daily as a framework it gives
+
+206
+00:08:34,620 --> 00:08:37,020
+us a great deal of probability that the
+
+207
+00:08:37,020 --> 00:08:39,059
+moves are going to take place secondly
+
+208
+00:08:39,059 --> 00:08:40,740
+we're using a lesser time frame to take
+
+209
+00:08:40,740 --> 00:08:42,899
+our targets because if we don't want to
+
+210
+00:08:42,899 --> 00:08:45,420
+hold for what would many times take
+
+211
+00:08:45,420 --> 00:08:48,360
+greater than a week to unfold for a move
+
+212
+00:08:48,360 --> 00:08:52,519
+moving off of a monthly or weekly level
+
+213
+00:08:54,180 --> 00:08:56,519
+okay our second scenario for the classic
+
+214
+00:08:56,519 --> 00:08:58,500
+Tuesday high of the week would be the
+
+215
+00:08:58,500 --> 00:09:00,000
+market trading up into a premium market
+
+216
+00:09:00,000 --> 00:09:02,880
+and trading up to an old monthly weekly
+
+217
+00:09:02,880 --> 00:09:04,380
+or daily low that means the Market's
+
+218
+00:09:04,380 --> 00:09:05,760
+already broken down
+
+219
+00:09:05,760 --> 00:09:08,580
+out of a measure of Market structure or
+
+220
+00:09:08,580 --> 00:09:11,640
+maybe took an old low now it's retesting
+
+221
+00:09:11,640 --> 00:09:16,860
+that as support broken down resistance
+
+222
+00:09:16,860 --> 00:09:19,380
+and we'd be looking for a discount
+
+223
+00:09:19,380 --> 00:09:22,320
+Market PD array and or FIB extension of
+
+224
+00:09:22,320 --> 00:09:24,600
+127 and 168.
+
+225
+00:09:24,600 --> 00:09:27,720
+and or a perfect symmetrical price swing
+
+226
+00:09:27,720 --> 00:09:29,940
+and a time frame lesser than that which
+
+227
+00:09:29,940 --> 00:09:32,700
+we used for the premium old low so
+
+228
+00:09:32,700 --> 00:09:34,860
+they'll write it for an example we would
+
+229
+00:09:34,860 --> 00:09:37,080
+be looking for the market in a bearish
+
+230
+00:09:37,080 --> 00:09:39,060
+context we're looking for lower prices
+
+231
+00:09:39,060 --> 00:09:41,760
+overall The Market opens on Monday
+
+232
+00:09:41,760 --> 00:09:44,459
+trades up into Tuesday creating the high
+
+233
+00:09:44,459 --> 00:09:47,700
+of the week but it's retesting a old
+
+234
+00:09:47,700 --> 00:09:50,399
+monthly weekly or daily low to that
+
+235
+00:09:50,399 --> 00:09:52,260
+daily low whatever it is we're going to
+
+236
+00:09:52,260 --> 00:09:54,959
+be using that as our means of framing
+
+237
+00:09:54,959 --> 00:09:56,700
+our entry with the expectation that
+
+238
+00:09:56,700 --> 00:09:58,380
+we're going to be selling short looking
+
+239
+00:09:58,380 --> 00:10:01,260
+for a discount Market PD array any time
+
+240
+00:10:01,260 --> 00:10:03,060
+frame lesser than that which we used to
+
+241
+00:10:03,060 --> 00:10:05,820
+get short off of so if we're trading a
+
+242
+00:10:05,820 --> 00:10:07,680
+weekly low
+
+243
+00:10:07,680 --> 00:10:11,399
+as resistance we could also employ a
+
+244
+00:10:11,399 --> 00:10:13,440
+lower time frame bearish order block or
+
+245
+00:10:13,440 --> 00:10:15,420
+something that effect to get in sync
+
+246
+00:10:15,420 --> 00:10:17,339
+with it but for instance if we're using
+
+247
+00:10:17,339 --> 00:10:19,080
+the weekly low
+
+248
+00:10:19,080 --> 00:10:21,839
+we would be looking to trade down to a
+
+249
+00:10:21,839 --> 00:10:26,040
+discount daily or discount four hour
+
+250
+00:10:26,040 --> 00:10:29,820
+Market PD array and an overlapping FIB
+
+251
+00:10:29,820 --> 00:10:31,200
+extension
+
+252
+00:10:31,200 --> 00:10:34,740
+converging at the 127 or 168 or a
+
+253
+00:10:34,740 --> 00:10:37,380
+perfect symmetrical price swing now I'm
+
+254
+00:10:37,380 --> 00:10:38,459
+going to show you examples of what I
+
+255
+00:10:38,459 --> 00:10:40,500
+mean how you anchor the FIB in here in
+
+256
+00:10:40,500 --> 00:10:42,779
+several examples but just remember the
+
+257
+00:10:42,779 --> 00:10:44,579
+move up initially in the beginning of
+
+258
+00:10:44,579 --> 00:10:46,560
+the week that's your price Suite is
+
+259
+00:10:46,560 --> 00:10:47,700
+going to be using your fibon you're
+
+260
+00:10:47,700 --> 00:10:49,019
+going to run your projections off of
+
+261
+00:10:49,019 --> 00:10:50,040
+that and I'll show you what the fulcrum
+
+262
+00:10:50,040 --> 00:10:53,240
+points are for each one of these
+
+263
+00:10:53,279 --> 00:10:55,880
+foreign
+
+264
+00:10:56,000 --> 00:10:57,959
+value or
+
+265
+00:10:57,959 --> 00:11:00,180
+void that fills in is all that's
+
+266
+00:11:00,180 --> 00:11:02,399
+necessary before the Tuesday highs form
+
+267
+00:11:02,399 --> 00:11:05,100
+back up to that old monthly weekly or
+
+268
+00:11:05,100 --> 00:11:07,640
+daily low
+
+269
+00:11:09,180 --> 00:11:11,820
+okay our next scenario would be again a
+
+270
+00:11:11,820 --> 00:11:15,740
+fair value or liquidity void
+
+271
+00:11:16,200 --> 00:11:19,320
+and the market moving up into a premium
+
+272
+00:11:19,320 --> 00:11:21,720
+bearish order block either a monthly
+
+273
+00:11:21,720 --> 00:11:23,579
+weekly or daily
+
+274
+00:11:23,579 --> 00:11:25,500
+and or it could be a first swing grade
+
+275
+00:11:25,500 --> 00:11:28,380
+or at equilibrium or it could be a third
+
+276
+00:11:28,380 --> 00:11:30,600
+swing grade entry in other words if
+
+277
+00:11:30,600 --> 00:11:32,459
+we're seeing a larger longer term price
+
+278
+00:11:32,459 --> 00:11:34,920
+move going lower if we graded our swings
+
+279
+00:11:34,920 --> 00:11:36,660
+we could be looking for this scenario to
+
+280
+00:11:36,660 --> 00:11:39,180
+take place at the first grade swing
+
+281
+00:11:39,180 --> 00:11:40,740
+equilibrium
+
+282
+00:11:40,740 --> 00:11:44,480
+or the third swing grade
+
+283
+00:11:46,320 --> 00:11:48,600
+discount Market PD array
+
+284
+00:11:48,600 --> 00:11:52,860
+or FIB extension 127 168 or perfect
+
+285
+00:11:52,860 --> 00:11:56,040
+symmetrical price swing measured move
+
+286
+00:11:56,040 --> 00:11:58,140
+in a time frame lesser than the bearish
+
+287
+00:11:58,140 --> 00:11:59,880
+order block we use to trade off of now
+
+288
+00:11:59,880 --> 00:12:01,920
+I'll give you an example on this one
+
+289
+00:12:01,920 --> 00:12:04,500
+the market makers will see the for
+
+290
+00:12:04,500 --> 00:12:06,540
+instance we could Gap open lower
+
+291
+00:12:06,540 --> 00:12:08,880
+on Sunday and then all through Monday we
+
+292
+00:12:08,880 --> 00:12:10,920
+could trade up through higher and then
+
+293
+00:12:10,920 --> 00:12:12,899
+up into Tuesday London open arm New York
+
+294
+00:12:12,899 --> 00:12:14,760
+open we could create the high of the
+
+295
+00:12:14,760 --> 00:12:16,680
+week we would be in a premium Market
+
+296
+00:12:16,680 --> 00:12:18,959
+relative to the weekly range that's just
+
+297
+00:12:18,959 --> 00:12:21,540
+started we would potentially fill in a
+
+298
+00:12:21,540 --> 00:12:23,700
+fair value Gap or a liquidity void
+
+299
+00:12:23,700 --> 00:12:26,760
+trading back up to for instance a
+
+300
+00:12:26,760 --> 00:12:30,000
+daily bear shoulder block so if it gets
+
+301
+00:12:30,000 --> 00:12:32,279
+to a daily bearish order block we could
+
+302
+00:12:32,279 --> 00:12:35,640
+be using a four hour discount Market PD
+
+303
+00:12:35,640 --> 00:12:39,720
+array that overlaps with a 127 or 168 or
+
+304
+00:12:39,720 --> 00:12:42,000
+perfect symmetrical price swing in our
+
+305
+00:12:42,000 --> 00:12:43,079
+fib
+
+306
+00:12:43,079 --> 00:12:45,000
+we're using a time frame lesser than our
+
+307
+00:12:45,000 --> 00:12:47,220
+bearish order block entry in other words
+
+308
+00:12:47,220 --> 00:12:48,959
+it was a daily in this example I gave
+
+309
+00:12:48,959 --> 00:12:51,660
+you we'd be looking for a four hour
+
+310
+00:12:51,660 --> 00:12:53,700
+discount PD rating to take our profits
+
+311
+00:12:53,700 --> 00:12:55,920
+but it has to overlap with a projection
+
+312
+00:12:55,920 --> 00:12:58,500
+on that fair value or liquidity void
+
+313
+00:12:58,500 --> 00:12:59,940
+swing that's going up into Tuesday
+
+314
+00:12:59,940 --> 00:13:02,160
+that's your swing so you would measure
+
+315
+00:13:02,160 --> 00:13:04,139
+your Fib from that low up to the high
+
+316
+00:13:04,139 --> 00:13:05,579
+that's one on Tuesday and your
+
+317
+00:13:05,579 --> 00:13:07,440
+projections down in the form of 127 or
+
+318
+00:13:07,440 --> 00:13:11,399
+168. if they overlap and converge with a
+
+319
+00:13:11,399 --> 00:13:14,579
+four hour discount PD array then you
+
+320
+00:13:14,579 --> 00:13:15,839
+have your target for the week and you
+
+321
+00:13:15,839 --> 00:13:17,279
+can Define what their weekly range would
+
+322
+00:13:17,279 --> 00:13:20,279
+be and you hold for the opportunity to
+
+323
+00:13:20,279 --> 00:13:21,779
+unfold until Thursday and maybe into
+
+324
+00:13:21,779 --> 00:13:24,139
+Friday
+
+325
+00:13:25,440 --> 00:13:27,420
+okay now we look at the Wednesday low of
+
+326
+00:13:27,420 --> 00:13:29,459
+the week okay this is a market profile
+
+327
+00:13:29,459 --> 00:13:32,120
+that's bullish
+
+328
+00:13:32,639 --> 00:13:34,980
+okay we'll generally see the market show
+
+329
+00:13:34,980 --> 00:13:37,920
+a short-term low on Monday and trading
+
+330
+00:13:37,920 --> 00:13:40,560
+up into Tuesday and then Tuesday we'll
+
+331
+00:13:40,560 --> 00:13:42,240
+see it trade lower
+
+332
+00:13:42,240 --> 00:13:44,519
+down into a discount market now it could
+
+333
+00:13:44,519 --> 00:13:45,899
+be trading down into an old monthly
+
+334
+00:13:45,899 --> 00:13:48,360
+weekly or daily low for a liquidity pool
+
+335
+00:13:48,360 --> 00:13:51,060
+in other words running out sell stops
+
+336
+00:13:51,060 --> 00:13:52,560
+and we're looking for the market to
+
+337
+00:13:52,560 --> 00:13:54,480
+trade up into a premium Market PD array
+
+338
+00:13:54,480 --> 00:13:57,060
+in a time frame lesser than the discount
+
+339
+00:13:57,060 --> 00:13:59,760
+liquidity pool that we use to train off
+
+340
+00:13:59,760 --> 00:14:01,920
+of for a long you'll see this if you're
+
+341
+00:14:01,920 --> 00:14:04,500
+familiar with my old teachings many
+
+342
+00:14:04,500 --> 00:14:06,600
+times this is the framework I use for a
+
+343
+00:14:06,600 --> 00:14:09,060
+reflection pattern and trust me I'll go
+
+344
+00:14:09,060 --> 00:14:10,620
+through all these patterns in August
+
+345
+00:14:10,620 --> 00:14:12,720
+when we fill in a lot of the gaps on
+
+346
+00:14:12,720 --> 00:14:14,880
+things that are just subtle nuances and
+
+347
+00:14:14,880 --> 00:14:17,639
+little extra tips I throw in that don't
+
+348
+00:14:17,639 --> 00:14:19,920
+really have a place always that I can
+
+349
+00:14:19,920 --> 00:14:21,720
+clearly Define it where this always does
+
+350
+00:14:21,720 --> 00:14:24,240
+this or does that there's going to be
+
+351
+00:14:24,240 --> 00:14:25,860
+some quirky things I teach you in August
+
+352
+00:14:25,860 --> 00:14:28,139
+so that's one of those things I'm also
+
+353
+00:14:28,139 --> 00:14:31,079
+going to apply but the uh
+
+354
+00:14:31,079 --> 00:14:34,560
+the reflection pattern is basically a
+
+355
+00:14:34,560 --> 00:14:38,399
+127 or 168 extension where it runs at an
+
+356
+00:14:38,399 --> 00:14:40,260
+old low but it's going to trade down to
+
+357
+00:14:40,260 --> 00:14:42,720
+a discount Market PD array
+
+358
+00:14:42,720 --> 00:14:45,120
+if it takes out the cell stops below the
+
+359
+00:14:45,120 --> 00:14:46,740
+lows we're going to be looking for the
+
+360
+00:14:46,740 --> 00:14:48,660
+market to trade up into Thursday or
+
+361
+00:14:48,660 --> 00:14:51,360
+Friday preferably Friday into a premium
+
+362
+00:14:51,360 --> 00:14:53,880
+Market PD array if we're going to see
+
+363
+00:14:53,880 --> 00:14:56,160
+this occur on a weekly we're going to be
+
+364
+00:14:56,160 --> 00:14:59,100
+looking for the long on the weekly
+
+365
+00:14:59,100 --> 00:15:03,060
+and exiting our position on a daily or
+
+366
+00:15:03,060 --> 00:15:06,680
+four hour premium Market PD array
+
+367
+00:15:09,060 --> 00:15:11,100
+okay our next example for the Wednesday
+
+368
+00:15:11,100 --> 00:15:13,740
+low of the week we can frame our Market
+
+369
+00:15:13,740 --> 00:15:16,860
+with a discount Market old monthly
+
+370
+00:15:16,860 --> 00:15:18,360
+weekly or daily high in other words
+
+371
+00:15:18,360 --> 00:15:20,399
+we've seen the market trade up broken
+
+372
+00:15:20,399 --> 00:15:23,279
+out now it's coming back down Monday we
+
+373
+00:15:23,279 --> 00:15:24,480
+started to trade up a little bit then
+
+374
+00:15:24,480 --> 00:15:26,459
+Tuesday it traded lower
+
+375
+00:15:26,459 --> 00:15:29,040
+down to the old High
+
+376
+00:15:29,040 --> 00:15:31,019
+so it could be a monthly high that
+
+377
+00:15:31,019 --> 00:15:34,079
+retains back down into on Wednesday
+
+378
+00:15:34,079 --> 00:15:36,779
+and we're going to be framing that with
+
+379
+00:15:36,779 --> 00:15:38,040
+an expectation of seeing the market
+
+380
+00:15:38,040 --> 00:15:41,040
+rally up into Friday
+
+381
+00:15:41,040 --> 00:15:44,399
+with a premium Market PD array and or
+
+382
+00:15:44,399 --> 00:15:46,620
+FIB extension 127 168 or perfect
+
+383
+00:15:46,620 --> 00:15:48,839
+symmetrical price swing in a time frame
+
+384
+00:15:48,839 --> 00:15:50,639
+lesser than that of which we use for the
+
+385
+00:15:50,639 --> 00:15:53,639
+old high long so for instance if we
+
+386
+00:15:53,639 --> 00:15:56,459
+bought a old monthly High retest after
+
+387
+00:15:56,459 --> 00:15:58,920
+it's broken out we can see the monthly
+
+388
+00:15:58,920 --> 00:16:01,139
+High acting as support so our electric
+
+389
+00:16:01,139 --> 00:16:04,500
+time frame PD array or premium Target
+
+390
+00:16:04,500 --> 00:16:06,360
+would be seen either in a weekly daily
+
+391
+00:16:06,360 --> 00:16:08,699
+or four hour
+
+392
+00:16:08,699 --> 00:16:10,980
+the key is finding where it overlaps
+
+393
+00:16:10,980 --> 00:16:13,440
+with the 127 and 168. we're not just
+
+394
+00:16:13,440 --> 00:16:15,360
+simply looking for 127 and 168
+
+395
+00:16:15,360 --> 00:16:18,060
+extensions we're doing that also and
+
+396
+00:16:18,060 --> 00:16:20,220
+coupling it with in all these examples
+
+397
+00:16:20,220 --> 00:16:24,540
+with a lesser time frame PD array that's
+
+398
+00:16:24,540 --> 00:16:26,220
+contrary to what we use to enter the
+
+399
+00:16:26,220 --> 00:16:28,459
+trade
+
+400
+00:16:29,760 --> 00:16:31,500
+okay our third example for the Wednesday
+
+401
+00:16:31,500 --> 00:16:33,360
+low of the week we can see the market
+
+402
+00:16:33,360 --> 00:16:35,339
+trade down into Wednesday into a
+
+403
+00:16:35,339 --> 00:16:37,380
+discount Market
+
+404
+00:16:37,380 --> 00:16:39,600
+when the markets generally primarily
+
+405
+00:16:39,600 --> 00:16:41,519
+bullish anyway and we're going to trade
+
+406
+00:16:41,519 --> 00:16:43,079
+into a bullish order block and it could
+
+407
+00:16:43,079 --> 00:16:44,639
+be in the form of a monthly or weekly or
+
+408
+00:16:44,639 --> 00:16:46,860
+daily or it could be a first swing grade
+
+409
+00:16:46,860 --> 00:16:49,199
+entry in other words if we see the
+
+410
+00:16:49,199 --> 00:16:52,259
+market moving higher much longer term
+
+411
+00:16:52,259 --> 00:16:54,839
+than just one week and we're seeing our
+
+412
+00:16:54,839 --> 00:16:56,459
+first retracement back where we can get
+
+413
+00:16:56,459 --> 00:16:58,079
+our lawn
+
+414
+00:16:58,079 --> 00:17:00,420
+take a swing trade or a position trade
+
+415
+00:17:00,420 --> 00:17:01,380
+on that
+
+416
+00:17:01,380 --> 00:17:03,540
+it could occur at that first swing grade
+
+417
+00:17:03,540 --> 00:17:05,459
+or it could occur at the equilibrium of
+
+418
+00:17:05,459 --> 00:17:07,619
+the overall price move or halfway point
+
+419
+00:17:07,619 --> 00:17:09,299
+of what you expect to see as an overall
+
+420
+00:17:09,299 --> 00:17:13,020
+price Target or could occur at the third
+
+421
+00:17:13,020 --> 00:17:16,980
+swing rate in other words one half
+
+422
+00:17:16,980 --> 00:17:18,660
+between where you're halfway point
+
+423
+00:17:18,660 --> 00:17:20,880
+equilibrium is for the trade
+
+424
+00:17:20,880 --> 00:17:23,579
+and the ultimate Target now when we look
+
+425
+00:17:23,579 --> 00:17:26,220
+at Price swings or targets And Trades we
+
+426
+00:17:26,220 --> 00:17:29,460
+graduated into four stages first stage
+
+427
+00:17:29,460 --> 00:17:31,140
+second stage takes us to equilibrium
+
+428
+00:17:31,140 --> 00:17:33,840
+third stage or third swing grade and
+
+429
+00:17:33,840 --> 00:17:35,700
+then the fourth is Terminus where the
+
+430
+00:17:35,700 --> 00:17:38,100
+end of the trade takes effect and that's
+
+431
+00:17:38,100 --> 00:17:40,440
+where your profits are taken that's the
+
+432
+00:17:40,440 --> 00:17:42,539
+maximum we expect to see the market move
+
+433
+00:17:42,539 --> 00:17:45,919
+this occurs sometimes at the first
+
+434
+00:17:45,919 --> 00:17:49,559
+equilibrium and third swing grade as a
+
+435
+00:17:49,559 --> 00:17:51,419
+potential opportunity so the market
+
+436
+00:17:51,419 --> 00:17:54,539
+could be just floating around between a
+
+437
+00:17:54,539 --> 00:17:56,700
+premium and discount Market on Sunday
+
+438
+00:17:56,700 --> 00:17:58,679
+and Monday and Tuesday but then
+
+439
+00:17:58,679 --> 00:18:00,120
+Wednesday it trades down into a discount
+
+440
+00:18:00,120 --> 00:18:02,160
+level where it clearly hits a order
+
+441
+00:18:02,160 --> 00:18:04,260
+block and now can be capitalized and
+
+442
+00:18:04,260 --> 00:18:05,880
+send price higher up in through Thursday
+
+443
+00:18:05,880 --> 00:18:07,500
+into Friday
+
+444
+00:18:07,500 --> 00:18:10,440
+whichever you use in other words the
+
+445
+00:18:10,440 --> 00:18:11,820
+time frame you use to go long on
+
+446
+00:18:11,820 --> 00:18:13,799
+whatever that order block is whatever
+
+447
+00:18:13,799 --> 00:18:15,480
+time frame it is that you use for
+
+448
+00:18:15,480 --> 00:18:17,220
+instance could be a daily we're going to
+
+449
+00:18:17,220 --> 00:18:19,200
+be looking for a premium Market PD array
+
+450
+00:18:19,200 --> 00:18:22,140
+with an overlapping FIB of 127 168 or
+
+451
+00:18:22,140 --> 00:18:24,120
+symmetrical price swing
+
+452
+00:18:24,120 --> 00:18:25,919
+in a lesser time frame in other words if
+
+453
+00:18:25,919 --> 00:18:27,419
+we've seen it on a daily that we bought
+
+454
+00:18:27,419 --> 00:18:29,100
+a bullish order block on on Wednesday
+
+455
+00:18:29,100 --> 00:18:31,860
+we're looking for the four hour
+
+456
+00:18:31,860 --> 00:18:34,799
+premium pdra that overlaps with a 127
+
+457
+00:18:34,799 --> 00:18:39,140
+168 or a perfect symmetrical price swing
+
+458
+00:18:39,179 --> 00:18:42,179
+the fair value or liquidity void
+
+459
+00:18:42,179 --> 00:18:45,000
+that run down that price swing is what
+
+460
+00:18:45,000 --> 00:18:46,679
+you use your fibs on to run your
+
+461
+00:18:46,679 --> 00:18:49,860
+extensions for 127 168 or perfect 100
+
+462
+00:18:49,860 --> 00:18:51,419
+percent
+
+463
+00:18:51,419 --> 00:18:53,340
+duplication of that price swing down
+
+464
+00:18:53,340 --> 00:18:56,840
+just projected from the high
+
+465
+00:18:58,200 --> 00:19:00,120
+okay Wednesday high of the week this is
+
+466
+00:19:00,120 --> 00:19:01,919
+when you're looking for a bearish market
+
+467
+00:19:01,919 --> 00:19:03,240
+environment
+
+468
+00:19:03,240 --> 00:19:05,640
+okay and you have a short-term High here
+
+469
+00:19:05,640 --> 00:19:08,460
+the market will trade up into a premium
+
+470
+00:19:08,460 --> 00:19:09,480
+Market
+
+471
+00:19:09,480 --> 00:19:11,700
+up into an old monthly weekly or daily
+
+472
+00:19:11,700 --> 00:19:13,260
+High liquidity pool in other words it's
+
+473
+00:19:13,260 --> 00:19:14,820
+running out an old High
+
+474
+00:19:14,820 --> 00:19:17,340
+and we're framing the idea with a move
+
+475
+00:19:17,340 --> 00:19:20,820
+down into a discount Market PD array in
+
+476
+00:19:20,820 --> 00:19:22,500
+a time frame lesser than that which we
+
+477
+00:19:22,500 --> 00:19:24,539
+used for a premium liquidity pool for
+
+478
+00:19:24,539 --> 00:19:26,880
+instance if we are expecting bearish
+
+479
+00:19:26,880 --> 00:19:29,520
+prices and this can occur in an
+
+480
+00:19:29,520 --> 00:19:32,640
+equilibrium area on a larger price move
+
+481
+00:19:32,640 --> 00:19:33,840
+that you expect maybe from a position
+
+482
+00:19:33,840 --> 00:19:36,299
+Trader's mindset or a swing Traders
+
+483
+00:19:36,299 --> 00:19:38,280
+mindset in other words if you're looking
+
+484
+00:19:38,280 --> 00:19:40,559
+for a move that's much longer than just
+
+485
+00:19:40,559 --> 00:19:42,660
+uh just one week
+
+486
+00:19:42,660 --> 00:19:44,700
+we could be the Midway point of that and
+
+487
+00:19:44,700 --> 00:19:46,140
+you'll see a short-term High being ran
+
+488
+00:19:46,140 --> 00:19:48,960
+out this is a classic stop run and this
+
+489
+00:19:48,960 --> 00:19:50,419
+is generally what you see on a Wednesday
+
+490
+00:19:50,419 --> 00:19:53,760
+and if you see it on since for instance
+
+491
+00:19:53,760 --> 00:19:55,200
+like a weekly
+
+492
+00:19:55,200 --> 00:19:57,059
+liquidity pool if he runs out a weekly
+
+493
+00:19:57,059 --> 00:19:58,559
+High
+
+494
+00:19:58,559 --> 00:20:00,840
+it takes out those buy stops we could
+
+495
+00:20:00,840 --> 00:20:02,760
+expect to see a daily or four hour
+
+496
+00:20:02,760 --> 00:20:05,940
+discount PD array be our objective
+
+497
+00:20:05,940 --> 00:20:08,600
+for the week
+
+498
+00:20:09,360 --> 00:20:11,039
+another example for Wednesday high of
+
+499
+00:20:11,039 --> 00:20:13,020
+the week okay we have a fair value or
+
+500
+00:20:13,020 --> 00:20:15,660
+liquidity void and then it runs through
+
+501
+00:20:15,660 --> 00:20:18,240
+that for the stops
+
+502
+00:20:18,240 --> 00:20:21,419
+if we see that and we're overall bearish
+
+503
+00:20:21,419 --> 00:20:22,559
+disc again we're gonna be looking for
+
+504
+00:20:22,559 --> 00:20:24,780
+this as a scenario where
+
+505
+00:20:24,780 --> 00:20:27,720
+it's a retest to an old load okay this
+
+506
+00:20:27,720 --> 00:20:29,520
+could be a return back to a premium
+
+507
+00:20:29,520 --> 00:20:31,440
+Market in front of an old monthly weekly
+
+508
+00:20:31,440 --> 00:20:34,220
+or daily low
+
+509
+00:20:35,580 --> 00:20:36,960
+and we're looking for a discount Market
+
+510
+00:20:36,960 --> 00:20:40,440
+PD array and or a fib extension of 127
+
+511
+00:20:40,440 --> 00:20:42,780
+to 168 and or a perfect symmetrical
+
+512
+00:20:42,780 --> 00:20:44,700
+price swing and the time frame lesser
+
+513
+00:20:44,700 --> 00:20:46,740
+than that which we use for a premium or
+
+514
+00:20:46,740 --> 00:20:48,240
+blow retest
+
+515
+00:20:48,240 --> 00:20:50,280
+so in other words if we're looking for a
+
+516
+00:20:50,280 --> 00:20:53,100
+retest back to a monthly low
+
+517
+00:20:53,100 --> 00:20:55,760
+if we get short on that monthly low
+
+518
+00:20:55,760 --> 00:20:57,900
+narrowing down our time frames down to a
+
+519
+00:20:57,900 --> 00:20:59,700
+smaller time frame which we'll learn in
+
+520
+00:20:59,700 --> 00:21:02,220
+April and in May
+
+521
+00:21:02,220 --> 00:21:04,320
+with a shorter time frames but when we
+
+522
+00:21:04,320 --> 00:21:06,059
+use the hourly chart
+
+523
+00:21:06,059 --> 00:21:08,340
+we can fine tune that to a smaller
+
+524
+00:21:08,340 --> 00:21:10,320
+degree of risk
+
+525
+00:21:10,320 --> 00:21:12,179
+but we're framing our trade-off of the
+
+526
+00:21:12,179 --> 00:21:13,980
+monthly load that's being retested
+
+527
+00:21:13,980 --> 00:21:16,679
+traded button to Wednesday we'll be
+
+528
+00:21:16,679 --> 00:21:18,840
+looking for that opportunity
+
+529
+00:21:18,840 --> 00:21:21,539
+to send us lower if it's monthly that
+
+530
+00:21:21,539 --> 00:21:23,280
+we're looking at that low on Wednesday
+
+531
+00:21:23,280 --> 00:21:24,960
+to sell short from we're gonna be
+
+532
+00:21:24,960 --> 00:21:27,240
+looking for a weekly daily or four hour
+
+533
+00:21:27,240 --> 00:21:30,360
+discount PD array that has an extension
+
+534
+00:21:30,360 --> 00:21:33,419
+overlap of 127 to 168 or perfect
+
+535
+00:21:33,419 --> 00:21:36,659
+symmetrical price swing from that low up
+
+536
+00:21:36,659 --> 00:21:39,419
+to Wednesday's high in other words
+
+537
+00:21:39,419 --> 00:21:41,400
+Tuesday's low to Wednesdays high that
+
+538
+00:21:41,400 --> 00:21:42,900
+price swing up that's what you're going
+
+539
+00:21:42,900 --> 00:21:44,400
+to be anchoring your FIB on and the
+
+540
+00:21:44,400 --> 00:21:46,559
+extensions below Tuesday's low would be
+
+541
+00:21:46,559 --> 00:21:48,900
+a projection of 127 168 or a perfect
+
+542
+00:21:48,900 --> 00:21:50,460
+symmetrical price swing or that of
+
+543
+00:21:50,460 --> 00:21:52,860
+Tuesday's low the Wednesday's High
+
+544
+00:21:52,860 --> 00:21:55,260
+that range subtracted from Tuesday's low
+
+545
+00:21:55,260 --> 00:21:56,460
+that would be a perfect symmetrical
+
+546
+00:21:56,460 --> 00:21:58,559
+price swing if you get that overlapping
+
+547
+00:21:58,559 --> 00:22:01,440
+with a in this case if we're looking at
+
+548
+00:22:01,440 --> 00:22:03,539
+a monthly low uh we could be looking
+
+549
+00:22:03,539 --> 00:22:06,179
+from a weekly daily or four hour
+
+550
+00:22:06,179 --> 00:22:08,460
+discount PD array that overlaps with
+
+551
+00:22:08,460 --> 00:22:10,260
+that so again we're blending time and
+
+552
+00:22:10,260 --> 00:22:12,500
+price
+
+553
+00:22:12,960 --> 00:22:14,640
+in the last example for Wednesday high
+
+554
+00:22:14,640 --> 00:22:16,440
+of the week we're looking for a fair
+
+555
+00:22:16,440 --> 00:22:18,720
+value or liquidity void
+
+556
+00:22:18,720 --> 00:22:21,360
+price going up into a premium into a
+
+557
+00:22:21,360 --> 00:22:23,280
+bearish order block on a monthly weekly
+
+558
+00:22:23,280 --> 00:22:25,559
+or daily basis or it could be returned
+
+559
+00:22:25,559 --> 00:22:28,200
+back into our first retracement of an
+
+560
+00:22:28,200 --> 00:22:29,820
+overall larger price swing and this will
+
+561
+00:22:29,820 --> 00:22:32,039
+be the first swing grade entry or it can
+
+562
+00:22:32,039 --> 00:22:34,980
+occur at equilibrium or it could be a
+
+563
+00:22:34,980 --> 00:22:38,539
+third swing grade entry
+
+564
+00:22:39,360 --> 00:22:41,400
+discount Market PD array or FIB
+
+565
+00:22:41,400 --> 00:22:44,159
+extension preferably both overlapping a
+
+566
+00:22:44,159 --> 00:22:47,400
+127 or 168 or perfect symmetrical price
+
+567
+00:22:47,400 --> 00:22:49,500
+swing in a time frame lesser than that
+
+568
+00:22:49,500 --> 00:22:50,940
+of the bearish order block that we used
+
+569
+00:22:50,940 --> 00:22:54,320
+to trade entry on
+
+570
+00:22:56,700 --> 00:22:59,460
+consolidation Thursday reversal okay
+
+571
+00:22:59,460 --> 00:23:00,720
+this is a market profile that's
+
+572
+00:23:00,720 --> 00:23:02,460
+generally bullish
+
+573
+00:23:02,460 --> 00:23:04,380
+you'll see this happen where the Market
+
+574
+00:23:04,380 --> 00:23:07,100
+opens up on a Sunday and Monday trades
+
+575
+00:23:07,100 --> 00:23:09,299
+sideways on Monday and Tuesday into
+
+576
+00:23:09,299 --> 00:23:10,860
+Wednesday and then all of a sudden
+
+577
+00:23:10,860 --> 00:23:14,700
+Market trades down on Thursday into a
+
+578
+00:23:14,700 --> 00:23:17,220
+discount Market
+
+579
+00:23:17,220 --> 00:23:19,280
+you've been looking for many times
+
+580
+00:23:19,280 --> 00:23:21,720
+Traders expecting the market to shoot
+
+581
+00:23:21,720 --> 00:23:23,760
+higher because of buy stocks being taken
+
+582
+00:23:23,760 --> 00:23:24,960
+out or will be deemed as a market
+
+583
+00:23:24,960 --> 00:23:28,100
+structure shift bullishly
+
+584
+00:23:28,140 --> 00:23:30,179
+but we're looking for sell stuff in a
+
+585
+00:23:30,179 --> 00:23:32,039
+bullish Market to be ran out
+
+586
+00:23:32,039 --> 00:23:33,360
+so when that happens generally it's
+
+587
+00:23:33,360 --> 00:23:34,740
+going to be like an fomc or an
+
+588
+00:23:34,740 --> 00:23:36,419
+employment release the fomc release
+
+589
+00:23:36,419 --> 00:23:38,159
+generally happens around the two o'clock
+
+590
+00:23:38,159 --> 00:23:40,679
+hour in Eastern Standard Time New York
+
+591
+00:23:40,679 --> 00:23:43,980
+time or it could be a New York session
+
+592
+00:23:43,980 --> 00:23:48,000
+employment data released that can send
+
+593
+00:23:48,000 --> 00:23:50,039
+the market higher based on this false
+
+594
+00:23:50,039 --> 00:23:51,240
+break below
+
+595
+00:23:51,240 --> 00:23:53,700
+an old low early in the week on Monday
+
+596
+00:23:53,700 --> 00:23:55,799
+or Tuesday
+
+597
+00:23:55,799 --> 00:23:57,840
+this false break becomes a turtle suit
+
+598
+00:23:57,840 --> 00:24:00,360
+long and you're looking for the market
+
+599
+00:24:00,360 --> 00:24:02,039
+to trade up into where the weekly buy
+
+600
+00:24:02,039 --> 00:24:04,260
+stops are this is your liquidity pool
+
+601
+00:24:04,260 --> 00:24:05,760
+and it's going to trade up into that
+
+602
+00:24:05,760 --> 00:24:07,919
+level as your weekly objective
+
+603
+00:24:07,919 --> 00:24:10,740
+so your one shot one kill setup would be
+
+604
+00:24:10,740 --> 00:24:13,620
+buying the break below
+
+605
+00:24:13,620 --> 00:24:15,480
+the weekly low on Monday or Tuesday
+
+606
+00:24:15,480 --> 00:24:18,539
+running out to sell stops on the heels
+
+607
+00:24:18,539 --> 00:24:22,020
+of either a high impact news event
+
+608
+00:24:22,020 --> 00:24:24,780
+with employment data on the New York
+
+609
+00:24:24,780 --> 00:24:26,039
+session around 8 30 in the morning
+
+610
+00:24:26,039 --> 00:24:28,799
+Eastern Standard time or if you're again
+
+611
+00:24:28,799 --> 00:24:31,740
+if you just want to play the fomc
+
+612
+00:24:31,740 --> 00:24:34,320
+announcement once the market drives down
+
+613
+00:24:34,320 --> 00:24:36,659
+takes those sell stops out if you can
+
+614
+00:24:36,659 --> 00:24:38,880
+take a very very very very low risk
+
+615
+00:24:38,880 --> 00:24:42,600
+entry and small position don't put a lot
+
+616
+00:24:42,600 --> 00:24:43,559
+of money on this type of trade because
+
+617
+00:24:43,559 --> 00:24:45,480
+if it's fomc you can get really crushed
+
+618
+00:24:45,480 --> 00:24:47,820
+if it's a lot of whips on it but if
+
+619
+00:24:47,820 --> 00:24:49,860
+you're going to be trading fomc very
+
+620
+00:24:49,860 --> 00:24:51,539
+very small position wait for the initial
+
+621
+00:24:51,539 --> 00:24:53,340
+knee-jerk reaction put your limit order
+
+622
+00:24:53,340 --> 00:24:55,919
+down below the low let's follow Monday
+
+623
+00:24:55,919 --> 00:24:57,179
+and Tuesday
+
+624
+00:24:57,179 --> 00:24:59,400
+absorb all those sell stops and look for
+
+625
+00:24:59,400 --> 00:25:01,380
+the buy stops to be ran out for the
+
+626
+00:25:01,380 --> 00:25:03,240
+intraday
+
+627
+00:25:03,240 --> 00:25:06,720
+high or running out the entry week high
+
+628
+00:25:06,720 --> 00:25:08,880
+in the form of the buy stops liquidity
+
+629
+00:25:08,880 --> 00:25:11,059
+pool
+
+630
+00:25:11,220 --> 00:25:12,780
+so your one shot one kill would be
+
+631
+00:25:12,780 --> 00:25:14,520
+framed only Thursday going into Friday
+
+632
+00:25:14,520 --> 00:25:19,140
+so it's really one day's worth of action
+
+633
+00:25:19,140 --> 00:25:21,360
+that you waited for all week but the
+
+634
+00:25:21,360 --> 00:25:24,679
+scenario looks like this generally
+
+635
+00:25:24,720 --> 00:25:26,640
+consolidation service a reversal this is
+
+636
+00:25:26,640 --> 00:25:29,760
+when you're looking for bearish markets
+
+637
+00:25:29,760 --> 00:25:31,860
+on Thursday the market trades up into a
+
+638
+00:25:31,860 --> 00:25:34,260
+premium Market earlier in the week it'll
+
+639
+00:25:34,260 --> 00:25:36,059
+look like it's taking out sell stuff or
+
+640
+00:25:36,059 --> 00:25:37,919
+Market structure shift has broken to the
+
+641
+00:25:37,919 --> 00:25:39,720
+downside and then Wednesday into
+
+642
+00:25:39,720 --> 00:25:41,760
+Thursday you'll see the buy stuff taken
+
+643
+00:25:41,760 --> 00:25:43,980
+they were formed intra week
+
+644
+00:25:43,980 --> 00:25:47,279
+usually fomc 2 pm Eastern stand time or
+
+645
+00:25:47,279 --> 00:25:50,220
+a 8 30 a.m Eastern Standard Time
+
+646
+00:25:50,220 --> 00:25:52,919
+employment release could be the driver
+
+647
+00:25:52,919 --> 00:25:54,919
+for this or the Market's driven up to
+
+648
+00:25:54,919 --> 00:25:57,480
+above the intra-week high to take out
+
+649
+00:25:57,480 --> 00:25:59,100
+the buy stops in an overall bearish
+
+650
+00:25:59,100 --> 00:26:01,380
+Market environment in the market
+
+651
+00:26:01,380 --> 00:26:03,539
+causes a false break this is a turtle
+
+652
+00:26:03,539 --> 00:26:04,980
+soup short
+
+653
+00:26:04,980 --> 00:26:06,600
+and you'll be looking for the targeting
+
+654
+00:26:06,600 --> 00:26:08,940
+of the cell stops below the intra-week
+
+655
+00:26:08,940 --> 00:26:12,260
+low for your liquidity pool
+
+656
+00:26:13,380 --> 00:26:17,279
+okay and consolidation midweek rally
+
+657
+00:26:17,279 --> 00:26:19,740
+this is a bullish Market profile and
+
+658
+00:26:19,740 --> 00:26:21,539
+what we generally look for is the market
+
+659
+00:26:21,539 --> 00:26:23,760
+to start off on a Monday right right
+
+660
+00:26:23,760 --> 00:26:25,740
+from the beginning
+
+661
+00:26:25,740 --> 00:26:27,600
+and on Tuesday you'll see retracement
+
+662
+00:26:27,600 --> 00:26:30,140
+down into Wednesday
+
+663
+00:26:30,600 --> 00:26:31,919
+and you're going to be moving back into
+
+664
+00:26:31,919 --> 00:26:34,260
+a discount fair value Gap or liquidity
+
+665
+00:26:34,260 --> 00:26:36,600
+void or bullish order block
+
+666
+00:26:36,600 --> 00:26:39,059
+so any one of those scenarios could be
+
+667
+00:26:39,059 --> 00:26:40,919
+your Catalyst but you're looking for a
+
+668
+00:26:40,919 --> 00:26:43,980
+discount PD array
+
+669
+00:26:43,980 --> 00:26:46,440
+and you're expecting on Wednesday a high
+
+670
+00:26:46,440 --> 00:26:48,900
+or medium impact news event either in
+
+671
+00:26:48,900 --> 00:26:53,179
+London or in New York session
+
+672
+00:26:53,940 --> 00:26:55,860
+your swing projection or fulcrum point
+
+673
+00:26:55,860 --> 00:27:01,279
+is the intra week high formed on Tuesday
+
+674
+00:27:01,679 --> 00:27:03,360
+now this could also be a Monday High
+
+675
+00:27:03,360 --> 00:27:04,740
+ticket in other words it can trade up to
+
+676
+00:27:04,740 --> 00:27:06,360
+creating a short-term high on Monday and
+
+677
+00:27:06,360 --> 00:27:07,740
+then trading down Tuesday and into
+
+678
+00:27:07,740 --> 00:27:11,400
+Wednesday but that's one simple caveat
+
+679
+00:27:11,400 --> 00:27:13,200
+to this this template and it's a reverse
+
+680
+00:27:13,200 --> 00:27:14,460
+for when you're looking for a
+
+681
+00:27:14,460 --> 00:27:17,820
+consolidation midweek decline
+
+682
+00:27:17,820 --> 00:27:20,760
+what you're aiming for a premium PD
+
+683
+00:27:20,760 --> 00:27:22,260
+array either in the form of a monthly
+
+684
+00:27:22,260 --> 00:27:24,240
+weekly or daily and converging FIB
+
+685
+00:27:24,240 --> 00:27:28,080
+extensions of 127 and or 168.
+
+686
+00:27:28,080 --> 00:27:31,320
+or could be a perfect measure
+
+687
+00:27:31,320 --> 00:27:33,779
+swing projection now what does that mean
+
+688
+00:27:33,779 --> 00:27:36,840
+the swing projection fulcrum is the
+
+689
+00:27:36,840 --> 00:27:39,539
+highest high at which the market starts
+
+690
+00:27:39,539 --> 00:27:41,460
+to retrace from that's the point which
+
+691
+00:27:41,460 --> 00:27:43,620
+you want to pull your FIB down from into
+
+692
+00:27:43,620 --> 00:27:45,299
+where it trades into the order block
+
+693
+00:27:45,299 --> 00:27:46,980
+that'll give your swing projections up
+
+694
+00:27:46,980 --> 00:27:49,500
+into the premium PD arrays let's take a
+
+695
+00:27:49,500 --> 00:27:50,520
+look at that what that looks like an
+
+696
+00:27:50,520 --> 00:27:51,419
+example
+
+697
+00:27:51,419 --> 00:27:53,880
+so we have our high here this is going
+
+698
+00:27:53,880 --> 00:27:55,860
+to be our swing point for outcome and
+
+699
+00:27:55,860 --> 00:27:57,720
+then we're going to take our FIB anchor
+
+700
+00:27:57,720 --> 00:27:59,880
+from the high down into the oral block
+
+701
+00:27:59,880 --> 00:28:01,500
+or whatever PDA rate that we're using
+
+702
+00:28:01,500 --> 00:28:03,779
+for a discount to enter that's our level
+
+703
+00:28:03,779 --> 00:28:05,640
+we expect price to move up from so
+
+704
+00:28:05,640 --> 00:28:07,740
+there's our range
+
+705
+00:28:07,740 --> 00:28:11,880
+what we get then is an extension of 127
+
+706
+00:28:11,880 --> 00:28:13,320
+and or
+
+707
+00:28:13,320 --> 00:28:16,200
+168 FIB extension which takes us up into
+
+708
+00:28:16,200 --> 00:28:18,960
+the premium Market what we look for not
+
+709
+00:28:18,960 --> 00:28:22,380
+just a fib of 127 or 168 we're looking
+
+710
+00:28:22,380 --> 00:28:25,500
+for a time frame lesser than that which
+
+711
+00:28:25,500 --> 00:28:28,559
+we used to get long on
+
+712
+00:28:28,559 --> 00:28:30,960
+either a bullish order block or bear
+
+713
+00:28:30,960 --> 00:28:32,400
+shorter block whatever that time frame
+
+714
+00:28:32,400 --> 00:28:34,799
+we see forming
+
+715
+00:28:34,799 --> 00:28:37,440
+our entry on on Wednesday
+
+716
+00:28:37,440 --> 00:28:39,779
+we use a lesser time frame to take our
+
+717
+00:28:39,779 --> 00:28:41,039
+profits at
+
+718
+00:28:41,039 --> 00:28:43,799
+but it has to be an overlapping of a
+
+719
+00:28:43,799 --> 00:28:46,080
+premium PD array and a lesser time frame
+
+720
+00:28:46,080 --> 00:28:48,419
+you use to buy at
+
+721
+00:28:48,419 --> 00:28:52,380
+that overlaps with 127 and 168.
+
+722
+00:28:52,380 --> 00:28:55,799
+now the FIB overlap levels are based on
+
+723
+00:28:55,799 --> 00:28:58,260
+the time frame we enter on
+
+724
+00:28:58,260 --> 00:29:01,039
+we look for a lower time frame
+
+725
+00:29:01,039 --> 00:29:04,440
+COPD array in a premium range to overlap
+
+726
+00:29:04,440 --> 00:29:06,900
+with that 127 and 168 when we get those
+
+727
+00:29:06,900 --> 00:29:09,659
+two things we have a high Confluence
+
+728
+00:29:09,659 --> 00:29:12,480
+level where we have both time and price
+
+729
+00:29:12,480 --> 00:29:15,240
+and a green where the algo may very
+
+730
+00:29:15,240 --> 00:29:17,039
+easily retrain for those levels and then
+
+731
+00:29:17,039 --> 00:29:19,980
+that'd be it for the Target
+
+732
+00:29:19,980 --> 00:29:23,399
+okay consolidation midweek decline this
+
+733
+00:29:23,399 --> 00:29:25,140
+is a bearish market environment
+
+734
+00:29:25,140 --> 00:29:28,559
+okay what we're seeing is on Wednesday
+
+735
+00:29:28,559 --> 00:29:31,260
+you'll see uh it could it could occur on
+
+736
+00:29:31,260 --> 00:29:33,360
+Tuesday too but we're looking for a
+
+737
+00:29:33,360 --> 00:29:34,559
+premium
+
+738
+00:29:34,559 --> 00:29:36,840
+fair value Gap or liquidity void to be
+
+739
+00:29:36,840 --> 00:29:38,399
+filled in or trading up into a bearish
+
+740
+00:29:38,399 --> 00:29:40,380
+order block
+
+741
+00:29:40,380 --> 00:29:43,020
+and high or medium impact news
+
+742
+00:29:43,020 --> 00:29:46,500
+in Wednesday London open or New York
+
+743
+00:29:46,500 --> 00:29:48,240
+open
+
+744
+00:29:48,240 --> 00:29:50,039
+and we have a swing projection fulcrum
+
+745
+00:29:50,039 --> 00:29:51,419
+point
+
+746
+00:29:51,419 --> 00:29:53,460
+and we expect to see the market trade
+
+747
+00:29:53,460 --> 00:29:55,799
+down to a discount PD array in the form
+
+748
+00:29:55,799 --> 00:29:57,899
+of a monthly weekly daily and converging
+
+749
+00:29:57,899 --> 00:30:01,080
+fit extensions in the form of 127 or 168
+
+750
+00:30:01,080 --> 00:30:02,460
+and again it could be a perfect
+
+751
+00:30:02,460 --> 00:30:05,159
+symmetrical price swing or 100 measured
+
+752
+00:30:05,159 --> 00:30:07,279
+move
+
+753
+00:30:09,720 --> 00:30:11,279
+so let's take a look at what that looks
+
+754
+00:30:11,279 --> 00:30:13,380
+like as well in Reverse terms of what we
+
+755
+00:30:13,380 --> 00:30:15,419
+just showed for the buy side
+
+756
+00:30:15,419 --> 00:30:17,940
+okay we have our premium fair value Gap
+
+757
+00:30:17,940 --> 00:30:20,640
+or liquidity void and or bearish order
+
+758
+00:30:20,640 --> 00:30:22,559
+block but normally we're looking to sell
+
+759
+00:30:22,559 --> 00:30:26,279
+short at a premium PD array in a bearish
+
+760
+00:30:26,279 --> 00:30:27,899
+market environment
+
+761
+00:30:27,899 --> 00:30:31,080
+we know our low the week is formed we've
+
+762
+00:30:31,080 --> 00:30:32,279
+measure that up
+
+763
+00:30:32,279 --> 00:30:34,320
+from our fulcrum point
+
+764
+00:30:34,320 --> 00:30:36,960
+and we get our 127 extension from that
+
+765
+00:30:36,960 --> 00:30:37,740
+low
+
+766
+00:30:37,740 --> 00:30:40,140
+to Wednesday's High
+
+767
+00:30:40,140 --> 00:30:43,020
+projected down that's 127 percent of the
+
+768
+00:30:43,020 --> 00:30:44,279
+range between Tuesdays low and
+
+769
+00:30:44,279 --> 00:30:45,779
+Wednesdays High
+
+770
+00:30:45,779 --> 00:30:49,200
+and then we get the 168 percent of the
+
+771
+00:30:49,200 --> 00:30:51,360
+range of Tuesday's load when it stays
+
+772
+00:30:51,360 --> 00:30:52,799
+high now you don't need a Fibonacci
+
+773
+00:30:52,799 --> 00:30:54,899
+overlay tool for this all you have to do
+
+774
+00:30:54,899 --> 00:30:56,760
+is get Wednesday's highest high and
+
+775
+00:30:56,760 --> 00:30:58,380
+Tuesday's lowest low
+
+776
+00:30:58,380 --> 00:31:00,480
+and or it could be Wednesday's low okay
+
+777
+00:31:00,480 --> 00:31:01,679
+but basically you're looking for the
+
+778
+00:31:01,679 --> 00:31:04,559
+lowest low between Mondays
+
+779
+00:31:04,559 --> 00:31:07,860
+opening and Wednesday when it trades up
+
+780
+00:31:07,860 --> 00:31:09,419
+it's got to be trading up so whatever
+
+781
+00:31:09,419 --> 00:31:11,940
+the highest high is that forms your
+
+782
+00:31:11,940 --> 00:31:14,760
+projected low is whatever the range low
+
+783
+00:31:14,760 --> 00:31:17,820
+is for the week up to Wednesday's High
+
+784
+00:31:17,820 --> 00:31:20,399
+that range in terms of Pips times that
+
+785
+00:31:20,399 --> 00:31:23,220
+by 1.27 and that will give you
+
+786
+00:31:23,220 --> 00:31:25,620
+your range that you subtract from
+
+787
+00:31:25,620 --> 00:31:27,659
+Wednesday's High
+
+788
+00:31:27,659 --> 00:31:29,279
+and you can do the same thing for the
+
+789
+00:31:29,279 --> 00:31:31,080
+range from below the week up to
+
+790
+00:31:31,080 --> 00:31:32,340
+Wednesday's High
+
+791
+00:31:32,340 --> 00:31:34,380
+whatever that is in terms of Pips each
+
+792
+00:31:34,380 --> 00:31:37,919
+times up by 1.68 and you subtract that
+
+793
+00:31:37,919 --> 00:31:40,320
+number of Pips from Wednesday's high and
+
+794
+00:31:40,320 --> 00:31:41,520
+that'll give you your Fibonacci
+
+795
+00:31:41,520 --> 00:31:44,480
+extension whoa
+
+796
+00:31:46,500 --> 00:31:49,740
+okay so you can destroy bullish Friday
+
+797
+00:31:49,740 --> 00:31:51,419
+okay this is a low probability or
+
+798
+00:31:51,419 --> 00:31:53,760
+neutral condition all we're really doing
+
+799
+00:31:53,760 --> 00:31:57,080
+is watching to see if it gives us any
+
+800
+00:31:57,080 --> 00:31:59,399
+favorable outcome and it's more or less
+
+801
+00:31:59,399 --> 00:32:00,659
+a market environment you want to be
+
+802
+00:32:00,659 --> 00:32:02,220
+either on the sidelines or just
+
+803
+00:32:02,220 --> 00:32:06,120
+demonstrating just for experience
+
+804
+00:32:06,120 --> 00:32:08,159
+okay the market will generally create a
+
+805
+00:32:08,159 --> 00:32:09,600
+small consolidation throughout the week
+
+806
+00:32:09,600 --> 00:32:12,299
+going into Thursday we have a liquidity
+
+807
+00:32:12,299 --> 00:32:16,740
+pool for cell stops it's forms in intra
+
+808
+00:32:16,740 --> 00:32:18,919
+week
+
+809
+00:32:20,039 --> 00:32:23,820
+higher medium impact news on Thursday
+
+810
+00:32:23,820 --> 00:32:26,039
+usually it's tight like I said it's
+
+811
+00:32:26,039 --> 00:32:29,760
+either fomc or employment
+
+812
+00:32:29,760 --> 00:32:32,039
+decision
+
+813
+00:32:32,039 --> 00:32:33,600
+and we're going to be anticipating the
+
+814
+00:32:33,600 --> 00:32:35,700
+sell stop raid below the lows of the
+
+815
+00:32:35,700 --> 00:32:37,820
+week
+
+816
+00:32:38,220 --> 00:32:39,899
+intra week buy stocks would be
+
+817
+00:32:39,899 --> 00:32:42,620
+determined
+
+818
+00:32:42,960 --> 00:32:45,120
+and a liquidity run to a daily or weekly
+
+819
+00:32:45,120 --> 00:32:48,179
+premium PD array would be the result in
+
+820
+00:32:48,179 --> 00:32:49,140
+other words we're not going to be
+
+821
+00:32:49,140 --> 00:32:51,120
+looking just for a intro week run on buy
+
+822
+00:32:51,120 --> 00:32:53,039
+stops we're going to be looking for a
+
+823
+00:32:53,039 --> 00:32:55,919
+run completely above all of the entry
+
+824
+00:32:55,919 --> 00:32:58,860
+week highs to a liquidity run on daily
+
+825
+00:32:58,860 --> 00:33:00,179
+or weekly
+
+826
+00:33:00,179 --> 00:33:02,460
+premium PD arrays
+
+827
+00:33:02,460 --> 00:33:03,600
+so in other words we're going to be
+
+828
+00:33:03,600 --> 00:33:06,179
+creating a new weekly Range High in a
+
+829
+00:33:06,179 --> 00:33:08,279
+level that hadn't been traded for so far
+
+830
+00:33:08,279 --> 00:33:10,140
+for that week and it's going to move it
+
+831
+00:33:10,140 --> 00:33:12,600
+aggressively and very speedily to that
+
+832
+00:33:12,600 --> 00:33:17,039
+level now this Market environment can
+
+833
+00:33:17,039 --> 00:33:18,960
+occur when the Market's bullish but it
+
+834
+00:33:18,960 --> 00:33:20,700
+also can occur when the Market's bearish
+
+835
+00:33:20,700 --> 00:33:24,480
+if the market trades Down Below in Old
+
+836
+00:33:24,480 --> 00:33:26,760
+low or breaks out on a higher time frame
+
+837
+00:33:26,760 --> 00:33:29,580
+but sales that have any movement lower
+
+838
+00:33:29,580 --> 00:33:31,679
+we can get a Thursday high impact on
+
+839
+00:33:31,679 --> 00:33:33,419
+medium impact news event or interest
+
+840
+00:33:33,419 --> 00:33:35,419
+rate environment that sends us
+
+841
+00:33:35,419 --> 00:33:37,500
+aggressively higher in this environment
+
+842
+00:33:37,500 --> 00:33:39,899
+or this Market profile
+
+843
+00:33:39,899 --> 00:33:41,820
+this is one of the hardest ones to trade
+
+844
+00:33:41,820 --> 00:33:43,019
+and if you see the market just
+
+845
+00:33:43,019 --> 00:33:44,460
+consolidating back and forth taken by
+
+846
+00:33:44,460 --> 00:33:45,960
+stops and sell stocks you know
+
+847
+00:33:45,960 --> 00:33:47,940
+throughout the week it's probably better
+
+848
+00:33:47,940 --> 00:33:49,380
+for you to sit on your hands and just
+
+849
+00:33:49,380 --> 00:33:51,240
+don't trade it anymore because the
+
+850
+00:33:51,240 --> 00:33:53,580
+chances are you getting this right are
+
+851
+00:33:53,580 --> 00:33:56,580
+not 50 50. you know and if you're wrong
+
+852
+00:33:56,580 --> 00:33:59,159
+it can really blow through whatever your
+
+853
+00:33:59,159 --> 00:34:01,140
+stop loss is if especially if it's fomc
+
+854
+00:34:01,140 --> 00:34:03,559
+or if it's you know um
+
+855
+00:34:03,559 --> 00:34:05,820
+well it would just have to be something
+
+856
+00:34:05,820 --> 00:34:07,679
+along with the monetary policy once it
+
+857
+00:34:07,679 --> 00:34:10,139
+gets up to a daily or weekly premium PD
+
+858
+00:34:10,139 --> 00:34:12,659
+array what we're looking for there is we
+
+859
+00:34:12,659 --> 00:34:14,099
+want to see possibly a potential
+
+860
+00:34:14,099 --> 00:34:15,359
+reversal
+
+861
+00:34:15,359 --> 00:34:17,099
+so what we're doing is why is this
+
+862
+00:34:17,099 --> 00:34:18,719
+template useful that's your answer
+
+863
+00:34:18,719 --> 00:34:20,520
+you're waiting for it to get up to a
+
+864
+00:34:20,520 --> 00:34:23,639
+daily or weekly premium PD array once it
+
+865
+00:34:23,639 --> 00:34:27,899
+does that we are expecting a reversal
+
+866
+00:34:27,899 --> 00:34:29,580
+okay so you can destroy bearish Friday
+
+867
+00:34:29,580 --> 00:34:31,379
+again this is a neutral low probability
+
+868
+00:34:31,379 --> 00:34:36,000
+profile and Market manipulation template
+
+869
+00:34:36,000 --> 00:34:38,820
+what we're looking for is the outcome of
+
+870
+00:34:38,820 --> 00:34:41,099
+this we're not looking to trade it
+
+871
+00:34:41,099 --> 00:34:42,839
+so we're looking for the market to
+
+872
+00:34:42,839 --> 00:34:44,219
+create a consolidation Monday through
+
+873
+00:34:44,219 --> 00:34:46,800
+Wednesday and then building a liquidity
+
+874
+00:34:46,800 --> 00:34:49,679
+pool of buy stops intra week and on
+
+875
+00:34:49,679 --> 00:34:51,060
+Thursday
+
+876
+00:34:51,060 --> 00:34:54,659
+we anticipate that market to be taken up
+
+877
+00:34:54,659 --> 00:34:56,960
+to that level taking out the buy stops
+
+878
+00:34:56,960 --> 00:35:00,420
+and a run on high end or medium impact
+
+879
+00:35:00,420 --> 00:35:02,160
+news usually is the Catalyst for that
+
+880
+00:35:02,160 --> 00:35:04,740
+we're anticipating the buy stop breed
+
+881
+00:35:04,740 --> 00:35:06,599
+and the market will run the intra-week
+
+882
+00:35:06,599 --> 00:35:09,240
+cell stops and ultimately Target a
+
+883
+00:35:09,240 --> 00:35:11,880
+liquidity run to a daily end or weekly
+
+884
+00:35:11,880 --> 00:35:14,760
+discount PD array
+
+885
+00:35:14,760 --> 00:35:16,560
+again we're not looking to trade this
+
+886
+00:35:16,560 --> 00:35:18,780
+we're looking for it to unfold usually
+
+887
+00:35:18,780 --> 00:35:20,040
+when the markets are in consolidation
+
+888
+00:35:20,040 --> 00:35:21,599
+Monday Tuesday and Wednesday and it's
+
+889
+00:35:21,599 --> 00:35:25,020
+usually like a employment number or it's
+
+890
+00:35:25,020 --> 00:35:30,119
+a fomc type event that type of Market
+
+891
+00:35:30,119 --> 00:35:32,940
+driver that's released later on in the
+
+892
+00:35:32,940 --> 00:35:35,160
+week the second half of the week uh post
+
+893
+00:35:35,160 --> 00:35:37,140
+Wednesday in New York open
+
+894
+00:35:37,140 --> 00:35:39,960
+we're looking for the market to run to a
+
+895
+00:35:39,960 --> 00:35:43,260
+higher time frame PD array okay and if
+
+896
+00:35:43,260 --> 00:35:45,540
+we see they run to buy stops intra week
+
+897
+00:35:45,540 --> 00:35:47,099
+and they sync it lower what we're going
+
+898
+00:35:47,099 --> 00:35:48,900
+to be watching for not that we're trying
+
+899
+00:35:48,900 --> 00:35:50,460
+to trade it we're looking for it to
+
+900
+00:35:50,460 --> 00:35:52,500
+trade down into a higher time frame
+
+901
+00:35:52,500 --> 00:35:55,320
+daily or weekly discount PD array when
+
+902
+00:35:55,320 --> 00:35:57,000
+that happens what we're looking for is a
+
+903
+00:35:57,000 --> 00:36:00,079
+potential reversal
+
+904
+00:36:00,240 --> 00:36:03,359
+okay uh Wednesday weekly reversal now
+
+905
+00:36:03,359 --> 00:36:05,579
+this is not the same as the Wednesday
+
+906
+00:36:05,579 --> 00:36:08,220
+low of the week uh templates that we're
+
+907
+00:36:08,220 --> 00:36:10,859
+given into towards the front of the um
+
+908
+00:36:10,859 --> 00:36:13,200
+this presentation this is a little bit
+
+909
+00:36:13,200 --> 00:36:15,480
+slight slightly different
+
+910
+00:36:15,480 --> 00:36:18,780
+we're looking for an old low or retail
+
+911
+00:36:18,780 --> 00:36:19,700
+support
+
+912
+00:36:19,700 --> 00:36:23,460
+and high or medium impact news drives
+
+913
+00:36:23,460 --> 00:36:25,320
+price down below that
+
+914
+00:36:25,320 --> 00:36:27,960
+and it is generally on a hard time frame
+
+915
+00:36:27,960 --> 00:36:29,820
+basis that we see these types of moves
+
+916
+00:36:29,820 --> 00:36:30,839
+taking place in other words we're
+
+917
+00:36:30,839 --> 00:36:33,839
+running a weekly monthly level or
+
+918
+00:36:33,839 --> 00:36:36,000
+support level out and it's on the heels
+
+919
+00:36:36,000 --> 00:36:38,579
+of higher medium impact news and then
+
+920
+00:36:38,579 --> 00:36:40,560
+once it dries down below that the Market
+
+921
+00:36:40,560 --> 00:36:43,680
+discounts that news and reverses what
+
+922
+00:36:43,680 --> 00:36:45,119
+we're looking for is a Fibonacci
+
+923
+00:36:45,119 --> 00:36:48,420
+extension of 127 or 168 or even a
+
+924
+00:36:48,420 --> 00:36:49,740
+perfect symmetrical price Wing but
+
+925
+00:36:49,740 --> 00:36:51,839
+generally it's usually a 127 or 168
+
+926
+00:36:51,839 --> 00:36:54,859
+extension from the old low
+
+927
+00:36:54,859 --> 00:36:57,720
+retail support rally up into Tuesday's
+
+928
+00:36:57,720 --> 00:37:00,839
+High project that down that'll give us
+
+929
+00:37:00,839 --> 00:37:04,099
+some measure of extension
+
+930
+00:37:04,099 --> 00:37:07,800
+the market usually will find its way
+
+931
+00:37:07,800 --> 00:37:09,599
+down into a monthly weekly or daily
+
+932
+00:37:09,599 --> 00:37:12,780
+discount array and we'll be using the
+
+933
+00:37:12,780 --> 00:37:14,880
+swing projection fulcrum point to
+
+934
+00:37:14,880 --> 00:37:18,000
+project up to a 127 or 168 extension and
+
+935
+00:37:18,000 --> 00:37:21,180
+overlapping of a weekly or daily premium
+
+936
+00:37:21,180 --> 00:37:23,640
+PD array
+
+937
+00:37:23,640 --> 00:37:26,400
+and lastly the Wednesday weekly reversal
+
+938
+00:37:26,400 --> 00:37:28,560
+when the market is bearish
+
+939
+00:37:28,560 --> 00:37:30,420
+okay we're looking for old high or
+
+940
+00:37:30,420 --> 00:37:33,119
+retail resistance higher medium impact
+
+941
+00:37:33,119 --> 00:37:35,220
+news runs it above it and then the
+
+942
+00:37:35,220 --> 00:37:36,839
+market rejects or discounts that news
+
+943
+00:37:36,839 --> 00:37:38,940
+event and it takes us up into a
+
+944
+00:37:38,940 --> 00:37:41,400
+Fibonacci one extent 127 or 168
+
+945
+00:37:41,400 --> 00:37:44,760
+extension and a monthly weekly or daily
+
+946
+00:37:44,760 --> 00:37:46,680
+premium array in order to looking for
+
+947
+00:37:46,680 --> 00:37:48,119
+something up there to align with that
+
+948
+00:37:48,119 --> 00:37:50,339
+127 168 extension
+
+949
+00:37:50,339 --> 00:37:52,560
+and then the market will look to move
+
+950
+00:37:52,560 --> 00:37:54,480
+below the swing projection fulcrum Point
+
+951
+00:37:54,480 --> 00:37:56,820
+down into a weekly or daily discount PD
+
+952
+00:37:56,820 --> 00:37:59,040
+array overlapping with a Fibonacci
+
+953
+00:37:59,040 --> 00:38:02,220
+extension of 127 or 168. now what I gave
+
+954
+00:38:02,220 --> 00:38:06,119
+you is basically the The Playbook that I
+
+955
+00:38:06,119 --> 00:38:08,640
+use when I go about trying to find my
+
+956
+00:38:08,640 --> 00:38:10,619
+one shot one kills
+
+957
+00:38:10,619 --> 00:38:12,780
+the weekly range you'll find it
+
+958
+00:38:12,780 --> 00:38:14,760
+generally will be one of these templates
+
+959
+00:38:14,760 --> 00:38:17,280
+okay and while it probably looks like a
+
+960
+00:38:17,280 --> 00:38:19,560
+whole lot okay it's a handful of them
+
+961
+00:38:19,560 --> 00:38:21,300
+but you're already going to know if
+
+962
+00:38:21,300 --> 00:38:22,320
+you're going to be bullish or bearish
+
+963
+00:38:22,320 --> 00:38:24,060
+based on a higher time frame information
+
+964
+00:38:24,060 --> 00:38:26,880
+that we talked in January
+
+965
+00:38:26,880 --> 00:38:29,520
+so if you're looking for information to
+
+966
+00:38:29,520 --> 00:38:32,400
+lead to bullish or bearish ideas if we
+
+967
+00:38:32,400 --> 00:38:34,320
+have that limited to okay we want to be
+
+968
+00:38:34,320 --> 00:38:37,140
+a bullish we go to our profiles that are
+
+969
+00:38:37,140 --> 00:38:39,000
+bullish and we start looking for
+
+970
+00:38:39,000 --> 00:38:40,800
+telltale signs of characteristics that
+
+971
+00:38:40,800 --> 00:38:43,440
+are given to you in these uh slides and
+
+972
+00:38:43,440 --> 00:38:45,900
+it was taught in the second least lesson
+
+973
+00:38:45,900 --> 00:38:48,599
+of this month by blending that and also
+
+974
+00:38:48,599 --> 00:38:50,700
+looking for the manipulation factor that
+
+975
+00:38:50,700 --> 00:38:52,020
+takes place how the market makers
+
+976
+00:38:52,020 --> 00:38:54,000
+manipulate price Within These market
+
+977
+00:38:54,000 --> 00:38:56,040
+profiles you're going to see that it's
+
+978
+00:38:56,040 --> 00:38:58,619
+pretty much almost like the script now
+
+979
+00:38:58,619 --> 00:39:02,579
+the key is is once you identify it the
+
+980
+00:39:02,579 --> 00:39:05,460
+moves that transpire on Tuesday and
+
+981
+00:39:05,460 --> 00:39:07,560
+Wednesday you may not get the actual
+
+982
+00:39:07,560 --> 00:39:09,599
+highest high to Short from or the lowest
+
+983
+00:39:09,599 --> 00:39:11,480
+low to buy from and that's not important
+
+984
+00:39:11,480 --> 00:39:14,220
+once we have the range defined and we
+
+985
+00:39:14,220 --> 00:39:16,800
+see the characteristics that outline a
+
+986
+00:39:16,800 --> 00:39:18,480
+potential Direction going into Friday's
+
+987
+00:39:18,480 --> 00:39:20,820
+close that in itself can be your
+
+988
+00:39:20,820 --> 00:39:22,560
+One-Shot one kill so you can look for
+
+989
+00:39:22,560 --> 00:39:24,000
+opportunities on the back end of the
+
+990
+00:39:24,000 --> 00:39:26,280
+week not necessarily having demanding
+
+991
+00:39:26,280 --> 00:39:28,079
+and treat on Tuesday or Wednesday
+
+992
+00:39:28,079 --> 00:39:29,760
+because I teach Tuesday and Wednesday
+
+993
+00:39:29,760 --> 00:39:31,380
+generally will give you the higher low
+
+994
+00:39:31,380 --> 00:39:32,640
+of the week if it's a bullish or bearish
+
+995
+00:39:32,640 --> 00:39:35,180
+prospective Market that's not necessary
+
+996
+00:39:35,180 --> 00:39:37,740
+one shot one kill is you're looking for
+
+997
+00:39:37,740 --> 00:39:39,720
+one setup to pay you your weekly
+
+998
+00:39:39,720 --> 00:39:41,940
+objective my objective is usually 50 to
+
+999
+00:39:41,940 --> 00:39:44,339
+75 Pips a week so if I'm looking for
+
+1000
+00:39:44,339 --> 00:39:45,359
+something that's going to frame that
+
+1001
+00:39:45,359 --> 00:39:47,940
+that type of move I'm generally going to
+
+1002
+00:39:47,940 --> 00:39:49,980
+be using these manipulation templates to
+
+1003
+00:39:49,980 --> 00:39:51,660
+frame the idea whether I'm bullish or
+
+1004
+00:39:51,660 --> 00:39:52,920
+bearish and I'm looking for
+
+1005
+00:39:52,920 --> 00:39:54,359
+characteristics to line up if they don't
+
+1006
+00:39:54,359 --> 00:39:56,280
+line up with what's been described in
+
+1007
+00:39:56,280 --> 00:39:58,020
+lesson two and in this lesson here in
+
+1008
+00:39:58,020 --> 00:39:59,880
+lesson three if those characteristics
+
+1009
+00:39:59,880 --> 00:40:02,520
+aren't obvious or in alignment then I'm
+
+1010
+00:40:02,520 --> 00:40:03,540
+generally going to sit on my hands in
+
+1011
+00:40:03,540 --> 00:40:05,400
+either day trade or scalp or do nothing
+
+1012
+00:40:05,400 --> 00:40:08,339
+but for one shot one kill setups this is
+
+1013
+00:40:08,339 --> 00:40:10,020
+kind of like my playbook and what I go
+
+1014
+00:40:10,020 --> 00:40:11,579
+to so while it's going to take some
+
+1015
+00:40:11,579 --> 00:40:13,020
+study on your part to go through and
+
+1016
+00:40:13,020 --> 00:40:14,400
+convince yourself that these are the
+
+1017
+00:40:14,400 --> 00:40:15,540
+templates of how the market actually
+
+1018
+00:40:15,540 --> 00:40:18,119
+operates uh just pick a pair just pick
+
+1019
+00:40:18,119 --> 00:40:21,599
+any individual pair go through a period
+
+1020
+00:40:21,599 --> 00:40:23,540
+of I don't know three to four months
+
+1021
+00:40:23,540 --> 00:40:26,579
+using an hourly chart and go back and
+
+1022
+00:40:26,579 --> 00:40:29,579
+see what each weekly profile looked like
+
+1023
+00:40:29,579 --> 00:40:31,560
+and how the manipulation took place that
+
+1024
+00:40:31,560 --> 00:40:33,720
+made that Weekly range form as it did
+
+1025
+00:40:33,720 --> 00:40:35,520
+and you'll see that many times you're
+
+1026
+00:40:35,520 --> 00:40:36,960
+going to see that this is this is the
+
+1027
+00:40:36,960 --> 00:40:39,240
+profile and template they use to
+
+1028
+00:40:39,240 --> 00:40:41,280
+manipulate price and you also see how
+
+1029
+00:40:41,280 --> 00:40:42,660
+it's easy to get to those profit
+
+1030
+00:40:42,660 --> 00:40:44,640
+objectives that you don't otherwise
+
+1031
+00:40:44,640 --> 00:40:46,980
+think of by using the Lesser time frame
+
+1032
+00:40:46,980 --> 00:40:48,900
+that we used for our entry
+
+1033
+00:40:48,900 --> 00:40:50,760
+so until next lesson I wish good luck
+
+1034
+00:40:50,760 --> 00:40:53,720
+and good Trading
+

@@ -1,0 +1,1092 @@
+1
+00:00:10,980 --> 00:00:13,500
+welcome back to lesson two of short-term
+
+2
+00:00:13,500 --> 00:00:15,780
+trading March 2017 ICT mentorship
+
+3
+00:00:15,780 --> 00:00:16,920
+content
+
+4
+00:00:16,920 --> 00:00:19,380
+this lesson is defining the weekly range
+
+5
+00:00:19,380 --> 00:00:21,980
+profiles
+
+6
+00:00:25,740 --> 00:00:27,119
+okay before we get into this let me
+
+7
+00:00:27,119 --> 00:00:30,300
+preface it by saying this is one of the
+
+8
+00:00:30,300 --> 00:00:32,700
+lessons that if you just look through it
+
+9
+00:00:32,700 --> 00:00:35,340
+quickly and not paying much attention to
+
+10
+00:00:35,340 --> 00:00:37,440
+it it's going to look rather uh
+
+11
+00:00:37,440 --> 00:00:39,360
+ambiguous it's going to seem unfruitful
+
+12
+00:00:39,360 --> 00:00:44,460
+but its impact is shown and solidified
+
+13
+00:00:44,460 --> 00:00:47,219
+really by you going through price data
+
+14
+00:00:47,219 --> 00:00:50,340
+and seeing these profiles unfold in
+
+15
+00:00:50,340 --> 00:00:52,500
+hindsight seeing how they operate how
+
+16
+00:00:52,500 --> 00:00:54,719
+they unfold and the conditions that I'm
+
+17
+00:00:54,719 --> 00:00:57,000
+giving you how they are always generally
+
+18
+00:00:57,000 --> 00:01:00,420
+precursors to them performing
+
+19
+00:01:00,420 --> 00:01:02,340
+so the classic Tuesday low of the week
+
+20
+00:01:02,340 --> 00:01:05,159
+okay this is a market profile that is
+
+21
+00:01:05,159 --> 00:01:06,540
+generally bullish so you're already
+
+22
+00:01:06,540 --> 00:01:08,760
+looking for bullish prices anyway
+
+23
+00:01:08,760 --> 00:01:10,200
+and what you're looking for is
+
+24
+00:01:10,200 --> 00:01:12,420
+manipulation in the form of price
+
+25
+00:01:12,420 --> 00:01:14,100
+hovering above a higher time frame
+
+26
+00:01:14,100 --> 00:01:16,439
+discount array on Monday then drops into
+
+27
+00:01:16,439 --> 00:01:18,540
+a higher time frame discount array on
+
+28
+00:01:18,540 --> 00:01:21,920
+Tuesday to form the low of the week
+
+29
+00:01:22,740 --> 00:01:24,840
+how to anticipate this you have to know
+
+30
+00:01:24,840 --> 00:01:26,700
+the higher time frame discount arrays
+
+31
+00:01:26,700 --> 00:01:28,380
+and when the market fails to drop into
+
+32
+00:01:28,380 --> 00:01:31,080
+that array odds are Tuesday we'll likely
+
+33
+00:01:31,080 --> 00:01:33,180
+see the drive lower Tuesday London open
+
+34
+00:01:33,180 --> 00:01:34,799
+and or
+
+35
+00:01:34,799 --> 00:01:38,060
+New York session
+
+36
+00:01:41,400 --> 00:01:43,439
+okay the next one is the classic Tuesday
+
+37
+00:01:43,439 --> 00:01:45,420
+high of the week
+
+38
+00:01:45,420 --> 00:01:48,540
+this Market profile for the week is
+
+39
+00:01:48,540 --> 00:01:50,040
+generally bearish you're already
+
+40
+00:01:50,040 --> 00:01:52,140
+expecting lower prices
+
+41
+00:01:52,140 --> 00:01:54,180
+and the manipulation You're Expecting is
+
+42
+00:01:54,180 --> 00:01:55,979
+when price is hovering below a higher
+
+43
+00:01:55,979 --> 00:01:58,799
+time frame premium array Monday then
+
+44
+00:01:58,799 --> 00:02:00,540
+Rises into a higher time frame premium
+
+45
+00:02:00,540 --> 00:02:02,460
+array on Tuesday to form the high of the
+
+46
+00:02:02,460 --> 00:02:04,579
+week
+
+47
+00:02:04,740 --> 00:02:06,899
+and you anticipate this forming by
+
+48
+00:02:06,899 --> 00:02:08,818
+knowing the higher time frame premium
+
+49
+00:02:08,818 --> 00:02:11,280
+arrays and when the market fails to rise
+
+50
+00:02:11,280 --> 00:02:13,379
+into that array odds are Tuesday we'll
+
+51
+00:02:13,379 --> 00:02:15,360
+likely see the drive higher Tuesday's
+
+52
+00:02:15,360 --> 00:02:18,060
+London open and or New York session
+
+53
+00:02:18,060 --> 00:02:21,120
+just like the classic Tuesday low of the
+
+54
+00:02:21,120 --> 00:02:23,700
+week well the classic high of the week
+
+55
+00:02:23,700 --> 00:02:27,720
+there can be another run higher to make
+
+56
+00:02:27,720 --> 00:02:29,640
+a higher high in the week for this
+
+57
+00:02:29,640 --> 00:02:31,800
+profile than the highest formed in the
+
+58
+00:02:31,800 --> 00:02:33,120
+London session Tuesday so in other words
+
+59
+00:02:33,120 --> 00:02:35,040
+they can come back and run the London
+
+60
+00:02:35,040 --> 00:02:37,560
+High out and still form this for the
+
+61
+00:02:37,560 --> 00:02:39,660
+classic Tuesday low of the week it can
+
+62
+00:02:39,660 --> 00:02:41,760
+come back and make a lower low in the
+
+63
+00:02:41,760 --> 00:02:43,319
+New York sessions there's one caveat
+
+64
+00:02:43,319 --> 00:02:44,700
+that has to be applied to both of them
+
+65
+00:02:44,700 --> 00:02:47,780
+so have that in your notes
+
+66
+00:02:50,459 --> 00:02:52,379
+okay the next one is the Wednesday low
+
+67
+00:02:52,379 --> 00:02:54,599
+of week
+
+68
+00:02:54,599 --> 00:02:56,700
+this is when you're generally bullish on
+
+69
+00:02:56,700 --> 00:02:59,480
+the marketplace already
+
+70
+00:03:00,000 --> 00:03:01,560
+and the manipulation you're looking for
+
+71
+00:03:01,560 --> 00:03:04,800
+is when price is hovering above a higher
+
+72
+00:03:04,800 --> 00:03:07,080
+time frame discount array Monday and
+
+73
+00:03:07,080 --> 00:03:09,420
+Tuesday then drops into the higher time
+
+74
+00:03:09,420 --> 00:03:11,340
+frame discount array on Wednesday to
+
+75
+00:03:11,340 --> 00:03:14,180
+form the low of the week
+
+76
+00:03:14,220 --> 00:03:16,200
+you anticipate this by knowing the
+
+77
+00:03:16,200 --> 00:03:18,120
+higher time frame discount arrays and
+
+78
+00:03:18,120 --> 00:03:19,739
+when the market fails to drop into that
+
+79
+00:03:19,739 --> 00:03:22,500
+array odds are Wednesday will likely see
+
+80
+00:03:22,500 --> 00:03:24,540
+the drive lower Wednesday's London open
+
+81
+00:03:24,540 --> 00:03:27,000
+and or New York session
+
+82
+00:03:27,000 --> 00:03:29,819
+Monday and Tuesday can also be down days
+
+83
+00:03:29,819 --> 00:03:32,099
+as well to form this profile Wednesday
+
+84
+00:03:32,099 --> 00:03:36,959
+London session low can be ran out on the
+
+85
+00:03:36,959 --> 00:03:39,360
+Wednesday New York session and then it
+
+86
+00:03:39,360 --> 00:03:41,099
+can create the low of the week so be be
+
+87
+00:03:41,099 --> 00:03:42,540
+aware that that can possibly happen as
+
+88
+00:03:42,540 --> 00:03:44,720
+well
+
+89
+00:03:46,500 --> 00:03:48,000
+okay the next one is the Wednesday high
+
+90
+00:03:48,000 --> 00:03:50,280
+of week
+
+91
+00:03:50,280 --> 00:03:52,500
+this profile is generally bearish you're
+
+92
+00:03:52,500 --> 00:03:55,519
+already looking for lower prices
+
+93
+00:03:55,560 --> 00:03:57,239
+and the manipulation You're Expecting is
+
+94
+00:03:57,239 --> 00:03:58,920
+when price is hovering below a higher
+
+95
+00:03:58,920 --> 00:04:01,019
+time frame premium array Monday and
+
+96
+00:04:01,019 --> 00:04:03,060
+Tuesday then Rises into that higher time
+
+97
+00:04:03,060 --> 00:04:05,640
+frame premium array on Wednesday to form
+
+98
+00:04:05,640 --> 00:04:08,099
+the high of the week
+
+99
+00:04:08,099 --> 00:04:10,739
+you anticipate this by knowing the
+
+100
+00:04:10,739 --> 00:04:12,840
+higher time frame premium arrays and
+
+101
+00:04:12,840 --> 00:04:14,459
+when the market fails to rise into that
+
+102
+00:04:14,459 --> 00:04:16,440
+array odds are Wednesday we'll likely
+
+103
+00:04:16,440 --> 00:04:18,180
+see the drive higher Wednesdays long and
+
+104
+00:04:18,180 --> 00:04:21,180
+open and or New York session Monday and
+
+105
+00:04:21,180 --> 00:04:23,040
+Tuesday can be up days as well to form
+
+106
+00:04:23,040 --> 00:04:24,479
+this profile
+
+107
+00:04:24,479 --> 00:04:26,280
+just like we mentioned for Wednesday low
+
+108
+00:04:26,280 --> 00:04:30,000
+of week the London open high on
+
+109
+00:04:30,000 --> 00:04:32,400
+Wednesday can be ran out on Wednesday's
+
+110
+00:04:32,400 --> 00:04:33,960
+New York session and still create the
+
+111
+00:04:33,960 --> 00:04:35,340
+high of the week so have that in your
+
+112
+00:04:35,340 --> 00:04:37,639
+notes
+
+113
+00:04:40,020 --> 00:04:41,520
+okay the next one we have is
+
+114
+00:04:41,520 --> 00:04:44,759
+consolidation Thursday reversal
+
+115
+00:04:44,759 --> 00:04:46,979
+this is a generally bullish Market
+
+116
+00:04:46,979 --> 00:04:48,300
+condition
+
+117
+00:04:48,300 --> 00:04:49,620
+so what you're looking for in
+
+118
+00:04:49,620 --> 00:04:51,000
+manipulation is we're going to be
+
+119
+00:04:51,000 --> 00:04:53,160
+looking for consolidation Monday through
+
+120
+00:04:53,160 --> 00:04:54,360
+Wednesday
+
+121
+00:04:54,360 --> 00:04:57,660
+then price runs the entry week low and
+
+122
+00:04:57,660 --> 00:05:01,560
+rejects it forming a market reversal
+
+123
+00:05:01,560 --> 00:05:03,540
+the key is it's consolidating it's not
+
+124
+00:05:03,540 --> 00:05:05,160
+only going higher or lower Monday
+
+125
+00:05:05,160 --> 00:05:07,639
+through Wednesday
+
+126
+00:05:09,660 --> 00:05:11,220
+okay to anticipate this as you have to
+
+127
+00:05:11,220 --> 00:05:12,660
+know the higher time frame discount to
+
+128
+00:05:12,660 --> 00:05:14,340
+raise and when the market fails to drop
+
+129
+00:05:14,340 --> 00:05:16,919
+into that array odds are Thursday we'll
+
+130
+00:05:16,919 --> 00:05:19,860
+likely see the drive lower Thursday on a
+
+131
+00:05:19,860 --> 00:05:22,860
+market driver news and or rate release
+
+132
+00:05:22,860 --> 00:05:25,259
+late New York session this is typically
+
+133
+00:05:25,259 --> 00:05:27,180
+around the two o'clock Eastern Standard
+
+134
+00:05:27,180 --> 00:05:28,020
+Time
+
+135
+00:05:28,020 --> 00:05:31,820
+or 2 p.m New York time
+
+136
+00:05:34,919 --> 00:05:38,100
+okay consolidation Thursday reversal for
+
+137
+00:05:38,100 --> 00:05:41,460
+a bearish market profile
+
+138
+00:05:41,460 --> 00:05:42,979
+the manipulation you're looking for is
+
+139
+00:05:42,979 --> 00:05:44,820
+consolidation Monday through Wednesday
+
+140
+00:05:44,820 --> 00:05:47,100
+then it runs to enter week high and
+
+141
+00:05:47,100 --> 00:05:51,600
+rejects it forming a market reversal
+
+142
+00:05:51,600 --> 00:05:53,880
+you anticipate this by knowing the
+
+143
+00:05:53,880 --> 00:05:55,500
+higher time frame premium arrays and
+
+144
+00:05:55,500 --> 00:05:57,060
+when the market fails to rise into that
+
+145
+00:05:57,060 --> 00:05:59,460
+array odds are Thursday we'll likely see
+
+146
+00:05:59,460 --> 00:06:01,320
+a drive higher Thursday on a market
+
+147
+00:06:01,320 --> 00:06:04,979
+driver news or rate release late New
+
+148
+00:06:04,979 --> 00:06:06,960
+York session around 2 p.m New York time
+
+149
+00:06:06,960 --> 00:06:09,960
+now just like we saw for the bullish
+
+150
+00:06:09,960 --> 00:06:12,360
+consolidation Thursday reversal
+
+151
+00:06:12,360 --> 00:06:15,120
+this is generally on rate announcements
+
+152
+00:06:15,120 --> 00:06:20,060
+fomc or interest rate uh adjustments
+
+153
+00:06:22,380 --> 00:06:25,080
+okay consolidation midweek rally
+
+154
+00:06:25,080 --> 00:06:27,300
+this is a bullish Market profile already
+
+155
+00:06:27,300 --> 00:06:28,500
+expecting higher prices when you're
+
+156
+00:06:28,500 --> 00:06:30,120
+looking for this
+
+157
+00:06:30,120 --> 00:06:32,340
+the manipulation You're Expecting is the
+
+158
+00:06:32,340 --> 00:06:34,259
+consolidation Monday through Wednesday
+
+159
+00:06:34,259 --> 00:06:36,479
+then runs the inch week high and then
+
+160
+00:06:36,479 --> 00:06:38,520
+expands higher into Friday
+
+161
+00:06:38,520 --> 00:06:40,800
+how to anticipate when the market is
+
+162
+00:06:40,800 --> 00:06:42,360
+bullish and has yet to run to the
+
+163
+00:06:42,360 --> 00:06:43,979
+premium array on the higher time frames
+
+164
+00:06:43,979 --> 00:06:47,039
+it has recently rallied from a discount
+
+165
+00:06:47,039 --> 00:06:49,199
+array and simply paused without any
+
+166
+00:06:49,199 --> 00:06:51,720
+bearish reversal price action
+
+167
+00:06:51,720 --> 00:06:53,580
+indicating price is about to expand
+
+168
+00:06:53,580 --> 00:06:57,199
+higher for the premium array
+
+169
+00:07:00,660 --> 00:07:03,900
+consolidation midweek decline
+
+170
+00:07:03,900 --> 00:07:06,479
+this is a bearish market profile
+
+171
+00:07:06,479 --> 00:07:08,819
+You're Expecting bearish prices and the
+
+172
+00:07:08,819 --> 00:07:10,199
+manipulation you're looking for is when
+
+173
+00:07:10,199 --> 00:07:11,520
+price is consolidating Monday through
+
+174
+00:07:11,520 --> 00:07:13,319
+Wednesday then runs to enter week low
+
+175
+00:07:13,319 --> 00:07:17,120
+and expands lower into Friday
+
+176
+00:07:18,060 --> 00:07:20,580
+you anticipate this profile forming when
+
+177
+00:07:20,580 --> 00:07:22,199
+the market is bearish and has yet to run
+
+178
+00:07:22,199 --> 00:07:24,180
+the discount array on the higher time
+
+179
+00:07:24,180 --> 00:07:26,940
+frames and it has recently declined from
+
+180
+00:07:26,940 --> 00:07:28,680
+a premium array and simply paused
+
+181
+00:07:28,680 --> 00:07:30,259
+without any bullish
+
+182
+00:07:30,259 --> 00:07:32,940
+reversal price action indicating price
+
+183
+00:07:32,940 --> 00:07:34,800
+is about to expand lower for the
+
+184
+00:07:34,800 --> 00:07:37,400
+discount array
+
+185
+00:07:42,539 --> 00:07:46,160
+Seek and Destroy bullish Friday
+
+186
+00:07:46,500 --> 00:07:48,419
+this is a neutral or low probability
+
+187
+00:07:48,419 --> 00:07:51,800
+Market profile
+
+188
+00:07:52,020 --> 00:07:54,120
+the telltale signs the manipulation is
+
+189
+00:07:54,120 --> 00:07:57,120
+taking part in this profile is where
+
+190
+00:07:57,120 --> 00:07:59,099
+price is consolidating Monday through
+
+191
+00:07:59,099 --> 00:08:02,099
+Thursday running shallow stops under and
+
+192
+00:08:02,099 --> 00:08:04,259
+above the entry week highs and lows then
+
+193
+00:08:04,259 --> 00:08:06,840
+runs the intra-week high and expands
+
+194
+00:08:06,840 --> 00:08:09,860
+higher into Friday
+
+195
+00:08:10,440 --> 00:08:12,240
+how to anticipate it
+
+196
+00:08:12,240 --> 00:08:13,680
+when the market is awaiting interest
+
+197
+00:08:13,680 --> 00:08:16,860
+rate announcements and or non-farm
+
+198
+00:08:16,860 --> 00:08:18,660
+payroll can create this profile in the
+
+199
+00:08:18,660 --> 00:08:20,639
+summer months of July and August it's
+
+200
+00:08:20,639 --> 00:08:22,199
+better to avoid trading these conditions
+
+201
+00:08:22,199 --> 00:08:24,500
+altogether
+
+202
+00:08:27,000 --> 00:08:30,000
+Seek and Destroy bearish Friday
+
+203
+00:08:30,000 --> 00:08:31,860
+the profile again is neutral low
+
+204
+00:08:31,860 --> 00:08:33,958
+probability
+
+205
+00:08:33,958 --> 00:08:36,240
+manipulation is seen by Price
+
+206
+00:08:36,240 --> 00:08:37,679
+consolidating Monday through Thursday
+
+207
+00:08:37,679 --> 00:08:39,958
+running shallow stops under and above
+
+208
+00:08:39,958 --> 00:08:42,059
+the entry week highs and lows then runs
+
+209
+00:08:42,059 --> 00:08:44,339
+the intra-week low expands lower into
+
+210
+00:08:44,339 --> 00:08:46,500
+Friday
+
+211
+00:08:46,500 --> 00:08:48,420
+how to anticipate it when the market is
+
+212
+00:08:48,420 --> 00:08:49,860
+awaiting interest rate announcements or
+
+213
+00:08:49,860 --> 00:08:52,140
+non-farm payroll can create this profile
+
+214
+00:08:52,140 --> 00:08:53,880
+in the summer months of July and August
+
+215
+00:08:53,880 --> 00:08:55,740
+it's better again to avoid these
+
+216
+00:08:55,740 --> 00:08:58,160
+conditions
+
+217
+00:09:00,120 --> 00:09:02,640
+Wednesday weekly reversal
+
+218
+00:09:02,640 --> 00:09:04,680
+this Market profile is bullish you're
+
+219
+00:09:04,680 --> 00:09:07,620
+already expecting higher prices
+
+220
+00:09:07,620 --> 00:09:09,480
+you're looking for is where prices
+
+221
+00:09:09,480 --> 00:09:12,000
+consolidating Monday through Tuesday and
+
+222
+00:09:12,000 --> 00:09:13,920
+drives lower into a higher time frame
+
+223
+00:09:13,920 --> 00:09:16,080
+discount array to induce sell stops than
+
+224
+00:09:16,080 --> 00:09:18,420
+strongly reverses
+
+225
+00:09:18,420 --> 00:09:20,279
+how to anticipate this when the market
+
+226
+00:09:20,279 --> 00:09:22,019
+is trading at a long-term or
+
+227
+00:09:22,019 --> 00:09:24,060
+intermediate term low price will pair
+
+228
+00:09:24,060 --> 00:09:26,160
+institutional buying with pending sell
+
+229
+00:09:26,160 --> 00:09:28,500
+site liquidity or traditionally known as
+
+230
+00:09:28,500 --> 00:09:31,760
+a sell stop rate
+
+231
+00:09:34,140 --> 00:09:36,899
+Wednesday weekly reversal
+
+232
+00:09:36,899 --> 00:09:39,180
+profile bearish
+
+233
+00:09:39,180 --> 00:09:42,420
+you aren't expecting lower prices
+
+234
+00:09:42,420 --> 00:09:43,860
+the manipulation You're Expecting is
+
+235
+00:09:43,860 --> 00:09:45,240
+when price is consolidating Monday
+
+236
+00:09:45,240 --> 00:09:47,640
+through Tuesday and it drives higher
+
+237
+00:09:47,640 --> 00:09:49,440
+into a higher time frame premium array
+
+238
+00:09:49,440 --> 00:09:51,720
+to induce buy stops then strongly
+
+239
+00:09:51,720 --> 00:09:53,580
+reverses
+
+240
+00:09:53,580 --> 00:09:55,620
+how to anticipate this when the market
+
+241
+00:09:55,620 --> 00:09:57,540
+is trading at a long term or enemy a
+
+242
+00:09:57,540 --> 00:09:59,339
+term high price will pay our
+
+243
+00:09:59,339 --> 00:10:01,740
+institutional selling with pending buy
+
+244
+00:10:01,740 --> 00:10:04,500
+side liquidity or as otherwise known a
+
+245
+00:10:04,500 --> 00:10:06,959
+buy stop read now it may seem rather
+
+246
+00:10:06,959 --> 00:10:09,420
+simplistic to go through this
+
+247
+00:10:09,420 --> 00:10:12,420
+squiggly line and a few comments but the
+
+248
+00:10:12,420 --> 00:10:14,880
+impact is going to be really appreciated
+
+249
+00:10:14,880 --> 00:10:16,380
+in your understanding when you go
+
+250
+00:10:16,380 --> 00:10:18,360
+through price action with a one hour
+
+251
+00:10:18,360 --> 00:10:19,440
+chart
+
+252
+00:10:19,440 --> 00:10:21,600
+go through any pair
+
+253
+00:10:21,600 --> 00:10:23,580
+any segment of time go back as far as
+
+254
+00:10:23,580 --> 00:10:25,680
+you want okay and I want you to break
+
+255
+00:10:25,680 --> 00:10:28,399
+down price and Define these
+
+256
+00:10:28,399 --> 00:10:31,560
+Moves In what you're seeing in price and
+
+257
+00:10:31,560 --> 00:10:33,480
+then look at the characteristics of what
+
+258
+00:10:33,480 --> 00:10:35,100
+is going on prior to these market
+
+259
+00:10:35,100 --> 00:10:36,660
+profiles forming
+
+260
+00:10:36,660 --> 00:10:37,920
+and you're going to see a recurring
+
+261
+00:10:37,920 --> 00:10:39,959
+theme that generally the characteristics
+
+262
+00:10:39,959 --> 00:10:41,700
+that we have outlined here are
+
+263
+00:10:41,700 --> 00:10:43,860
+precursors to these Market model
+
+264
+00:10:43,860 --> 00:10:46,560
+profiles
+
+265
+00:10:46,560 --> 00:10:48,060
+so hopefully this has been insightful to
+
+266
+00:10:48,060 --> 00:10:50,160
+you we will be giving you more insights
+
+267
+00:10:50,160 --> 00:10:51,899
+about this when we start looking at the
+
+268
+00:10:51,899 --> 00:10:53,880
+market maker templates and we'll be
+
+269
+00:10:53,880 --> 00:10:56,100
+referring back to these as well we use
+
+270
+00:10:56,100 --> 00:10:58,800
+PD arrays and
+
+271
+00:10:58,800 --> 00:11:00,839
+if the data ranges
+
+272
+00:11:00,839 --> 00:11:02,700
+until next lesson wish you good luck in
+
+273
+00:11:02,700 --> 00:11:05,120
+good Trading
+

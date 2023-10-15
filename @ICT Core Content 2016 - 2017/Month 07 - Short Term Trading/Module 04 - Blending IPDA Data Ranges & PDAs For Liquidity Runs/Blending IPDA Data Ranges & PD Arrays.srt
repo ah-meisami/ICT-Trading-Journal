@@ -1,0 +1,1436 @@
+1
+00:00:09,480 --> 00:00:12,799
+welcome back folks this is Lesson Four
+
+2
+00:00:12,799 --> 00:00:15,179
+short-term Trading
+
+3
+00:00:15,179 --> 00:00:18,420
+blending Gupta data ranges and PD arrays
+
+4
+00:00:18,420 --> 00:00:21,680
+for liquidity runs
+
+5
+00:00:26,519 --> 00:00:28,859
+okay when we're looking at if the data
+
+6
+00:00:28,859 --> 00:00:29,960
+ranges
+
+7
+00:00:29,960 --> 00:00:33,840
+we're referring to specifically time
+
+8
+00:00:33,840 --> 00:00:37,260
+and PD arrays are dealing specifically
+
+9
+00:00:37,260 --> 00:00:38,579
+with price
+
+10
+00:00:38,579 --> 00:00:41,520
+so blending the two elements together
+
+11
+00:00:41,520 --> 00:00:43,500
+you're blending time and price
+
+12
+00:00:43,500 --> 00:00:46,379
+theoretically
+
+13
+00:00:46,379 --> 00:00:49,379
+if the data ranges provide you a context
+
+14
+00:00:49,379 --> 00:00:50,879
+to look back
+
+15
+00:00:50,879 --> 00:00:53,579
+the last 20 days the last 40 days in the
+
+16
+00:00:53,579 --> 00:00:56,420
+last 60 days
+
+17
+00:00:56,640 --> 00:00:58,739
+As you move forward
+
+18
+00:00:58,739 --> 00:01:01,680
+you're casting forward for a new set of
+
+19
+00:01:01,680 --> 00:01:05,880
+20 40 and 60 each new day you shift that
+
+20
+00:01:05,880 --> 00:01:07,560
+range forward
+
+21
+00:01:07,560 --> 00:01:10,260
+the look back period gives you the
+
+22
+00:01:10,260 --> 00:01:12,000
+context of frame
+
+23
+00:01:12,000 --> 00:01:15,240
+the PD arrays with a reference point in
+
+24
+00:01:15,240 --> 00:01:17,479
+time
+
+25
+00:01:17,520 --> 00:01:19,680
+the enter Bank price delivery algorithm
+
+26
+00:01:19,680 --> 00:01:23,040
+will reach back in to data arrays
+
+27
+00:01:23,040 --> 00:01:25,500
+between the last 20 days the last 40
+
+28
+00:01:25,500 --> 00:01:27,780
+days and the last 60 days
+
+29
+00:01:27,780 --> 00:01:29,759
+which
+
+30
+00:01:29,759 --> 00:01:33,780
+data array they use or refer to is
+
+31
+00:01:33,780 --> 00:01:37,259
+respective to the PD array in reference
+
+32
+00:01:37,259 --> 00:01:39,060
+to price
+
+33
+00:01:39,060 --> 00:01:41,640
+if price is in a premium Market
+
+34
+00:01:41,640 --> 00:01:44,220
+obviously working for the market price
+
+35
+00:01:44,220 --> 00:01:45,299
+up
+
+36
+00:01:45,299 --> 00:01:46,799
+we would be looking for a bearish
+
+37
+00:01:46,799 --> 00:01:48,360
+mitigation block
+
+38
+00:01:48,360 --> 00:01:51,180
+a bearish breaker
+
+39
+00:01:51,180 --> 00:01:53,399
+liquidity void
+
+40
+00:01:53,399 --> 00:01:55,799
+fair value Gap
+
+41
+00:01:55,799 --> 00:01:58,320
+a bearish order block
+
+42
+00:01:58,320 --> 00:02:00,600
+a rejection block
+
+43
+00:02:00,600 --> 00:02:04,520
+an old high or an old low
+
+44
+00:02:05,219 --> 00:02:08,160
+for the market price and below for a
+
+45
+00:02:08,160 --> 00:02:09,419
+discount Market
+
+46
+00:02:09,419 --> 00:02:11,038
+we would be looking for a bullish
+
+47
+00:02:11,038 --> 00:02:12,660
+mitigation block
+
+48
+00:02:12,660 --> 00:02:16,319
+a bullish breaker liquidity void
+
+49
+00:02:16,319 --> 00:02:18,360
+fair value Gap
+
+50
+00:02:18,360 --> 00:02:20,160
+bullish order block
+
+51
+00:02:20,160 --> 00:02:21,959
+rejection block
+
+52
+00:02:21,959 --> 00:02:25,200
+old low or old High
+
+53
+00:02:25,200 --> 00:02:28,260
+moving from the market price up in the
+
+54
+00:02:28,260 --> 00:02:30,060
+order that's listed in the premium data
+
+55
+00:02:30,060 --> 00:02:32,400
+arrays that's the
+
+56
+00:02:32,400 --> 00:02:35,640
+order in which the algorithm will seek
+
+57
+00:02:35,640 --> 00:02:39,060
+those respective price reference points
+
+58
+00:02:39,060 --> 00:02:41,280
+they're not in any different order this
+
+59
+00:02:41,280 --> 00:02:43,440
+is the order for the hierarchy in the
+
+60
+00:02:43,440 --> 00:02:45,480
+way that they're set up
+
+61
+00:02:45,480 --> 00:02:49,620
+there is not always a void or Gap or
+
+62
+00:02:49,620 --> 00:02:52,260
+mitigation block it may just simply need
+
+63
+00:02:52,260 --> 00:02:54,180
+to go all the way up to a bearish order
+
+64
+00:02:54,180 --> 00:02:56,819
+block or a rejection block and the same
+
+65
+00:02:56,819 --> 00:02:59,160
+thing is said in opposite terms for when
+
+66
+00:02:59,160 --> 00:03:02,000
+the Market's in a discount
+
+67
+00:03:03,840 --> 00:03:06,660
+it's not ambiguous when we look at price
+
+68
+00:03:06,660 --> 00:03:11,220
+in the form of the PD array Matrix
+
+69
+00:03:11,220 --> 00:03:13,440
+a good practice this is always to Simply
+
+70
+00:03:13,440 --> 00:03:15,780
+go through your price charts and just
+
+71
+00:03:15,780 --> 00:03:17,940
+look for where price is right now at the
+
+72
+00:03:17,940 --> 00:03:20,459
+market price and above you
+
+73
+00:03:20,459 --> 00:03:23,099
+okay looking back last
+
+74
+00:03:23,099 --> 00:03:25,860
+20 days and 40 days and 60 days
+
+75
+00:03:25,860 --> 00:03:29,940
+which PD arrays in the form of a premium
+
+76
+00:03:29,940 --> 00:03:34,019
+Market exist again not all of these
+
+77
+00:03:34,019 --> 00:03:37,260
+bearish or premium arrays will exist in
+
+78
+00:03:37,260 --> 00:03:39,060
+your price
+
+79
+00:03:39,060 --> 00:03:41,700
+there may be a selection of three or
+
+80
+00:03:41,700 --> 00:03:45,060
+four or maybe as little as two
+
+81
+00:03:45,060 --> 00:03:48,000
+rarely we have all of them
+
+82
+00:03:48,000 --> 00:03:50,159
+to choose from
+
+83
+00:03:50,159 --> 00:03:51,840
+so what you're doing is you're looking
+
+84
+00:03:51,840 --> 00:03:54,060
+back over the last 20 days
+
+85
+00:03:54,060 --> 00:03:56,519
+and you're looking to see above us in
+
+86
+00:03:56,519 --> 00:03:58,799
+terms of the market price what would be
+
+87
+00:03:58,799 --> 00:04:00,959
+deemed as a premium Market
+
+88
+00:04:00,959 --> 00:04:04,440
+the last 20 days which PD array exists
+
+89
+00:04:04,440 --> 00:04:06,420
+in price action
+
+90
+00:04:06,420 --> 00:04:08,879
+looking back 20 days
+
+91
+00:04:08,879 --> 00:04:14,360
+which discount PD array exists below us
+
+92
+00:04:14,459 --> 00:04:17,940
+there may be a PD array above and or
+
+93
+00:04:17,940 --> 00:04:20,519
+below us that's already been used by
+
+94
+00:04:20,519 --> 00:04:22,740
+Price action for instance you know maybe
+
+95
+00:04:22,740 --> 00:04:24,419
+a bullish order block
+
+96
+00:04:24,419 --> 00:04:26,759
+price is already traded down into and
+
+97
+00:04:26,759 --> 00:04:29,280
+responded and reacted accordingly and
+
+98
+00:04:29,280 --> 00:04:31,199
+had higher prices
+
+99
+00:04:31,199 --> 00:04:34,080
+that PD array has now been exhausted so
+
+100
+00:04:34,080 --> 00:04:36,300
+you'd have to look for another discount
+
+101
+00:04:36,300 --> 00:04:39,199
+PD array
+
+102
+00:04:39,479 --> 00:04:42,600
+when we refer to time and price what
+
+103
+00:04:42,600 --> 00:04:44,880
+we're doing is we're blending both the
+
+104
+00:04:44,880 --> 00:04:47,880
+components just like the algorithm does
+
+105
+00:04:47,880 --> 00:04:50,460
+the algorithm has to go back a specific
+
+106
+00:04:50,460 --> 00:04:52,860
+number of time
+
+107
+00:04:52,860 --> 00:04:56,040
+so what we do is we break it into 20
+
+108
+00:04:56,040 --> 00:04:57,720
+trading days which is essentially one
+
+109
+00:04:57,720 --> 00:04:58,620
+month
+
+110
+00:04:58,620 --> 00:05:00,900
+40 trading days which is essentially two
+
+111
+00:05:00,900 --> 00:05:03,479
+months and 60 trading days which is
+
+112
+00:05:03,479 --> 00:05:06,979
+essentially three trading months
+
+113
+00:05:07,380 --> 00:05:11,460
+by combining both time and price we get
+
+114
+00:05:11,460 --> 00:05:13,500
+the closest thing we can arrive at in
+
+115
+00:05:13,500 --> 00:05:15,419
+terms of what the algorithm will seek to
+
+116
+00:05:15,419 --> 00:05:18,060
+do in terms of trading to the next level
+
+117
+00:05:18,060 --> 00:05:19,979
+liquidity
+
+118
+00:05:19,979 --> 00:05:22,620
+when the markets are bearish
+
+119
+00:05:22,620 --> 00:05:24,960
+we work from a premium Market down to a
+
+120
+00:05:24,960 --> 00:05:26,400
+discount
+
+121
+00:05:26,400 --> 00:05:29,220
+based on whatever premium PD array
+
+122
+00:05:29,220 --> 00:05:32,160
+discount PD array exist in your current
+
+123
+00:05:32,160 --> 00:05:34,320
+market action
+
+124
+00:05:34,320 --> 00:05:37,560
+when it's bearish those premium PD
+
+125
+00:05:37,560 --> 00:05:40,800
+arrays will be your resistance points or
+
+126
+00:05:40,800 --> 00:05:43,139
+where cell signals or sell-offs will
+
+127
+00:05:43,139 --> 00:05:44,039
+occur
+
+128
+00:05:44,039 --> 00:05:47,460
+or new cell setups
+
+129
+00:05:47,460 --> 00:05:49,979
+the objective for price to reach down
+
+130
+00:05:49,979 --> 00:05:53,880
+into will be the discount PD arrays that
+
+131
+00:05:53,880 --> 00:05:56,280
+exist in your price action
+
+132
+00:05:56,280 --> 00:05:58,860
+we don't force the idea of any of these
+
+133
+00:05:58,860 --> 00:06:00,240
+PD arrays
+
+134
+00:06:00,240 --> 00:06:02,759
+they're either in the chart or they're
+
+135
+00:06:02,759 --> 00:06:04,500
+not
+
+136
+00:06:04,500 --> 00:06:06,780
+if there's an absence of any one of them
+
+137
+00:06:06,780 --> 00:06:10,860
+it doesn't negate or increase or lessen
+
+138
+00:06:10,860 --> 00:06:14,340
+the validity of a ideal setup
+
+139
+00:06:14,340 --> 00:06:16,800
+it just means that you have far less to
+
+140
+00:06:16,800 --> 00:06:18,960
+choose from in terms of targets
+
+141
+00:06:18,960 --> 00:06:22,580
+or setups
+
+142
+00:06:22,680 --> 00:06:24,060
+all right let's take a look at an
+
+143
+00:06:24,060 --> 00:06:25,860
+example we're going to use the
+
+144
+00:06:25,860 --> 00:06:27,360
+Australian dollar this is the daily
+
+145
+00:06:27,360 --> 00:06:29,660
+chart
+
+146
+00:06:29,819 --> 00:06:31,199
+and the first thing you want to do is
+
+147
+00:06:31,199 --> 00:06:33,720
+you want to break your market up in
+
+148
+00:06:33,720 --> 00:06:37,039
+reference to time
+
+149
+00:06:38,639 --> 00:06:40,620
+so now we have the look back of 20
+
+150
+00:06:40,620 --> 00:06:42,000
+trading days
+
+151
+00:06:42,000 --> 00:06:47,120
+40 trading days and 60 trading days
+
+152
+00:06:51,840 --> 00:06:53,940
+we can go back all the way to the 60
+
+153
+00:06:53,940 --> 00:06:55,380
+trading days
+
+154
+00:06:55,380 --> 00:06:58,080
+and you can see that the lowest point
+
+155
+00:06:58,080 --> 00:07:00,539
+with the old load noted
+
+156
+00:07:00,539 --> 00:07:03,000
+and the highest high formed in the last
+
+157
+00:07:03,000 --> 00:07:06,120
+20 trading days that is our total 60-day
+
+158
+00:07:06,120 --> 00:07:09,199
+trading range
+
+159
+00:07:09,479 --> 00:07:12,060
+splitting that market in half in
+
+160
+00:07:12,060 --> 00:07:14,280
+reference to its old High
+
+161
+00:07:14,280 --> 00:07:16,560
+and it's old low we can see where the
+
+162
+00:07:16,560 --> 00:07:21,560
+premium and discount Market ranges exist
+
+163
+00:07:22,740 --> 00:07:25,620
+if this old Woe Is violated
+
+164
+00:07:25,620 --> 00:07:28,080
+we would have to go back
+
+165
+00:07:28,080 --> 00:07:31,500
+and look at the old low
+
+166
+00:07:31,500 --> 00:07:35,160
+formed in the 60-day look back period
+
+167
+00:07:35,160 --> 00:07:37,860
+the arrow delineating the the lowest low
+
+168
+00:07:37,860 --> 00:07:40,560
+in the last 20 trading days if that is
+
+169
+00:07:40,560 --> 00:07:43,020
+violated and traded below
+
+170
+00:07:43,020 --> 00:07:45,419
+we would go back not to the 40 trading
+
+171
+00:07:45,419 --> 00:07:48,120
+days because there's no lower low
+
+172
+00:07:48,120 --> 00:07:51,740
+the next lower low or discount PD array
+
+173
+00:07:51,740 --> 00:07:54,720
+exists in the 60-day look back
+
+174
+00:07:54,720 --> 00:07:59,120
+and those levels are noted respectively
+
+175
+00:08:00,720 --> 00:08:03,720
+the last 40 trading days you can see the
+
+176
+00:08:03,720 --> 00:08:05,819
+range is defined by the highest high and
+
+177
+00:08:05,819 --> 00:08:08,340
+the lowest low in the last 20 trading
+
+178
+00:08:08,340 --> 00:08:10,520
+days
+
+179
+00:08:16,380 --> 00:08:18,240
+so when we look at the last 20 trading
+
+180
+00:08:18,240 --> 00:08:19,800
+days
+
+181
+00:08:19,800 --> 00:08:22,199
+what we do is we think in terms of the
+
+182
+00:08:22,199 --> 00:08:24,539
+PD array Matrix
+
+183
+00:08:24,539 --> 00:08:26,819
+now what I've done here is I've overlaid
+
+184
+00:08:26,819 --> 00:08:28,620
+the actual
+
+185
+00:08:28,620 --> 00:08:30,000
+Matrix
+
+186
+00:08:30,000 --> 00:08:31,740
+now you don't need to have this much
+
+187
+00:08:31,740 --> 00:08:34,559
+information or try to have this in your
+
+188
+00:08:34,559 --> 00:08:37,020
+price action but I'm giving you a
+
+189
+00:08:37,020 --> 00:08:39,479
+graphic depiction on how I internalize
+
+190
+00:08:39,479 --> 00:08:42,299
+and I interpret price action
+
+191
+00:08:42,299 --> 00:08:45,240
+so if we see where price is right now at
+
+192
+00:08:45,240 --> 00:08:47,399
+Friday's close of the week of this
+
+193
+00:08:47,399 --> 00:08:49,019
+recording
+
+194
+00:08:49,019 --> 00:08:52,140
+market price is defined as Friday's
+
+195
+00:08:52,140 --> 00:08:55,200
+close and we would be looking at the
+
+196
+00:08:55,200 --> 00:08:57,839
+highest high and the lowest low in the
+
+197
+00:08:57,839 --> 00:08:59,640
+last 20 trading days
+
+198
+00:08:59,640 --> 00:09:01,680
+that's our first look back period of 20
+
+199
+00:09:01,680 --> 00:09:03,720
+trading days
+
+200
+00:09:03,720 --> 00:09:06,000
+we start looking for bearish mitigation
+
+201
+00:09:06,000 --> 00:09:08,880
+blocks in the premium range a bearish
+
+202
+00:09:08,880 --> 00:09:12,360
+breaker liquidity void fair value Gap
+
+203
+00:09:12,360 --> 00:09:15,120
+bearish order block rejection blocks and
+
+204
+00:09:15,120 --> 00:09:18,600
+or on Old high or old low
+
+205
+00:09:18,600 --> 00:09:21,420
+the low market price we identify any
+
+206
+00:09:21,420 --> 00:09:23,399
+bullish mitigation blocks
+
+207
+00:09:23,399 --> 00:09:25,080
+a bullish breaker
+
+208
+00:09:25,080 --> 00:09:26,820
+liquidity void
+
+209
+00:09:26,820 --> 00:09:29,519
+a fair value Gap bullish order block
+
+210
+00:09:29,519 --> 00:09:31,320
+rejection block
+
+211
+00:09:31,320 --> 00:09:35,540
+or an old low and or high
+
+212
+00:09:39,540 --> 00:09:41,339
+with that in mind
+
+213
+00:09:41,339 --> 00:09:43,200
+what I've noted is in the last 20
+
+214
+00:09:43,200 --> 00:09:46,140
+trading days these are the respective
+
+215
+00:09:46,140 --> 00:09:48,839
+premium and discount PD arrays in the
+
+216
+00:09:48,839 --> 00:09:51,740
+last 20 trading days
+
+217
+00:09:52,019 --> 00:09:54,660
+working our way from the top down we
+
+218
+00:09:54,660 --> 00:09:56,459
+have an old High
+
+219
+00:09:56,459 --> 00:09:58,860
+a rejection block
+
+220
+00:09:58,860 --> 00:10:02,519
+a bearish order block mean threshold
+
+221
+00:10:02,519 --> 00:10:06,060
+that's the three of candles the ranges
+
+222
+00:10:06,060 --> 00:10:09,300
+of their bodies highs high and lowest
+
+223
+00:10:09,300 --> 00:10:12,300
+low in terms of the bodies not the wicks
+
+224
+00:10:12,300 --> 00:10:14,279
+that's the mean threshold or Midway
+
+225
+00:10:14,279 --> 00:10:15,660
+point
+
+226
+00:10:15,660 --> 00:10:18,779
+then we have the bearish order block
+
+227
+00:10:18,779 --> 00:10:22,080
+and then we trade down into the discount
+
+228
+00:10:22,080 --> 00:10:25,620
+area we see a bullish order block
+
+229
+00:10:25,620 --> 00:10:28,440
+bullish order box mean threshold
+
+230
+00:10:28,440 --> 00:10:31,080
+the rejection block and then finally the
+
+231
+00:10:31,080 --> 00:10:33,620
+old blow
+
+232
+00:10:36,779 --> 00:10:39,480
+if we move down into a four hour chart
+
+233
+00:10:39,480 --> 00:10:41,940
+you can see how these PD arrays give you
+
+234
+00:10:41,940 --> 00:10:44,459
+much more detail you can start to see
+
+235
+00:10:44,459 --> 00:10:47,220
+how price moves from one PD array to the
+
+236
+00:10:47,220 --> 00:10:49,339
+next
+
+237
+00:10:50,700 --> 00:10:53,160
+the market for the Australian dollar
+
+238
+00:10:53,160 --> 00:10:55,920
+made a higher high on Tuesday
+
+239
+00:10:55,920 --> 00:10:58,860
+failed to make a higher high and trade
+
+240
+00:10:58,860 --> 00:11:02,880
+higher into a monthly range as I had
+
+241
+00:11:02,880 --> 00:11:05,700
+expected in my analysis
+
+242
+00:11:05,700 --> 00:11:07,680
+you're going to learn that having these
+
+243
+00:11:07,680 --> 00:11:10,800
+understandings of short-term Trading
+
+244
+00:11:10,800 --> 00:11:13,320
+it's not required for you to know all
+
+245
+00:11:13,320 --> 00:11:15,300
+the time exactly where the Market's
+
+246
+00:11:15,300 --> 00:11:18,600
+going to go if you fail in your analysis
+
+247
+00:11:18,600 --> 00:11:21,260
+it'll give you an immediate reason to
+
+248
+00:11:21,260 --> 00:11:24,779
+maybe reverse your analysis and take the
+
+249
+00:11:24,779 --> 00:11:27,120
+trades in the opposite direction
+
+250
+00:11:27,120 --> 00:11:29,220
+this was the case this week in our
+
+251
+00:11:29,220 --> 00:11:30,600
+mentorship
+
+252
+00:11:30,600 --> 00:11:33,360
+originally I was long or bullish on the
+
+253
+00:11:33,360 --> 00:11:35,220
+Australian dollar but the expectation of
+
+254
+00:11:35,220 --> 00:11:37,140
+a larger price move
+
+255
+00:11:37,140 --> 00:11:40,140
+it failed to do so on Tuesday
+
+256
+00:11:40,140 --> 00:11:42,959
+once Tuesday broke down
+
+257
+00:11:42,959 --> 00:11:45,180
+as you'll see in the later slides in
+
+258
+00:11:45,180 --> 00:11:47,459
+this presentation we have a lot more
+
+259
+00:11:47,459 --> 00:11:49,740
+analysis to suggest the price was going
+
+260
+00:11:49,740 --> 00:11:51,360
+to trade down and close the liquidity
+
+261
+00:11:51,360 --> 00:11:52,260
+void
+
+262
+00:11:52,260 --> 00:11:54,240
+now again this is a four hour chart so
+
+263
+00:11:54,240 --> 00:11:58,380
+if we saw price fail on Tuesday
+
+264
+00:11:58,380 --> 00:12:02,880
+and break down lower during Tuesday
+
+265
+00:12:02,880 --> 00:12:06,420
+we start looking for bearish ideas
+
+266
+00:12:06,420 --> 00:12:09,360
+inside of the premium range so we look
+
+267
+00:12:09,360 --> 00:12:12,660
+for all the premium PD arrays to start
+
+268
+00:12:12,660 --> 00:12:16,560
+keying off all potential cell scenarios
+
+269
+00:12:16,560 --> 00:12:18,839
+when we sell short
+
+270
+00:12:18,839 --> 00:12:21,779
+on The Daily PD arrays in the premium
+
+271
+00:12:21,779 --> 00:12:24,120
+range we would be looking for a lesser
+
+272
+00:12:24,120 --> 00:12:28,500
+time frame to Target our exit
+
+273
+00:12:28,500 --> 00:12:30,360
+that would be in the form of a four hour
+
+274
+00:12:30,360 --> 00:12:33,000
+or one hour chart
+
+275
+00:12:33,000 --> 00:12:34,940
+the four hour here shows a clear
+
+276
+00:12:34,940 --> 00:12:39,500
+liquidity void as outlined here
+
+277
+00:12:40,800 --> 00:12:43,800
+price also trades back up into a
+
+278
+00:12:43,800 --> 00:12:45,959
+mitigation and breaker
+
+279
+00:12:45,959 --> 00:12:47,760
+trades up to an Institutional price
+
+280
+00:12:47,760 --> 00:12:50,459
+level 76.80
+
+281
+00:12:50,459 --> 00:12:53,220
+and while we're not necessarily needing
+
+282
+00:12:53,220 --> 00:12:55,680
+the actual high of the week we can still
+
+283
+00:12:55,680 --> 00:12:57,899
+take participation in the market move
+
+284
+00:12:57,899 --> 00:13:00,839
+because we understand that the shift in
+
+285
+00:13:00,839 --> 00:13:04,800
+order flow has now been moved to bearish
+
+286
+00:13:04,800 --> 00:13:07,920
+so we were looking for
+
+287
+00:13:07,920 --> 00:13:10,260
+discount PD arrays
+
+288
+00:13:10,260 --> 00:13:12,600
+the low Market action
+
+289
+00:13:12,600 --> 00:13:17,720
+at 76.80 we were in the premium range
+
+290
+00:13:17,820 --> 00:13:21,180
+the void closes and takes us into the
+
+291
+00:13:21,180 --> 00:13:23,940
+discount range notice that in the Shaded
+
+292
+00:13:23,940 --> 00:13:26,420
+green area
+
+293
+00:13:29,820 --> 00:13:32,279
+if we further refine this into the days
+
+294
+00:13:32,279 --> 00:13:34,500
+of the week on a four hour chart you can
+
+295
+00:13:34,500 --> 00:13:36,720
+see how this clearly came down and
+
+296
+00:13:36,720 --> 00:13:40,079
+closed in the liquidity void
+
+297
+00:13:40,079 --> 00:13:43,100
+right to the PIP
+
+298
+00:13:47,399 --> 00:13:50,220
+if we add our Market maker manipulation
+
+299
+00:13:50,220 --> 00:13:53,339
+template forming the high of the week on
+
+300
+00:13:53,339 --> 00:13:56,220
+Tuesday trading at an old monthly weekly
+
+301
+00:13:56,220 --> 00:13:59,700
+and or daily High liquidity pool
+
+302
+00:13:59,700 --> 00:14:02,519
+that's what we saw on Tuesday it traded
+
+303
+00:14:02,519 --> 00:14:04,680
+slightly above Monday's high
+
+304
+00:14:04,680 --> 00:14:08,220
+rejected it once Tuesday broke down
+
+305
+00:14:08,220 --> 00:14:09,779
+the likelihood that we would see lower
+
+306
+00:14:09,779 --> 00:14:13,019
+prices was in effect why I said we could
+
+307
+00:14:13,019 --> 00:14:16,620
+start looking for shorts at 76.80 with
+
+308
+00:14:16,620 --> 00:14:19,860
+the objective of 7605 as our downside
+
+309
+00:14:19,860 --> 00:14:21,240
+objective
+
+310
+00:14:21,240 --> 00:14:24,300
+that was framed as we see on our Market
+
+311
+00:14:24,300 --> 00:14:25,740
+maker
+
+312
+00:14:25,740 --> 00:14:28,320
+manipulation template the discount
+
+313
+00:14:28,320 --> 00:14:31,920
+Market PD array is going to be used on a
+
+314
+00:14:31,920 --> 00:14:34,380
+time frame lesser than the premium
+
+315
+00:14:34,380 --> 00:14:37,320
+liquidity pool that was used so the
+
+316
+00:14:37,320 --> 00:14:38,459
+daily
+
+317
+00:14:38,459 --> 00:14:41,420
+high on Monday was violated on Tuesday
+
+318
+00:14:41,420 --> 00:14:44,940
+that's a liquidity pool raid
+
+319
+00:14:44,940 --> 00:14:46,620
+on a daily High
+
+320
+00:14:46,620 --> 00:14:48,839
+if that's the context we're going to
+
+321
+00:14:48,839 --> 00:14:51,000
+drop down to a four hour and or a one
+
+322
+00:14:51,000 --> 00:14:52,440
+hour chart
+
+323
+00:14:52,440 --> 00:14:56,820
+to look for a discount PD array
+
+324
+00:14:56,820 --> 00:15:00,360
+it comes in the form of liquidity void
+
+325
+00:15:00,360 --> 00:15:03,120
+taking us down into 7605 was our
+
+326
+00:15:03,120 --> 00:15:05,600
+objective
+
+327
+00:15:05,760 --> 00:15:08,639
+everything tied together we get a
+
+328
+00:15:08,639 --> 00:15:10,199
+combination of
+
+329
+00:15:10,199 --> 00:15:12,839
+elements of time and price
+
+330
+00:15:12,839 --> 00:15:14,760
+blending
+
+331
+00:15:14,760 --> 00:15:17,399
+and using the market maker manipulation
+
+332
+00:15:17,399 --> 00:15:20,220
+templates in accordance to our market
+
+333
+00:15:20,220 --> 00:15:23,040
+profiles that we used and learned in
+
+334
+00:15:23,040 --> 00:15:24,480
+lesson two
+
+335
+00:15:24,480 --> 00:15:26,040
+we get a symmetry in the marketplace
+
+336
+00:15:26,040 --> 00:15:27,720
+that would otherwise probably Escape
+
+337
+00:15:27,720 --> 00:15:30,060
+everyone else
+
+338
+00:15:30,060 --> 00:15:32,100
+so hopefully this is
+
+339
+00:15:32,100 --> 00:15:34,079
+an example
+
+340
+00:15:34,079 --> 00:15:36,480
+and understanding and using an example
+
+341
+00:15:36,480 --> 00:15:37,620
+we used
+
+342
+00:15:37,620 --> 00:15:40,260
+in live analysis this week
+
+343
+00:15:40,260 --> 00:15:43,079
+while we were initially wrong and our
+
+344
+00:15:43,079 --> 00:15:45,320
+expectation of a higher breakout on
+
+345
+00:15:45,320 --> 00:15:47,760
+Aussie dollar
+
+346
+00:15:47,760 --> 00:15:50,880
+that failure swing on Tuesday
+
+347
+00:15:50,880 --> 00:15:53,040
+gave us Insight on how we can change
+
+348
+00:15:53,040 --> 00:15:55,380
+gears and get short on Aussie dollar
+
+349
+00:15:55,380 --> 00:15:58,440
+even while it traded in sympathy with
+
+350
+00:15:58,440 --> 00:16:02,480
+the weaker dollar which isn't typical
+
+351
+00:16:03,360 --> 00:16:06,660
+blending the two time and price it gives
+
+352
+00:16:06,660 --> 00:16:09,420
+us the ability to work within the same
+
+353
+00:16:09,420 --> 00:16:12,420
+parameters that the algorithm will at
+
+354
+00:16:12,420 --> 00:16:15,000
+the interbank level
+
+355
+00:16:15,000 --> 00:16:16,500
+hopefully this has been insightful to
+
+356
+00:16:16,500 --> 00:16:19,019
+you we'll build more on these ideas as
+
+357
+00:16:19,019 --> 00:16:21,600
+we go through and trade with more
+
+358
+00:16:21,600 --> 00:16:25,079
+insights using the ifta data ranges and
+
+359
+00:16:25,079 --> 00:16:28,160
+PD array Matrix
+

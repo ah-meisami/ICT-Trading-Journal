@@ -1,0 +1,2300 @@
+1
+00:00:15,000 --> 00:00:17,460
+welcome to lesson five folks short-term
+
+2
+00:00:17,460 --> 00:00:18,660
+trading this teaching is going to be
+
+3
+00:00:18,660 --> 00:00:20,039
+specifically talking about low
+
+4
+00:00:20,039 --> 00:00:21,660
+resistance liquidity runs and
+
+5
+00:00:21,660 --> 00:00:24,320
+consolidations
+
+6
+00:00:29,279 --> 00:00:32,098
+okay we have to preface it by a reminder
+
+7
+00:00:32,098 --> 00:00:35,340
+of every setup that we look
+
+8
+00:00:35,340 --> 00:00:37,020
+to execute on
+
+9
+00:00:37,020 --> 00:00:40,140
+and to stalk into the track if you will
+
+10
+00:00:40,140 --> 00:00:42,480
+is based on time and price
+
+11
+00:00:42,480 --> 00:00:45,000
+and the time element is going to be
+
+12
+00:00:45,000 --> 00:00:48,000
+related to the upto data ranges
+
+13
+00:00:48,000 --> 00:00:49,739
+last 60 days
+
+14
+00:00:49,739 --> 00:00:51,840
+40 and 20.
+
+15
+00:00:51,840 --> 00:00:53,940
+and we're going to be focusing on
+
+16
+00:00:53,940 --> 00:00:57,360
+premium and discount PD arrays
+
+17
+00:00:57,360 --> 00:01:01,020
+so for short-term Trading
+
+18
+00:01:01,020 --> 00:01:04,440
+we will excel in the range of the last
+
+19
+00:01:04,440 --> 00:01:06,900
+three months so the up to data range of
+
+20
+00:01:06,900 --> 00:01:08,340
+60 days
+
+21
+00:01:08,340 --> 00:01:10,920
+is our look back period
+
+22
+00:01:10,920 --> 00:01:14,220
+and it's going to comprise every element
+
+23
+00:01:14,220 --> 00:01:16,979
+that we need to frame a short-term trade
+
+24
+00:01:16,979 --> 00:01:19,920
+or one shot one kill
+
+25
+00:01:19,920 --> 00:01:22,080
+now as a reminder
+
+26
+00:01:22,080 --> 00:01:25,020
+when we deal with time and price you
+
+27
+00:01:25,020 --> 00:01:27,900
+price moves from a premium to a discount
+
+28
+00:01:27,900 --> 00:01:30,900
+array or from a discount array to a
+
+29
+00:01:30,900 --> 00:01:32,240
+premium array
+
+30
+00:01:32,240 --> 00:01:35,640
+in between these two Realms of premium
+
+31
+00:01:35,640 --> 00:01:37,200
+and discount
+
+32
+00:01:37,200 --> 00:01:40,259
+price will key off of a time element
+
+33
+00:01:40,259 --> 00:01:42,960
+related to the if the data range so
+
+34
+00:01:42,960 --> 00:01:45,360
+we're blending both time and price
+
+35
+00:01:45,360 --> 00:01:49,799
+an element of the last 20 40 and 60 days
+
+36
+00:01:49,799 --> 00:01:53,280
+to a institutional reference point in
+
+37
+00:01:53,280 --> 00:01:57,020
+the realm of the PD array Matrix
+
+38
+00:02:03,240 --> 00:02:06,140
+okay for our study and case study
+
+39
+00:02:06,140 --> 00:02:08,038
+examples we're going to be looking at
+
+40
+00:02:08,038 --> 00:02:12,420
+the cable or British pound USD
+
+41
+00:02:12,420 --> 00:02:14,280
+and this is a daily chart
+
+42
+00:02:14,280 --> 00:02:17,580
+and what we do is we Define a market
+
+43
+00:02:17,580 --> 00:02:20,760
+whether that it's it's trending or it's
+
+44
+00:02:20,760 --> 00:02:23,640
+in consolidation and obviously anyone
+
+45
+00:02:23,640 --> 00:02:25,739
+with the average intelligence in terms
+
+46
+00:02:25,739 --> 00:02:28,500
+of market analysis they can tell looking
+
+47
+00:02:28,500 --> 00:02:31,140
+at the British pound we have been in a
+
+48
+00:02:31,140 --> 00:02:33,180
+consolidation Mark it's not been in a
+
+49
+00:02:33,180 --> 00:02:34,500
+trending Mark it's been in consolidation
+
+50
+00:02:34,500 --> 00:02:37,200
+so whenever we see a market that's range
+
+51
+00:02:37,200 --> 00:02:40,860
+bound or it's cannot move outside of the
+
+52
+00:02:40,860 --> 00:02:42,360
+current trading range that you're
+
+53
+00:02:42,360 --> 00:02:43,680
+looking at
+
+54
+00:02:43,680 --> 00:02:46,080
+at any given time on a daily chart
+
+55
+00:02:46,080 --> 00:02:49,080
+you're looking at a frame of about three
+
+56
+00:02:49,080 --> 00:02:50,459
+months again you'll come back three
+
+57
+00:02:50,459 --> 00:02:52,800
+months or 60 trading days which is the
+
+58
+00:02:52,800 --> 00:02:55,080
+relative if the data range that we use
+
+59
+00:02:55,080 --> 00:02:56,459
+for maximum
+
+60
+00:02:56,459 --> 00:02:59,580
+definition of look back
+
+61
+00:02:59,580 --> 00:03:02,099
+so when we have this framework in terms
+
+62
+00:03:02,099 --> 00:03:04,800
+of the last 60 days what we do is we
+
+63
+00:03:04,800 --> 00:03:08,099
+have to define the range in terms of a
+
+64
+00:03:08,099 --> 00:03:10,200
+high and a low
+
+65
+00:03:10,200 --> 00:03:12,720
+now what we do is we Define the range in
+
+66
+00:03:12,720 --> 00:03:14,099
+the form of its highest and lowest
+
+67
+00:03:14,099 --> 00:03:16,019
+Candlestick body
+
+68
+00:03:16,019 --> 00:03:18,360
+we're not concerned about the Wix so
+
+69
+00:03:18,360 --> 00:03:20,940
+much but we're primarily looking at the
+
+70
+00:03:20,940 --> 00:03:22,739
+bodies of the candles
+
+71
+00:03:22,739 --> 00:03:25,680
+so I have here the lowest and the
+
+72
+00:03:25,680 --> 00:03:26,700
+highest
+
+73
+00:03:26,700 --> 00:03:29,280
+in terms of the candlesticks bodies and
+
+74
+00:03:29,280 --> 00:03:31,019
+you can see those reference points here
+
+75
+00:03:31,019 --> 00:03:33,360
+but the arrows
+
+76
+00:03:33,360 --> 00:03:35,819
+and that's going to be our range that
+
+77
+00:03:35,819 --> 00:03:37,500
+we're going to be framing all of our
+
+78
+00:03:37,500 --> 00:03:39,599
+analysis Concepts as it relates to one
+
+79
+00:03:39,599 --> 00:03:42,200
+shot one kill
+
+80
+00:03:43,920 --> 00:03:45,659
+okay so what we'll have to do is we have
+
+81
+00:03:45,659 --> 00:03:47,340
+to look at the market
+
+82
+00:03:47,340 --> 00:03:50,819
+in this range and we can use a tool
+
+83
+00:03:50,819 --> 00:03:52,500
+that's on every platform it's the
+
+84
+00:03:52,500 --> 00:03:53,879
+Fibonacci
+
+85
+00:03:53,879 --> 00:03:55,440
+so we're going to use our FIB tool to
+
+86
+00:03:55,440 --> 00:03:57,900
+determine the 50 of the range and we're
+
+87
+00:03:57,900 --> 00:03:59,580
+going to note that range
+
+88
+00:03:59,580 --> 00:04:01,440
+midpoint
+
+89
+00:04:01,440 --> 00:04:04,560
+so I'm dragging the Fib from the highest
+
+90
+00:04:04,560 --> 00:04:06,239
+body candle
+
+91
+00:04:06,239 --> 00:04:07,980
+to the lowest body candle in other words
+
+92
+00:04:07,980 --> 00:04:10,920
+I'm not using the lowest Wick low in the
+
+93
+00:04:10,920 --> 00:04:13,260
+highest Wick High I'm looking for the
+
+94
+00:04:13,260 --> 00:04:16,320
+highest body on the candles either it's
+
+95
+00:04:16,320 --> 00:04:18,540
+an open or closed I don't care which one
+
+96
+00:04:18,540 --> 00:04:22,860
+it is but whatever highest form of high
+
+97
+00:04:22,860 --> 00:04:25,080
+open or close that's the one I'm looking
+
+98
+00:04:25,080 --> 00:04:27,900
+for in the last 60 trading days and I'm
+
+99
+00:04:27,900 --> 00:04:29,940
+looking for the lowest open or close in
+
+100
+00:04:29,940 --> 00:04:31,740
+the last 60 trading days
+
+101
+00:04:31,740 --> 00:04:34,259
+that gives me my defined range in terms
+
+102
+00:04:34,259 --> 00:04:35,820
+of consolidation
+
+103
+00:04:35,820 --> 00:04:39,300
+then I note the 50 level and I draw a
+
+104
+00:04:39,300 --> 00:04:42,919
+horizontal line on my daily chart
+
+105
+00:04:49,440 --> 00:04:52,080
+next we have to determine the 50 levels
+
+106
+00:04:52,080 --> 00:04:55,620
+of the upper and lower ranges
+
+107
+00:04:55,620 --> 00:04:57,840
+anything above the 50 level that's going
+
+108
+00:04:57,840 --> 00:04:59,220
+to be our
+
+109
+00:04:59,220 --> 00:05:01,740
+area which we look for cell scenarios
+
+110
+00:05:01,740 --> 00:05:04,199
+either by taking profit on Longs or
+
+111
+00:05:04,199 --> 00:05:06,660
+short positions and anything in the
+
+112
+00:05:06,660 --> 00:05:08,940
+lower portion we're looking for Longs or
+
+113
+00:05:08,940 --> 00:05:12,680
+covering short positions
+
+114
+00:05:15,120 --> 00:05:17,639
+now the upper portion of the range
+
+115
+00:05:17,639 --> 00:05:21,360
+from the highest body close or open to
+
+116
+00:05:21,360 --> 00:05:23,340
+the midpoint that we Define by the total
+
+117
+00:05:23,340 --> 00:05:25,139
+consolidation range
+
+118
+00:05:25,139 --> 00:05:27,780
+we measure that with the FIB as well and
+
+119
+00:05:27,780 --> 00:05:29,100
+I gave you two examples of where you
+
+120
+00:05:29,100 --> 00:05:30,479
+could draw the anchor points with your
+
+121
+00:05:30,479 --> 00:05:33,440
+FIB with the arrows
+
+122
+00:05:33,900 --> 00:05:36,600
+and you note the 50 level on your fib
+
+123
+00:05:36,600 --> 00:05:40,280
+and you drop a horizontal line there
+
+124
+00:05:42,360 --> 00:05:45,900
+by noting this we've now noted the upper
+
+125
+00:05:45,900 --> 00:05:47,280
+range
+
+126
+00:05:47,280 --> 00:05:51,080
+for the total consolidation range
+
+127
+00:05:53,280 --> 00:05:54,479
+next
+
+128
+00:05:54,479 --> 00:05:56,880
+we do the same thing by noting the 50
+
+129
+00:05:56,880 --> 00:05:59,400
+level of the lower range between the
+
+130
+00:05:59,400 --> 00:06:00,960
+midpoint of the total consolidation
+
+131
+00:06:00,960 --> 00:06:05,759
+range to the lowest body close or open
+
+132
+00:06:05,759 --> 00:06:09,000
+noting it's 50 level as well on the FIB
+
+133
+00:06:09,000 --> 00:06:13,220
+and I drop a horizontal line on that
+
+134
+00:06:16,139 --> 00:06:20,160
+now what we have here is by defining our
+
+135
+00:06:20,160 --> 00:06:23,400
+consolidation range in this manner it
+
+136
+00:06:23,400 --> 00:06:25,259
+gives us a form of
+
+137
+00:06:25,259 --> 00:06:28,560
+premium and discount identification
+
+138
+00:06:28,560 --> 00:06:32,100
+anything above the midpoint or mean 50
+
+139
+00:06:32,100 --> 00:06:34,620
+level or in this case the gray
+
+140
+00:06:34,620 --> 00:06:37,740
+that would be deemed as a premium range
+
+141
+00:06:37,740 --> 00:06:39,780
+and anything below it would be deemed as
+
+142
+00:06:39,780 --> 00:06:42,740
+a discount range
+
+143
+00:06:46,500 --> 00:06:49,319
+next we identify the PD arrays in each
+
+144
+00:06:49,319 --> 00:06:51,840
+new range now I'm going to save this a
+
+145
+00:06:51,840 --> 00:06:54,000
+lot of time and just apply everything
+
+146
+00:06:54,000 --> 00:06:55,560
+from a monthly
+
+147
+00:06:55,560 --> 00:06:59,419
+a weekly and daily
+
+148
+00:07:00,240 --> 00:07:02,340
+okay so now you can see all of the if
+
+149
+00:07:02,340 --> 00:07:04,680
+the data ranges and from a form of a
+
+150
+00:07:04,680 --> 00:07:06,780
+premium and discount have been applied
+
+151
+00:07:06,780 --> 00:07:08,400
+to the chart
+
+152
+00:07:08,400 --> 00:07:10,139
+now I want you to look at this for a
+
+153
+00:07:10,139 --> 00:07:11,759
+moment before we go to the next slide so
+
+154
+00:07:11,759 --> 00:07:13,860
+pause the video here and really study
+
+155
+00:07:13,860 --> 00:07:16,759
+what's been identified
+
+156
+00:07:23,340 --> 00:07:25,800
+so every premium and discount array
+
+157
+00:07:25,800 --> 00:07:28,860
+provides setups in the overall PD array
+
+158
+00:07:28,860 --> 00:07:30,120
+Matrix
+
+159
+00:07:30,120 --> 00:07:32,520
+so what we're looking for is a element
+
+160
+00:07:32,520 --> 00:07:35,039
+of time and price to blend
+
+161
+00:07:35,039 --> 00:07:37,979
+a setup for a buy or a cell
+
+162
+00:07:37,979 --> 00:07:39,720
+we understand that the highest
+
+163
+00:07:39,720 --> 00:07:42,900
+probability trades for shorts is by
+
+164
+00:07:42,900 --> 00:07:47,099
+looking for any PD array
+
+165
+00:07:47,099 --> 00:07:48,780
+in the premium range of this
+
+166
+00:07:48,780 --> 00:07:50,639
+consolidation so anything above the
+
+167
+00:07:50,639 --> 00:07:52,680
+midpoint of the 50 level
+
+168
+00:07:52,680 --> 00:07:55,259
+or the gray level here that's going to
+
+169
+00:07:55,259 --> 00:07:58,919
+be ideal cell scenarios if it is coupled
+
+170
+00:07:58,919 --> 00:08:01,919
+with a PD array
+
+171
+00:08:01,919 --> 00:08:04,139
+for a premium Market
+
+172
+00:08:04,139 --> 00:08:07,080
+we are blending both time and price
+
+173
+00:08:07,080 --> 00:08:09,599
+we would look for that move to be
+
+174
+00:08:09,599 --> 00:08:13,979
+correlated to a later discount PD array
+
+175
+00:08:13,979 --> 00:08:16,919
+when price moves that down to either the
+
+176
+00:08:16,919 --> 00:08:19,680
+50 level of the total consolidation
+
+177
+00:08:19,680 --> 00:08:24,000
+or any level below the midpoint or 50
+
+178
+00:08:24,000 --> 00:08:26,360
+level of the consolidation
+
+179
+00:08:26,360 --> 00:08:30,419
+an example would be the fair value Gap
+
+180
+00:08:30,419 --> 00:08:32,219
+and bearish Order block
+
+181
+00:08:32,219 --> 00:08:35,700
+in the premium level
+
+182
+00:08:35,700 --> 00:08:37,919
+around the
+
+183
+00:08:37,919 --> 00:08:41,458
+February time period of 2017.
+
+184
+00:08:41,458 --> 00:08:44,700
+and pairing that with a weekly bullish
+
+185
+00:08:44,700 --> 00:08:46,800
+order blocking threshold
+
+186
+00:08:46,800 --> 00:08:49,380
+in a discount
+
+187
+00:08:49,380 --> 00:08:53,600
+in March of 2017.
+
+188
+00:08:59,399 --> 00:09:02,160
+now when we look at their quadrants like
+
+189
+00:09:02,160 --> 00:09:03,959
+this where it's been broken up into a
+
+190
+00:09:03,959 --> 00:09:06,360
+premium and discount
+
+191
+00:09:06,360 --> 00:09:09,480
+we can also further Define those
+
+192
+00:09:09,480 --> 00:09:10,620
+quadrants
+
+193
+00:09:10,620 --> 00:09:13,740
+into their own respective or unique
+
+194
+00:09:13,740 --> 00:09:15,959
+premium and discount trading range
+
+195
+00:09:15,959 --> 00:09:18,000
+and what do I mean by that well let's
+
+196
+00:09:18,000 --> 00:09:20,959
+take a closer look
+
+197
+00:09:22,620 --> 00:09:25,440
+as you can see here the lower quadrant
+
+198
+00:09:25,440 --> 00:09:27,720
+can be divided into
+
+199
+00:09:27,720 --> 00:09:30,360
+equal halves as well and that in itself
+
+200
+00:09:30,360 --> 00:09:32,700
+can be viewed from a premium and
+
+201
+00:09:32,700 --> 00:09:33,720
+discount
+
+202
+00:09:33,720 --> 00:09:36,320
+format
+
+203
+00:09:36,720 --> 00:09:39,600
+when we see these elements here anything
+
+204
+00:09:39,600 --> 00:09:43,260
+that forms as a discount PD array in a
+
+205
+00:09:43,260 --> 00:09:46,200
+discount range from this view or
+
+206
+00:09:46,200 --> 00:09:48,720
+perspective this is going to be high
+
+207
+00:09:48,720 --> 00:09:52,440
+probability short covering objectives or
+
+208
+00:09:52,440 --> 00:09:55,320
+it's going to be high probability new
+
+209
+00:09:55,320 --> 00:09:58,980
+long positions and any first profit
+
+210
+00:09:58,980 --> 00:10:01,980
+would be best taken on a loan once it
+
+211
+00:10:01,980 --> 00:10:04,080
+enters the premium
+
+212
+00:10:04,080 --> 00:10:09,200
+range of this uh PD array Matrix
+
+213
+00:10:13,080 --> 00:10:16,380
+again moving up the same thing can be
+
+214
+00:10:16,380 --> 00:10:19,320
+applied to the new quadrants that's
+
+215
+00:10:19,320 --> 00:10:20,459
+shown here
+
+216
+00:10:20,459 --> 00:10:22,980
+ideal Longs are entered at the discount
+
+217
+00:10:22,980 --> 00:10:24,540
+level
+
+218
+00:10:24,540 --> 00:10:27,600
+or in that discount range
+
+219
+00:10:27,600 --> 00:10:31,320
+and taking first profit would have to be
+
+220
+00:10:31,320 --> 00:10:34,320
+best applied by taking your uh first
+
+221
+00:10:34,320 --> 00:10:37,440
+long exit in the premium
+
+222
+00:10:37,440 --> 00:10:41,779
+range of this PD array Matrix
+
+223
+00:10:41,820 --> 00:10:43,500
+now what you're looking at is a daily
+
+224
+00:10:43,500 --> 00:10:47,160
+chart so in the form of a four hour or
+
+225
+00:10:47,160 --> 00:10:49,380
+one hour you'll see that there's going
+
+226
+00:10:49,380 --> 00:10:50,640
+to be
+
+227
+00:10:50,640 --> 00:10:53,880
+premium PD arrays in those lower four
+
+228
+00:10:53,880 --> 00:10:55,920
+hour and one hour time frames that you
+
+229
+00:10:55,920 --> 00:10:57,959
+could pair up first objectives for
+
+230
+00:10:57,959 --> 00:11:00,360
+targets I'm giving you the elements to
+
+231
+00:11:00,360 --> 00:11:02,220
+look at through the scope of a daily
+
+232
+00:11:02,220 --> 00:11:04,519
+chart
+
+233
+00:11:08,640 --> 00:11:12,180
+and I'm finally we can apply it to this
+
+234
+00:11:12,180 --> 00:11:13,920
+area as well each
+
+235
+00:11:13,920 --> 00:11:16,980
+path is further divided into new halves
+
+236
+00:11:16,980 --> 00:11:19,079
+but we're looking at it in the form of
+
+237
+00:11:19,079 --> 00:11:21,480
+an algorithmic way of defining premium
+
+238
+00:11:21,480 --> 00:11:22,560
+and discount
+
+239
+00:11:22,560 --> 00:11:25,079
+so when markets are creating discounts
+
+240
+00:11:25,079 --> 00:11:28,079
+like this again this discount range it's
+
+241
+00:11:28,079 --> 00:11:30,180
+shown here they're high probability
+
+242
+00:11:30,180 --> 00:11:33,060
+Longs and again a four hour or one hour
+
+243
+00:11:33,060 --> 00:11:36,480
+premium PD array as defined here you
+
+244
+00:11:36,480 --> 00:11:37,680
+can't see them in the daily but you
+
+245
+00:11:37,680 --> 00:11:39,360
+would drop down into a lower time frame
+
+246
+00:11:39,360 --> 00:11:41,880
+four hour and one hour to take first
+
+247
+00:11:41,880 --> 00:11:44,519
+profit on your Longs that you used to
+
+248
+00:11:44,519 --> 00:11:47,279
+get entries on by buying in the discount
+
+249
+00:11:47,279 --> 00:11:49,640
+area
+
+250
+00:11:53,100 --> 00:11:56,459
+now we're above the midpoint of the
+
+251
+00:11:56,459 --> 00:11:58,320
+total consolidation range
+
+252
+00:11:58,320 --> 00:12:00,600
+so now even though we're above it and
+
+253
+00:12:00,600 --> 00:12:03,079
+technically in a overall premium Market
+
+254
+00:12:03,079 --> 00:12:06,000
+we can still take Longs but it has to be
+
+255
+00:12:06,000 --> 00:12:08,040
+defined in the scope as we're showing
+
+256
+00:12:08,040 --> 00:12:10,560
+here we have the overall consolidation
+
+257
+00:12:10,560 --> 00:12:13,620
+we divide it in half then we divide
+
+258
+00:12:13,620 --> 00:12:15,899
+those halves into halves as well so we
+
+259
+00:12:15,899 --> 00:12:18,060
+have quadrants then those quadrants are
+
+260
+00:12:18,060 --> 00:12:19,860
+divided in half as well as we're showing
+
+261
+00:12:19,860 --> 00:12:21,959
+here in incremental increases moving
+
+262
+00:12:21,959 --> 00:12:24,000
+further up the overall consolidation
+
+263
+00:12:24,000 --> 00:12:24,899
+range
+
+264
+00:12:24,899 --> 00:12:26,880
+by buying in the discount range and
+
+265
+00:12:26,880 --> 00:12:28,620
+again taking first profit in a lower
+
+266
+00:12:28,620 --> 00:12:32,459
+four hour one hour premium range coupled
+
+267
+00:12:32,459 --> 00:12:35,880
+with a PD array that's premium based in
+
+268
+00:12:35,880 --> 00:12:36,959
+other words if we were buying for
+
+269
+00:12:36,959 --> 00:12:40,380
+instance the bullish order block mean
+
+270
+00:12:40,380 --> 00:12:42,420
+threshold here and a discount now
+
+271
+00:12:42,420 --> 00:12:44,940
+overall we're in a
+
+272
+00:12:44,940 --> 00:12:47,820
+premium Market but this is still
+
+273
+00:12:47,820 --> 00:12:51,060
+a possible long entry because we're in a
+
+274
+00:12:51,060 --> 00:12:53,360
+lower portion of that total
+
+275
+00:12:53,360 --> 00:12:56,160
+larger premium range so we still have
+
+276
+00:12:56,160 --> 00:12:59,100
+room to reach for higher premium PD
+
+277
+00:12:59,100 --> 00:13:00,779
+arrays and obviously we have rings that
+
+278
+00:13:00,779 --> 00:13:03,720
+reach for much higher objectives so
+
+279
+00:13:03,720 --> 00:13:05,760
+looking at it like this framing it what
+
+280
+00:13:05,760 --> 00:13:08,040
+would otherwise be deemed as overbought
+
+281
+00:13:08,040 --> 00:13:10,139
+we don't view it like that this is why
+
+282
+00:13:10,139 --> 00:13:12,660
+indicators do not work from a
+
+283
+00:13:12,660 --> 00:13:15,300
+algorithmic perspective looking at price
+
+284
+00:13:15,300 --> 00:13:18,000
+ranges like this it gives us a greater
+
+285
+00:13:18,000 --> 00:13:20,600
+definition on how we can frame entries
+
+286
+00:13:20,600 --> 00:13:23,279
+and classify them as
+
+287
+00:13:23,279 --> 00:13:25,500
+oversold or undervalued entries for
+
+288
+00:13:25,500 --> 00:13:29,040
+Longs or overvalued or overbought
+
+289
+00:13:29,040 --> 00:13:32,040
+entries for shorts
+
+290
+00:13:32,040 --> 00:13:34,800
+in this case we could take a example of
+
+291
+00:13:34,800 --> 00:13:36,360
+the daily bullish order block mean
+
+292
+00:13:36,360 --> 00:13:37,440
+threshold
+
+293
+00:13:37,440 --> 00:13:39,480
+we could be buying there and then once
+
+294
+00:13:39,480 --> 00:13:41,519
+price trades up into the premium
+
+295
+00:13:41,519 --> 00:13:44,519
+range we could look for a four hour or
+
+296
+00:13:44,519 --> 00:13:46,200
+one hour
+
+297
+00:13:46,200 --> 00:13:48,959
+premium PDA rate the couple and exit
+
+298
+00:13:48,959 --> 00:13:51,139
+with
+
+299
+00:13:58,139 --> 00:14:00,360
+and moving further up the consolidation
+
+300
+00:14:00,360 --> 00:14:03,060
+range we have a new
+
+301
+00:14:03,060 --> 00:14:05,040
+discount and premium
+
+302
+00:14:05,040 --> 00:14:07,980
+PD array Matrix and we could Define this
+
+303
+00:14:07,980 --> 00:14:09,300
+as well and what we're doing is we're
+
+304
+00:14:09,300 --> 00:14:11,760
+coupling the range as defined by premium
+
+305
+00:14:11,760 --> 00:14:16,459
+and discount with actual PD array
+
+306
+00:14:17,399 --> 00:14:20,279
+in the form of fair value gaps
+
+307
+00:14:20,279 --> 00:14:22,440
+Bears order blocks weekly rejection
+
+308
+00:14:22,440 --> 00:14:24,899
+blocks all those things to the left of
+
+309
+00:14:24,899 --> 00:14:27,300
+our chart we're looking back that 20 40
+
+310
+00:14:27,300 --> 00:14:30,060
+and 60 trading days for the ipta data
+
+311
+00:14:30,060 --> 00:14:31,920
+range so we're blending both time and
+
+312
+00:14:31,920 --> 00:14:32,940
+price
+
+313
+00:14:32,940 --> 00:14:35,459
+in the in the form of premium and
+
+314
+00:14:35,459 --> 00:14:37,980
+discount so we're blending
+
+315
+00:14:37,980 --> 00:14:39,899
+the elements of time and price we're
+
+316
+00:14:39,899 --> 00:14:41,459
+looking at the market in the scope of
+
+317
+00:14:41,459 --> 00:14:43,019
+overbought oversold but not in the
+
+318
+00:14:43,019 --> 00:14:44,699
+context of an indicator
+
+319
+00:14:44,699 --> 00:14:46,920
+we're looking at it algorithmically in
+
+320
+00:14:46,920 --> 00:14:49,560
+the scope of quadrants
+
+321
+00:14:49,560 --> 00:14:51,660
+that are broken down into premium and
+
+322
+00:14:51,660 --> 00:14:52,920
+discount
+
+323
+00:14:52,920 --> 00:14:55,019
+and by itself it doesn't mean anything
+
+324
+00:14:55,019 --> 00:14:58,440
+but when price trades down to a PD array
+
+325
+00:14:58,440 --> 00:15:00,839
+whether it be a discount
+
+326
+00:15:00,839 --> 00:15:02,639
+or a premium
+
+327
+00:15:02,639 --> 00:15:05,579
+if we trade into that element whether it
+
+328
+00:15:05,579 --> 00:15:08,279
+be a bullish order block a breaker any
+
+329
+00:15:08,279 --> 00:15:10,199
+of those things from the pdra Matrix
+
+330
+00:15:10,199 --> 00:15:12,060
+that we've taught you
+
+331
+00:15:12,060 --> 00:15:14,760
+if you're looking for a long
+
+332
+00:15:14,760 --> 00:15:17,820
+the highest probable entries for Longs
+
+333
+00:15:17,820 --> 00:15:20,760
+again are entering in the discount range
+
+334
+00:15:20,760 --> 00:15:24,120
+and coupling it with a premium range PD
+
+335
+00:15:24,120 --> 00:15:26,160
+array
+
+336
+00:15:26,160 --> 00:15:28,500
+it doesn't matter that we're in a
+
+337
+00:15:28,500 --> 00:15:31,079
+premium range of the overall
+
+338
+00:15:31,079 --> 00:15:33,420
+consolidation because price can move
+
+339
+00:15:33,420 --> 00:15:35,519
+back and forth and oscillate from the
+
+340
+00:15:35,519 --> 00:15:37,980
+highest portion and many times make a
+
+341
+00:15:37,980 --> 00:15:39,360
+slightly higher high and return back
+
+342
+00:15:39,360 --> 00:15:40,920
+inside of the range
+
+343
+00:15:40,920 --> 00:15:43,560
+and it can go to the lowest low move
+
+344
+00:15:43,560 --> 00:15:44,880
+outside the range a little bit and come
+
+345
+00:15:44,880 --> 00:15:46,079
+right back in the middle range as well
+
+346
+00:15:46,079 --> 00:15:49,440
+so we're anticipating the isolation
+
+347
+00:15:49,440 --> 00:15:51,240
+effect of price while it's in
+
+348
+00:15:51,240 --> 00:15:54,480
+consolidation but in that consolidation
+
+349
+00:15:54,480 --> 00:15:57,060
+there's smaller consolidations so we're
+
+350
+00:15:57,060 --> 00:15:59,880
+able to look at price in the view of
+
+351
+00:15:59,880 --> 00:16:01,860
+overbought never sold without the
+
+352
+00:16:01,860 --> 00:16:04,199
+element of indicators or relying on
+
+353
+00:16:04,199 --> 00:16:06,300
+mathematically derived number crunching
+
+354
+00:16:06,300 --> 00:16:07,920
+lines
+
+355
+00:16:07,920 --> 00:16:10,920
+what we're looking for is range defined
+
+356
+00:16:10,920 --> 00:16:12,540
+in the overall context of the
+
+357
+00:16:12,540 --> 00:16:14,639
+consolidation as we've had here
+
+358
+00:16:14,639 --> 00:16:17,820
+we're in a the upper half of the portion
+
+359
+00:16:17,820 --> 00:16:20,100
+of the larger consolidation and by
+
+360
+00:16:20,100 --> 00:16:23,339
+itself that would many times filter out
+
+361
+00:16:23,339 --> 00:16:25,680
+buy signals from anyone else that would
+
+362
+00:16:25,680 --> 00:16:28,019
+look for over about a result but for us
+
+363
+00:16:28,019 --> 00:16:31,560
+we can frame this with the oversold
+
+364
+00:16:31,560 --> 00:16:33,000
+condition
+
+365
+00:16:33,000 --> 00:16:36,139
+even in the element of a premium Market
+
+366
+00:16:36,139 --> 00:16:40,019
+it's a discount Market in a overall
+
+367
+00:16:40,019 --> 00:16:42,000
+premium Market that still has room to go
+
+368
+00:16:42,000 --> 00:16:43,440
+up that's basically in other words a
+
+369
+00:16:43,440 --> 00:16:47,220
+Layman's way of approaching a definition
+
+370
+00:16:47,220 --> 00:16:49,259
+but whatever we do in terms of Entry or
+
+371
+00:16:49,259 --> 00:16:51,959
+exits we're looking for elements to
+
+372
+00:16:51,959 --> 00:16:55,019
+frame the discount PD arrays that means
+
+373
+00:16:55,019 --> 00:16:57,480
+bullish order blocks Breakers fair value
+
+374
+00:16:57,480 --> 00:17:00,300
+gaps below us in price trading below an
+
+375
+00:17:00,300 --> 00:17:02,160
+old low to take out cell stops we're
+
+376
+00:17:02,160 --> 00:17:04,439
+using those ideas to frame long
+
+377
+00:17:04,439 --> 00:17:07,380
+positions and then taking first profits
+
+378
+00:17:07,380 --> 00:17:10,260
+at a four hour one hour basis once it
+
+379
+00:17:10,260 --> 00:17:12,119
+enters the premium
+
+380
+00:17:12,119 --> 00:17:16,219
+PD array Matrix range
+
+381
+00:17:19,980 --> 00:17:22,079
+and finally at the top of the larger
+
+382
+00:17:22,079 --> 00:17:24,540
+consolidation we can see that there is
+
+383
+00:17:24,540 --> 00:17:26,400
+still an opportunity where one could be
+
+384
+00:17:26,400 --> 00:17:29,520
+a buyer but the opportunities fall off
+
+385
+00:17:29,520 --> 00:17:32,059
+precipitously in terms of probabilities
+
+386
+00:17:32,059 --> 00:17:34,740
+and you can see now that the premium
+
+387
+00:17:34,740 --> 00:17:36,059
+array
+
+388
+00:17:36,059 --> 00:17:40,520
+area in other words for PD array Matrix
+
+389
+00:17:40,559 --> 00:17:43,700
+bare shorter blocks old highs
+
+390
+00:17:43,700 --> 00:17:46,320
+bearish Breakers bearish mitigation
+
+391
+00:17:46,320 --> 00:17:49,620
+blocks all those ideas they're going to
+
+392
+00:17:49,620 --> 00:17:52,380
+be much more influential in terms of
+
+393
+00:17:52,380 --> 00:17:54,539
+price action and you'll see much more
+
+394
+00:17:54,539 --> 00:17:56,880
+Dynamic price action from that side of
+
+395
+00:17:56,880 --> 00:17:58,679
+the spectrum and you can see that in the
+
+396
+00:17:58,679 --> 00:17:59,880
+form of the weekly rejection block
+
+397
+00:17:59,880 --> 00:18:03,900
+prices traded from in March of 2017 we
+
+398
+00:18:03,900 --> 00:18:05,880
+saw also a move away from the fair value
+
+399
+00:18:05,880 --> 00:18:08,220
+Gap and bearish Order block again and
+
+400
+00:18:08,220 --> 00:18:09,900
+it's
+
+401
+00:18:09,900 --> 00:18:12,120
+largely hinged on the fact that we are
+
+402
+00:18:12,120 --> 00:18:13,679
+in an upper portion of the overall
+
+403
+00:18:13,679 --> 00:18:15,660
+consolidation and we made it up into
+
+404
+00:18:15,660 --> 00:18:20,160
+that last smallest portion of the
+
+405
+00:18:20,160 --> 00:18:21,360
+premium
+
+406
+00:18:21,360 --> 00:18:25,919
+Market or premium PD array Matrix
+
+407
+00:18:25,919 --> 00:18:28,980
+the Shaded area that says premium that's
+
+408
+00:18:28,980 --> 00:18:31,559
+the highest portion or last little
+
+409
+00:18:31,559 --> 00:18:34,020
+segment of price in this consolidation
+
+410
+00:18:34,020 --> 00:18:36,179
+so anytime price reaches up into that
+
+411
+00:18:36,179 --> 00:18:38,960
+it's going to have a much more
+
+412
+00:18:38,960 --> 00:18:42,179
+impactful response in price when it
+
+413
+00:18:42,179 --> 00:18:45,660
+trades to a bearish PD array or a
+
+414
+00:18:45,660 --> 00:18:48,480
+premium PD array so we see that
+
+415
+00:18:48,480 --> 00:18:49,679
+happening with the weekly rejection
+
+416
+00:18:49,679 --> 00:18:51,840
+block it also took out an old high
+
+417
+00:18:51,840 --> 00:18:54,900
+formed in February so there's many
+
+418
+00:18:54,900 --> 00:18:56,100
+instances there where you can see why
+
+419
+00:18:56,100 --> 00:18:59,400
+price had a strong rejection also King
+
+420
+00:18:59,400 --> 00:19:01,679
+off of that last midpoint that's
+
+421
+00:19:01,679 --> 00:19:03,660
+dividing the premium and discount levels
+
+422
+00:19:03,660 --> 00:19:06,720
+noted here we had a really significant
+
+423
+00:19:06,720 --> 00:19:08,400
+sell-off and it trades all the way back
+
+424
+00:19:08,400 --> 00:19:11,580
+down into a daily bullish order block
+
+425
+00:19:11,580 --> 00:19:13,140
+mean threshold
+
+426
+00:19:13,140 --> 00:19:15,960
+then we had a 100 pip move that we
+
+427
+00:19:15,960 --> 00:19:18,960
+called for in our day-to-day meetings
+
+428
+00:19:18,960 --> 00:19:21,480
+and charts and you see the response it
+
+429
+00:19:21,480 --> 00:19:23,520
+trades right back up to what the daily
+
+430
+00:19:23,520 --> 00:19:26,160
+bearish order block and it also overlaps
+
+431
+00:19:26,160 --> 00:19:29,580
+with the premium 50 level
+
+432
+00:19:29,580 --> 00:19:32,520
+so there's a lot of things that you need
+
+433
+00:19:32,520 --> 00:19:34,320
+to be able to look at conceptually and
+
+434
+00:19:34,320 --> 00:19:36,120
+you have to do it on your own time I
+
+435
+00:19:36,120 --> 00:19:37,980
+could give you a plethora of examples
+
+436
+00:19:37,980 --> 00:19:39,780
+over and over and over again but this is
+
+437
+00:19:39,780 --> 00:19:42,600
+one teaching that I've given you enough
+
+438
+00:19:42,600 --> 00:19:44,940
+that if you break your charts down and
+
+439
+00:19:44,940 --> 00:19:47,760
+do your own study yes this is the part
+
+440
+00:19:47,760 --> 00:19:50,039
+that requires your work this takes study
+
+441
+00:19:50,039 --> 00:19:52,559
+time it takes you uh wanting to be in
+
+442
+00:19:52,559 --> 00:19:54,419
+the charts looking for it because I'm
+
+443
+00:19:54,419 --> 00:19:56,100
+not going to be there when we separate
+
+444
+00:19:56,100 --> 00:19:57,600
+you're going to have to do these things
+
+445
+00:19:57,600 --> 00:19:59,400
+on your own you have to find these these
+
+446
+00:19:59,400 --> 00:20:01,380
+opportunities on your own but by having
+
+447
+00:20:01,380 --> 00:20:03,480
+this element what we're doing is we're
+
+448
+00:20:03,480 --> 00:20:05,039
+looking for low resistance liquidity
+
+449
+00:20:05,039 --> 00:20:08,280
+runs from one PD array to another from a
+
+450
+00:20:08,280 --> 00:20:10,500
+discount to a premium but we're coupling
+
+451
+00:20:10,500 --> 00:20:12,720
+it with looking back over the last three
+
+452
+00:20:12,720 --> 00:20:15,120
+months because one shot one kill uses
+
+453
+00:20:15,120 --> 00:20:17,520
+and excels inside the last three months
+
+454
+00:20:17,520 --> 00:20:18,660
+of trading
+
+455
+00:20:18,660 --> 00:20:21,120
+so when we look back at the last 20 the
+
+456
+00:20:21,120 --> 00:20:24,179
+last 40 in the last 60 trading days it
+
+457
+00:20:24,179 --> 00:20:26,580
+gives us framework to say okay where is
+
+458
+00:20:26,580 --> 00:20:28,860
+the premium PD array Matrix
+
+459
+00:20:28,860 --> 00:20:31,020
+leading me to in terms of what I can
+
+460
+00:20:31,020 --> 00:20:32,160
+sell to
+
+461
+00:20:32,160 --> 00:20:34,440
+and what I can reach for for Longs the
+
+462
+00:20:34,440 --> 00:20:38,039
+couple my exits with or where are my
+
+463
+00:20:38,039 --> 00:20:42,240
+discount pdra Matrix and where are those
+
+464
+00:20:42,240 --> 00:20:44,700
+levels I can cover my shorts at and I'm
+
+465
+00:20:44,700 --> 00:20:46,380
+going to look back over the last 20 40
+
+466
+00:20:46,380 --> 00:20:49,020
+and 60 days to pair those things up
+
+467
+00:20:49,020 --> 00:20:52,080
+I'm also now applying ranges in terms of
+
+468
+00:20:52,080 --> 00:20:52,919
+the
+
+469
+00:20:52,919 --> 00:20:55,320
+PD array Matrix whether it be a premium
+
+470
+00:20:55,320 --> 00:20:57,960
+or discount market so it allows me to
+
+471
+00:20:57,960 --> 00:21:00,240
+build context of what I'm looking for as
+
+472
+00:21:00,240 --> 00:21:02,460
+an entry and how I can look for my first
+
+473
+00:21:02,460 --> 00:21:06,020
+objective in targeting
+
+474
+00:21:08,820 --> 00:21:11,520
+now in an Ideal World the best buys are
+
+475
+00:21:11,520 --> 00:21:13,440
+going to be in the lower portion or
+
+476
+00:21:13,440 --> 00:21:15,960
+lower half of the overall consolidation
+
+477
+00:21:15,960 --> 00:21:19,080
+and in the lower quadrant in other words
+
+478
+00:21:19,080 --> 00:21:22,620
+the discount Matrix
+
+479
+00:21:25,440 --> 00:21:27,780
+and the highest probability trades for
+
+480
+00:21:27,780 --> 00:21:30,360
+selling short or taking long exits are
+
+481
+00:21:30,360 --> 00:21:33,240
+going to be in the premium range divided
+
+482
+00:21:33,240 --> 00:21:34,260
+by
+
+483
+00:21:34,260 --> 00:21:36,480
+the upper portion so in other words that
+
+484
+00:21:36,480 --> 00:21:38,280
+last quadrant that's going to be your
+
+485
+00:21:38,280 --> 00:21:40,559
+best cells the highest probability cells
+
+486
+00:21:40,559 --> 00:21:43,140
+or highest probability uh exits for
+
+487
+00:21:43,140 --> 00:21:44,340
+lungs
+
+488
+00:21:44,340 --> 00:21:46,140
+that's going to be your best scenario
+
+489
+00:21:46,140 --> 00:21:47,700
+that's where the algorithm is going to
+
+490
+00:21:47,700 --> 00:21:48,780
+reach for
+
+491
+00:21:48,780 --> 00:21:51,720
+for selling or exiting on longs
+
+492
+00:21:51,720 --> 00:21:54,720
+and any long position in here again you
+
+493
+00:21:54,720 --> 00:21:56,640
+have to take it with a grain of salt you
+
+494
+00:21:56,640 --> 00:21:58,320
+have to know the overall range you're in
+
+495
+00:21:58,320 --> 00:21:59,880
+because just because you see a train to
+
+496
+00:21:59,880 --> 00:22:01,919
+a down candle you have to have I
+
+497
+00:22:01,919 --> 00:22:04,799
+understand that it has a room to go up
+
+498
+00:22:04,799 --> 00:22:06,600
+and in this case you can see what the
+
+499
+00:22:06,600 --> 00:22:08,640
+daily bullish order block mean threshold
+
+500
+00:22:08,640 --> 00:22:11,520
+that 100 pip rally
+
+501
+00:22:11,520 --> 00:22:15,000
+was a response off of yes a PDA rate
+
+502
+00:22:15,000 --> 00:22:16,620
+discount
+
+503
+00:22:16,620 --> 00:22:18,720
+bull shoulder block but it trades up to
+
+504
+00:22:18,720 --> 00:22:21,299
+a daily bearish order block but it
+
+505
+00:22:21,299 --> 00:22:23,039
+trades up into that bearish order block
+
+506
+00:22:23,039 --> 00:22:25,500
+once it gets into the premium range that
+
+507
+00:22:25,500 --> 00:22:29,100
+also gives us a high probability Target
+
+508
+00:22:29,100 --> 00:22:32,820
+now yes it's one shot one kill scenario
+
+509
+00:22:32,820 --> 00:22:34,140
+and we're trying to trade the weekly
+
+510
+00:22:34,140 --> 00:22:36,179
+range but one shot one kill is not
+
+511
+00:22:36,179 --> 00:22:38,220
+defined by getting in on a Monday and
+
+512
+00:22:38,220 --> 00:22:40,500
+getting out on Friday one shot one kill
+
+513
+00:22:40,500 --> 00:22:42,419
+is a couple days of trading it's
+
+514
+00:22:42,419 --> 00:22:44,100
+short-term trading it can be as little
+
+515
+00:22:44,100 --> 00:22:48,500
+as one day and as long as a week
+
+516
+00:22:50,940 --> 00:22:53,580
+and finally when we look at the range in
+
+517
+00:22:53,580 --> 00:22:56,400
+the middle this can be
+
+518
+00:22:56,400 --> 00:22:57,840
+the areas of where you're going to get
+
+519
+00:22:57,840 --> 00:23:00,360
+chopped up the most because if you're
+
+520
+00:23:00,360 --> 00:23:03,539
+looking at a range incorrectly if you've
+
+521
+00:23:03,539 --> 00:23:05,100
+already defined the range and you're
+
+522
+00:23:05,100 --> 00:23:07,679
+looking at PDA rate
+
+523
+00:23:07,679 --> 00:23:09,900
+of premium and discount that have
+
+524
+00:23:09,900 --> 00:23:11,580
+already been traded to in order to look
+
+525
+00:23:11,580 --> 00:23:13,200
+at a down candle in a discount Market
+
+526
+00:23:13,200 --> 00:23:15,000
+normally
+
+527
+00:23:15,000 --> 00:23:17,280
+that may be a bullish order block but if
+
+528
+00:23:17,280 --> 00:23:19,140
+it's already been traded to the
+
+529
+00:23:19,140 --> 00:23:20,820
+likelihood of it being a bullish order
+
+530
+00:23:20,820 --> 00:23:22,679
+block with high probability falls off
+
+531
+00:23:22,679 --> 00:23:24,960
+because it's already been used we want
+
+532
+00:23:24,960 --> 00:23:26,360
+to use a
+
+533
+00:23:26,360 --> 00:23:30,179
+new PD array in a discount or premium
+
+534
+00:23:30,179 --> 00:23:31,020
+Market
+
+535
+00:23:31,020 --> 00:23:33,480
+that has not been traded to because the
+
+536
+00:23:33,480 --> 00:23:35,700
+algorithm knows price has been there
+
+537
+00:23:35,700 --> 00:23:37,679
+once before so it's going to seek new
+
+538
+00:23:37,679 --> 00:23:41,400
+liquidity and expand to allow the banks
+
+539
+00:23:41,400 --> 00:23:43,919
+to take participation in a move higher
+
+540
+00:23:43,919 --> 00:23:45,240
+or lower
+
+541
+00:23:45,240 --> 00:23:47,159
+so looking at the Rings like this as we
+
+542
+00:23:47,159 --> 00:23:49,500
+defined it if you're trading in the
+
+543
+00:23:49,500 --> 00:23:51,840
+middle of the range like this and you're
+
+544
+00:23:51,840 --> 00:23:54,059
+not strong in your directional bias or
+
+545
+00:23:54,059 --> 00:23:56,280
+where the market May reach for next in
+
+546
+00:23:56,280 --> 00:23:58,080
+other words understanding where open
+
+547
+00:23:58,080 --> 00:24:00,240
+float is where is the buy stops and the
+
+548
+00:24:00,240 --> 00:24:01,860
+sell stops if you're not really strong
+
+549
+00:24:01,860 --> 00:24:03,780
+with that if you're trading in this
+
+550
+00:24:03,780 --> 00:24:06,000
+range here you're going to get chopped
+
+551
+00:24:06,000 --> 00:24:07,140
+up a lot
+
+552
+00:24:07,140 --> 00:24:09,600
+over time you'll learn how to better
+
+553
+00:24:09,600 --> 00:24:12,419
+approach these specific premium discount
+
+554
+00:24:12,419 --> 00:24:15,900
+ranges but when you look at the outer
+
+555
+00:24:15,900 --> 00:24:18,419
+rim when we are just showing the
+
+556
+00:24:18,419 --> 00:24:20,280
+previous slide
+
+557
+00:24:20,280 --> 00:24:22,140
+the higher you can get up and the
+
+558
+00:24:22,140 --> 00:24:23,940
+overall consolidation in a premium
+
+559
+00:24:23,940 --> 00:24:25,980
+Market the better your short positions
+
+560
+00:24:25,980 --> 00:24:27,600
+are going to be and the easier it's
+
+561
+00:24:27,600 --> 00:24:29,460
+going to be to reach for a profitable
+
+562
+00:24:29,460 --> 00:24:31,799
+discount PD array
+
+563
+00:24:31,799 --> 00:24:34,380
+the lower you are in the total
+
+564
+00:24:34,380 --> 00:24:36,419
+consolidation
+
+565
+00:24:36,419 --> 00:24:38,640
+the better your discount long entries
+
+566
+00:24:38,640 --> 00:24:40,380
+are going to be and it's easier for you
+
+567
+00:24:40,380 --> 00:24:44,280
+to get to a profitable premium PD array
+
+568
+00:24:44,280 --> 00:24:45,960
+blending the two
+
+569
+00:24:45,960 --> 00:24:48,299
+time and price working in a Range
+
+570
+00:24:48,299 --> 00:24:49,799
+environment like this
+
+571
+00:24:49,799 --> 00:24:52,740
+gives you context and you can find very
+
+572
+00:24:52,740 --> 00:24:54,539
+easy low resistance liquidity runs
+
+573
+00:24:54,539 --> 00:24:58,140
+between one PD array to another
+
+574
+00:24:58,140 --> 00:24:59,940
+and understanding the element of time
+
+575
+00:24:59,940 --> 00:25:02,840
+and price
+
