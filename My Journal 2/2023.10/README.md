@@ -35,9 +35,9 @@ WHERE IS NOW? = MMBM[15m] [LastStage]
 WHERE IS COM? = BISI[Monthly]
 
 Approximate EN price = 1937
-Approximate TP price = 1946    
+Approximate TP price = 1947    
 Approximate SL price = 1935 
-Approximate TP pip = 900
+Approximate TP pip = 1000
 Approximate SL pip = 200
 Risk Reward = +4.5R
 
