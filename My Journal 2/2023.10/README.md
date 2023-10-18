@@ -1,7 +1,23 @@
-xauusd-2023.10.16 -m1 [https://www.mql5.com/en/charts/18381489]
-xauusd-2023.10.16 -m5 [https://www.mql5.com/en/charts/18381501]
-xauusd-2023.10.17 -m5
+============================================================================================================
+xauusd-2023.10.16-1-m1 [https://www.mql5.com/en/charts/18381489]
+xauusd-2023.10.16-2-m5 [https://www.mql5.com/en/charts/18381501]
 
-usdcad-2023.10.16 -h1 [https://www.mql5.com/en/charts/18384137]
+xauusd-2023.10.17-1-m5 [https://www.mql5.com/en/charts/18388701]  
+----------------------------
+Setup = Short 
+HTF Bias = +
+HTF PDAs = D WICK CE
+LTF PDAs = -Breaker Block 
+xauusd-2023.10.18-1.1-d [https://www.mql5.com/en/charts/18393170]
+xauusd-2023.10.18-1.2-h1 [https://www.mql5.com/en/charts/18393172]
+xauusd-2023.10.18-1.3-m5 [https://www.mql5.com/en/charts/18393182]
+xauusd-2023.10.18-1.4-m1 [https://www.mql5.com/en/charts/18393183]
+----------------------------
 
-https://www.mql5.com/en/charts/18388701/xauusd-m5-windsor-solutions-ltd
+============================================================================================================
+
+
+============================================================================================================
+usdcad-2023.10.16-1-h1 [https://www.mql5.com/en/charts/18384137]
+
+============================================================================================================
