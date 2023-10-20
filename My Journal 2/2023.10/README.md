@@ -57,10 +57,6 @@ LTF PDAs = m1 CSD iFVG
 HTF MMXM = MMBM [daily]
 LTF MMXM = MMBM [m1]
 
-WHERE IS GOI? = BSL[Daily] [OldSWL]
-WHERE IS NOW? = MMBM[15m] [LastStage]
-WHERE IS COM? = BISI[Monthly]
-
 Approximate EN price = 1975
 Approximate SL price = 1973 
 Approximate TP price = 1982    
@@ -72,6 +68,26 @@ xauusd-2023.10.20-1.1-m1 [https://www.mql5.com/en/charts/18405977]
 xauusd-2023.10.20-1.2-m1 [https://www.mql5.com/en/charts/18406002]
 ----------------------------
 
+
+----------------------------
+Setup Type = Long (Inline with HTF Bias = High Probability)
+Setup Time = {UTC-4 = 05:50}
+HTF Bias = Bullish
+HTF PDAs =  Turtle Soup
+LTF PDAs = m1 CSD iFVG
+HTF MMXM = MMBM [daily]
+LTF MMXM = MMBM [m1]
+
+Approximate EN price = 1982
+Approximate SL price = 1980 
+Approximate TP price = 1987    
+Approximate SL pip = 200
+Approximate TP pip = 500
+Risk Reward = +2.5R
+
+xauusd-2023.10.20-2.1-m1 [https://www.mql5.com/en/charts/18406838]
+xauusd-2023.10.20-2.2-m1 [https://www.mql5.com/en/charts/18406848]
+----------------------------
 
 
 ============================================================================================================
