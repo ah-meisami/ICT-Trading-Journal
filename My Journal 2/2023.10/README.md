@@ -89,6 +89,59 @@ xauusd-2023.10.20-2.1-m1 [https://www.mql5.com/en/charts/18406838]
 xauusd-2023.10.20-2.2-m1 [https://www.mql5.com/en/charts/18406848]
 ----------------------------
 
+----------------------------
+Setup Type = Long (Inline with HTF Bias = High Probability)
+Setup Time = {UTC-4 = 08:30}
+
+HTF Discount PDAs for Entry =  h1 +OB MTH
+HTF Premium PDAs for Exit =  Weekly SIBI CE
+HTF Confirmation PDAs for Entry =  h1 RDRB
+LTF CSD PDAs =  (1m +BRK) (OTE)
+
+HTF MMXM = MMBM [daily]
+LTF MMXM = MMBM [m1]
+
+Approximate EN price = 1977
+Approximate SL price = 1972 
+Approximate TP price = 1993    
+Approximate SL pip = 500
+Approximate TP pip = 1600
+Risk Reward = +3.2R
+
+xauusd-2023.10.20-2.1 [https://www.mql5.com/en/charts/18417867]
+xauusd-2023.10.20-2.2 [https://www.mql5.com/en/charts/18417869]
+xauusd-2023.10.20-2.3 [https://www.mql5.com/en/charts/18417870]
+xauusd-2023.10.20-2.4 [https://www.mql5.com/en/charts/18417872]
+xauusd-2023.10.20-2.5 [https://www.mql5.com/en/charts/18418142]
+----------------------------
+
+
+
+----------------------------
+Setup Type = Long (Inline with HTF Bias = High Probability)
+Setup Time = {UTC-4 = 12:00}
+
+HTF Discount PDAs for Entry =  h1 +OB MTH
+HTF Premium PDAs for Exit =  Daily -OB
+HTF Confirmation PDAs for Entry =  h1 Liquidity Purged Multiple Time
+ETF CSD PDAs =  (1m +BRK) (OTE)
+HTF Confirmation for Directional Bias =  3 Failure Swings (LRLR)
+
+HTF MMXM = MMBM [daily]
+LTF MMXM = MMBM [m1]
+
+Approximate EN price = 1980
+Approximate SL price = 1975 
+Approximate TP price = 2007    
+Approximate SL pip = 500
+Approximate TP pip = 2700
+Risk Reward = +5R
+
+xauusd-2023.10.27-2.1 [https://www.mql5.com/en/charts/18446074]
+xauusd-2023.10.27-2.2 [https://www.mql5.com/en/charts/18446235]
+xauusd-2023.10.27-2.3 [https://www.mql5.com/en/charts/18446241]
+xauusd-2023.10.27-2.4 [https://www.mql5.com/en/charts/18446247]
+----------------------------
 
 ============================================================================================================
 
