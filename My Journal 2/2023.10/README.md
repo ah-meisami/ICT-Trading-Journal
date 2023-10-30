@@ -116,7 +116,6 @@ xauusd-2023.10.20-2.5 [https://www.mql5.com/en/charts/18418142]
 ----------------------------
 
 
-
 ----------------------------
 Setup Type = Long (Inline with HTF Bias = High Probability)
 Setup Time = {UTC-4 = 12:00}
@@ -141,6 +140,27 @@ xauusd-2023.10.27-2.1 [https://www.mql5.com/en/charts/18446074]
 xauusd-2023.10.27-2.2 [https://www.mql5.com/en/charts/18446235]
 xauusd-2023.10.27-2.3 [https://www.mql5.com/en/charts/18446241]
 xauusd-2023.10.27-2.4 [https://www.mql5.com/en/charts/18446247]
+----------------------------
+
+----------------------------
+Setup Type = Short (Counter Bias)
+Setup Time = Asian Session 
+Session Context = Retracement
+
+HTF P-PDAs EN = -OB[daily]
+LTF P-PDAs Confirm = Dispalcement form 50% of -BRKB[m15]
+HTF D-PDAs TP =  Previous Dealing Range[50%]
+
+Approximate EN price = 2004
+Approximate SL price = 2008
+Approximate TP price = 1993 
+Approximate SL pip = 400
+Approximate TP pip = 1100
+Risk Reward = +2.75R
+
+xauusd-2023.10.30-1.1 [https://www.mql5.com/en/charts/18452956]
+xauusd-2023.10.30-1.2 [https://www.mql5.com/en/charts/18452964]
+xauusd-2023.10.30-1.3 [https://www.mql5.com/en/charts/18452974]
 ----------------------------
 
 ============================================================================================================
