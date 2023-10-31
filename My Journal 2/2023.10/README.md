@@ -163,6 +163,31 @@ xauusd-2023.10.30-1.2 [https://www.mql5.com/en/charts/18452964]
 xauusd-2023.10.30-1.3 [https://www.mql5.com/en/charts/18452974]
 ----------------------------
 
+----------------------------
+Setup Asset = EURUSD
+Setup Type = Long (Counter Bias)
+Setup Time = Mo [London Session]
+
+DXY HTF P-PDAs EN = Making Breaker Block inside Previous -OB. 
+DXY LTF P-PDAs Confirm = Displacement
+DXY HTF D-PDAs TP =  SSL Below nearest Swing Low
+
+EURUSD HTF P-PDAs EN = below old day high (Possible Daily Immediate Rebalance)
+EURUSD LTF P-PDAs Confirm = OTE
+EURUSD HTF D-PDAs TP =  Next Swing High
+EURUSD HTF D-PDAs TP =  BSL Above nearest Swing High
+
+Approximate EN price = 1.05974
+Approximate SL price = 1.05909
+Approximate TP price = 1.06415
+Approximate SL pip = 65
+Approximate TP pip = 441
+Risk Reward = +6.7R
+
+xauusd-2023.10.30-1.1 [https://www.mql5.com/en/charts/18452956]
+xauusd-2023.10.30-1.2 [https://www.mql5.com/en/charts/18452964]
+xauusd-2023.10.30-1.3 [https://www.mql5.com/en/charts/18452974]
+----------------------------
 ============================================================================================================
 
 
