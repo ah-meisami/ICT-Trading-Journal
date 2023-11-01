@@ -184,10 +184,59 @@ Approximate SL pip = 65
 Approximate TP pip = 441
 Risk Reward = +6.7R
 
-xauusd-2023.10.30-1.1 [https://www.mql5.com/en/charts/18452956]
-xauusd-2023.10.30-1.2 [https://www.mql5.com/en/charts/18452964]
-xauusd-2023.10.30-1.3 [https://www.mql5.com/en/charts/18452974]
+eurusd-2023.10.31-1.1 [https://www.mql5.com/en/charts/18458379]
+eurusd-2023.10.31-1.2 [https://www.mql5.com/en/charts/18458389]
+eurusd-2023.10.31-1.3 [https://www.mql5.com/en/charts/18458399]
+eurusd-2023.10.31-1.3 [https://www.mql5.com/en/charts/18458435]
 ----------------------------
+
+----------------------------
+Setup Asset = GBPUSD
+Setup Type = Short (HTF Bias)
+Setup Time = Tu [NYO Session]
+
+DXY HTF P-PDAs EN = Possible Daily +OB MTH
+DXY LTF P-PDAs Confirm = OTE
+DXY HTF D-PDAs TP =  BSL \ EQH [1H]
+
+GBPUSD HTF P-PDAs EN = SIBI [1H]
+GBPUSD LTF P-PDAs Confirm = BRKB [1m]
+GBPUSD HTF D-PDAs TP =  Next Nearest Swing Low
+
+Approximate EN price = 1.21900
+Approximate SL price = 1.22000
+Approximate TP price = 1.21400
+Approximate SL pip = 100
+Approximate TP pip = 500
+Risk Reward = +5R
+
+gbpusd-2023.10.31-2.1.1 [https://www.mql5.com/en/charts/18462823] USINDX.Z23
+gbpusd-2023.10.31-2.1.2 [https://www.mql5.com/en/charts/18462826] USINDX.Z23
+gbpusd-2023.10.31-2.1.3 [https://www.mql5.com/en/charts/18462831] USINDX.Z23
+gbpusd-2023.10.31-2.1.4 [https://www.mql5.com/en/charts/18462998] USINDX.Z23
+gbpusd-2023.10.31-2.1.5 [https://www.tradingview.com/x/nWroHLKW/] DXY
+gbpusd-2023.10.31-2.1.6 [https://www.tradingview.com/x/8i7f5tMC/] DXZ2023
+
+gbpusd-2023.10.31-2.2.1 [https://www.mql5.com/en/charts/18462847] EURGBP
+gbpusd-2023.10.31-2.2.2 [https://www.mql5.com/en/charts/18462849] EURGBP
+gbpusd-2023.10.31-2.2.3 [https://www.mql5.com/en/charts/18462850] EURGBP
+gbpusd-2023.10.31-2.2.4 [https://www.mql5.com/en/charts/18462852] EURGBP
+
+gbpusd-2023.10.31-2.3.1 [https://www.mql5.com/en/charts/18462890] GBPUSD
+gbpusd-2023.10.31-2.3.2 [https://www.mql5.com/en/charts/18462893] GBPUSD
+gbpusd-2023.10.31-2.3.3 [https://www.mql5.com/en/charts/18462894] GBPUSD
+gbpusd-2023.10.31-2.3.4 [https://www.mql5.com/en/charts/18462895] GBPUSD
+gbpusd-2023.10.31-2.3.5 [https://www.mql5.com/en/charts/18462897] GBPUSD
+gbpusd-2023.10.31-2.3.6 [https://www.mql5.com/en/charts/18462900] GBPUSD
+
+gbpusd-2023.10.31-2.4.1 [https://www.mql5.com/en/charts/18462916] EURUSD 
+gbpusd-2023.10.31-2.4.2 [https://www.mql5.com/en/charts/18462919] EURUSD
+gbpusd-2023.10.31-2.4.3 [https://www.mql5.com/en/charts/18462920] EURUSD
+gbpusd-2023.10.31-2.4.4 [https://www.mql5.com/en/charts/18462921] EURUSD
+gbpusd-2023.10.31-2.4.5 [https://www.mql5.com/en/charts/18462922] EURUSD
+gbpusd-2023.10.31-2.4.6 [https://www.mql5.com/en/charts/18462929] EURUSD
+----------------------------
+
 ============================================================================================================
 
 
