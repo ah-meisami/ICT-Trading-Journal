@@ -1,0 +1,5760 @@
+1
+00:00:18,720 --> 00:00:19,800
+welcome back
+
+2
+00:00:19,800 --> 00:00:23,439
+folks this is the last
+
+3
+00:00:23,439 --> 00:00:26,960
+teaching lecture on the inner circle
+
+4
+00:00:26,960 --> 00:00:28,640
+Trader YouTube
+
+5
+00:00:28,640 --> 00:00:31,039
+channel before get into this one just
+
+6
+00:00:31,039 --> 00:00:35,520
+let you know that uh this is one of the
+
+7
+00:00:35,520 --> 00:00:38,079
+closest viewpoints to how I actually
+
+8
+00:00:38,079 --> 00:00:41,800
+trade now when I say that don't gloss
+
+9
+00:00:41,800 --> 00:00:43,800
+over at thinking well you know that's
+
+10
+00:00:43,800 --> 00:00:46,199
+all well and good what what does that
+
+11
+00:00:46,199 --> 00:00:48,399
+mean it means that you have to
+
+12
+00:00:48,399 --> 00:00:51,640
+understand all the PD
+
+13
+00:00:51,640 --> 00:00:54,600
+arrays you have to be familiar with them
+
+14
+00:00:54,600 --> 00:00:57,199
+because what you may or may not realize
+
+15
+00:00:57,199 --> 00:01:00,519
+is a market maker model
+
+16
+00:01:00,519 --> 00:01:03,480
+is relying on your understanding of
+
+17
+00:01:03,480 --> 00:01:05,438
+every PD I've made
+
+18
+00:01:05,438 --> 00:01:09,240
+available so if you're looking at price
+
+19
+00:01:09,240 --> 00:01:11,400
+you're going to see things in price that
+
+20
+00:01:11,400 --> 00:01:14,360
+are going to be Salient to your
+
+21
+00:01:14,360 --> 00:01:16,479
+understanding if you don't know what a
+
+22
+00:01:16,479 --> 00:01:17,759
+breaker is if you don't know what a
+
+23
+00:01:17,759 --> 00:01:19,400
+mitigation block is if you don't know
+
+24
+00:01:19,400 --> 00:01:22,320
+what a inversion fair value Gap
+
+25
+00:01:22,320 --> 00:01:24,320
+is the
+
+26
+00:01:24,320 --> 00:01:27,040
+observation of seeing it real time as a
+
+27
+00:01:27,040 --> 00:01:29,400
+market maker buy or sell model May
+
+28
+00:01:29,400 --> 00:01:31,079
+Escape you at the time when you're
+
+29
+00:01:31,079 --> 00:01:34,880
+looking at Price action live so one of
+
+30
+00:01:34,880 --> 00:01:38,520
+the things I've seen throughout teaching
+
+31
+00:01:38,520 --> 00:01:42,600
+this is that some of my students can see
+
+32
+00:01:42,600 --> 00:01:45,560
+a market maker model really really quick
+
+33
+00:01:45,560 --> 00:01:47,520
+and it's because they have been familiar
+
+34
+00:01:47,520 --> 00:01:50,640
+with a multitude of PD arrays not just
+
+35
+00:01:50,640 --> 00:01:53,200
+simply an order block or a breaker so
+
+36
+00:01:53,200 --> 00:01:55,320
+they can see things and have a better
+
+37
+00:01:55,320 --> 00:01:56,320
+understanding about price action and
+
+38
+00:01:56,320 --> 00:01:58,079
+that's what I mean by graduating in your
+
+39
+00:01:58,079 --> 00:02:00,880
+understanding and not rushing this
+
+40
+00:02:00,880 --> 00:02:03,240
+so while this is the last Model I'm
+
+41
+00:02:03,240 --> 00:02:04,200
+teaching
+
+42
+00:02:04,200 --> 00:02:07,160
+publicly
+
+43
+00:02:07,160 --> 00:02:10,758
+the I guess the the disclaimer going in
+
+44
+00:02:10,758 --> 00:02:13,640
+should be that this is going to be very
+
+45
+00:02:13,640 --> 00:02:15,440
+difficult for a lot of you and I'm not
+
+46
+00:02:15,440 --> 00:02:17,879
+going to Sugar Cod that um when I taught
+
+47
+00:02:17,879 --> 00:02:20,239
+my private mentorship students I told
+
+48
+00:02:20,239 --> 00:02:22,599
+them that you these are things that are
+
+49
+00:02:22,599 --> 00:02:23,480
+going
+
+50
+00:02:23,480 --> 00:02:26,840
+to require you to know all the things
+
+51
+00:02:26,840 --> 00:02:29,000
+that I taught in mentorship there's
+
+52
+00:02:29,000 --> 00:02:30,280
+going to be multitudes
+
+53
+00:02:30,280 --> 00:02:32,280
+of Market maker sell and buy models that
+
+54
+00:02:32,280 --> 00:02:34,239
+are going to escape you you won't see
+
+55
+00:02:34,239 --> 00:02:36,440
+them until after the fact but don't
+
+56
+00:02:36,440 --> 00:02:39,760
+discount that as wasted opportunity log
+
+57
+00:02:39,760 --> 00:02:43,000
+them Journal them mark them up okay and
+
+58
+00:02:43,000 --> 00:02:45,400
+then annotate them in a way where it
+
+59
+00:02:45,400 --> 00:02:48,360
+looks like you seen it coming in journal
+
+60
+00:02:48,360 --> 00:02:49,599
+just like that so that way when you look
+
+61
+00:02:49,599 --> 00:02:51,159
+at your Journal it'll be in your own
+
+62
+00:02:51,159 --> 00:02:53,000
+words that you saw it coming it's all
+
+63
+00:02:53,000 --> 00:02:55,840
+pseudo experience it's it's conditioning
+
+64
+00:02:55,840 --> 00:02:58,879
+your brain to see it as a positive thing
+
+65
+00:02:58,879 --> 00:03:00,560
+so that way when you see it again it's a
+
+66
+00:03:00,560 --> 00:03:02,680
+rewarding experience and your
+
+67
+00:03:02,680 --> 00:03:04,720
+subconscious is not trying to distract
+
+68
+00:03:04,720 --> 00:03:06,799
+you from a painful experience whereas if
+
+69
+00:03:06,799 --> 00:03:09,120
+you don't journal and you only have bad
+
+70
+00:03:09,120 --> 00:03:10,879
+experiences by trying to trade with real
+
+71
+00:03:10,879 --> 00:03:13,159
+money or try to do something where
+
+72
+00:03:13,159 --> 00:03:17,159
+incurred risk is real versus trying to
+
+73
+00:03:17,159 --> 00:03:18,480
+read price action and there's no
+
+74
+00:03:18,480 --> 00:03:22,640
+monetary risk or gain there's no ego
+
+75
+00:03:22,640 --> 00:03:24,959
+there's no Pride there's no pain all
+
+76
+00:03:24,959 --> 00:03:26,680
+these things are going to
+
+77
+00:03:26,680 --> 00:03:29,159
+help getting you closer to understanding
+
+78
+00:03:29,159 --> 00:03:30,439
+a market
+
+79
+00:03:30,439 --> 00:03:32,000
+model
+
+80
+00:03:32,000 --> 00:03:35,680
+but for the sake of brevity everything I
+
+81
+00:03:35,680 --> 00:03:38,720
+disclose in this teaching just reverse
+
+82
+00:03:38,720 --> 00:03:41,120
+it for a market maker buy model Okay
+
+83
+00:03:41,120 --> 00:03:43,159
+because I'm going to focus primarily on
+
+84
+00:03:43,159 --> 00:03:45,920
+a market maker sell model everything
+
+85
+00:03:45,920 --> 00:03:49,120
+here is shown in Reverse if you were
+
+86
+00:03:49,120 --> 00:03:51,159
+applying it to a market maker Bond model
+
+87
+00:03:51,159 --> 00:03:53,640
+now I do have lectures and teachings on
+
+88
+00:03:53,640 --> 00:03:56,360
+this in the YouTube channel so this
+
+89
+00:03:56,360 --> 00:03:58,840
+isn't meant to be a be all end all I'm
+
+90
+00:03:58,840 --> 00:04:00,400
+leaning on
+
+91
+00:04:00,400 --> 00:04:02,159
+the assumptions that you have already
+
+92
+00:04:02,159 --> 00:04:03,560
+studied a lot of the things I'm going to
+
+93
+00:04:03,560 --> 00:04:06,120
+talk about so if this is one of the
+
+94
+00:04:06,120 --> 00:04:07,760
+First videos you've ever watched by me
+
+95
+00:04:07,760 --> 00:04:09,439
+or if you're a relatively new student
+
+96
+00:04:09,439 --> 00:04:10,640
+this is probably going to go over your
+
+97
+00:04:10,640 --> 00:04:13,560
+head and that's a normal thing okay it's
+
+98
+00:04:13,560 --> 00:04:15,199
+it would be considered a little
+
+99
+00:04:15,199 --> 00:04:17,399
+Advanced and and that's why I'm saying
+
+100
+00:04:17,399 --> 00:04:19,880
+it's it's the closest thing to how I
+
+101
+00:04:19,880 --> 00:04:22,000
+internalize price action when I'm
+
+102
+00:04:22,000 --> 00:04:24,680
+engaging it so 99% of the time when I'm
+
+103
+00:04:24,680 --> 00:04:25,680
+taking a
+
+104
+00:04:25,680 --> 00:04:28,759
+trade it's usually something like this
+
+105
+00:04:28,759 --> 00:04:31,639
+that's the framework behind it okay and
+
+106
+00:04:31,639 --> 00:04:32,960
+I may or may not have the time or
+
+107
+00:04:32,960 --> 00:04:35,080
+interest even to disclose the model that
+
+108
+00:04:35,080 --> 00:04:36,639
+I'm actually trading inside of that
+
+109
+00:04:36,639 --> 00:04:38,840
+would be the market maker buy or sell
+
+110
+00:04:38,840 --> 00:04:41,400
+model but when you look at it
+
+111
+00:04:41,400 --> 00:04:43,680
+conceptually you can
+
+112
+00:04:43,680 --> 00:04:46,400
+fragmentize these price swings and make
+
+113
+00:04:46,400 --> 00:04:48,680
+one segment of the market maker model
+
+114
+00:04:48,680 --> 00:04:50,520
+whether it be a buy or sell model and
+
+115
+00:04:50,520 --> 00:04:52,880
+that in itself may be your unique model
+
+116
+00:04:52,880 --> 00:04:54,800
+that you trade not that you're trying to
+
+117
+00:04:54,800 --> 00:04:57,120
+trade the bottom of a market maker buy
+
+118
+00:04:57,120 --> 00:04:58,560
+model to the
+
+119
+00:04:58,560 --> 00:05:02,880
+top or vice versa for a sell you it's a
+
+120
+00:05:02,880 --> 00:05:04,960
+matter of preference what you want to do
+
+121
+00:05:04,960 --> 00:05:07,560
+because there's a buy and sell curve buy
+
+122
+00:05:07,560 --> 00:05:08,600
+side of the curve and the sell side of
+
+123
+00:05:08,600 --> 00:05:10,520
+the curve and we'll discuss that in here
+
+124
+00:05:10,520 --> 00:05:13,280
+now but uh this teaching is my market
+
+125
+00:05:13,280 --> 00:05:15,560
+maker models it's algorithmic price
+
+126
+00:05:15,560 --> 00:05:18,960
+delivery in institutional price
+
+127
+00:05:20,919 --> 00:05:23,560
+swings all right so I guess in a lot of
+
+128
+00:05:23,560 --> 00:05:26,039
+ways this is just basically my
+
+129
+00:05:26,039 --> 00:05:28,280
+interpretation and creating a language
+
+130
+00:05:28,280 --> 00:05:30,680
+around swing Trading
+
+131
+00:05:30,680 --> 00:05:32,479
+now when I say swing trading what I'm
+
+132
+00:05:32,479 --> 00:05:34,000
+referring to is if I'm bullish I'm
+
+133
+00:05:34,000 --> 00:05:36,280
+trading from discount to
+
+134
+00:05:36,280 --> 00:05:39,080
+premium riding the code tailes of buy
+
+135
+00:05:39,080 --> 00:05:40,840
+side
+
+136
+00:05:40,840 --> 00:05:44,120
+delivery if I'm bearish I'm trading from
+
+137
+00:05:44,120 --> 00:05:46,759
+premium to Discount writing the coat
+
+138
+00:05:46,759 --> 00:05:48,360
+Tales of sside
+
+139
+00:05:48,360 --> 00:05:51,880
+delivery now when I mentioned buy side
+
+140
+00:05:51,880 --> 00:05:55,080
+and sside you're thinking liquidity and
+
+141
+00:05:55,080 --> 00:05:56,440
+I'm going to draw a distinction between
+
+142
+00:05:56,440 --> 00:05:58,479
+the liquidity and the
+
+143
+00:05:58,479 --> 00:06:01,479
+delivery
+
+144
+00:06:02,080 --> 00:06:04,319
+all right so imagine if you will that
+
+145
+00:06:04,319 --> 00:06:06,400
+you were looking at price and those
+
+146
+00:06:06,400 --> 00:06:08,360
+relative equal highs right here that
+
+147
+00:06:08,360 --> 00:06:10,560
+we're looking at
+
+148
+00:06:10,560 --> 00:06:12,720
+conceptually uh we would
+
+149
+00:06:12,720 --> 00:06:15,240
+anticipate a run above
+
+150
+00:06:15,240 --> 00:06:18,240
+that now if you can get that far in your
+
+151
+00:06:18,240 --> 00:06:20,319
+understanding from what I've taught you
+
+152
+00:06:20,319 --> 00:06:23,759
+have the beginning building blocks of
+
+153
+00:06:23,759 --> 00:06:25,360
+understanding how to look for a market
+
+154
+00:06:25,360 --> 00:06:27,039
+maker sell
+
+155
+00:06:27,039 --> 00:06:29,080
+model but I want to flesh this out a
+
+156
+00:06:29,080 --> 00:06:30,759
+little bit because it's not just simply
+
+157
+00:06:30,759 --> 00:06:32,520
+understanding where relative equal highs
+
+158
+00:06:32,520 --> 00:06:34,560
+and relative equal lows are you have to
+
+159
+00:06:34,560 --> 00:06:36,120
+understand what the Market's trying to
+
+160
+00:06:36,120 --> 00:06:40,319
+do and gravitate to and for the premise
+
+161
+00:06:40,319 --> 00:06:44,319
+of doing it to go higher longer term or
+
+162
+00:06:44,319 --> 00:06:46,160
+to go up just to trick people into being
+
+163
+00:06:46,160 --> 00:06:49,639
+long and then going lower longer term
+
+164
+00:06:49,639 --> 00:06:51,560
+that's narrative so that's going to be
+
+165
+00:06:51,560 --> 00:06:53,800
+outside the scope of this teaching so
+
+166
+00:06:53,800 --> 00:06:55,160
+again it's going to be very frustrating
+
+167
+00:06:55,160 --> 00:06:57,440
+for you if you think this is going to be
+
+168
+00:06:57,440 --> 00:06:59,919
+like a really Elementary model like the
+
+169
+00:06:59,919 --> 00:07:01,720
+Silver Bullet which is relatively simple
+
+170
+00:07:01,720 --> 00:07:04,680
+or model 2022 which is relatively simple
+
+171
+00:07:04,680 --> 00:07:05,879
+uh this one's going to have a whole lot
+
+172
+00:07:05,879 --> 00:07:07,840
+of talking in it because I'm reminding
+
+173
+00:07:07,840 --> 00:07:09,120
+you of the things that going to be
+
+174
+00:07:09,120 --> 00:07:10,599
+supportive for you to understand how to
+
+175
+00:07:10,599 --> 00:07:13,000
+trade these
+
+176
+00:07:13,000 --> 00:07:17,520
+things if you're trying to trade like me
+
+177
+00:07:17,520 --> 00:07:19,280
+you're going to have to learn to do what
+
+178
+00:07:19,280 --> 00:07:22,440
+I'm talking about here if you're not
+
+179
+00:07:22,440 --> 00:07:24,199
+inspired to try to trade like me and you
+
+180
+00:07:24,199 --> 00:07:25,720
+just want to trade a silver bullet or a
+
+181
+00:07:25,720 --> 00:07:27,479
+model 2022 and that's all that you're
+
+182
+00:07:27,479 --> 00:07:29,400
+interested in and you're content with
+
+183
+00:07:29,400 --> 00:07:32,080
+being successful with that wonderful you
+
+184
+00:07:32,080 --> 00:07:34,000
+do not need to have this level of
+
+185
+00:07:34,000 --> 00:07:37,199
+understanding it is helpful to try to
+
+186
+00:07:37,199 --> 00:07:39,639
+look at Price action every day every
+
+187
+00:07:39,639 --> 00:07:42,039
+week every month and go through and see
+
+188
+00:07:42,039 --> 00:07:44,840
+if you can find these types of models in
+
+189
+00:07:44,840 --> 00:07:48,080
+price action and by collecting them
+
+190
+00:07:48,080 --> 00:07:49,479
+you'll have a better understanding of
+
+191
+00:07:49,479 --> 00:07:50,520
+what they look like in the future
+
+192
+00:07:50,520 --> 00:07:52,440
+because you've seen lots of examples of
+
+193
+00:07:52,440 --> 00:07:54,800
+it that you've fited out of price action
+
+194
+00:07:54,800 --> 00:07:56,759
+not me pointing to it or someone else
+
+195
+00:07:56,759 --> 00:07:58,639
+pointing to it after the fact you want
+
+196
+00:07:58,639 --> 00:08:00,759
+to be able to do this this on your own
+
+197
+00:08:00,759 --> 00:08:03,080
+but for the sake of this
+
+198
+00:08:03,080 --> 00:08:05,520
+discussion the understanding is we
+
+199
+00:08:05,520 --> 00:08:07,199
+should be able to see those relative
+
+200
+00:08:07,199 --> 00:08:09,759
+equal highs and that
+
+201
+00:08:09,759 --> 00:08:13,879
+being this here and this here now I'm
+
+202
+00:08:13,879 --> 00:08:20,319
+I'm using a a close line chart so it's
+
+203
+00:08:20,319 --> 00:08:22,360
+going to be a rather crude depiction of
+
+204
+00:08:22,360 --> 00:08:25,960
+a general idea okay we'll transition to
+
+205
+00:08:25,960 --> 00:08:28,039
+actual charts in a moment but for now I
+
+206
+00:08:28,039 --> 00:08:30,360
+want you to just think conceptu how if
+
+207
+00:08:30,360 --> 00:08:31,959
+the Market's going to run
+
+208
+00:08:31,959 --> 00:08:35,440
+eventually up above that and if we could
+
+209
+00:08:35,440 --> 00:08:38,279
+hold a bearish
+
+210
+00:08:38,279 --> 00:08:41,760
+stance meaning that we look at every
+
+211
+00:08:41,760 --> 00:08:44,159
+rally as a suspect rally if we're
+
+212
+00:08:44,159 --> 00:08:45,560
+bearish and then we're going to be
+
+213
+00:08:45,560 --> 00:08:48,320
+looking for some measure of reversal and
+
+214
+00:08:48,320 --> 00:08:52,600
+then once that reversal is qualified
+
+215
+00:08:52,600 --> 00:08:54,399
+that meets the criteria for a market
+
+216
+00:08:54,399 --> 00:08:56,519
+maker sell model then we can go in and
+
+217
+00:08:56,519 --> 00:08:59,880
+engage it now an advanced interpretation
+
+218
+00:08:59,880 --> 00:09:02,279
+of this would be
+
+219
+00:09:02,279 --> 00:09:04,519
+anticipating the Run above these
+
+220
+00:09:04,519 --> 00:09:07,920
+relative equal highs here and being long
+
+221
+00:09:07,920 --> 00:09:10,560
+prior to it and the most advanced form
+
+222
+00:09:10,560 --> 00:09:14,000
+of it would be to buy it during the buy
+
+223
+00:09:14,000 --> 00:09:16,560
+side of the curve and then short it
+
+224
+00:09:16,560 --> 00:09:19,040
+during the cells side of the curve that
+
+225
+00:09:19,040 --> 00:09:21,920
+is very Advanced and while I do have
+
+226
+00:09:21,920 --> 00:09:24,640
+students that can do that like me not
+
+227
+00:09:24,640 --> 00:09:27,800
+many of them can they can either trade
+
+228
+00:09:27,800 --> 00:09:30,240
+the long side of the side of the curve
+
+229
+00:09:30,240 --> 00:09:32,399
+or they can sell short on the cell side
+
+230
+00:09:32,399 --> 00:09:35,000
+of the curve so it's a matter of them
+
+231
+00:09:35,000 --> 00:09:37,560
+picking what they can see clearly based
+
+232
+00:09:37,560 --> 00:09:39,440
+on their present understanding and their
+
+233
+00:09:39,440 --> 00:09:42,000
+experience and don't try to rush it
+
+234
+00:09:42,000 --> 00:09:43,600
+don't try to keep up with me don't try
+
+235
+00:09:43,600 --> 00:09:44,920
+to keep up with my other students that
+
+236
+00:09:44,920 --> 00:09:47,200
+are doing well it's at your own pace
+
+237
+00:09:47,200 --> 00:09:49,079
+that you learn this that's the best Pace
+
+238
+00:09:49,079 --> 00:09:51,040
+to learn it at so don't try to feel like
+
+239
+00:09:51,040 --> 00:09:52,440
+you're you're behind or you're trying to
+
+240
+00:09:52,440 --> 00:09:53,760
+catch up with the class because I have
+
+241
+00:09:53,760 --> 00:09:57,360
+students that go back to 1996 so you're
+
+242
+00:09:57,360 --> 00:10:01,120
+never going to catch up to them
+
+243
+00:10:02,240 --> 00:10:03,920
+so I want you to take a look at that
+
+244
+00:10:03,920 --> 00:10:06,680
+price movement here if this is a market
+
+245
+00:10:06,680 --> 00:10:09,279
+that you'd be trading or interested in
+
+246
+00:10:09,279 --> 00:10:12,120
+learning uh these ideas are Universal so
+
+247
+00:10:12,120 --> 00:10:14,880
+it's not a matter of it only applies
+
+248
+00:10:14,880 --> 00:10:18,079
+to futures or it only applies to index
+
+249
+00:10:18,079 --> 00:10:21,440
+futures or Forex it's it's Universal
+
+250
+00:10:21,440 --> 00:10:23,959
+okay so as long as there's a price feed
+
+251
+00:10:23,959 --> 00:10:25,920
+attached to it and it can be traded
+
+252
+00:10:25,920 --> 00:10:27,920
+these conceptual ideas can be applied to
+
+253
+00:10:27,920 --> 00:10:30,440
+it okay
+
+254
+00:10:30,440 --> 00:10:33,920
+this whole idea from this run up to that
+
+255
+00:10:33,920 --> 00:10:37,120
+level there this is what I refer to as
+
+256
+00:10:37,120 --> 00:10:41,040
+buy side delivery okay so when price is
+
+257
+00:10:41,040 --> 00:10:44,519
+running higher it's offering buy
+
+258
+00:10:44,519 --> 00:10:48,200
+side it's giving the marketplace buy
+
+259
+00:10:48,200 --> 00:10:50,079
+side as it's running higher now for the
+
+260
+00:10:50,079 --> 00:10:52,639
+purposes of running Above This high and
+
+261
+00:10:52,639 --> 00:10:55,680
+this high it's running up to engage the
+
+262
+00:10:55,680 --> 00:10:57,160
+liquidity that would be resting above
+
+263
+00:10:57,160 --> 00:10:58,600
+these relative equal highs so the
+
+264
+00:10:58,600 --> 00:11:01,320
+distinction here is the directional
+
+265
+00:11:01,320 --> 00:11:04,279
+movement when it's going higher prices
+
+266
+00:11:04,279 --> 00:11:06,920
+in a buy side
+
+267
+00:11:06,920 --> 00:11:10,519
+delivery liquidity above a single or a
+
+268
+00:11:10,519 --> 00:11:12,880
+group of
+
+269
+00:11:12,880 --> 00:11:15,880
+highs that is buy side liquidity that's
+
+270
+00:11:15,880 --> 00:11:17,800
+orders that are pending whether they be
+
+271
+00:11:17,800 --> 00:11:20,839
+a buyer to break out and go long or to
+
+272
+00:11:20,839 --> 00:11:24,240
+protect a short position so liquidity is
+
+273
+00:11:24,240 --> 00:11:27,959
+a stagnant price level or
+
+274
+00:11:27,959 --> 00:11:31,839
+levels where stops would be reside buy
+
+275
+00:11:31,839 --> 00:11:34,440
+side delivery is the actual animated
+
+276
+00:11:34,440 --> 00:11:37,880
+movement of price moving higher and as
+
+277
+00:11:37,880 --> 00:11:39,720
+you probably would have guessed when
+
+278
+00:11:39,720 --> 00:11:41,880
+we're looking at Price going
+
+279
+00:11:41,880 --> 00:11:45,079
+lower this here is what I refer to as
+
+280
+00:11:45,079 --> 00:11:48,120
+sside delivery so the express purposes
+
+281
+00:11:48,120 --> 00:11:50,200
+of running above these relative equal
+
+282
+00:11:50,200 --> 00:11:53,040
+highs that function has been performed
+
+283
+00:11:53,040 --> 00:11:56,200
+so now price could if we're bearish move
+
+284
+00:11:56,200 --> 00:12:00,519
+lower and then trade back back below the
+
+285
+00:12:00,519 --> 00:12:02,959
+previous rally
+
+286
+00:12:02,959 --> 00:12:05,320
+low so it's buy side delivery to the
+
+287
+00:12:05,320 --> 00:12:07,079
+upside to engage
+
+288
+00:12:07,079 --> 00:12:09,160
+liquidity trap traders
+
+289
+00:12:09,160 --> 00:12:10,320
+[Music]
+
+290
+00:12:10,320 --> 00:12:13,480
+long and smart money would go short here
+
+291
+00:12:13,480 --> 00:12:15,440
+and write it back down to stop out any
+
+292
+00:12:15,440 --> 00:12:17,000
+individuals that were lucky enough to be
+
+293
+00:12:17,000 --> 00:12:19,519
+long in this but kept a stop loss here
+
+294
+00:12:19,519 --> 00:12:21,680
+or inside this run up during the buy
+
+295
+00:12:21,680 --> 00:12:24,040
+side delivery their stop loss will be
+
+296
+00:12:24,040 --> 00:12:26,360
+tagged
+
+297
+00:12:27,880 --> 00:12:31,560
+out and again with the premise of
+
+298
+00:12:31,560 --> 00:12:34,079
+reaching for the new
+
+299
+00:12:34,079 --> 00:12:36,079
+engineered cell side liquidity which
+
+300
+00:12:36,079 --> 00:12:38,000
+would be the cell stops on Longs that
+
+301
+00:12:38,000 --> 00:12:40,240
+anyone would have been going long here
+
+302
+00:12:40,240 --> 00:12:41,920
+their stop loss would be priced right
+
+303
+00:12:41,920 --> 00:12:43,760
+below
+
+304
+00:12:43,760 --> 00:12:46,519
+here so it's the rally up to take buy
+
+305
+00:12:46,519 --> 00:12:48,959
+side and then rip rate back down to take
+
+306
+00:12:48,959 --> 00:12:50,760
+the sell side on those individuals that
+
+307
+00:12:50,760 --> 00:12:53,519
+were trying to go long and weren't
+
+308
+00:12:53,519 --> 00:12:56,240
+astute enough to reverse or at the very
+
+309
+00:12:56,240 --> 00:12:58,079
+minimum close out in a profitable
+
+310
+00:12:58,079 --> 00:13:00,839
+position
+
+311
+00:13:01,959 --> 00:13:04,079
+now as I promised we're going to look at
+
+312
+00:13:04,079 --> 00:13:07,800
+it through the lens of open high low
+
+313
+00:13:07,800 --> 00:13:09,360
+Clos
+
+314
+00:13:09,360 --> 00:13:11,519
+candlesticks
+
+315
+00:13:11,519 --> 00:13:14,079
+so take a couple minutes look at this
+
+316
+00:13:14,079 --> 00:13:16,360
+before I continue pause the video before
+
+317
+00:13:16,360 --> 00:13:19,000
+I start talking and make observations
+
+318
+00:13:19,000 --> 00:13:20,519
+about what you think you see here what's
+
+319
+00:13:20,519 --> 00:13:23,240
+Salient to you and when you're ready
+
+320
+00:13:23,240 --> 00:13:24,440
+unpause the
+
+321
+00:13:24,440 --> 00:13:28,079
+video all right so what we're looking at
+
+322
+00:13:28,079 --> 00:13:32,360
+here is basically the same idea of price
+
+323
+00:13:32,360 --> 00:13:35,720
+action instead of a line close chart
+
+324
+00:13:35,720 --> 00:13:37,880
+where every fluctuation is only noted by
+
+325
+00:13:37,880 --> 00:13:40,720
+where the interval will be utilizing
+
+326
+00:13:40,720 --> 00:13:42,959
+that closing price only not the highest
+
+327
+00:13:42,959 --> 00:13:44,279
+high and the lowest load but the closing
+
+328
+00:13:44,279 --> 00:13:46,160
+price here we're looking at the highest
+
+329
+00:13:46,160 --> 00:13:48,360
+high and lowest low and the open and
+
+330
+00:13:48,360 --> 00:13:51,240
+close of every individual Candlestick of
+
+331
+00:13:51,240 --> 00:13:55,079
+this respective time frame so we see the
+
+332
+00:13:55,079 --> 00:13:57,759
+relative equal highs here with this high
+
+333
+00:13:57,759 --> 00:13:59,440
+and this High here
+
+334
+00:13:59,440 --> 00:14:01,839
+and the M the market rallies up here so
+
+335
+00:14:01,839 --> 00:14:04,320
+all of this is the buy side delivery and
+
+336
+00:14:04,320 --> 00:14:07,120
+the subsequent sell-side delivery
+
+337
+00:14:07,120 --> 00:14:09,040
+attacking the cell side that was created
+
+338
+00:14:09,040 --> 00:14:12,120
+after the run higher and this run higher
+
+339
+00:14:12,120 --> 00:14:14,399
+attacks the relative equal highs here
+
+340
+00:14:14,399 --> 00:14:19,079
+where liquidity is so markets go up for
+
+341
+00:14:19,079 --> 00:14:22,839
+two primary reasons one it goes up to
+
+342
+00:14:22,839 --> 00:14:24,959
+engage buy stops which is buy side
+
+343
+00:14:24,959 --> 00:14:28,120
+liquidity or it goes up to an
+
+344
+00:14:28,120 --> 00:14:29,920
+inefficient
+
+345
+00:14:29,920 --> 00:14:32,680
+what is that well if you look right here
+
+346
+00:14:32,680 --> 00:14:33,959
+that's an
+
+347
+00:14:33,959 --> 00:14:36,000
+inefficiency we have this small little
+
+348
+00:14:36,000 --> 00:14:37,920
+segment of price action where the
+
+349
+00:14:37,920 --> 00:14:40,040
+previous candle's low stops here the
+
+350
+00:14:40,040 --> 00:14:42,279
+next candle opens trades up a little bit
+
+351
+00:14:42,279 --> 00:14:43,440
+goes
+
+352
+00:14:43,440 --> 00:14:46,600
+lower the next candle we open trade up
+
+353
+00:14:46,600 --> 00:14:48,519
+stop here and then we move
+
+354
+00:14:48,519 --> 00:14:51,279
+lower this separation between these
+
+355
+00:14:51,279 --> 00:14:52,920
+three candles here one candle in the
+
+356
+00:14:52,920 --> 00:14:54,839
+middle this is what I call a fair value
+
+357
+00:14:54,839 --> 00:14:59,040
+Gap it's a very specific price level
+
+358
+00:14:59,040 --> 00:15:00,800
+that we look for and it's one of the
+
+359
+00:15:00,800 --> 00:15:02,560
+most visual things you can see from my
+
+360
+00:15:02,560 --> 00:15:04,920
+repertoire and the things I teach your
+
+361
+00:15:04,920 --> 00:15:06,320
+eye should jump right to it when you see
+
+362
+00:15:06,320 --> 00:15:08,480
+it and in this case if you missed it you
+
+363
+00:15:08,480 --> 00:15:10,759
+can see clearly now it's highlighted so
+
+364
+00:15:10,759 --> 00:15:12,600
+because it's a down closed
+
+365
+00:15:12,600 --> 00:15:15,320
+candle what kind of inefficiency is it a
+
+366
+00:15:15,320 --> 00:15:19,759
+fair value Gap classified as a CBI sibi
+
+367
+00:15:19,759 --> 00:15:21,560
+sells side inbalance buy side
+
+368
+00:15:21,560 --> 00:15:24,720
+inefficiency meaning when these form the
+
+369
+00:15:24,720 --> 00:15:28,160
+Market's algorithm that produces the
+
+370
+00:15:28,160 --> 00:15:29,920
+fluctu in price not because it's buying
+
+371
+00:15:29,920 --> 00:15:31,880
+and selling pressure but the market
+
+372
+00:15:31,880 --> 00:15:33,720
+rallies to these predetermined levels
+
+373
+00:15:33,720 --> 00:15:36,920
+because it has to offer what here this
+
+374
+00:15:36,920 --> 00:15:39,519
+one single candle went lower so what
+
+375
+00:15:39,519 --> 00:15:41,040
+does it need to do if it's going to be
+
+376
+00:15:41,040 --> 00:15:44,240
+an efficient market it needs to trade up
+
+377
+00:15:44,240 --> 00:15:46,079
+back in between these two price points
+
+378
+00:15:46,079 --> 00:15:48,480
+this candle's low this candle's High we
+
+379
+00:15:48,480 --> 00:15:50,519
+see that here this candle trades up to
+
+380
+00:15:50,519 --> 00:15:53,600
+it where does the close stop right at
+
+381
+00:15:53,600 --> 00:15:57,079
+the high of it the next candle we open
+
+382
+00:15:57,079 --> 00:15:59,120
+and we trade back down yes yes there was
+
+383
+00:15:59,120 --> 00:16:00,759
+a small Wick here yes there was a small
+
+384
+00:16:00,759 --> 00:16:02,839
+little Wick here that is acceptable
+
+385
+00:16:02,839 --> 00:16:05,000
+that's permissible but the bodies tell
+
+386
+00:16:05,000 --> 00:16:07,519
+us the narrative so all of this rally up
+
+387
+00:16:07,519 --> 00:16:10,120
+here was under the pretense that we
+
+388
+00:16:10,120 --> 00:16:11,959
+would see it just simply trade back to
+
+389
+00:16:11,959 --> 00:16:14,000
+this little area
+
+390
+00:16:14,000 --> 00:16:18,199
+here above the buy side above this high
+
+391
+00:16:18,199 --> 00:16:21,399
+and this high so ICT how far can it go
+
+392
+00:16:21,399 --> 00:16:23,000
+above these relative equal highs you'd
+
+393
+00:16:23,000 --> 00:16:24,519
+have to look to see if there's any close
+
+394
+00:16:24,519 --> 00:16:26,680
+proximity in efficiencies in this case
+
+395
+00:16:26,680 --> 00:16:28,839
+we have one right here notice this
+
+396
+00:16:28,839 --> 00:16:32,680
+candle's tail goes way lower then we
+
+397
+00:16:32,680 --> 00:16:34,399
+open trade back up making the low of the
+
+398
+00:16:34,399 --> 00:16:36,319
+fair value Gap and then we trade here
+
+399
+00:16:36,319 --> 00:16:39,000
+lower then the next candle we open went
+
+400
+00:16:39,000 --> 00:16:41,199
+lower so all of these three candles here
+
+401
+00:16:41,199 --> 00:16:42,560
+we've had a lot of back and forth price
+
+402
+00:16:42,560 --> 00:16:44,680
+action there's no fair value Gap here we
+
+403
+00:16:44,680 --> 00:16:46,000
+can clearly see there's a gap because
+
+404
+00:16:46,000 --> 00:16:47,839
+there's only one candle making that
+
+405
+00:16:47,839 --> 00:16:51,160
+defined range of that low of that candle
+
+406
+00:16:51,160 --> 00:16:53,440
+and that candle's high so that small
+
+407
+00:16:53,440 --> 00:16:55,880
+little area here is a fair value Gap the
+
+408
+00:16:55,880 --> 00:16:58,040
+algorithm will go back to that and repic
+
+409
+00:16:58,040 --> 00:17:01,560
+to it how by going back up to it and
+
+410
+00:17:01,560 --> 00:17:05,599
+offering a patch filling in this Only
+
+411
+00:17:05,599 --> 00:17:09,280
+One Singular down closed candle now we
+
+412
+00:17:09,280 --> 00:17:11,199
+have an up Clos candle laying directly
+
+413
+00:17:11,199 --> 00:17:13,520
+right over top of it so it patches over
+
+414
+00:17:13,520 --> 00:17:17,760
+the inefficiency here in price
+
+415
+00:17:17,760 --> 00:17:21,079
+so right away you can see while this
+
+416
+00:17:21,079 --> 00:17:24,280
+discussion is primarily Market maker
+
+417
+00:17:24,280 --> 00:17:26,400
+models to understand what my market
+
+418
+00:17:26,400 --> 00:17:29,039
+maker model is you have to understand a
+
+419
+00:17:29,039 --> 00:17:33,400
+plethora of other supporting studies
+
+420
+00:17:33,400 --> 00:17:36,480
+so while it may be one of those things
+
+421
+00:17:36,480 --> 00:17:37,480
+that you're all going to try to
+
+422
+00:17:37,480 --> 00:17:39,799
+gravitate to over time just understand
+
+423
+00:17:39,799 --> 00:17:42,160
+it's going to take a lot of time to
+
+424
+00:17:42,160 --> 00:17:44,039
+understand the the
+
+425
+00:17:44,039 --> 00:17:46,400
+full magnitude of what's available in
+
+426
+00:17:46,400 --> 00:17:48,679
+terms of deciphering and reading price
+
+427
+00:17:48,679 --> 00:17:52,200
+it's not to Simply here is a time of day
+
+428
+00:17:52,200 --> 00:17:54,919
+here is a fair value Gap and where's the
+
+429
+00:17:54,919 --> 00:17:57,240
+draw on liquidity when you're using a
+
+430
+00:17:57,240 --> 00:17:59,440
+market maker sell and buy model you're
+
+431
+00:17:59,440 --> 00:18:03,120
+looking at multiple draws on liquidity
+
+432
+00:18:03,120 --> 00:18:06,039
+and you have to be more Nimble so I'm
+
+433
+00:18:06,039 --> 00:18:08,440
+saying this not to discourage you but to
+
+434
+00:18:08,440 --> 00:18:10,159
+remind you that it's going to take a
+
+435
+00:18:10,159 --> 00:18:12,760
+whole lot more effort than you probably
+
+436
+00:18:12,760 --> 00:18:14,799
+realize going into this I've made
+
+437
+00:18:14,799 --> 00:18:16,720
+available very very simple
+
+438
+00:18:16,720 --> 00:18:19,200
+straightforward Elementary models using
+
+439
+00:18:19,200 --> 00:18:21,840
+the concepts I've created so if you get
+
+440
+00:18:21,840 --> 00:18:23,640
+discouraged after this just know that
+
+441
+00:18:23,640 --> 00:18:25,240
+you can always revert back to the silver
+
+442
+00:18:25,240 --> 00:18:27,360
+bullet or the 2022 or optimal trade
+
+443
+00:18:27,360 --> 00:18:29,280
+entry models they're very
+
+444
+00:18:29,280 --> 00:18:32,000
+simple so let's go into greater detail
+
+445
+00:18:32,000 --> 00:18:34,320
+here how the market ran up into this
+
+446
+00:18:34,320 --> 00:18:37,799
+area here and focus on how it went down
+
+447
+00:18:37,799 --> 00:18:40,240
+not just simply below the cell side of
+
+448
+00:18:40,240 --> 00:18:42,919
+that original rally up but it went down
+
+449
+00:18:42,919 --> 00:18:45,440
+to this old low right here look real
+
+450
+00:18:45,440 --> 00:18:47,600
+close you'll see that it went just below
+
+451
+00:18:47,600 --> 00:18:49,840
+that that's not
+
+452
+00:18:49,840 --> 00:18:52,960
+random this right here is a bid balance
+
+453
+00:18:52,960 --> 00:18:55,679
+cellid efficiency it's the opposite of
+
+454
+00:18:55,679 --> 00:18:58,520
+this singular candle here it's an
+
+455
+00:18:58,520 --> 00:19:01,280
+upclose candle so it wouldn't be a Cy it
+
+456
+00:19:01,280 --> 00:19:03,640
+would be a bissy bidon balance cellid
+
+457
+00:19:03,640 --> 00:19:07,159
+efficiency so it digs into this just by
+
+458
+00:19:07,159 --> 00:19:08,760
+a little bit but specifically right
+
+459
+00:19:08,760 --> 00:19:11,679
+below that low again that's not random
+
+460
+00:19:11,679 --> 00:19:13,799
+these are things I like to look for you
+
+461
+00:19:13,799 --> 00:19:15,400
+can also see how we had that same thing
+
+462
+00:19:15,400 --> 00:19:17,320
+occurring here this is a b balance
+
+463
+00:19:17,320 --> 00:19:20,440
+efficiency again the opposite of
+
+464
+00:19:20,440 --> 00:19:22,760
+this up closed candles that create a
+
+465
+00:19:22,760 --> 00:19:25,320
+fair value gap or inefficiency is
+
+466
+00:19:25,320 --> 00:19:27,240
+referred to as a
+
+467
+00:19:27,240 --> 00:19:30,520
+bissy the classification by PD aray is
+
+468
+00:19:30,520 --> 00:19:33,400
+fair value Gap but it's an up close
+
+469
+00:19:33,400 --> 00:19:35,440
+candle so it's a buy side IM balance
+
+470
+00:19:35,440 --> 00:19:37,280
+sell side and efficiency meaning the
+
+471
+00:19:37,280 --> 00:19:40,799
+price will want to go back down to it
+
+472
+00:19:40,799 --> 00:19:43,039
+eventually and in here we have that
+
+473
+00:19:43,039 --> 00:19:46,799
+inbalance and then trades where down
+
+474
+00:19:46,799 --> 00:19:48,360
+once it gets into there reprices to the
+
+475
+00:19:48,360 --> 00:19:50,880
+order block then it rallies back up
+
+476
+00:19:50,880 --> 00:19:54,080
+creating the initial stage of what a
+
+477
+00:19:54,080 --> 00:19:56,559
+shift in Market structure Above This
+
+478
+00:19:56,559 --> 00:20:00,159
+High here so now we can look for a
+
+479
+00:20:00,159 --> 00:20:04,000
+retracement back down in so is as it's
+
+480
+00:20:04,000 --> 00:20:06,559
+retracing we're anticipating the price
+
+481
+00:20:06,559 --> 00:20:09,559
+doing what eventually reaching for the
+
+482
+00:20:09,559 --> 00:20:13,360
+high here and here so we can look for a
+
+483
+00:20:13,360 --> 00:20:16,960
+lower time frame to give us a scenario
+
+484
+00:20:16,960 --> 00:20:18,280
+where if we think it's going to go above
+
+485
+00:20:18,280 --> 00:20:19,559
+these relative equal highs and we can
+
+486
+00:20:19,559 --> 00:20:22,120
+see that this Fair B Gap wasn't hiding
+
+487
+00:20:22,120 --> 00:20:24,919
+it's in plain view it should stand out
+
+488
+00:20:24,919 --> 00:20:27,679
+on your chart that's why it you're
+
+489
+00:20:27,679 --> 00:20:29,640
+encouraged by me to annotate them when
+
+490
+00:20:29,640 --> 00:20:31,720
+you see them so if you see a draw on
+
+491
+00:20:31,720 --> 00:20:33,240
+liquidity that's setting up above or
+
+492
+00:20:33,240 --> 00:20:35,240
+below the marketplace don't just limit
+
+493
+00:20:35,240 --> 00:20:37,760
+your focus to that look in close
+
+494
+00:20:37,760 --> 00:20:40,559
+proximity just above these buy side
+
+495
+00:20:40,559 --> 00:20:42,880
+liquidity highs here that are relatively
+
+496
+00:20:42,880 --> 00:20:46,240
+equal how far can it go above it well
+
+497
+00:20:46,240 --> 00:20:48,080
+looking over here there's no
+
+498
+00:20:48,080 --> 00:20:49,720
+inefficiency here but there is one right
+
+499
+00:20:49,720 --> 00:20:51,559
+there so how far can it go above these
+
+500
+00:20:51,559 --> 00:20:54,000
+relative equal High there and look where
+
+501
+00:20:54,000 --> 00:20:57,120
+the body stop okay so that's not
+
+502
+00:20:57,120 --> 00:20:58,919
+random
+
+503
+00:20:58,919 --> 00:21:00,000
+all right so we're going to zoom in here
+
+504
+00:21:00,000 --> 00:21:01,000
+a little
+
+505
+00:21:01,000 --> 00:21:03,600
+bit drop down into a lower time frame
+
+506
+00:21:03,600 --> 00:21:06,760
+chart here and don't worry I'll let you
+
+507
+00:21:06,760 --> 00:21:08,880
+know what this is as we get to the close
+
+508
+00:21:08,880 --> 00:21:11,600
+of the lecture but just stick to what
+
+509
+00:21:11,600 --> 00:21:12,880
+I'm showing you
+
+510
+00:21:12,880 --> 00:21:15,520
+here we
+
+511
+00:21:15,520 --> 00:21:17,880
+have the
+
+512
+00:21:17,880 --> 00:21:21,720
+low buy side delivery trading up
+
+513
+00:21:21,720 --> 00:21:25,679
+into the fair value Gap that was on a
+
+514
+00:21:25,679 --> 00:21:28,360
+time frame that was 60 minutes but now
+
+515
+00:21:28,360 --> 00:21:29,480
+we're on a
+
+516
+00:21:29,480 --> 00:21:32,440
+15minute so this time frame here is a
+
+517
+00:21:32,440 --> 00:21:35,840
+15-minute time frame it's one quarter of
+
+518
+00:21:35,840 --> 00:21:39,480
+what was shown as the previous chart so
+
+519
+00:21:39,480 --> 00:21:42,360
+there's four times the number of
+
+520
+00:21:42,360 --> 00:21:45,120
+candles and I've given you a reference
+
+521
+00:21:45,120 --> 00:21:47,799
+point that it was based on a 60 Minute
+
+522
+00:21:47,799 --> 00:21:49,799
+or hourly fair value Gap in the form of
+
+523
+00:21:49,799 --> 00:21:51,360
+a Cy sell sign and balance byy sign
+
+524
+00:21:51,360 --> 00:21:53,400
+efficiency and still you can see the
+
+525
+00:21:53,400 --> 00:21:55,320
+body is respecting and only the
+
+526
+00:21:55,320 --> 00:21:58,080
+candlesticks Wicks are piercing it see
+
+527
+00:21:58,080 --> 00:22:01,480
+see that so that's very very indicative
+
+528
+00:22:01,480 --> 00:22:03,880
+of qualifying the fact that we've went
+
+529
+00:22:03,880 --> 00:22:06,000
+up to a specific level and therefore we
+
+530
+00:22:06,000 --> 00:22:08,480
+can trust that the algorithm is kind of
+
+531
+00:22:08,480 --> 00:22:10,400
+like broadcasting to those that know how
+
+532
+00:22:10,400 --> 00:22:12,880
+to look at it and see it that it's
+
+533
+00:22:12,880 --> 00:22:16,720
+likely to now reic lower repic to where
+
+534
+00:22:16,720 --> 00:22:19,440
+below this low and any accelerated run
+
+535
+00:22:19,440 --> 00:22:21,640
+below this low how far can it go is
+
+536
+00:22:21,640 --> 00:22:24,120
+there any efficiencies over here don't
+
+537
+00:22:24,120 --> 00:22:25,679
+look at this one because that's above
+
+538
+00:22:25,679 --> 00:22:27,200
+that low we would already be
+
+539
+00:22:27,200 --> 00:22:30,320
+anticipating retracement back below that
+
+540
+00:22:30,320 --> 00:22:33,360
+where will we look the rejection block
+
+541
+00:22:33,360 --> 00:22:35,120
+which is the lowest down close and then
+
+542
+00:22:35,120 --> 00:22:37,640
+we have these relative equal lows here
+
+543
+00:22:37,640 --> 00:22:39,640
+and you see it just goes a little bit
+
+544
+00:22:39,640 --> 00:22:43,480
+below that low rate there we're going to
+
+545
+00:22:43,480 --> 00:22:45,799
+get into this in a moment for now just
+
+546
+00:22:45,799 --> 00:22:48,000
+notice that we have ran above that buy
+
+547
+00:22:48,000 --> 00:22:53,320
+side that old high here that old high
+
+548
+00:22:53,679 --> 00:22:55,720
+here shift in Market structure on the
+
+549
+00:22:55,720 --> 00:22:58,360
+hourly chart Above This High here so
+
+550
+00:22:58,360 --> 00:22:59,840
+it's retracing what's it retracing back
+
+551
+00:22:59,840 --> 00:23:04,840
+down into the fair value got order block
+
+552
+00:23:04,840 --> 00:23:07,960
+right there so now does the market offer
+
+553
+00:23:07,960 --> 00:23:08,960
+a
+
+554
+00:23:08,960 --> 00:23:11,360
+consolidation that's what we would be
+
+555
+00:23:11,360 --> 00:23:13,600
+expecting here is it consolidating is it
+
+556
+00:23:13,600 --> 00:23:17,919
+offering a small little pause in price
+
+557
+00:23:17,919 --> 00:23:19,320
+where it goes sideways for a little
+
+558
+00:23:19,320 --> 00:23:22,480
+while which would be accumulating long
+
+559
+00:23:22,480 --> 00:23:24,720
+positions that's allowing smart money to
+
+560
+00:23:24,720 --> 00:23:26,880
+accumulate
+
+561
+00:23:26,880 --> 00:23:28,919
+longs
+
+562
+00:23:28,919 --> 00:23:30,240
+I'm going to zoom in this is the same
+
+563
+00:23:30,240 --> 00:23:32,559
+time frame okay so it's 15
+
+564
+00:23:32,559 --> 00:23:35,320
+minute here's that low you can see how
+
+565
+00:23:35,320 --> 00:23:37,919
+we just went below it right here see
+
+566
+00:23:37,919 --> 00:23:40,480
+that here's that low inside the fair
+
+567
+00:23:40,480 --> 00:23:42,320
+value Gap with the order block which is
+
+568
+00:23:42,320 --> 00:23:45,440
+a down Clos candle again we would be
+
+569
+00:23:45,440 --> 00:23:47,039
+anticipating some measure of
+
+570
+00:23:47,039 --> 00:23:49,840
+consolidation not dropping
+
+571
+00:23:49,840 --> 00:23:51,760
+lower
+
+572
+00:23:51,760 --> 00:23:53,600
+consolidation because that means we
+
+573
+00:23:53,600 --> 00:23:55,960
+would be anticipating a run above the
+
+574
+00:23:55,960 --> 00:23:59,480
+buy side here and the previous height is
+
+575
+00:23:59,480 --> 00:24:00,760
+to the left outside the scope of what
+
+576
+00:24:00,760 --> 00:24:02,440
+I'm zoomed in on now but you can see
+
+577
+00:24:02,440 --> 00:24:04,760
+it's still being highlighted and then
+
+578
+00:24:04,760 --> 00:24:07,640
+that 60 Minute fair value got in the
+
+579
+00:24:07,640 --> 00:24:09,000
+form of a cell sign and balance byid
+
+580
+00:24:09,000 --> 00:24:12,919
+efficiency that's here okay so what
+
+581
+00:24:12,919 --> 00:24:13,919
+we're going to do is we're going to drop
+
+582
+00:24:13,919 --> 00:24:17,400
+down to a even lower time frame and see
+
+583
+00:24:17,400 --> 00:24:19,720
+if there's any more detail in here with
+
+584
+00:24:19,720 --> 00:24:22,480
+a f minute
+
+585
+00:24:22,919 --> 00:24:25,279
+chart so now we're inside of a lower
+
+586
+00:24:25,279 --> 00:24:28,919
+time frame five minute chart and I've
+
+587
+00:24:28,919 --> 00:24:30,000
+highlighted
+
+588
+00:24:30,000 --> 00:24:32,760
+now this little area right down here I
+
+589
+00:24:32,760 --> 00:24:34,520
+told you we would talk about that in
+
+590
+00:24:34,520 --> 00:24:37,440
+here we're looking at a balanced price
+
+591
+00:24:37,440 --> 00:24:40,360
+range a balanced price range is where
+
+592
+00:24:40,360 --> 00:24:43,120
+the market has both a
+
+593
+00:24:43,120 --> 00:24:46,919
+downside and upside or sells side
+
+594
+00:24:46,919 --> 00:24:49,440
+delivery and buy side delivery that
+
+595
+00:24:49,440 --> 00:24:52,840
+overlap one another in the same relative
+
+596
+00:24:52,840 --> 00:24:55,279
+range in price so you can see how this
+
+597
+00:24:55,279 --> 00:24:56,440
+candle's
+
+598
+00:24:56,440 --> 00:24:58,919
+high that candles low that would
+
+599
+00:24:58,919 --> 00:25:01,399
+normally be what a sell sign balance byy
+
+600
+00:25:01,399 --> 00:25:02,880
+side and efficiency but look what's
+
+601
+00:25:02,880 --> 00:25:05,720
+happened over here we have a high a big
+
+602
+00:25:05,720 --> 00:25:07,559
+up closed candle and this candle's low
+
+603
+00:25:07,559 --> 00:25:08,919
+so what does that make
+
+604
+00:25:08,919 --> 00:25:12,520
+this a bid balance cell efficiency so
+
+605
+00:25:12,520 --> 00:25:15,320
+there's an overlapping between a CBI and
+
+606
+00:25:15,320 --> 00:25:17,760
+a bissy within the general area of the
+
+607
+00:25:17,760 --> 00:25:20,320
+same price range so I'm using the low
+
+608
+00:25:20,320 --> 00:25:22,919
+here and the high here so that way we
+
+609
+00:25:22,919 --> 00:25:24,640
+can see how this becomes a balanced
+
+610
+00:25:24,640 --> 00:25:27,880
+price range these are trapped Traders
+
+611
+00:25:27,880 --> 00:25:30,960
+okay this in here is a trap Trader or
+
+612
+00:25:30,960 --> 00:25:34,799
+trap traders that would have been caught
+
+613
+00:25:34,799 --> 00:25:38,200
+short in the classic days of commodity
+
+614
+00:25:38,200 --> 00:25:40,720
+trading if you were
+
+615
+00:25:40,720 --> 00:25:44,679
+to see old patterns like what would be
+
+616
+00:25:44,679 --> 00:25:48,080
+considered an island reversal okay uh
+
+617
+00:25:48,080 --> 00:25:50,960
+this is the closest thing that I can
+
+618
+00:25:50,960 --> 00:25:52,880
+kind of use to describe what's occurring
+
+619
+00:25:52,880 --> 00:25:55,399
+when there is a balanced price range
+
+620
+00:25:55,399 --> 00:25:57,360
+when it's extreme like this so when we
+
+621
+00:25:57,360 --> 00:26:00,520
+have a big decline large range candle
+
+622
+00:26:00,520 --> 00:26:03,320
+that's down and then eventually not like
+
+623
+00:26:03,320 --> 00:26:06,200
+months later not weeks later but when
+
+624
+00:26:06,200 --> 00:26:09,679
+it's a big drop and a handful of
+
+625
+00:26:09,679 --> 00:26:11,440
+candlesticks like this it's not a whole
+
+626
+00:26:11,440 --> 00:26:13,360
+lot of candles then eventually you know
+
+627
+00:26:13,360 --> 00:26:16,520
+rip back higher that means that this was
+
+628
+00:26:16,520 --> 00:26:20,159
+someone that's been caught their short
+
+629
+00:26:20,159 --> 00:26:22,120
+and they quickly repriced and leave them
+
+630
+00:26:22,120 --> 00:26:26,039
+down there so when I see that I look to
+
+631
+00:26:26,039 --> 00:26:28,399
+see where those two reference points are
+
+632
+00:26:28,399 --> 00:26:29,960
+where the market drops quickly for sells
+
+633
+00:26:29,960 --> 00:26:31,720
+side delivery and then when it rallies
+
+634
+00:26:31,720 --> 00:26:33,279
+back up
+
+635
+00:26:33,279 --> 00:26:36,200
+quickly those one big candles down one
+
+636
+00:26:36,200 --> 00:26:38,960
+big candle's up all the price ACS and
+
+637
+00:26:38,960 --> 00:26:41,960
+below it I would view that as trap
+
+638
+00:26:41,960 --> 00:26:44,200
+Trader so that means by itself that
+
+639
+00:26:44,200 --> 00:26:45,799
+gives me narrative that it's probably
+
+640
+00:26:45,799 --> 00:26:49,200
+going to go higher so now cue up the
+
+641
+00:26:49,200 --> 00:26:51,240
+idea of what would it be reaching for
+
+642
+00:26:51,240 --> 00:26:52,960
+well we see it was dropping back down
+
+643
+00:26:52,960 --> 00:26:57,000
+into an inefficiency here the buy side
+
+644
+00:26:57,000 --> 00:26:59,440
+here and old high back to the left and
+
+645
+00:26:59,440 --> 00:27:02,440
+that 60 Minute fair value Gap that's a
+
+646
+00:27:02,440 --> 00:27:04,320
+Cy up
+
+647
+00:27:04,320 --> 00:27:06,360
+here we're still in a 15-minute time
+
+648
+00:27:06,360 --> 00:27:07,840
+frame by the way I'm I miscued it
+
+649
+00:27:07,840 --> 00:27:09,880
+earlier calling a five
+
+650
+00:27:09,880 --> 00:27:12,600
+minute see the idea of the market
+
+651
+00:27:12,600 --> 00:27:14,320
+consolidating that's what we're showing
+
+652
+00:27:14,320 --> 00:27:17,880
+here now how am I referencing this
+
+653
+00:27:17,880 --> 00:27:19,840
+consolidation this is the part of it
+
+654
+00:27:19,840 --> 00:27:23,039
+that becomes like a knack okay um you
+
+655
+00:27:23,039 --> 00:27:26,679
+might not have the exact candles framed
+
+656
+00:27:26,679 --> 00:27:28,120
+like this
+
+657
+00:27:28,120 --> 00:27:31,039
+when you see an original consolidation
+
+658
+00:27:31,039 --> 00:27:33,320
+so when I call a original consolidation
+
+659
+00:27:33,320 --> 00:27:35,640
+that is where the market is accumulating
+
+660
+00:27:35,640 --> 00:27:37,799
+so what I did here I seen these two
+
+661
+00:27:37,799 --> 00:27:39,559
+candles here and then the body of this
+
+662
+00:27:39,559 --> 00:27:41,559
+one and the body of this one so right
+
+663
+00:27:41,559 --> 00:27:43,080
+away my eye jumps to that because it's
+
+664
+00:27:43,080 --> 00:27:44,399
+what it's a smooth
+
+665
+00:27:44,399 --> 00:27:47,320
+edge so I want to use that as the high
+
+666
+00:27:47,320 --> 00:27:49,519
+of the original consolidation what's the
+
+667
+00:27:49,519 --> 00:27:53,000
+low the lowest low see how easy that was
+
+668
+00:27:53,000 --> 00:27:54,279
+so when I'm looking at the original
+
+669
+00:27:54,279 --> 00:27:56,519
+consolidations I'm looking for a
+
+670
+00:27:56,519 --> 00:27:59,279
+repetitive overlapping or reoccurrence
+
+671
+00:27:59,279 --> 00:28:00,960
+of a level that's being constantly
+
+672
+00:28:00,960 --> 00:28:03,840
+referred back to inside of
+
+673
+00:28:03,840 --> 00:28:06,519
+consolidation now I'm anticipating the
+
+674
+00:28:06,519 --> 00:28:09,200
+market to go higher to go above the buy
+
+675
+00:28:09,200 --> 00:28:10,559
+side here and then reach up into this
+
+676
+00:28:10,559 --> 00:28:12,679
+inefficiency up
+
+677
+00:28:12,679 --> 00:28:16,519
+here but I'm anticipating also that it
+
+678
+00:28:16,519 --> 00:28:17,840
+should offer some measure of
+
+679
+00:28:17,840 --> 00:28:19,279
+consolidation because if it's going to
+
+680
+00:28:19,279 --> 00:28:21,960
+do that my premise behind swing trading
+
+681
+00:28:21,960 --> 00:28:23,640
+is it's all on the basis of a market
+
+682
+00:28:23,640 --> 00:28:25,320
+maker sell model or a market maker buy
+
+683
+00:28:25,320 --> 00:28:27,000
+model that's what swing trading is
+
+684
+00:28:27,000 --> 00:28:28,320
+whether you realize it or not whether
+
+685
+00:28:28,320 --> 00:28:29,799
+you want to subscribe to it or not
+
+686
+00:28:29,799 --> 00:28:32,080
+that's what the Market's doing it's not
+
+687
+00:28:32,080 --> 00:28:34,200
+doing harmonic stuff it's not doing L8
+
+688
+00:28:34,200 --> 00:28:36,240
+wave stuff it's moving on the principles
+
+689
+00:28:36,240 --> 00:28:38,080
+of running to liquidity or it's running
+
+690
+00:28:38,080 --> 00:28:39,720
+to inefficiencies and if it's not doing
+
+691
+00:28:39,720 --> 00:28:41,640
+that it's consolidating and if it's not
+
+692
+00:28:41,640 --> 00:28:44,360
+doing that it's highly manipulated and
+
+693
+00:28:44,360 --> 00:28:46,240
+then you're having some kind of manual
+
+694
+00:28:46,240 --> 00:28:48,880
+intervention some kind of shockin all
+
+695
+00:28:48,880 --> 00:28:50,559
+surprise rate announcement some kind of
+
+696
+00:28:50,559 --> 00:28:52,360
+wartime event something that would
+
+697
+00:28:52,360 --> 00:28:53,880
+destabilize the marketplace that you
+
+698
+00:28:53,880 --> 00:28:55,519
+can't and I can't predict before it
+
+699
+00:28:55,519 --> 00:28:58,080
+happens okay so that's always always the
+
+700
+00:28:58,080 --> 00:29:02,440
+underlying incurred risk that we have as
+
+701
+00:29:02,840 --> 00:29:05,080
+speculators so this area here is where
+
+702
+00:29:05,080 --> 00:29:07,080
+I'm framing that you can see still look
+
+703
+00:29:07,080 --> 00:29:08,600
+how many times it's referring to that
+
+704
+00:29:08,600 --> 00:29:11,000
+same level that's based over here so
+
+705
+00:29:11,000 --> 00:29:12,519
+when I'm looking at consolidations I'm
+
+706
+00:29:12,519 --> 00:29:15,080
+looking at levels that constantly repeat
+
+707
+00:29:15,080 --> 00:29:16,519
+I'm not just going to lay over top of
+
+708
+00:29:16,519 --> 00:29:19,240
+this high or this high or this High I'm
+
+709
+00:29:19,240 --> 00:29:21,000
+looking for something that frames it
+
+710
+00:29:21,000 --> 00:29:22,000
+very
+
+711
+00:29:22,000 --> 00:29:24,640
+clearly now when you go back and look at
+
+712
+00:29:24,640 --> 00:29:26,240
+my examples when I'm doing this in the
+
+713
+00:29:26,240 --> 00:29:27,600
+past and I've been doing for a long long
+
+714
+00:29:27,600 --> 00:29:29,960
+long time since the 90s but the examples
+
+715
+00:29:29,960 --> 00:29:32,960
+I've made public look and see how I'm
+
+716
+00:29:32,960 --> 00:29:36,279
+drawing your attention to these specific
+
+717
+00:29:36,279 --> 00:29:39,039
+consolidations do you see it do you see
+
+718
+00:29:39,039 --> 00:29:41,279
+it as a consolidation go back and look
+
+719
+00:29:41,279 --> 00:29:42,919
+at your other annotations that maybe you
+
+720
+00:29:42,919 --> 00:29:45,120
+have journaled before start looking at
+
+721
+00:29:45,120 --> 00:29:46,880
+it like this so that way when you
+
+722
+00:29:46,880 --> 00:29:48,880
+understand it when the market does
+
+723
+00:29:48,880 --> 00:29:50,080
+eventually leave the original
+
+724
+00:29:50,080 --> 00:29:51,600
+consolidation because we're underlyingly
+
+725
+00:29:51,600 --> 00:29:53,559
+bullish we have traders that are trapped
+
+726
+00:29:53,559 --> 00:29:55,320
+down here they don't want to drop down
+
+727
+00:29:55,320 --> 00:29:57,960
+below to give them an opportunity to get
+
+728
+00:29:57,960 --> 00:30:00,360
+out even though the market does
+
+729
+00:30:00,360 --> 00:30:02,799
+eventually drop lower here they may not
+
+730
+00:30:02,799 --> 00:30:04,600
+come back down into this area until a
+
+731
+00:30:04,600 --> 00:30:07,320
+later time it could be weeks it could be
+
+732
+00:30:07,320 --> 00:30:09,159
+days it could be hours it could be you
+
+733
+00:30:09,159 --> 00:30:12,399
+know a time that's unknown to you that's
+
+734
+00:30:12,399 --> 00:30:14,240
+outside the scope of the the
+
+735
+00:30:14,240 --> 00:30:15,880
+presentation here what you're looking
+
+736
+00:30:15,880 --> 00:30:17,519
+for and what I'm looking for is trades
+
+737
+00:30:17,519 --> 00:30:19,120
+that make sense where the Market's
+
+738
+00:30:19,120 --> 00:30:20,960
+reaching for liquidity and efficiencies
+
+739
+00:30:20,960 --> 00:30:22,840
+and then reversing for the sake of going
+
+740
+00:30:22,840 --> 00:30:25,080
+back against the original consolidation
+
+741
+00:30:25,080 --> 00:30:26,720
+where people are going to see this as a
+
+742
+00:30:26,720 --> 00:30:28,320
+support level
+
+743
+00:30:28,320 --> 00:30:30,760
+and I don't trade support resistance I
+
+744
+00:30:30,760 --> 00:30:33,440
+attack support resistance I attack
+
+745
+00:30:33,440 --> 00:30:35,159
+liquidity above old highs I attack
+
+746
+00:30:35,159 --> 00:30:37,960
+liquidity below old lows and I use
+
+747
+00:30:37,960 --> 00:30:41,480
+inefficiencies as targets or means of
+
+748
+00:30:41,480 --> 00:30:44,799
+Entry to trade against those same ideas
+
+749
+00:30:44,799 --> 00:30:48,519
+which would be anti- retail Theory I'm
+
+750
+00:30:48,519 --> 00:30:51,039
+against it I'm opposed to retail Theory
+
+751
+00:30:51,039 --> 00:30:53,720
+anything retail if it's support
+
+752
+00:30:53,720 --> 00:30:56,240
+resistance harmonic patterns Elliot wave
+
+753
+00:30:56,240 --> 00:31:00,480
+G wi off all that stuff that's all
+
+754
+00:31:00,480 --> 00:31:04,039
+retail logic and my understanding is
+
+755
+00:31:04,039 --> 00:31:07,240
+that's the reason why that 90% people
+
+756
+00:31:07,240 --> 00:31:09,200
+that try to use all that stuff fail and
+
+757
+00:31:09,200 --> 00:31:10,919
+they and they fail rather
+
+758
+00:31:10,919 --> 00:31:12,840
+quickly
+
+759
+00:31:12,840 --> 00:31:15,200
+so when we can frame the original
+
+760
+00:31:15,200 --> 00:31:17,120
+consolidation properly then once we
+
+761
+00:31:17,120 --> 00:31:19,799
+leave it how do we how are we leaving it
+
+762
+00:31:19,799 --> 00:31:21,440
+here look at the body right
+
+763
+00:31:21,440 --> 00:31:23,880
+there yeah we had a wick here we had a
+
+764
+00:31:23,880 --> 00:31:26,720
+wick right there too but look at the
+
+765
+00:31:26,720 --> 00:31:28,000
+body St inside that original
+
+766
+00:31:28,000 --> 00:31:29,760
+consolidation see that that's
+
+767
+00:31:29,760 --> 00:31:31,919
+characteristic to algorithmic price
+
+768
+00:31:31,919 --> 00:31:34,639
+delivery it's indicating to individuals
+
+769
+00:31:34,639 --> 00:31:36,840
+that I'm trying to show you that this is
+
+770
+00:31:36,840 --> 00:31:39,600
+the language that traders that use this
+
+771
+00:31:39,600 --> 00:31:41,639
+information and the algorithms The High
+
+772
+00:31:41,639 --> 00:31:43,360
+Frequency trading algorithms they
+
+773
+00:31:43,360 --> 00:31:45,600
+highlight these things in price and so
+
+774
+00:31:45,600 --> 00:31:47,720
+it gets their highfrequency trading
+
+775
+00:31:47,720 --> 00:31:51,480
+algorithm in the hunt for long entries
+
+776
+00:31:51,480 --> 00:31:54,120
+when is it allowed to take the
+
+777
+00:31:54,120 --> 00:31:57,159
+long that candle right there tells you
+
+778
+00:31:57,159 --> 00:31:59,120
+so now we can then refer back to the
+
+779
+00:31:59,120 --> 00:32:00,679
+same level here if it trades back to
+
+780
+00:32:00,679 --> 00:32:01,399
+that
+
+781
+00:32:01,399 --> 00:32:04,760
+level what's it doing it's returning
+
+782
+00:32:04,760 --> 00:32:06,240
+back to the original
+
+783
+00:32:06,240 --> 00:32:08,279
+consolidation that's how I teach my
+
+784
+00:32:08,279 --> 00:32:10,480
+market maker in sell model and buy model
+
+785
+00:32:10,480 --> 00:32:12,880
+the original consolidation it can leave
+
+786
+00:32:12,880 --> 00:32:15,000
+it it doesn't have to touch it but if it
+
+787
+00:32:15,000 --> 00:32:17,799
+does that's usually a trade so this
+
+788
+00:32:17,799 --> 00:32:21,000
+would be your your original entry okay
+
+789
+00:32:21,000 --> 00:32:23,919
+so you could go long there but sometimes
+
+790
+00:32:23,919 --> 00:32:25,279
+it won't offer a return back to the
+
+791
+00:32:25,279 --> 00:32:28,080
+original consolidation so it might just
+
+792
+00:32:28,080 --> 00:32:29,559
+need a
+
+793
+00:32:29,559 --> 00:32:33,440
+higher order entry and not offer
+
+794
+00:32:33,440 --> 00:32:34,720
+something right at the high of the
+
+795
+00:32:34,720 --> 00:32:36,440
+original consolidation the market
+
+796
+00:32:36,440 --> 00:32:37,960
+rallies up trades right into that
+
+797
+00:32:37,960 --> 00:32:41,919
+60-minute fair Val got Cy bodies tell
+
+798
+00:32:41,919 --> 00:32:43,559
+the narrative it's not interest in going
+
+799
+00:32:43,559 --> 00:32:45,200
+any higher why because look at this big
+
+800
+00:32:45,200 --> 00:32:47,440
+candle drop down there
+
+801
+00:32:47,440 --> 00:32:50,679
+wonderful we have an inefficiency here
+
+802
+00:32:50,679 --> 00:32:53,720
+we have an inefficiency
+
+803
+00:32:53,919 --> 00:32:56,039
+here drops
+
+804
+00:32:56,039 --> 00:32:58,559
+aggressively below the original
+
+805
+00:32:58,559 --> 00:33:01,279
+consolidation right back to the high of
+
+806
+00:33:01,279 --> 00:33:04,799
+the Balan price range right there which
+
+807
+00:33:04,799 --> 00:33:08,080
+is also just below that old low right
+
+808
+00:33:08,080 --> 00:33:10,000
+there that make these relative equal
+
+809
+00:33:10,000 --> 00:33:14,080
+lows what suspect for cells side so
+
+810
+00:33:14,080 --> 00:33:16,919
+cells side liquidity resting below there
+
+811
+00:33:16,919 --> 00:33:20,159
+that's the draw if it's going to go well
+
+812
+00:33:20,159 --> 00:33:21,799
+beyond the low here where the original
+
+813
+00:33:21,799 --> 00:33:23,840
+consolidation cell side liquidity would
+
+814
+00:33:23,840 --> 00:33:27,080
+be resting so in in layman's terms what
+
+815
+00:33:27,080 --> 00:33:29,960
+saying is it's building up a lot of
+
+816
+00:33:29,960 --> 00:33:32,320
+interest to go higher then it rips
+
+817
+00:33:32,320 --> 00:33:35,000
+higher comes back down gives one more
+
+818
+00:33:35,000 --> 00:33:37,159
+chance okay one more
+
+819
+00:33:37,159 --> 00:33:40,120
+chance then takes off takes Above This
+
+820
+00:33:40,120 --> 00:33:42,320
+High here then reaches up into the INE
+
+821
+00:33:42,320 --> 00:33:44,679
+efficiency then at that
+
+822
+00:33:44,679 --> 00:33:46,919
+point does it indicate that it wants to
+
+823
+00:33:46,919 --> 00:33:48,679
+go lower because if you're bearish and
+
+824
+00:33:48,679 --> 00:33:51,000
+you're extremely bearish to the degree
+
+825
+00:33:51,000 --> 00:33:52,279
+where you think this is a good entry
+
+826
+00:33:52,279 --> 00:33:54,639
+point you could sell up here as it does
+
+827
+00:33:54,639 --> 00:33:56,279
+that and that's a little scary I
+
+828
+00:33:56,279 --> 00:33:57,919
+understand that
+
+829
+00:33:57,919 --> 00:33:59,240
+but eventually you get these multiple
+
+830
+00:33:59,240 --> 00:34:00,840
+entries in here where you can go short
+
+831
+00:34:00,840 --> 00:34:02,159
+we'll look at them in Greater detail in
+
+832
+00:34:02,159 --> 00:34:04,200
+a minute but eventually the idea was to
+
+833
+00:34:04,200 --> 00:34:06,320
+draw back down into this area here but
+
+834
+00:34:06,320 --> 00:34:08,359
+if it goes below this how far can it go
+
+835
+00:34:08,359 --> 00:34:11,199
+there's no inefficiency over here it's
+
+836
+00:34:11,199 --> 00:34:12,800
+these relative equal lows and that's
+
+837
+00:34:12,800 --> 00:34:14,250
+where the market drops
+
+838
+00:34:14,250 --> 00:34:16,480
+[Music]
+
+839
+00:34:16,480 --> 00:34:20,480
+to all right so now we have more
+
+840
+00:34:20,480 --> 00:34:22,000
+candlesticks and now this is the F
+
+841
+00:34:22,000 --> 00:34:24,320
+minute chart so here's the original
+
+842
+00:34:24,320 --> 00:34:26,280
+consolidation you see the market does in
+
+843
+00:34:26,280 --> 00:34:29,320
+fact drop back down in inversion fair
+
+844
+00:34:29,320 --> 00:34:30,839
+value Gap I don't have it highlighted
+
+845
+00:34:30,839 --> 00:34:31,760
+because it would be too many things on
+
+846
+00:34:31,760 --> 00:34:33,399
+the chart but for
+
+847
+00:34:33,399 --> 00:34:35,639
+you that's inversion fair value Gap
+
+848
+00:34:35,639 --> 00:34:37,320
+meaning that usually that would be sell
+
+849
+00:34:37,320 --> 00:34:38,960
+side and balance by side efficiency if
+
+850
+00:34:38,960 --> 00:34:40,280
+the market trades back up into it we
+
+851
+00:34:40,280 --> 00:34:42,079
+would see it what trade lower but if
+
+852
+00:34:42,079 --> 00:34:43,760
+it's an inversion fair value Gap it
+
+853
+00:34:43,760 --> 00:34:45,159
+means it's going to go above it come
+
+854
+00:34:45,159 --> 00:34:48,560
+back down and use it as a discount array
+
+855
+00:34:48,560 --> 00:34:50,399
+and it's inside of the original
+
+856
+00:34:50,399 --> 00:34:53,280
+consolidation and rallies takes the buy
+
+857
+00:34:53,280 --> 00:34:55,440
+side trades the 60-minute fair value Gap
+
+858
+00:34:55,440 --> 00:34:57,800
+cby even in the 5 minute look at the
+
+859
+00:34:57,800 --> 00:35:00,200
+candlesticks the bodies they're inside
+
+860
+00:35:00,200 --> 00:35:03,040
+that Cy it's indicating that yes there's
+
+861
+00:35:03,040 --> 00:35:06,160
+Wicks going on in here but that's just
+
+862
+00:35:06,160 --> 00:35:08,119
+the the the damage okay where it's
+
+863
+00:35:08,119 --> 00:35:10,720
+reaching for the best case for smart
+
+864
+00:35:10,720 --> 00:35:12,400
+money to get short
+
+865
+00:35:12,400 --> 00:35:16,240
+against and then we see it drop
+
+866
+00:35:17,400 --> 00:35:20,400
+lower zoomed in on that F minute chart
+
+867
+00:35:20,400 --> 00:35:22,599
+here we have the original consolidation
+
+868
+00:35:22,599 --> 00:35:25,680
+the rally up and I want you to pause the
+
+869
+00:35:25,680 --> 00:35:27,520
+video again and it if you're not doing
+
+870
+00:35:27,520 --> 00:35:29,000
+this I promise you you're really not
+
+871
+00:35:29,000 --> 00:35:31,040
+getting the same measure of
+
+872
+00:35:31,040 --> 00:35:32,400
+understanding and the opportunity to see
+
+873
+00:35:32,400 --> 00:35:35,720
+it in your own eyes and test your
+
+874
+00:35:35,720 --> 00:35:37,760
+observations you might not get it right
+
+875
+00:35:37,760 --> 00:35:41,000
+but that's okay trying and attempting to
+
+876
+00:35:41,000 --> 00:35:43,560
+do it and seeing things with
+
+877
+00:35:43,560 --> 00:35:46,800
+detail you might not have it exactly
+
+878
+00:35:46,800 --> 00:35:48,359
+right but what happens if you do have
+
+879
+00:35:48,359 --> 00:35:49,960
+the things I'm going to point out it's
+
+880
+00:35:49,960 --> 00:35:52,000
+encouraging so don't Rob yourself the
+
+881
+00:35:52,000 --> 00:35:53,920
+opportunity to have that so pause the
+
+882
+00:35:53,920 --> 00:35:56,319
+video take a look at all the price run
+
+883
+00:35:56,319 --> 00:35:59,480
+from here up to here and then down what
+
+884
+00:35:59,480 --> 00:36:01,800
+do you
+
+885
+00:36:05,800 --> 00:36:09,160
+see all right if you haven't paused the
+
+886
+00:36:09,160 --> 00:36:11,079
+video and want to you better have it
+
+887
+00:36:11,079 --> 00:36:12,480
+paused because I'm about to
+
+888
+00:36:12,480 --> 00:36:15,480
+continue when you're looking at
+
+889
+00:36:15,480 --> 00:36:19,440
+this my eye sees
+
+890
+00:36:20,040 --> 00:36:22,359
+this return to the original
+
+891
+00:36:22,359 --> 00:36:25,359
+consolidation the market rallies up we
+
+892
+00:36:25,359 --> 00:36:29,359
+have a down closed candle that's just
+
+893
+00:36:29,760 --> 00:36:32,839
+below this area right here what does
+
+894
+00:36:32,839 --> 00:36:37,040
+this up close candle
+
+895
+00:36:38,359 --> 00:36:41,079
+become bullish
+
+896
+00:36:41,079 --> 00:36:46,640
+breaker low high lower
+
+897
+00:36:46,640 --> 00:36:49,800
+low down closed candle inside of the
+
+898
+00:36:49,800 --> 00:36:52,480
+breaker candle over here that's a
+
+899
+00:36:52,480 --> 00:36:54,400
+bullish order block right there so when
+
+900
+00:36:54,400 --> 00:36:56,720
+it rallies Up And Trades back down in
+
+901
+00:36:56,720 --> 00:37:00,000
+our Target is what up here the initial
+
+902
+00:37:00,000 --> 00:37:02,880
+draw is the liquidity above that high in
+
+903
+00:37:02,880 --> 00:37:04,680
+the older High to the left it's not
+
+904
+00:37:04,680 --> 00:37:07,880
+inside this fractal price action anymore
+
+905
+00:37:07,880 --> 00:37:10,359
+but it's highlight with this line so
+
+906
+00:37:10,359 --> 00:37:12,440
+this drop down that could be if you're
+
+907
+00:37:12,440 --> 00:37:14,800
+not seeing the original consolidation
+
+908
+00:37:14,800 --> 00:37:15,920
+correctly and this would be your
+
+909
+00:37:15,920 --> 00:37:17,560
+original entry
+
+910
+00:37:17,560 --> 00:37:21,119
+or uh your first stage accumulation then
+
+911
+00:37:21,119 --> 00:37:22,800
+this would be second stage
+
+912
+00:37:22,800 --> 00:37:25,520
+reaccumulation here and it rallies up
+
+913
+00:37:25,520 --> 00:37:27,240
+but if you don't for the sake of those
+
+914
+00:37:27,240 --> 00:37:29,200
+individuals that wouldn't have it
+
+915
+00:37:29,200 --> 00:37:31,560
+identified correctly in terms of how big
+
+916
+00:37:31,560 --> 00:37:33,440
+the original consolidation is when it
+
+917
+00:37:33,440 --> 00:37:35,880
+leaves it and when it comes back down in
+
+918
+00:37:35,880 --> 00:37:37,680
+I'm making allowance for that for this
+
+919
+00:37:37,680 --> 00:37:39,599
+lecture here so you you might not have
+
+920
+00:37:39,599 --> 00:37:40,960
+that skill set in the beginning to see
+
+921
+00:37:40,960 --> 00:37:44,160
+exactly how to define the
+
+922
+00:37:44,160 --> 00:37:46,160
+consolidation then if that's the case
+
+923
+00:37:46,160 --> 00:37:47,920
+then the bullish order block here would
+
+924
+00:37:47,920 --> 00:37:50,240
+be your first stage accumulation for you
+
+925
+00:37:50,240 --> 00:37:52,240
+is it wrong to classify it this way no
+
+926
+00:37:52,240 --> 00:37:54,800
+it's based on your understanding they're
+
+927
+00:37:54,800 --> 00:37:58,680
+both correct based on the level of
+
+928
+00:37:58,680 --> 00:38:00,680
+experience and knowing what you're doing
+
+929
+00:38:00,680 --> 00:38:03,040
+the only distinction is is how you may
+
+930
+00:38:03,040 --> 00:38:04,640
+or may not have had the original
+
+931
+00:38:04,640 --> 00:38:07,960
+consolidation mapped out right so many
+
+932
+00:38:07,960 --> 00:38:10,040
+of you may not have seen this as a
+
+933
+00:38:10,040 --> 00:38:11,319
+return to the original consolidation you
+
+934
+00:38:11,319 --> 00:38:13,079
+may have seen this as relative equal
+
+935
+00:38:13,079 --> 00:38:14,960
+highs being taken and now it's going to
+
+936
+00:38:14,960 --> 00:38:18,599
+go lower not knowing all the other
+
+937
+00:38:18,599 --> 00:38:20,680
+narrative that I've outlined
+
+938
+00:38:20,680 --> 00:38:23,839
+here so down close candle here in the
+
+939
+00:38:23,839 --> 00:38:26,040
+scope of a bullish price run during
+
+940
+00:38:26,040 --> 00:38:28,319
+buyid delivery aiming for this area up
+
+941
+00:38:28,319 --> 00:38:31,359
+in here the down close candles traded to
+
+942
+00:38:31,359 --> 00:38:33,200
+here so there's your entry for a first
+
+943
+00:38:33,200 --> 00:38:36,400
+stage accumulation or it would be second
+
+944
+00:38:36,400 --> 00:38:39,920
+stage reaccumulation if you use this as
+
+945
+00:38:39,920 --> 00:38:41,480
+your first
+
+946
+00:38:41,480 --> 00:38:44,520
+entry so again just make sure you
+
+947
+00:38:44,520 --> 00:38:46,800
+understand that sometimes you will only
+
+948
+00:38:46,800 --> 00:38:51,040
+have one point of accumulation and not
+
+949
+00:38:51,040 --> 00:38:53,720
+have a return to original consolidation
+
+950
+00:38:53,720 --> 00:38:56,880
+it might just rip higher give you one to
+
+951
+00:38:56,880 --> 00:38:59,240
+go in and then run real quick to it then
+
+952
+00:38:59,240 --> 00:39:01,680
+and then after that bleed
+
+953
+00:39:01,680 --> 00:39:05,000
+lower so it has a lot of different
+
+954
+00:39:05,000 --> 00:39:07,319
+variances to it again which is why I
+
+955
+00:39:07,319 --> 00:39:08,880
+said that you have to understand
+
+956
+00:39:08,880 --> 00:39:11,680
+everything that I teach to be able to be
+
+957
+00:39:11,680 --> 00:39:13,480
+well versed with trading Market maker
+
+958
+00:39:13,480 --> 00:39:16,119
+models that doesn't mean that you can't
+
+959
+00:39:16,119 --> 00:39:19,480
+see a very generic plain as day obvious
+
+960
+00:39:19,480 --> 00:39:21,000
+Market maker sell or Market maker bu
+
+961
+00:39:21,000 --> 00:39:22,880
+model when it's in the price action it's
+
+962
+00:39:22,880 --> 00:39:27,400
+obvious it's real easy to see it but the
+
+963
+00:39:27,400 --> 00:39:30,760
+potential for more of them to be there
+
+964
+00:39:30,760 --> 00:39:32,359
+and in your fingertips to be able to
+
+965
+00:39:32,359 --> 00:39:34,640
+reach and see I can see more setups now
+
+966
+00:39:34,640 --> 00:39:36,839
+uh that's going to increase over time
+
+967
+00:39:36,839 --> 00:39:38,960
+okay so just understand that so what
+
+968
+00:39:38,960 --> 00:39:41,440
+have I said here so far well you have an
+
+969
+00:39:41,440 --> 00:39:44,560
+opportunity to be a long entry here or a
+
+970
+00:39:44,560 --> 00:39:46,920
+long entry there so there's two setups
+
+971
+00:39:46,920 --> 00:39:48,760
+which one of these without going any
+
+972
+00:39:48,760 --> 00:39:50,560
+further so far which one of these would
+
+973
+00:39:50,560 --> 00:39:52,319
+make sense for you as a Trader right now
+
+974
+00:39:52,319 --> 00:39:54,079
+with your present understanding
+
+975
+00:39:54,079 --> 00:39:55,520
+obviously it's a rhetorical question
+
+976
+00:39:55,520 --> 00:39:57,520
+because I I can't obviously get the
+
+977
+00:39:57,520 --> 00:40:00,839
+response from you here but I want you to
+
+978
+00:40:00,839 --> 00:40:01,960
+think about that because I have some
+
+979
+00:40:01,960 --> 00:40:03,520
+traders that would only be interested in
+
+980
+00:40:03,520 --> 00:40:05,079
+taking this as their entry and if they
+
+981
+00:40:05,079 --> 00:40:06,200
+never get a return to the original
+
+982
+00:40:06,200 --> 00:40:08,440
+consolidation they're not
+
+983
+00:40:08,440 --> 00:40:11,520
+long others want to see that then it
+
+984
+00:40:11,520 --> 00:40:13,040
+rallies and then the next buying
+
+985
+00:40:13,040 --> 00:40:14,520
+opportunity as long as we don't get to
+
+986
+00:40:14,520 --> 00:40:16,160
+the Target up here they're willing to
+
+987
+00:40:16,160 --> 00:40:18,760
+take this as the first stage
+
+988
+00:40:18,760 --> 00:40:21,640
+accumulation and that's their entry and
+
+989
+00:40:21,640 --> 00:40:24,240
+then they ride it up into that Target
+
+990
+00:40:24,240 --> 00:40:26,480
+they may or may not have the ability or
+
+991
+00:40:26,480 --> 00:40:28,240
+interest in trying to go short at that
+
+992
+00:40:28,240 --> 00:40:31,839
+time other Traders can identify this as
+
+993
+00:40:31,839 --> 00:40:33,200
+the first stage
+
+994
+00:40:33,200 --> 00:40:35,480
+accumulation maybe not see this one down
+
+995
+00:40:35,480 --> 00:40:37,359
+here and they see this and they want to
+
+996
+00:40:37,359 --> 00:40:39,200
+wait to see if price rallies up to that
+
+997
+00:40:39,200 --> 00:40:42,880
+point then they use this part as their
+
+998
+00:40:42,880 --> 00:40:44,640
+model where they go short and they
+
+999
+00:40:44,640 --> 00:40:47,160
+pyramid in here here and wait for the
+
+1000
+00:40:47,160 --> 00:40:49,079
+Run below here and don't even consider
+
+1001
+00:40:49,079 --> 00:40:51,480
+something like done here is that wrong
+
+1002
+00:40:51,480 --> 00:40:53,839
+no I have other students that want to
+
+1003
+00:40:53,839 --> 00:40:57,640
+see it do this then really prove it want
+
+1004
+00:40:57,640 --> 00:40:59,200
+to go lower and then they'll trade that
+
+1005
+00:40:59,200 --> 00:41:02,400
+one right there and then go into that
+
+1006
+00:41:02,400 --> 00:41:05,640
+that's a unicorn okay unicorn is second
+
+1007
+00:41:05,640 --> 00:41:08,480
+stage redistribution in a cell model
+
+1008
+00:41:08,480 --> 00:41:10,599
+Market maker cell
+
+1009
+00:41:10,599 --> 00:41:12,720
+model now when I say
+
+1010
+00:41:12,720 --> 00:41:15,440
+unicorn meaning everything's in your
+
+1011
+00:41:15,440 --> 00:41:17,200
+favor you got everything behind you it's
+
+1012
+00:41:17,200 --> 00:41:20,400
+just so it's so one-sided and you can
+
+1013
+00:41:20,400 --> 00:41:23,520
+see it It's usually the most energetic
+
+1014
+00:41:23,520 --> 00:41:25,920
+um swing high that it drops down from if
+
+1015
+00:41:25,920 --> 00:41:27,440
+you've classified everything correctly
+
+1016
+00:41:27,440 --> 00:41:29,960
+and everything to the left on the B side
+
+1017
+00:41:29,960 --> 00:41:31,960
+of the curve is identified correctly and
+
+1018
+00:41:31,960 --> 00:41:33,640
+you have everything labeled right and
+
+1019
+00:41:33,640 --> 00:41:35,040
+you have time and price in agreement
+
+1020
+00:41:35,040 --> 00:41:37,520
+with you chances are you're probably
+
+1021
+00:41:37,520 --> 00:41:39,560
+going to Ride the Lightning which is
+
+1022
+00:41:39,560 --> 00:41:41,640
+really quick sudden drops and it's real
+
+1023
+00:41:41,640 --> 00:41:42,960
+fun to be in those low resistance
+
+1024
+00:41:42,960 --> 00:41:44,760
+liquidity runs but that's one of the
+
+1025
+00:41:44,760 --> 00:41:47,160
+most qualifying factors in my trading
+
+1026
+00:41:47,160 --> 00:41:49,520
+and how I teach it to my students is to
+
+1027
+00:41:49,520 --> 00:41:52,920
+find the easist highe speed low
+
+1028
+00:41:52,920 --> 00:41:54,839
+resistance liquidity runs they're going
+
+1029
+00:41:54,839 --> 00:41:56,920
+to always be the second stage
+
+1030
+00:41:56,920 --> 00:41:59,040
+redistribution in a market maker sell
+
+1031
+00:41:59,040 --> 00:42:01,680
+model which is what this is right here
+
+1032
+00:42:01,680 --> 00:42:03,400
+okay
+
+1033
+00:42:03,400 --> 00:42:06,880
+so if you miss this one this is also
+
+1034
+00:42:06,880 --> 00:42:08,760
+what I teach which is
+
+1035
+00:42:08,760 --> 00:42:11,400
+a buy balance sell sign efficiency
+
+1036
+00:42:11,400 --> 00:42:13,119
+consequent encouragement which is the
+
+1037
+00:42:13,119 --> 00:42:15,400
+midpoint of this inefficiency did it get
+
+1038
+00:42:15,400 --> 00:42:17,560
+to this level up here yet nope so this
+
+1039
+00:42:17,560 --> 00:42:19,119
+here is a bullish fair value Gap
+
+1040
+00:42:19,119 --> 00:42:20,960
+consequent encroachment second stage
+
+1041
+00:42:20,960 --> 00:42:22,800
+reaccumulation right
+
+1042
+00:42:22,800 --> 00:42:25,800
+there now for some of you you might be
+
+1043
+00:42:25,800 --> 00:42:28,000
+going long in here and then adding and
+
+1044
+00:42:28,000 --> 00:42:30,440
+pyramiding to that to ride into this
+
+1045
+00:42:30,440 --> 00:42:32,640
+level here that might be your
+
+1046
+00:42:32,640 --> 00:42:34,720
+trade is there anything wrong with that
+
+1047
+00:42:34,720 --> 00:42:37,640
+nope absolutely
+
+1048
+00:42:37,640 --> 00:42:41,160
+not others that are high high-end
+
+1049
+00:42:41,160 --> 00:42:42,920
+students they have been doing for a long
+
+1050
+00:42:42,920 --> 00:42:46,559
+time they're going to sell these Mohawks
+
+1051
+00:42:46,559 --> 00:42:47,559
+because the bodies are already
+
+1052
+00:42:47,559 --> 00:42:50,200
+indicating that what it's not one to go
+
+1053
+00:42:50,200 --> 00:42:54,960
+outside of that 60-minute fair value Gap
+
+1054
+00:42:54,960 --> 00:42:58,480
+Cy so to every rally up here they're
+
+1055
+00:42:58,480 --> 00:43:00,680
+going to go short and anything outside
+
+1056
+00:43:00,680 --> 00:43:02,800
+of that PD arrays High which is the 60
+
+1057
+00:43:02,800 --> 00:43:05,319
+Minute fair value Gap that's an
+
+1058
+00:43:05,319 --> 00:43:08,760
+extreme extremely overbought without an
+
+1059
+00:43:08,760 --> 00:43:11,599
+indicator entry and you've seen me do
+
+1060
+00:43:11,599 --> 00:43:13,680
+that in my executions you've seen me do
+
+1061
+00:43:13,680 --> 00:43:15,760
+that with my pyramid entries you've
+
+1062
+00:43:15,760 --> 00:43:17,359
+watched me trade just outside of the
+
+1063
+00:43:17,359 --> 00:43:20,640
+fair V gaps when I'm bearish or bullish
+
+1064
+00:43:20,640 --> 00:43:22,839
+and it becomes the usually within a tick
+
+1065
+00:43:22,839 --> 00:43:25,000
+or two from the actual highest high or
+
+1066
+00:43:25,000 --> 00:43:26,880
+lowest low of the individual
+
+1067
+00:43:26,880 --> 00:43:29,480
+candlesticks and then it starts running
+
+1068
+00:43:29,480 --> 00:43:31,000
+the direction I need to
+
+1069
+00:43:31,000 --> 00:43:33,599
+go this is what I refer to as a smart
+
+1070
+00:43:33,599 --> 00:43:37,720
+money reversal you are years away from
+
+1071
+00:43:37,720 --> 00:43:39,880
+ever being able to do that consistently
+
+1072
+00:43:39,880 --> 00:43:41,400
+I promise you that's not me trying to
+
+1073
+00:43:41,400 --> 00:43:43,760
+talk down to you it takes a great deal
+
+1074
+00:43:43,760 --> 00:43:45,359
+of understanding of knowing what it is
+
+1075
+00:43:45,359 --> 00:43:47,040
+that we're trying to do here because
+
+1076
+00:43:47,040 --> 00:43:48,280
+essentially what you're doing is you're
+
+1077
+00:43:48,280 --> 00:43:50,559
+picking the tops in bearish
+
+1078
+00:43:50,559 --> 00:43:54,520
+markets now did you hear what it just
+
+1079
+00:43:54,520 --> 00:43:56,800
+said we're picking
+
+1080
+00:43:56,800 --> 00:44:00,880
+the tops in bearish markets I'm not
+
+1081
+00:44:00,880 --> 00:44:02,680
+afraid of that I don't try to discourage
+
+1082
+00:44:02,680 --> 00:44:05,319
+that of my students but I do absolutely
+
+1083
+00:44:05,319 --> 00:44:07,720
+discourage that in my own trading when
+
+1084
+00:44:07,720 --> 00:44:10,359
+it's a bull market I'm not trying to
+
+1085
+00:44:10,359 --> 00:44:12,559
+pick the top because they're always
+
+1086
+00:44:12,559 --> 00:44:13,920
+going to go well beyond what I think and
+
+1087
+00:44:13,920 --> 00:44:15,839
+what you think it's going to do but when
+
+1088
+00:44:15,839 --> 00:44:18,359
+we're bearish we can really get refined
+
+1089
+00:44:18,359 --> 00:44:20,359
+and trade the tops in bare markets
+
+1090
+00:44:20,359 --> 00:44:22,880
+because they're predictable they have a
+
+1091
+00:44:22,880 --> 00:44:24,640
+characteristic they have a a Rhyme or
+
+1092
+00:44:24,640 --> 00:44:26,200
+Reason as to why price should be behave
+
+1093
+00:44:26,200 --> 00:44:29,040
+a specific way versus when you're in an
+
+1094
+00:44:29,040 --> 00:44:31,040
+extremely bullish Market how do you
+
+1095
+00:44:31,040 --> 00:44:34,720
+know I don't know every single time that
+
+1096
+00:44:34,720 --> 00:44:36,079
+they won't go in there and intervene one
+
+1097
+00:44:36,079 --> 00:44:37,760
+more time and drive it one more time
+
+1098
+00:44:37,760 --> 00:44:39,839
+higher that's why it's dangerous to try
+
+1099
+00:44:39,839 --> 00:44:41,800
+to pick tops in Bull markets but when
+
+1100
+00:44:41,800 --> 00:44:44,160
+the market is predisposed to go lower
+
+1101
+00:44:44,160 --> 00:44:45,280
+and you have all these types of
+
+1102
+00:44:45,280 --> 00:44:48,280
+characteristics in Play It's rather
+
+1103
+00:44:48,280 --> 00:44:50,880
+simple to anticipate where the Market's
+
+1104
+00:44:50,880 --> 00:44:53,440
+going to run create an extreme and do a
+
+1105
+00:44:53,440 --> 00:44:56,559
+smart money reversal but that easy
+
+1106
+00:44:56,559 --> 00:44:58,319
+perspective I'm talking about that comes
+
+1107
+00:44:58,319 --> 00:45:00,319
+with 30 years experience you don't have
+
+1108
+00:45:00,319 --> 00:45:01,680
+30 years experience some of you don't
+
+1109
+00:45:01,680 --> 00:45:03,720
+even have 5 years experience so it's
+
+1110
+00:45:03,720 --> 00:45:05,800
+going to take a long time and I mean
+
+1111
+00:45:05,800 --> 00:45:07,480
+long time for you to be able to see
+
+1112
+00:45:07,480 --> 00:45:09,040
+smart money reversals as your entry
+
+1113
+00:45:09,040 --> 00:45:11,920
+points okay but you don't need that
+
+1114
+00:45:11,920 --> 00:45:13,599
+anticipate it being there and then once
+
+1115
+00:45:13,599 --> 00:45:17,160
+it does the market breaks lower and any
+
+1116
+00:45:17,160 --> 00:45:19,520
+rally back up look at the bodies here
+
+1117
+00:45:19,520 --> 00:45:21,440
+okay that is what that's consequent
+
+1118
+00:45:21,440 --> 00:45:23,680
+encroachment of the 60-minute fair value
+
+1119
+00:45:23,680 --> 00:45:26,839
+Gap CBI that's your lowrisk short
+
+1120
+00:45:26,839 --> 00:45:27,960
+we're trusting that we've already
+
+1121
+00:45:27,960 --> 00:45:30,440
+mohawked above here with these Wicks so
+
+1122
+00:45:30,440 --> 00:45:32,280
+now we're back down in here so any any
+
+1123
+00:45:32,280 --> 00:45:33,839
+attempt to trade in the middle point of
+
+1124
+00:45:33,839 --> 00:45:36,480
+this shaded area here that could be your
+
+1125
+00:45:36,480 --> 00:45:39,160
+lowrisk short stop loss right above
+
+1126
+00:45:39,160 --> 00:45:41,240
+here what happens if you get stopped out
+
+1127
+00:45:41,240 --> 00:45:43,960
+ICT same thing wait for it to go lower
+
+1128
+00:45:43,960 --> 00:45:47,040
+lead the fair value Gap low and if it
+
+1129
+00:45:47,040 --> 00:45:48,440
+can touch the bottom of it again I would
+
+1130
+00:45:48,440 --> 00:45:50,559
+use it as my entry stop would be break
+
+1131
+00:45:50,559 --> 00:45:52,319
+back above whatever the highest high was
+
+1132
+00:45:52,319 --> 00:45:55,160
+formed or the consequent coach of the
+
+1133
+00:45:55,160 --> 00:45:58,200
+wick if it formed a higher Wick here
+
+1134
+00:45:58,200 --> 00:46:00,160
+that's how i' would use it I would not
+
+1135
+00:46:00,160 --> 00:46:04,599
+be afraid to go back in but that low
+
+1136
+00:46:04,599 --> 00:46:06,880
+risk
+
+1137
+00:46:06,880 --> 00:46:10,400
+is scary for some of you probably most
+
+1138
+00:46:10,400 --> 00:46:12,559
+of you I'll be honest with you you would
+
+1139
+00:46:12,559 --> 00:46:13,800
+never look at to take the trade like
+
+1140
+00:46:13,800 --> 00:46:15,520
+that but how many examples have I done
+
+1141
+00:46:15,520 --> 00:46:18,280
+this I've done many examples of this in
+
+1142
+00:46:18,280 --> 00:46:20,640
+index Futures in Commodities I've done
+
+1143
+00:46:20,640 --> 00:46:22,599
+it
+
+1144
+00:46:22,599 --> 00:46:27,119
+in Forex pairs I I've shown a plethora
+
+1145
+00:46:27,119 --> 00:46:29,440
+of examples of this not just talking
+
+1146
+00:46:29,440 --> 00:46:30,680
+about like I'm doing here I'm actually
+
+1147
+00:46:30,680 --> 00:46:32,720
+executing I'm doing the entries I'm
+
+1148
+00:46:32,720 --> 00:46:35,200
+annotating the chart as I'm doing it too
+
+1149
+00:46:35,200 --> 00:46:37,040
+many times with a one minute chart time
+
+1150
+00:46:37,040 --> 00:46:39,440
+frame so I have to know what I'm doing
+
+1151
+00:46:39,440 --> 00:46:42,040
+to know not only what I intend to do
+
+1152
+00:46:42,040 --> 00:46:43,720
+trade-wise and managing it with a stop
+
+1153
+00:46:43,720 --> 00:46:46,160
+loss but also to outline it and type it
+
+1154
+00:46:46,160 --> 00:46:49,680
+out as the Market's gting with no Market
+
+1155
+00:46:49,680 --> 00:46:53,559
+replay all live so the market breaks
+
+1156
+00:46:53,559 --> 00:46:56,960
+lower and now what do we have
+
+1157
+00:46:56,960 --> 00:46:59,440
+we're on the right side of the curve
+
+1158
+00:46:59,440 --> 00:47:02,440
+that means this hypothetical invisible
+
+1159
+00:47:02,440 --> 00:47:04,720
+line where the market trades up during
+
+1160
+00:47:04,720 --> 00:47:07,359
+buy side delivery trades into our Target
+
+1161
+00:47:07,359 --> 00:47:09,720
+where we anticipate the likelihood of a
+
+1162
+00:47:09,720 --> 00:47:12,480
+reversal if the market starts to reverse
+
+1163
+00:47:12,480 --> 00:47:15,559
+then we use the highest high that it
+
+1164
+00:47:15,559 --> 00:47:19,359
+forms to the left of that is what the
+
+1165
+00:47:19,359 --> 00:47:20,960
+buy side of the curve that means
+
+1166
+00:47:20,960 --> 00:47:23,800
+everything leading to buy side delivery
+
+1167
+00:47:23,800 --> 00:47:26,240
+now on the left side is what the sell
+
+1168
+00:47:26,240 --> 00:47:27,599
+side of the curve that means we're in
+
+1169
+00:47:27,599 --> 00:47:29,960
+sells side delivery what is sells side
+
+1170
+00:47:29,960 --> 00:47:32,119
+delivery going to be aiming for the
+
+1171
+00:47:32,119 --> 00:47:34,680
+original consolidation low why because
+
+1172
+00:47:34,680 --> 00:47:36,480
+it wants to repic under the original
+
+1173
+00:47:36,480 --> 00:47:38,319
+accumulation for sell side liquidity the
+
+1174
+00:47:38,319 --> 00:47:40,000
+stops that are resting below here for
+
+1175
+00:47:40,000 --> 00:47:42,400
+Traders that rode this up they're
+
+1176
+00:47:42,400 --> 00:47:43,960
+married to the idea it's going to the
+
+1177
+00:47:43,960 --> 00:47:46,440
+Moon Bitcoin 100,000 that type of
+
+1178
+00:47:46,440 --> 00:47:48,839
+mentality eventually it drops and goes
+
+1179
+00:47:48,839 --> 00:47:52,359
+attacks them okay so we went above the
+
+1180
+00:47:52,359 --> 00:47:55,359
+buy side here to a specific price point
+
+1181
+00:47:55,359 --> 00:47:57,440
+we had have a
+
+1182
+00:47:57,440 --> 00:48:01,680
+breaker high low high or high body
+
+1183
+00:48:01,680 --> 00:48:04,440
+staying inside of the PD array on the 60
+
+1184
+00:48:04,440 --> 00:48:07,200
+Minute so it's indicating everything is
+
+1185
+00:48:07,200 --> 00:48:10,040
+there for this to start dropping
+
+1186
+00:48:10,040 --> 00:48:12,880
+basically that low is taken out right
+
+1187
+00:48:12,880 --> 00:48:15,480
+there what does it create Fair guy gap
+
+1188
+00:48:15,480 --> 00:48:17,720
+between this candle's low that candle's
+
+1189
+00:48:17,720 --> 00:48:20,200
+high that could be a trade in itself but
+
+1190
+00:48:20,200 --> 00:48:21,960
+this is a breaker so how far is it going
+
+1191
+00:48:21,960 --> 00:48:24,359
+to go back up into it right there so
+
+1192
+00:48:24,359 --> 00:48:25,920
+your bearish breaker that is your first
+
+1193
+00:48:25,920 --> 00:48:28,280
+stage
+
+1194
+00:48:28,280 --> 00:48:31,160
+distribution so you want to wait for the
+
+1195
+00:48:31,160 --> 00:48:32,680
+smart R reversal you want to see a
+
+1196
+00:48:32,680 --> 00:48:34,760
+lowrisk short does it show a willing to
+
+1197
+00:48:34,760 --> 00:48:36,680
+want to run away wonderful that's tape
+
+1198
+00:48:36,680 --> 00:48:38,960
+reading now you have a fair value Gap
+
+1199
+00:48:38,960 --> 00:48:41,319
+and you have a breaker trades up into it
+
+1200
+00:48:41,319 --> 00:48:44,000
+Go short that's your first stage
+
+1201
+00:48:44,000 --> 00:48:47,559
+distribution does it break lower yes it
+
+1202
+00:48:47,559 --> 00:48:50,599
+does then it does what it trades back to
+
+1203
+00:48:50,599 --> 00:48:52,640
+where we had buy side
+
+1204
+00:48:52,640 --> 00:48:54,880
+outlined support resistance folks are
+
+1205
+00:48:54,880 --> 00:48:56,400
+going to see that as well what remember
+
+1206
+00:48:56,400 --> 00:48:58,520
+that relative equal high that was a
+
+1207
+00:48:58,520 --> 00:48:59,839
+little bit higher than this one to the
+
+1208
+00:48:59,839 --> 00:49:02,480
+left they're going to see that as a
+
+1209
+00:49:02,480 --> 00:49:06,640
+break of resistance turn support that
+
+1210
+00:49:06,640 --> 00:49:09,680
+stuff does not work okay it does not
+
+1211
+00:49:09,680 --> 00:49:11,480
+work you have to understand what price
+
+1212
+00:49:11,480 --> 00:49:13,960
+is going to do why it's going to do it
+
+1213
+00:49:13,960 --> 00:49:15,880
+what's the present narrative and where's
+
+1214
+00:49:15,880 --> 00:49:17,280
+the liquidity or inefficiency is going
+
+1215
+00:49:17,280 --> 00:49:19,599
+to really draw to you can't just simply
+
+1216
+00:49:19,599 --> 00:49:22,280
+look at hypothetical imaginary lines
+
+1217
+00:49:22,280 --> 00:49:23,839
+that are horizontal or diagonal for
+
+1218
+00:49:23,839 --> 00:49:25,160
+goodness sake when you call it trend
+
+1219
+00:49:25,160 --> 00:49:28,400
+line me all that stuff is mythology it
+
+1220
+00:49:28,400 --> 00:49:31,000
+doesn't work it doesn't hold up so you
+
+1221
+00:49:31,000 --> 00:49:32,640
+have to know what price is trying to do
+
+1222
+00:49:32,640 --> 00:49:35,640
+how it gravitates and very specific
+
+1223
+00:49:35,640 --> 00:49:38,440
+precise elements to price
+
+1224
+00:49:38,440 --> 00:49:40,839
+action the market
+
+1225
+00:49:40,839 --> 00:49:43,559
+rallies up here into a bearish order
+
+1226
+00:49:43,559 --> 00:49:45,799
+block which is the up close candle here
+
+1227
+00:49:45,799 --> 00:49:48,400
+trades into it digs into half of the
+
+1228
+00:49:48,400 --> 00:49:51,040
+body right there that's mean threshold
+
+1229
+00:49:51,040 --> 00:49:52,640
+so that bearish order block is your
+
+1230
+00:49:52,640 --> 00:49:53,839
+second stage
+
+1231
+00:49:53,839 --> 00:49:57,160
+redistribution this is going to be the
+
+1232
+00:49:57,160 --> 00:50:00,200
+fastest elevator ride of the move going
+
+1233
+00:50:00,200 --> 00:50:02,839
+down now it doesn't mean it won't be a
+
+1234
+00:50:02,839 --> 00:50:06,079
+you know a sharp drop consolidate sharp
+
+1235
+00:50:06,079 --> 00:50:08,079
+drop consolidate sharp drop that it can
+
+1236
+00:50:08,079 --> 00:50:10,720
+do that but this is the one you want to
+
+1237
+00:50:10,720 --> 00:50:13,280
+be entered on because if usually if you
+
+1238
+00:50:13,280 --> 00:50:14,839
+miss this one you're probably going to
+
+1239
+00:50:14,839 --> 00:50:19,200
+be chasing price now what happens if you
+
+1240
+00:50:19,200 --> 00:50:22,520
+don't see this as your lowrisk short and
+
+1241
+00:50:22,520 --> 00:50:26,200
+you see this as your lowrisk short
+
+1242
+00:50:26,200 --> 00:50:28,280
+where I had the first a distribution is
+
+1243
+00:50:28,280 --> 00:50:30,440
+that wrong no based on your present
+
+1244
+00:50:30,440 --> 00:50:32,079
+understanding you're going to see it
+
+1245
+00:50:32,079 --> 00:50:34,920
+probably as this is the first stage of
+
+1246
+00:50:34,920 --> 00:50:36,880
+distribution to get short and the smart
+
+1247
+00:50:36,880 --> 00:50:39,920
+money reversal is up here wonderful you
+
+1248
+00:50:39,920 --> 00:50:42,200
+don't see a low risk short here in the
+
+1249
+00:50:42,200 --> 00:50:44,960
+middle of that PD array that's okay
+
+1250
+00:50:44,960 --> 00:50:46,480
+that's experience I understand that
+
+1251
+00:50:46,480 --> 00:50:47,720
+you're not going to see everything that
+
+1252
+00:50:47,720 --> 00:50:49,880
+I had seen and I'm make an allowances
+
+1253
+00:50:49,880 --> 00:50:51,680
+for that while I'm teaching it so you
+
+1254
+00:50:51,680 --> 00:50:54,880
+might see this as your your your lowrisk
+
+1255
+00:50:54,880 --> 00:50:56,960
+sell or short and then this is your
+
+1256
+00:50:56,960 --> 00:50:58,440
+first stage distribution so where would
+
+1257
+00:50:58,440 --> 00:51:00,559
+the second stage distribution be or
+
+1258
+00:51:00,559 --> 00:51:03,680
+redistribution be and it's in other
+
+1259
+00:51:03,680 --> 00:51:05,920
+words instead of saying this one is your
+
+1260
+00:51:05,920 --> 00:51:08,079
+second stage redistribution which means
+
+1261
+00:51:08,079 --> 00:51:11,000
+it's going to be the highest degree of
+
+1262
+00:51:11,000 --> 00:51:13,319
+speed magnitude and impulsiveness to go
+
+1263
+00:51:13,319 --> 00:51:14,240
+lower
+
+1264
+00:51:14,240 --> 00:51:16,760
+quicker if it's not this
+
+1265
+00:51:16,760 --> 00:51:20,640
+one and you've classified that
+
+1266
+00:51:20,640 --> 00:51:24,000
+as your first stage distribution and
+
+1267
+00:51:24,000 --> 00:51:25,960
+you're surprised with a sudden drop
+
+1268
+00:51:25,960 --> 00:51:26,720
+and you're going to be standing there
+
+1269
+00:51:26,720 --> 00:51:27,960
+like a deer in headlights thinking what
+
+1270
+00:51:27,960 --> 00:51:29,359
+am I supposed to do this thing going way
+
+1271
+00:51:29,359 --> 00:51:31,240
+faster than I thought it was you're
+
+1272
+00:51:31,240 --> 00:51:34,440
+going to be dazzled because you're on
+
+1273
+00:51:34,440 --> 00:51:35,839
+side and it's probably gonna scare you
+
+1274
+00:51:35,839 --> 00:51:37,799
+to get out of the trade and if you've
+
+1275
+00:51:37,799 --> 00:51:38,880
+never been trading with real money
+
+1276
+00:51:38,880 --> 00:51:40,400
+you're going to experience that okay
+
+1277
+00:51:40,400 --> 00:51:43,720
+it's a weird Paradigm but you have to
+
+1278
+00:51:43,720 --> 00:51:45,000
+press into
+
+1279
+00:51:45,000 --> 00:51:47,599
+that if you notice here I've said that
+
+1280
+00:51:47,599 --> 00:51:49,680
+the buy side of the curve used in
+
+1281
+00:51:49,680 --> 00:51:51,520
+Reverse in the cell side of the curve
+
+1282
+00:51:51,520 --> 00:51:54,839
+meaning what this down closed candle is
+
+1283
+00:51:54,839 --> 00:51:58,119
+a bullish order block so while we were
+
+1284
+00:51:58,119 --> 00:52:00,480
+going up when it drops back down into
+
+1285
+00:52:00,480 --> 00:52:03,559
+this it should be offering what
+
+1286
+00:52:03,559 --> 00:52:05,880
+support so when we get to the other side
+
+1287
+00:52:05,880 --> 00:52:07,799
+of the curve which is to the right of
+
+1288
+00:52:07,799 --> 00:52:10,160
+this imaginary line which is divided by
+
+1289
+00:52:10,160 --> 00:52:12,760
+the highest high where we anticipate
+
+1290
+00:52:12,760 --> 00:52:15,920
+anticipate seeing the market reverse on
+
+1291
+00:52:15,920 --> 00:52:18,280
+the right side of the curve that's the
+
+1292
+00:52:18,280 --> 00:52:20,280
+cell side so anything on the right side
+
+1293
+00:52:20,280 --> 00:52:22,200
+of the curve that was offered as support
+
+1294
+00:52:22,200 --> 00:52:24,799
+or as a discount array needs to start
+
+1295
+00:52:24,799 --> 00:52:27,760
+acting as what a premium array or
+
+1296
+00:52:27,760 --> 00:52:30,440
+resistance what's the low of that candle
+
+1297
+00:52:30,440 --> 00:52:32,799
+draw it through where's the body
+
+1298
+00:52:32,799 --> 00:52:35,119
+stopping it's respecting it isn't it
+
+1299
+00:52:35,119 --> 00:52:37,200
+it's not just simply that bearish order
+
+1300
+00:52:37,200 --> 00:52:40,440
+Block it's not as simple as you want to
+
+1301
+00:52:40,440 --> 00:52:41,920
+think it is folks everybody out there
+
+1302
+00:52:41,920 --> 00:52:43,440
+trying to teach order block Theory you
+
+1303
+00:52:43,440 --> 00:52:45,319
+have no idea what you're doing that's
+
+1304
+00:52:45,319 --> 00:52:47,400
+why I'm writing the books you have no
+
+1305
+00:52:47,400 --> 00:52:49,680
+idea you've only been introduced the
+
+1306
+00:52:49,680 --> 00:52:51,920
+idea you're trying to use things that
+
+1307
+00:52:51,920 --> 00:52:54,240
+you're making up as you go
+
+1308
+00:52:54,240 --> 00:52:56,280
+along
+
+1309
+00:52:56,280 --> 00:52:59,000
+we break lower same thing here buy side
+
+1310
+00:52:59,000 --> 00:53:01,160
+of the curve used in reverse on the sell
+
+1311
+00:53:01,160 --> 00:53:03,000
+side of the curve meaning what this down
+
+1312
+00:53:03,000 --> 00:53:04,480
+close candle what was it a bull shoulder
+
+1313
+00:53:04,480 --> 00:53:06,839
+block on the buy side of the curve but
+
+1314
+00:53:06,839 --> 00:53:08,079
+now we're on the left side of the curve
+
+1315
+00:53:08,079 --> 00:53:09,799
+everything should be going lower so what
+
+1316
+00:53:09,799 --> 00:53:11,280
+is going on here the Market's trading
+
+1317
+00:53:11,280 --> 00:53:13,280
+right back up to the butt end of that
+
+1318
+00:53:13,280 --> 00:53:16,000
+body boom that would be your second
+
+1319
+00:53:16,000 --> 00:53:19,400
+stage redistribution if you looked at
+
+1320
+00:53:19,400 --> 00:53:21,160
+that as first stage and this is the low
+
+1321
+00:53:21,160 --> 00:53:24,000
+risk short smart money reversal and you
+
+1322
+00:53:24,000 --> 00:53:25,839
+didn't classify anything low risk
+
+1323
+00:53:25,839 --> 00:53:27,359
+that would be your second stage
+
+1324
+00:53:27,359 --> 00:53:29,480
+redistribution for me that would be a
+
+1325
+00:53:29,480 --> 00:53:32,160
+pyramiding entry so I would have even
+
+1326
+00:53:32,160 --> 00:53:35,359
+more going short and then we drop down
+
+1327
+00:53:35,359 --> 00:53:37,880
+into original consolidation 80% of the
+
+1328
+00:53:37,880 --> 00:53:40,400
+trade would come off and I would see do
+
+1329
+00:53:40,400 --> 00:53:42,680
+we have the ability to get any deeper
+
+1330
+00:53:42,680 --> 00:53:44,520
+and we can see it goes lower deep
+
+1331
+00:53:44,520 --> 00:53:48,120
+retracement and finally lower in
+
+1332
+00:53:48,120 --> 00:53:49,839
+[Music]
+
+1333
+00:53:49,839 --> 00:53:52,920
+here so for the folks that want to know
+
+1334
+00:53:52,920 --> 00:53:56,640
+this entire presentation was under the
+
+1335
+00:53:56,640 --> 00:53:59,240
+discussion of the British pound versus
+
+1336
+00:53:59,240 --> 00:54:01,280
+US dollar Forex
+
+1337
+00:54:01,280 --> 00:54:04,799
+pair all of these things here folks this
+
+1338
+00:54:04,799 --> 00:54:07,359
+occurs on every asset
+
+1339
+00:54:07,359 --> 00:54:11,480
+class it's there all the time now one of
+
+1340
+00:54:11,480 --> 00:54:13,960
+the wonderful elements that's not been
+
+1341
+00:54:13,960 --> 00:54:15,440
+discussed so far but I mentioned
+
+1342
+00:54:15,440 --> 00:54:16,400
+briefing in the beginning of the
+
+1343
+00:54:16,400 --> 00:54:19,680
+discussion is when everything with price
+
+1344
+00:54:19,680 --> 00:54:22,359
+is in agreement with time because time
+
+1345
+00:54:22,359 --> 00:54:25,760
+sets the stage then price does the act
+
+1346
+00:54:25,760 --> 00:54:29,440
+of precision so it's time and
+
+1347
+00:54:29,440 --> 00:54:33,680
+price look what's occurring here on the
+
+1348
+00:54:33,680 --> 00:54:35,920
+31st we have
+
+1349
+00:54:35,920 --> 00:54:38,160
+consolidation we leave the consolidation
+
+1350
+00:54:38,160 --> 00:54:40,000
+come back in return to original
+
+1351
+00:54:40,000 --> 00:54:42,079
+consolidation when does that occur
+
+1352
+00:54:42,079 --> 00:54:47,240
+London open rallies up right in here we
+
+1353
+00:54:47,240 --> 00:54:49,880
+have an order block right there and then
+
+1354
+00:54:49,880 --> 00:54:52,799
+we have what it rips into the buy side
+
+1355
+00:54:52,799 --> 00:54:54,079
+trading up
+
+1356
+00:54:54,079 --> 00:54:56,839
+into
+
+1357
+00:54:56,839 --> 00:54:59,040
+New York open 7 o'clock in the
+
+1358
+00:54:59,040 --> 00:55:01,480
+morning there's your Market reversal
+
+1359
+00:55:01,480 --> 00:55:03,440
+profile part
+
+1360
+00:55:03,440 --> 00:55:06,359
+of a market maker sell
+
+1361
+00:55:06,359 --> 00:55:10,319
+model time and price everything that was
+
+1362
+00:55:10,319 --> 00:55:11,760
+Illustrated over here now look what
+
+1363
+00:55:11,760 --> 00:55:14,400
+we're at we're inside of the New York
+
+1364
+00:55:14,400 --> 00:55:17,640
+open Kill Zone we have a
+
+1365
+00:55:17,640 --> 00:55:20,240
+breaker we have a bearish order
+
+1366
+00:55:20,240 --> 00:55:22,799
+block all within what the New York open
+
+1367
+00:55:22,799 --> 00:55:25,640
+Kill Zone this is also op
+
+1368
+00:55:25,640 --> 00:55:27,839
+trade
+
+1369
+00:55:27,839 --> 00:55:29,880
+entry right
+
+1370
+00:55:29,880 --> 00:55:33,960
+there this right here is model 2022 buy
+
+1371
+00:55:33,960 --> 00:55:36,599
+side taken shift in Market structure
+
+1372
+00:55:36,599 --> 00:55:41,039
+fair value Gap go short that's M
+
+1373
+00:55:41,640 --> 00:55:45,079
+2022 this right here trading up into
+
+1374
+00:55:45,079 --> 00:55:46,640
+that that is the 7 o'clock in the
+
+1375
+00:55:46,640 --> 00:55:49,200
+morning to 9 o'clock in the morning New
+
+1376
+00:55:49,200 --> 00:55:52,359
+York open Kill Zone Silver
+
+1377
+00:55:52,359 --> 00:55:55,839
+Bullet man how many silver bullets I got
+
+1378
+00:55:55,839 --> 00:55:59,559
+a whole rack of silver Worlds Fair Value
+
+1379
+00:55:59,559 --> 00:56:00,960
+gaps are always forming folks you have
+
+1380
+00:56:00,960 --> 00:56:02,599
+to understand what the narrative is in
+
+1381
+00:56:02,599 --> 00:56:05,119
+play for that session or that operating
+
+1382
+00:56:05,119 --> 00:56:07,480
+time that you're using for your trading
+
+1383
+00:56:07,480 --> 00:56:11,960
+day I'm using times of the day that have
+
+1384
+00:56:11,960 --> 00:56:14,680
+high intakes of volume where order flow
+
+1385
+00:56:14,680 --> 00:56:16,720
+is increasing it's rapid there's a lot
+
+1386
+00:56:16,720 --> 00:56:18,400
+of interest getting in the
+
+1387
+00:56:18,400 --> 00:56:21,920
+marketplace so you frame what you want
+
+1388
+00:56:21,920 --> 00:56:23,200
+to trade you want to trade as little as
+
+1389
+00:56:23,200 --> 00:56:25,720
+an hour a day okay I I told you that you
+
+1390
+00:56:25,720 --> 00:56:27,680
+want to trade a full Kill Zone two hours
+
+1391
+00:56:27,680 --> 00:56:30,400
+three hours okay I've told you that too
+
+1392
+00:56:30,400 --> 00:56:31,880
+I can't trade New York I got to trade
+
+1393
+00:56:31,880 --> 00:56:34,039
+London okay I told I told you how to
+
+1394
+00:56:34,039 --> 00:56:38,280
+trade that all these things are there
+
+1395
+00:56:38,280 --> 00:56:40,920
+now what did I teach you about the
+
+1396
+00:56:40,920 --> 00:56:42,839
+trading day in terms of the opposite end
+
+1397
+00:56:42,839 --> 00:56:44,880
+the
+
+1398
+00:56:44,880 --> 00:56:47,720
+range if the whole idea was to run up
+
+1399
+00:56:47,720 --> 00:56:49,319
+have a market reversal profile and we
+
+1400
+00:56:49,319 --> 00:56:51,559
+have a market maker sell model here this
+
+1401
+00:56:51,559 --> 00:56:54,240
+Dro down below these relative equal lows
+
+1402
+00:56:54,240 --> 00:56:57,760
+here what time can it arrive when can it
+
+1403
+00:56:57,760 --> 00:57:00,359
+arrive at the target of reaching below
+
+1404
+00:57:00,359 --> 00:57:04,640
+that London close 10 o'clock to noon New
+
+1405
+00:57:04,640 --> 00:57:06,720
+York local
+
+1406
+00:57:06,720 --> 00:57:09,200
+time 10
+
+1407
+00:57:09,200 --> 00:57:11,200
+o'clock to
+
+1408
+00:57:11,200 --> 00:57:13,680
+noon friends and neighbors that's not
+
+1409
+00:57:13,680 --> 00:57:15,720
+random that's all part of the things
+
+1410
+00:57:15,720 --> 00:57:17,720
+I've talked about all throughout the
+
+1411
+00:57:17,720 --> 00:57:20,359
+teachings of this entire YouTube channel
+
+1412
+00:57:20,359 --> 00:57:21,920
+you have to know more than just a couple
+
+1413
+00:57:21,920 --> 00:57:23,240
+things that do the market maker sell
+
+1414
+00:57:23,240 --> 00:57:27,599
+model and buy models so I've been very
+
+1415
+00:57:27,599 --> 00:57:30,480
+honored to be your Mentor here I've been
+
+1416
+00:57:30,480 --> 00:57:33,520
+honored to be a conduit to share all
+
+1417
+00:57:33,520 --> 00:57:35,440
+these things that I've collected and
+
+1418
+00:57:35,440 --> 00:57:37,200
+authored over the last 30 years it's
+
+1419
+00:57:37,200 --> 00:57:39,799
+been a wonderful experience I've been
+
+1420
+00:57:39,799 --> 00:57:42,480
+touched by so many of you as students I
+
+1421
+00:57:42,480 --> 00:57:47,119
+have been moved to tears for some of you
+
+1422
+00:57:47,119 --> 00:57:49,880
+with all the uh adoration and respect
+
+1423
+00:57:49,880 --> 00:57:51,720
+you've shown to me and I'm so thankful
+
+1424
+00:57:51,720 --> 00:57:54,280
+for that but like all things all good
+
+1425
+00:57:54,280 --> 00:57:56,520
+things must come to an end and I am
+
+1426
+00:57:56,520 --> 00:57:58,640
+married to a woman that demands more of
+
+1427
+00:57:58,640 --> 00:58:02,000
+my personal time and social media and
+
+1428
+00:58:02,000 --> 00:58:05,920
+mentoring has taken a great deal of that
+
+1429
+00:58:05,920 --> 00:58:08,640
+so I want you all to know that it has
+
+1430
+00:58:08,640 --> 00:58:10,119
+been a
+
+1431
+00:58:10,119 --> 00:58:13,240
+pleasure to be able to be in this seat
+
+1432
+00:58:13,240 --> 00:58:16,280
+as a teacher as a a role model for
+
+1433
+00:58:16,280 --> 00:58:18,319
+learning how to trade and read price
+
+1434
+00:58:18,319 --> 00:58:20,559
+action I want you all to know that none
+
+1435
+00:58:20,559 --> 00:58:22,480
+of the content on this YouTube channel
+
+1436
+00:58:22,480 --> 00:58:25,000
+or my Twitter will be deleted none of it
+
+1437
+00:58:25,000 --> 00:58:27,799
+will be augmented and I wish you all
+
+1438
+00:58:27,799 --> 00:58:30,039
+nothing but success with
+
+1439
+00:58:30,039 --> 00:58:32,799
+it until I talk to you next
+
+1440
+00:58:32,799 --> 00:58:38,480
+time good luck and good Trading
+
