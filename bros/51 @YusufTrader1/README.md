@@ -1,6 +1,8 @@
 [https://twitter.com/YusufTrader1]
 
 ====================================================================================
+ALGO Market Structure
+====================================================================================
 TLQ = Transactional Liquidity => correction
 SLQ = Structural Liquidity => => continuation
 ILQ = Transactional Liquidity => expansion
@@ -70,6 +72,3 @@ Price Delivery away from SS/DD
 ====================================================================================
 Manipulation Setup ( MSU ) [https://www.youtube.com/watch?v=cTiPRAk4Hkw]
 ====================================================================================
-
-[01:36]
- 
