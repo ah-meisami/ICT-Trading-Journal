@@ -43,7 +43,7 @@ When Price Takes the ERL the next ILQ is not inside Internal Push (Substructure)
 - Can I sell from SLQ directly !? 
 - No
 - Why !?
-- Because there is ILQ above it.
+- Because there is ILQ above\below it.
 
 - How I can sell directly from SLQ  !? 
 - 1. Understanding EPA in terms of Equilibrium 
@@ -62,3 +62,14 @@ DD = Demand (my-thoughts = HTF Discount PDAs)
 Price Behaviour : is into or on SS/DD (my-thoughts = BIAS)
 Price Delivery  : is away from SS/DD (my-thoughts = NARRATIVE)
 
+Price Behaviour into SS
+Price Behaviour on DD
+Price Delivery away from SS/DD
+====================================================================================
+
+====================================================================================
+Manipulation Setup ( MSU ) [https://www.youtube.com/watch?v=cTiPRAk4Hkw]
+====================================================================================
+
+[01:36]
+ 
