@@ -72,3 +72,9 @@ Price Delivery away from SS/DD
 ====================================================================================
 Manipulation Setup ( MSU ) [https://www.youtube.com/watch?v=cTiPRAk4Hkw]
 ====================================================================================
+
+====================================================================================
+This indicator marks out majority Algohub concepts - 
+which will help your system become fully mechanical if it isn't already.
+[https://www.tradingview.com/script/5N5Lewar-Algohub-Nephew-Sam/]
+====================================================================================
