@@ -206,6 +206,6 @@ External-Push
 Liquidity-Grab_Higher
 Liquidity-Grab_Lower
 
-**External-Inducement**: SHOULD NOT look at Internal-Inducement as Mitigation-Zones **FORMS** SMT (Smart Money Trap)
+**External-Inducement**: SHOULD NOT look at Internal-Inducement as Mitigation-Zones. It **FORMS** SMT (Smart Money Trap)
 
 .................................
