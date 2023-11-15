@@ -1,4 +1,10 @@
 EVEN NEWS RESPECTING THE ALGO
+
+====================================================================================
+LIT = Liquidity Inducement Trading 
+LIC = Liquidity Inducement Cycles
+====================================================================================
+
 ====================================================================================
 stalin chicken theory
 [https://thespearnews.wordpress.com/2017/08/06/the-dictators-plucked-chicken-theory/]
@@ -45,14 +51,6 @@ Random Line Experiment
 ====================================================================================
 5. **ALGO concepts vs. INDUCEMENT concepts**
 ====================================================================================
-
-
-LIT = Liquidity Inducement Trading 
-LIC = Liquidity Inducement Cycles
-
-Major 
-Medium
-Minor
 
 ====================================================================================
 **POI = Point Of Interest (Continuation\Reversal Points) = Consolidation (DZ\SZ)**
@@ -177,8 +175,37 @@ People needs **REASON** to take the trade. **PAIN**
 .................................
 
 .................................
-**Momentum Mitigation**
-1.Building Liquidity
-2.Taking Liquidity inside a DZ
-3.It has Potential to move to another SZ
+**Momentum Mitigation**: Strength Of Motion [https://www.youtube.com/watch?v=EzNfvwPCFs0]
+1.Build-Up
+2.Inducement
+3.Mitigation
+.................................
+
+
+
+
+.................................
+Inducement Types:
+Minor Inducement  => 1min 5min
+Medium Inducement => Structural Level = combination of multiple days
+Major Inducement  => 15min 1hour
+
+
+Inducing new High with speed => FOMO
+Minor Inducement => Inducing old swing low which has not Main-Push
+Medium Inducement => Has the whole push
+
+Internal-BoS
+Internal-Inducement
+Internal-Push
+
+External-BoS
+External-Inducement
+External-Push
+
+Liquidity-Grab_Higher
+Liquidity-Grab_Lower
+
+**External-Inducement**: SHOULD NOT look at Internal-Inducement as Mitigation-Zones **FORMS** SMT (Smart Money Trap)
+
 .................................

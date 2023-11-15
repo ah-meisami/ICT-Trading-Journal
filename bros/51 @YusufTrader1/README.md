@@ -39,7 +39,7 @@ ILQ = Transactional Liquidity => expansion :: In (bullish \ bearish) markets exi
 SLQ = Structural Liquidity => => continuation ::  In (bullish \ bearish) markets exists (above \ below)  (HL \ LH)
 
 [01:14] IMPORTANT
-When Price Takes the ERL the next ILQ is not inside Internal Push (Substructure)
+**When Price Takes the ERL the next ILQ is not inside Internal-Push (Substructure)**
 
 [01:18] IMPORTANT
 - Can I sell from SLQ directly !? 
