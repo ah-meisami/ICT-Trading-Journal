@@ -67,8 +67,8 @@ Total movement of price is to:
 [2022.12.29] [01] [intro-to-SMC] 
 **Concept: Supply\Demand**
 
-1. Supply Zone == Big Sellers waiting to SELL
-2. Demand Zone == Big Buyers waiting to BUY
+1. Supply Zone == Big Sellers waiting to SELL = Level of Big Sellers
+2. Demand Zone == Big Buyers waiting to BUY   = Level of Big Buyers
 
 Big Buyers/Sellers = institutions / banks
 
@@ -76,6 +76,7 @@ Big Buyers/Sellers = institutions / banks
 Purpose of Inducement => Creating Liquidity 
 Purpose of Inducement => Engagement
 Purpose of Inducement => Giving reasons to retail traders to enter the market
+Idea behind Inducement => Convince You to take a setup
 Idea behind Inducement => Convince Traders to engage price by creating chart patterns that fits Bus \ Sell Setup in terms of TA
 
 Retail Chart Patterns:  
@@ -87,4 +88,27 @@ Retail Chart Patterns:
 - Trendline
 - Price Action Patterns
 
+Where we have Big Buyers \ Sellers ?
+Big Buyers \ Sellers => Counter Trend Traders
+\\The ALGO have been programmed to follow the behavior of Big Guys.
+if every body in the world is seeing a setup then the setup is an Inducement.
+
+\\Inducement => invites you enter the market
+\\Liquidity => takes you out of the market
+
+\\Liquidity Fuels the momentum of price in certain zones
+
+Multiple Inducement:
+1. Send Buyers\Sellers out of the market
+2. Create Fuel for Big Guys who are sitting in Supply\Demand zones
+
+
+- Initial Intention is to Buy
+- Second Intention is to induce sellers to enter the market for more liquidity
+- purpose of inducement <<market needs liquidity>>
+- inducement invites you to engage the market
+- liquidity takes you out of the market
+
+**Once a Supply level failed to HOLD it transfer power to a new level of Demand**
+**Once a Demand level failed to HOLD it transfer power to a new level of Supply**
 ------------------------------------------------
