@@ -2,7 +2,6 @@
 [https://www.instagram.com/phronesisknight/]
 
 
-
 ------------------------------------------------
 [2022.06.14] [05] [Market-Structure]
 
@@ -13,7 +12,6 @@
 **Structural Range**
 
 - Working with LTF retracement inside of HTF Structural Range
-
 ------------------------------------------------
 
 ------------------------------------------------
@@ -155,4 +153,112 @@ m15 CHoCH is m1 BoS
 
 Supply violated => transfer power to Demand
 Demand violated => transfer power to Supply
+------------------------------------------------
+
+------------------------------------------------
+[05] [Market-Structure] 
+internal-BoS
+
+Structure inside another Structure
+Sell to Buy => Retracement Leg
+
+[16:12] [directional-change]
+1. mitigate a level of demand
+2. violate a protected high
+------------------------------------------------
+
+------------------------------------------------
+[06] [Market-Structure] [external-liquidity] [major-liquidity]
+HTF Round is LTF trend
+
+in uptrend   :: HH=> weakHigh , HL=> strongLow
+in downtrend :: LL=> weakLow , LH=> strongHigh
+
+in uptrend   :: HH=> ext-LIQ , HL=> maj-LIQ
+in downtrend :: LL=> ext-LIQ , LH=> maj-LIQ
+
+HTF LIQ:
+    maj-LIQ == respected LIQ == expected to be respected
+    ext-LIQ == violated LIQ == expected to be violated (takes out LIQ)
+LTF LIQ
+    int-LIQ == internal LIQ (FVG)
+    ind-LIQ == inducement LIQ
+
+**3 Type of market structure**:
+1. Simple Structure    
+2. Complex Structure   
+3. Range Structure
+
+1. Simple-Structure: 
+    printing clear (HH,HL) (LL,LH)
+
+2. Complex-Structure: 
+    - combination of (Shallow Corrective Wave) + (Deep Correcting Wave)
+    - shallow corrective wave = mitigate internal-Structure = pullback internal-Structure = fail to continue its HTF trend
+    - deep correcting wave  = mitigate maj-LIQ
+
+3. Range-Structure
+    - price breaks out-of-the-range and the create a new structure 
+    - it is called Range Structure because it is out of the range
+    - most time when you see Range-Structure we are not expecting a deep pullback
+
+internal-Structure = int-Structure = HTF Structure (for example: h4)
+external-Structure = ext-Structure = LTF Structure (for example: m5)
+------------------------------------------------
+
+------------------------------------------------
+[07] [ext-LIQ] [int-LIQ]
+
+**different types of ext-LIQ** BSL\SSL
+- [less-concern-LIQ] Old Highs\Lows
+- [common-LIQ] Equal Highs\Lows (EQH\EQL) [double-top] [double-bottom] [triple-top] [triple-bottom] 
+- [common-LIQ] Trendline phantom [Buy-side-Trendline-phantom] [sell-side-Trendline-phantom] 
+
+[stop-hunt]
+phantom EQH: [buy-stop]   1. price grab BSL\EQH 2. price continues its direction to the downside
+phantom EQL: [sell-stop]  1. price grab SSL\EQL 2. price continues its direction to the upside
+
+**different types of int-LIQ**
+- FVG = imbalance = inefficiency
+------------------------------------------------
+
+------------------------------------------------
+[08] [live-examples]
+**Confluence** (after concepts we talk about confluence)
+- putting all of the concepts together 
+- create a story for price 
+- able to analyze the market 
+- take proper financial decision
+
+- takes LIQ from the SS then deliver it to the BS 
+- takes LIQ from the BS then deliver it to the SS 
+- price continues to a POI
+- price put to a momentum
+- aggressively moves to the up\down side depending on the Order Flow
+
+**price must not take a certain level of liquidity if it doesn't needs to**
+- suppose order flow is bearish
+- if we have LIQ to the upside
+- most times we don't have supply zone to be mitigated above the LIQ
+- then price continues in the bearish order flow
+
+- price always mitigate int-LIQ before heading to the ext-LIQ or price will go to the area or less-concern-LIQ
+- common-LIQ        : every one can see that LIQ
+- less-concern-LIQ  : not every one can see that LIQ like Old high\low
+------------------------------------------------
+
+
+------------------------------------------------
+[09] [int-LIQ]
+imbalance = IMB = the difference bw high of candle 1 and low of candle 3 = strong momentum cause IMB
+
+What price dose?
+- seek LIQ
+- tap into LIQ
+- get momentum from LIQ
+- move 
+
+**Inefficiency as Entry Point \ Inefficiency as Target**
+
+**Price must not fill every Inefficiency, it solely depends on order flow**
 ------------------------------------------------
