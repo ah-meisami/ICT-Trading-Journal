@@ -112,3 +112,47 @@ Multiple Inducement:
 **Once a Supply level failed to HOLD it transfer power to a new level of Demand**
 **Once a Demand level failed to HOLD it transfer power to a new level of Supply**
 ------------------------------------------------
+
+------------------------------------------------
+[2022.12.29] [02] [intro-to-SMC] 
+Consolidating = Range = No Clear trend = Moving from a supply to demand and vice versa.
+
+**Concept: Inefficiency**
+Inefficiency: distance between candle 1 and candle 3 are inefficient move
+Logic Behind Inefficiency: Price must move to inside Inefficiency and fill it before continuing its trend.
+Logic Behind Inefficiency: Inefficiency must be filled.
+Logic Behind Inefficiency: Imbalances must be filled.
+
+1. Price must delivered efficiently
+2. Price forms inducements
+3. Price takes-out inducements
+
+Trendline liquidity => every time you see a trendline it is violated
+------------------------------------------------
+
+------------------------------------------------
+[2022.12.30] [03] [Market-Structure] 
+
+**Concept: Market-Structure**
+
+- ClearTrend    => [Starts-after-inducement-and-taking-liquidity]
+
+- UpTrend       => [StrongLow---WeakHigh]
+- DownTrend     => [StrongHigh---WeakLow]
+
+- StrongHigh    => [ProtectedHigh] [Should-not-violated-to-the-upside]
+- StrongLow     => [ProtectedLow] [Should-not-violated-to-the-downside]
+
+\\HTF Rounds creates LTF Trends
+------------------------------------------------
+
+------------------------------------------------
+[2022.12.30] [03] [Market-Structure] 
+
+**Concept: Multi-Timeframe-Structural-Corelation**
+H4 CHoCH is m15 BoS
+m15 CHoCH is m1 BoS
+
+Supply violated => transfer power to Demand
+Demand violated => transfer power to Supply
+------------------------------------------------
