@@ -247,7 +247,6 @@ phantom EQL: [sell-stop]  1. price grab SSL\EQL 2. price continues its direction
 - less-concern-LIQ  : not every one can see that LIQ like Old high\low
 ------------------------------------------------
 
-
 ------------------------------------------------
 [09] [int-LIQ]
 imbalance = IMB = the difference bw high of candle 1 and low of candle 3 = strong momentum cause IMB
@@ -261,4 +260,85 @@ What price dose?
 **Inefficiency as Entry Point \ Inefficiency as Target**
 
 **Price must not fill every Inefficiency, it solely depends on order flow**
+------------------------------------------------
+
+------------------------------------------------
+[10] [Supply-Demand-OB]
+
+IFC = Institutional Funded Candle
+SC = Sponsored Candle
+OB = Order Block
+
+Characteristic of Potential OB:
+1. inline with order flow
+2. took LIQ (after-that)
+3. FVG      (after-that)
+
+in bearish-trend: last-bullish-candle before the bearish run that took LIQ (took LIQ = BoS)
+in bullish-trend: last-bearish-candle before the bullish run that took LIQ (took LIQ = BoS)
+
+Characteristic of Supply-Level: 
+1. in down trend movement, reside in old-highs (strong-highs)  
+2. last bullish candle before the bearish-run
+------------------------------------------------
+
+------------------------------------------------
+[11] [manipulation-neutralization] [smart-money-footprint]
+
+1. double top (EQH) 
+2. violate the zone (LTF BoS)
+3. mitigate supply\demand
+4. [continuation]
+
+1. [manipulation]   double top (EQH)           [engineering-LIQ]
+2. [neutralization] violate the zone (LTF BoS) [neutralizing-the-manipulation]
+3. [mitigation]     continues in you direction [mitigate-supply]
+4. [continuation]
+
+**smart money model one**
+1. SP   => Stop Purge = Stop Hunt
+2. mbos => minor break of structure = CHoCH = LTF BoS reacting from HTF zone
+3. RTO  => Return To Order Block = Return to OTE
+4. [continuation]
+
+manipulation = simply means to create an inducement that make sellers\buyers feel to begin engage in price
+------------------------------------------------
+
+------------------------------------------------
+[11] [manipulation-neutralization] [smart-money-footprint]
+HTF supply\ demand zone
+HTF supply\ demand level
+HTF supply\ demand candle
+
+daily OB
+daily BR
+daily MB
+
+**important note**
+1. any 1.sp 2.mbos 3.rto is not a valid setup
+2. we have to respecting a HTF valid zone
+
+**CHoCH**: LTF BoS due to retesting\reacting of the HTF supply\demand
+**CHoCH**: LTF BoS reacting to HTF zone
+
+**important note** 
+when mitigation happened then power transferred from one OB to another OB.
+
+- the first move is misleading move
+- the first move is inducement move
+- the first move also contains trendline phantom LIQ which is minor-LIQ
+
+**transfer of form**
+transfer power from one mitigated block to another mitigated block
+------------------------------------------------
+
+------------------------------------------------
+[11] [flip-zone]
+1. sp
+2. bos
+3. expecting mitigation 
+4. expecting huge mitigation 
+5. but it is a small mitigation
+6. unexpectedly supply level is violated
+7. when a supply level is violated => automatically power transfers from supply to demand that **sponsored the rally** [price-flips]
 ------------------------------------------------
